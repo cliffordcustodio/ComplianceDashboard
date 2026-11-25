@@ -1,9 +1,5 @@
 /* Global Risk & Compliance sample database - synthetic demonstration data */
 
-IF DB_ID ('GlobalRiskCompliance') IS NULL CREATE DATABASE GlobalRiskCompliance;
-
-GO USE GlobalRiskCompliance;
-
 GO
 CREATE TABLE
     dbo.BusinessEntities (
