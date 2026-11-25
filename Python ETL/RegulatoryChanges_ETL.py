@@ -152,13 +152,13 @@ if len(valid_records) > 0:
         index=False
     )  # Load valid records into the database
 
-    print(f"Load completed successfully. Rows loaded: {len(valid_records)}")
+print(f"Load completed successfully. Rows loaded: {len(valid_records)}")
 
 # =============================
 # Summary of the ETL Process
 # =============================
 
-print(f"Source Rows read from CSV                : {source_row}")
+print(f"\nSource Rows read from CSV                : {source_row}")
 print(f"Missing Required Fields                  : {len(required_fields_missing)}")
 print(f"Invalid Dates                            : {len(invalid_dates)}")
 print(f"Invalid Date Sequence                    : {len(invalid_date_sequence)}")
