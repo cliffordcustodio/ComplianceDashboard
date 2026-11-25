@@ -1,5 +1,6 @@
 /* Global Risk & Compliance sample database - synthetic demonstration data */
-/* Global Risk & Compliance sample database - synthetic demonstration data */ IF DB_ID ('GlobalRiskCompliance') IS NULL CREATE DATABASE GlobalRiskCompliance;
+
+IF DB_ID ('GlobalRiskCompliance') IS NULL CREATE DATABASE GlobalRiskCompliance;
 
 GO USE GlobalRiskCompliance;
 
