@@ -1,0 +1,121 @@
+﻿EntityID,EntityName,Country,Region,BusinessLine,EntityType,EntityHead,IsActive,EffectiveDate
+ENT001,Mexico Audit Services,Mexico,Americas,Tax,Member Firm,Taylor Smith,Yes,2016-12-13
+ENT002,South Africa Deals Group,South Africa,Africa,Audit,Member Firm,Casey Patel,Yes,2015-08-06
+ENT003,Hong Kong Tax Advisory,Hong Kong,Asia Pacific,Tax,Service Entity,Drew Martin,Yes,2015-02-23
+ENT004,Ireland Shared Services Advisory,Ireland,Europe,Consulting,Service Entity,Taylor Smith,Yes,2022-07-20
+ENT005,Mexico Audit Advisory,Mexico,Americas,Audit,Service Entity,Morgan Davis,Yes,2015-12-22
+ENT006,Australia Technology Group,Australia,Asia Pacific,Deals,Member Firm,Cameron Wilson,Yes,2023-02-10
+ENT007,South Africa Tax Group,South Africa,Africa,Audit,Shared Service Center,Casey Patel,Yes,2016-10-15
+ENT008,France Audit Advisory,France,Europe,Consulting,Service Entity,Sam Johnson,Yes,2018-08-25
+ENT009,Spain Consulting Operations,Spain,Europe,Shared Services,Service Entity,Robin Clark,Yes,2016-08-07
+ENT010,United Arab Emirates Shared Services Operations,United Arab Emirates,Middle East,Technology,Shared Service Center,Casey Patel,Yes,2023-07-06
+ENT011,Netherlands Shared Services Operations,Netherlands,Europe,Shared Services,Service Entity,Alex Morgan,Yes,2015-09-20
+ENT012,Poland Deals Services,Poland,Europe,Audit,Member Firm,Drew Martin,Yes,2022-01-21
+ENT013,Germany Shared Services Advisory,Germany,Europe,Deals,Shared Service Center,Avery Brown,Yes,2018-02-17
+ENT014,France Shared Services Services,France,Europe,Shared Services,Shared Service Center,Jamie Garcia,Yes,2023-12-16
+ENT015,Spain Tax Operations,Spain,Europe,Technology,Service Entity,Jordan Lee,Yes,2017-06-17
+ENT016,United Kingdom Shared Services Operations,United Kingdom,Europe,Shared Services,Service Entity,Drew Martin,Yes,2023-07-24
+ENT017,United Arab Emirates Deals Services,United Arab Emirates,Middle East,Technology,Member Firm,Sam Johnson,Yes,2020-12-25
+ENT018,Poland Audit Services,Poland,Europe,Deals,Member Firm,Avery Brown,Yes,2020-11-27
+ENT019,Philippines Tax Group,Philippines,Asia Pacific,Shared Services,Service Entity,Sam Johnson,Yes,2019-06-18
+ENT020,United Kingdom Consulting Operations,United Kingdom,Europe,Technology,Shared Service Center,Alex Morgan,Yes,2025-12-16
+ENT021,United States Audit Services,United States,Americas,Consulting,Member Firm,Alex Morgan,Yes,2016-10-07
+ENT022,Brazil Shared Services Advisory,Brazil,Americas,Audit,Shared Service Center,Taylor Smith,Yes,2025-08-29
+ENT023,Hong Kong Tax Services,Hong Kong,Asia Pacific,Technology,Shared Service Center,Jamie Garcia,No,2019-07-06
+ENT024,Switzerland Deals Services,Switzerland,Europe,Deals,Shared Service Center,Avery Brown,Yes,2020-01-15
+ENT025,Brazil Consulting Group,Brazil,Americas,Technology,Shared Service Center,Casey Patel,Yes,2015-02-28
+ENT026,Brazil Shared Services Group,Brazil,Americas,Tax,Member Firm,Alex Morgan,Yes,2016-08-03
+ENT027,Philippines Tax Services,Philippines,Asia Pacific,Shared Services,Service Entity,Casey Patel,Yes,2025-08-08
+ENT028,France Deals Advisory,France,Europe,Tax,Member Firm,Jordan Lee,Yes,2022-12-12
+ENT029,Singapore Deals Advisory,Singapore,Asia Pacific,Shared Services,Member Firm,Sam Johnson,Yes,2017-03-17
+ENT030,Canada Deals Services,Canada,Americas,Audit,Member Firm,Casey Patel,Yes,2025-01-23
+ENT031,United Kingdom Deals Operations,United Kingdom,Europe,Consulting,Service Entity,Casey Patel,Yes,2016-09-09
+ENT032,Australia Technology Group,Australia,Asia Pacific,Audit,Shared Service Center,Cameron Wilson,Yes,2017-02-03
+ENT033,France Tax Advisory,France,Europe,Deals,Service Entity,Casey Patel,Yes,2016-04-25
+ENT034,Ireland Deals Group,Ireland,Europe,Deals,Service Entity,Avery Brown,Yes,2025-11-30
+ENT035,United Kingdom Tax Services,United Kingdom,Europe,Tax,Member Firm,Drew Martin,Yes,2016-05-14
+ENT036,Poland Audit Group,Poland,Europe,Technology,Service Entity,Cameron Wilson,Yes,2018-07-13
+ENT037,Canada Technology Group,Canada,Americas,Tax,Member Firm,Drew Martin,Yes,2020-04-10
+ENT038,India Audit Operations,India,Asia Pacific,Technology,Shared Service Center,Alex Morgan,Yes,2024-05-27
+ENT039,South Africa Technology Services,South Africa,Africa,Consulting,Member Firm,Sam Johnson,Yes,2020-05-09
+ENT040,Netherlands Deals Operations,Netherlands,Europe,Shared Services,Shared Service Center,Riley Chen,Yes,2016-08-17
+ENT041,United States Deals Group,United States,Americas,Audit,Shared Service Center,Casey Patel,Yes,2017-12-21
+ENT042,Spain Audit Operations,Spain,Europe,Consulting,Service Entity,Taylor Smith,Yes,2021-10-14
+ENT043,United Arab Emirates Shared Services Group,United Arab Emirates,Middle East,Shared Services,Shared Service Center,Riley Chen,Yes,2017-04-28
+ENT044,United Kingdom Consulting Group,United Kingdom,Europe,Audit,Shared Service Center,Cameron Wilson,Yes,2021-04-27
+ENT045,United Arab Emirates Tax Services,United Arab Emirates,Middle East,Tax,Shared Service Center,Sam Johnson,Yes,2026-05-03
+ENT046,Japan Consulting Group,Japan,Asia Pacific,Audit,Shared Service Center,Jamie Garcia,Yes,2015-12-28
+ENT047,United States Consulting Operations,United States,Americas,Shared Services,Service Entity,Taylor Smith,Yes,2024-08-04
+ENT048,Hong Kong Audit Group,Hong Kong,Asia Pacific,Audit,Shared Service Center,Taylor Smith,Yes,2023-04-13
+ENT049,South Africa Technology Operations,South Africa,Africa,Deals,Member Firm,Alex Morgan,Yes,2015-11-23
+ENT050,Spain Tax Operations,Spain,Europe,Shared Services,Member Firm,Morgan Davis,Yes,2024-02-12
+ENT051,United Arab Emirates Shared Services Operations,United Arab Emirates,Middle East,Tax,Member Firm,Taylor Smith,Yes,2015-07-23
+ENT052,Ireland Shared Services Services,Ireland,Europe,Deals,Shared Service Center,Robin Clark,Yes,2020-12-25
+ENT053,Ireland Shared Services Group,Ireland,Europe,Deals,Member Firm,Avery Brown,Yes,2025-04-28
+ENT054,Spain Consulting Operations,Spain,Europe,Tax,Member Firm,Sam Johnson,Yes,2022-05-13
+ENT055,Netherlands Audit Services,Netherlands,Europe,Consulting,Shared Service Center,Cameron Wilson,Yes,2022-06-05
+ENT056,United States Audit Services,United States,Americas,Tax,Shared Service Center,Riley Chen,Yes,2024-09-29
+ENT057,Spain Shared Services Services,Spain,Europe,Deals,Shared Service Center,Cameron Wilson,Yes,2019-04-07
+ENT058,Netherlands Audit Advisory,Netherlands,Europe,Audit,Shared Service Center,Cameron Wilson,Yes,2019-06-03
+ENT059,Spain Deals Group,Spain,Europe,Shared Services,Service Entity,Drew Martin,Yes,2017-10-17
+ENT060,Switzerland Technology Services,Switzerland,Europe,Shared Services,Service Entity,Morgan Davis,Yes,2021-08-19
+ENT061,Hong Kong Tax Operations,Hong Kong,Asia Pacific,Deals,Shared Service Center,Jamie Garcia,Yes,2018-11-26
+ENT062,United Arab Emirates Technology Services,United Arab Emirates,Middle East,Deals,Shared Service Center,Alex Morgan,Yes,2019-09-18
+ENT063,Singapore Technology Services,Singapore,Asia Pacific,Deals,Service Entity,Avery Brown,Yes,2026-06-19
+ENT064,Japan Shared Services Operations,Japan,Asia Pacific,Shared Services,Member Firm,Riley Chen,Yes,2022-07-08
+ENT065,Brazil Tax Services,Brazil,Americas,Tax,Member Firm,Taylor Smith,Yes,2020-06-28
+ENT066,Japan Technology Group,Japan,Asia Pacific,Deals,Service Entity,Sam Johnson,Yes,2023-08-12
+ENT067,Japan Deals Operations,Japan,Asia Pacific,Tax,Shared Service Center,Robin Clark,Yes,2017-05-23
+ENT068,Singapore Tax Operations,Singapore,Asia Pacific,Shared Services,Shared Service Center,Avery Brown,Yes,2020-08-03
+ENT069,Mexico Deals Operations,Mexico,Americas,Deals,Shared Service Center,Cameron Wilson,No,2022-02-12
+ENT070,Australia Technology Advisory,Australia,Asia Pacific,Technology,Service Entity,Taylor Smith,Yes,2025-08-24
+ENT071,Australia Consulting Operations,Australia,Asia Pacific,Shared Services,Service Entity,Cameron Wilson,Yes,2020-05-13
+ENT072,Netherlands Deals Group,Netherlands,Europe,Shared Services,Service Entity,Casey Patel,Yes,2022-03-04
+ENT073,Hong Kong Audit Operations,Hong Kong,Asia Pacific,Tax,Member Firm,Jamie Garcia,Yes,2019-10-19
+ENT074,Brazil Deals Advisory,Brazil,Americas,Consulting,Shared Service Center,Avery Brown,Yes,2019-08-22
+ENT075,Singapore Deals Group,Singapore,Asia Pacific,Technology,Service Entity,Avery Brown,Yes,2022-11-21
+ENT076,Switzerland Deals Advisory,Switzerland,Europe,Technology,Shared Service Center,Robin Clark,Yes,2019-12-12
+ENT077,Japan Tax Services,Japan,Asia Pacific,Deals,Service Entity,Alex Morgan,Yes,2024-01-26
+ENT078,Ireland Deals Operations,Ireland,Europe,Technology,Shared Service Center,Alex Morgan,Yes,2015-08-11
+ENT079,Brazil Shared Services Advisory,Brazil,Americas,Tax,Service Entity,Taylor Smith,Yes,2023-07-03
+ENT080,Poland Tax Advisory,Poland,Europe,Consulting,Service Entity,Jamie Garcia,Yes,2024-06-15
+ENT081,Netherlands Audit Advisory,Netherlands,Europe,Audit,Shared Service Center,Cameron Wilson,Yes,2022-11-06
+ENT082,France Shared Services Group,France,Europe,Shared Services,Member Firm,Alex Morgan,Yes,2019-06-22
+ENT083,United States Technology Operations,United States,Americas,Tax,Member Firm,Avery Brown,Yes,2019-11-21
+ENT084,Australia Shared Services Services,Australia,Asia Pacific,Consulting,Member Firm,Drew Martin,Yes,2017-07-27
+ENT085,Ireland Consulting Group,Ireland,Europe,Technology,Member Firm,Riley Chen,Yes,2023-06-02
+ENT086,India Shared Services Operations,India,Asia Pacific,Audit,Shared Service Center,Robin Clark,Yes,2020-06-12
+ENT087,Mexico Shared Services Services,Mexico,Americas,Shared Services,Shared Service Center,Jordan Lee,Yes,2015-12-03
+ENT088,Spain Technology Advisory,Spain,Europe,Shared Services,Service Entity,Jordan Lee,Yes,2022-08-27
+ENT089,United States Deals Advisory,United States,Americas,Audit,Service Entity,Morgan Davis,Yes,2025-04-24
+ENT090,United Kingdom Deals Operations,United Kingdom,Europe,Shared Services,Shared Service Center,Sam Johnson,Yes,2025-11-04
+ENT091,Australia Deals Services,Australia,Asia Pacific,Consulting,Member Firm,Jordan Lee,Yes,2025-02-09
+ENT092,France Deals Advisory,France,Europe,Consulting,Member Firm,Avery Brown,Yes,2019-01-29
+ENT093,Japan Tax Services,Japan,Asia Pacific,Consulting,Service Entity,Riley Chen,Yes,2021-03-13
+ENT094,Hong Kong Audit Operations,Hong Kong,Asia Pacific,Audit,Member Firm,Robin Clark,Yes,2020-05-22
+ENT095,Japan Shared Services Advisory,Japan,Asia Pacific,Deals,Member Firm,Jordan Lee,Yes,2024-01-26
+ENT096,France Consulting Services,France,Europe,Deals,Shared Service Center,Cameron Wilson,Yes,2022-06-02
+ENT097,Spain Shared Services Advisory,Spain,Europe,Consulting,Service Entity,Riley Chen,Yes,2019-04-27
+ENT098,Poland Audit Operations,Poland,Europe,Tax,Member Firm,Robin Clark,Yes,2026-10-07
+ENT099,United Arab Emirates Consulting Group,United Arab Emirates,Middle East,Tax,Service Entity,Casey Patel,Yes,2021-10-12
+ENT100,United States Shared Services Operations,United States,Americas,Consulting,Member Firm,Alex Morgan,Yes,2017-10-31
+ENT101,Japan Audit Group,Japan,Asia Pacific,Technology,Service Entity,Avery Brown,Yes,2022-08-23
+ENT102,Ireland Audit Services,Ireland,Europe,Deals,Member Firm,Jordan Lee,Yes,2016-08-29
+ENT103,South Africa Shared Services Group,South Africa,Africa,Tax,Member Firm,Drew Martin,Yes,2016-11-28
+ENT104,France Audit Advisory,France,Europe,Technology,Shared Service Center,Drew Martin,Yes,2026-09-20
+ENT105,India Deals Advisory,India,Asia Pacific,Consulting,Shared Service Center,Jamie Garcia,Yes,2016-05-08
+ENT106,United Arab Emirates Shared Services Group,United Arab Emirates,Middle East,Tax,Shared Service Center,Casey Patel,Yes,2016-10-27
+ENT107,Ireland Tax Operations,Ireland,Europe,Technology,Member Firm,Taylor Smith,Yes,2025-02-07
+ENT108,United Arab Emirates Deals Services,United Arab Emirates,Middle East,Audit,Member Firm,Riley Chen,Yes,2025-03-08
+ENT109,Brazil Shared Services Operations,Brazil,Americas,Consulting,Shared Service Center,Drew Martin,Yes,2019-06-09
+ENT110,Singapore Audit Operations,Singapore,Asia Pacific,Shared Services,Member Firm,Riley Chen,Yes,2016-08-07
+ENT111,Canada Tax Services,Canada,Americas,Technology,Shared Service Center,Drew Martin,Yes,2024-11-06
+ENT112,Mexico Deals Services,Mexico,Americas,Shared Services,Service Entity,Riley Chen,Yes,2026-01-28
+ENT113,Australia Audit Group,Australia,Asia Pacific,Deals,Shared Service Center,Morgan Davis,Yes,2015-07-31
+ENT114,Brazil Tax Group,Brazil,Americas,Shared Services,Service Entity,Drew Martin,Yes,2018-12-06
+ENT115,Japan Technology Advisory,Japan,Asia Pacific,Consulting,Member Firm,Drew Martin,Yes,2026-01-11
+ENT116,Brazil Deals Services,Brazil,Americas,Deals,Service Entity,Morgan Davis,Yes,2018-08-10
+ENT117,Poland Deals Advisory,Poland,Europe,Consulting,Shared Service Center,Jamie Garcia,Yes,2015-10-28
+ENT118,Australia Audit Services,Australia,Asia Pacific,Consulting,Service Entity,Jordan Lee,No,2024-01-25
+ENT119,Philippines Audit Advisory,Philippines,Asia Pacific,Deals,Member Firm,Casey Patel,Yes,2026-03-07
+ENT120,Australia Audit Operations,Australia,Asia Pacific,Consulting,Shared Service Center,Taylor Smith,Yes,2024-10-29

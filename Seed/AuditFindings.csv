@@ -1,0 +1,901 @@
+﻿FindingID,EntityID,ControlID,FindingTitle,Severity,FindingSource,DateOpened,DueDate,DateClosed,Status,FindingOwner,Description
+FND00001,ENT063,CTL00320,Late remediation - 0001,High,Internal Audit,2025-10-07,2026-04-03,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00002,ENT083,CTL00858,Policy gap - 0002,High,Compliance Testing,2026-03-17,2026-05-13,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00003,ENT024,CTL00200,Access exception - 0003,Medium,Internal Audit,2026-11-14,2026-12-22,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00004,ENT023,CTL01549,Access exception - 0004,Medium,Internal Audit,2025-08-27,2026-01-22,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00005,ENT119,CTL00878,Access exception - 0005,Medium,Regulatory Review,2025-06-17,2025-07-25,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00006,ENT046,CTL00869,Policy gap - 0006,Medium,Internal Audit,2024-07-14,2024-09-28,,Overdue,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00007,ENT046,CTL01052,Inconsistent review - 0007,Medium,Risk Assessment,2025-04-07,2025-08-04,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00008,ENT022,CTL01231,Access exception - 0008,Low,Risk Assessment,2025-03-18,2025-06-12,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00009,ENT043,CTL00438,Missing evidence - 0009,Medium,Regulatory Review,2024-11-10,2025-01-18,2025-03-10,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00010,ENT044,CTL01515,Access exception - 0010,Low,Internal Audit,2026-05-24,2026-10-15,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00011,ENT035,CTL00612,Access exception - 0011,Critical,Risk Assessment,2025-03-23,2025-06-19,2025-08-06,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00012,ENT103,CTL01589,Inconsistent review - 0012,High,Risk Assessment,2026-02-26,2026-08-23,2026-11-17,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00013,ENT109,CTL00459,Policy gap - 0013,High,Risk Assessment,2024-07-25,2024-11-05,2025-01-25,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00014,ENT085,CTL00461,Missing evidence - 0014,Critical,Regulatory Review,2024-11-22,2025-01-03,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00015,ENT085,CTL00541,Access exception - 0015,Low,Regulatory Review,2026-11-20,2027-04-06,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00016,ENT118,CTL00937,Missing evidence - 0016,Critical,Internal Audit,2026-07-11,2026-09-30,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00017,ENT079,CTL01359,Late remediation - 0017,High,Regulatory Review,2025-06-02,2025-09-04,2025-11-20,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00018,ENT086,CTL00957,Missing evidence - 0018,Critical,Risk Assessment,2024-06-17,2024-11-23,2024-12-22,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00019,ENT074,CTL00043,Access exception - 0019,Medium,Internal Audit,2026-08-04,2026-11-10,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00020,ENT009,CTL01345,Missing evidence - 0020,Critical,Regulatory Review,2025-09-04,2026-02-17,2026-03-25,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00021,ENT050,CTL00910,Access exception - 0021,Critical,Risk Assessment,2024-06-12,2024-09-29,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00022,ENT011,CTL00674,Late remediation - 0022,High,Regulatory Review,2024-12-09,2025-02-19,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00023,ENT072,CTL00708,Policy gap - 0023,Medium,Compliance Testing,2024-08-24,2024-10-05,2024-10-16,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00024,ENT073,CTL01323,Late remediation - 0024,High,Risk Assessment,2024-08-26,2024-10-04,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00025,ENT005,CTL00735,Access exception - 0025,Low,Compliance Testing,2024-09-03,2024-11-10,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00026,ENT100,CTL00108,Late remediation - 0026,Critical,Internal Audit,2025-04-11,2025-06-05,2025-08-14,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00027,ENT056,CTL01385,Inconsistent review - 0027,Medium,Regulatory Review,2026-06-24,2026-08-06,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00028,ENT003,CTL00095,Policy gap - 0028,Medium,Compliance Testing,2025-03-12,2025-07-02,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00029,ENT084,CTL01165,Late remediation - 0029,Medium,Regulatory Review,2024-11-21,2025-02-15,2025-04-06,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00030,ENT085,CTL00858,Access exception - 0030,Medium,Internal Audit,2024-06-10,2024-11-24,2024-12-16,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00031,ENT020,CTL00072,Access exception - 0031,High,Regulatory Review,2025-05-02,2025-08-12,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00032,ENT091,CTL00463,Access exception - 0032,High,Regulatory Review,2026-03-13,2026-05-19,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00033,ENT092,CTL00504,Late remediation - 0033,Low,Internal Audit,2025-03-05,2025-07-10,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00034,ENT042,CTL00886,Inconsistent review - 0034,Medium,Regulatory Review,2026-08-19,2026-10-14,2026-11-24,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00035,ENT065,CTL00108,Late remediation - 0035,Low,Risk Assessment,2026-10-06,2026-11-16,2026-11-24,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00036,ENT035,CTL01054,Inconsistent review - 0036,Medium,Regulatory Review,2026-02-07,2026-08-02,2026-08-07,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00037,ENT056,CTL01559,Policy gap - 0037,Low,Regulatory Review,2026-05-15,2026-10-20,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00038,ENT078,CTL00629,Late remediation - 0038,Low,Risk Assessment,2025-11-12,2026-02-09,2026-03-08,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00039,ENT027,CTL00156,Late remediation - 0039,High,Compliance Testing,2024-03-25,2024-06-21,2024-08-08,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00040,ENT003,CTL01409,Policy gap - 0040,Critical,Risk Assessment,2025-05-22,2025-11-06,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00041,ENT057,CTL01516,Inconsistent review - 0041,Low,Compliance Testing,2025-08-07,2025-10-09,2025-12-05,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00042,ENT068,CTL00958,Missing evidence - 0042,Low,Risk Assessment,2024-01-18,2024-04-12,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00043,ENT113,CTL00826,Missing evidence - 0043,High,Internal Audit,2024-02-13,2024-07-08,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00044,ENT108,CTL00774,Access exception - 0044,Low,Regulatory Review,2026-04-27,2026-08-21,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00045,ENT089,CTL01446,Late remediation - 0045,Critical,Compliance Testing,2026-02-28,2026-05-22,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00046,ENT019,CTL00120,Access exception - 0046,High,Internal Audit,2024-10-14,2024-12-28,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00047,ENT030,CTL00381,Missing evidence - 0047,Medium,Regulatory Review,2026-10-04,2027-03-29,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00048,ENT092,CTL01550,Missing evidence - 0048,High,Compliance Testing,2025-03-16,2025-08-20,2025-09-14,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00049,ENT099,CTL01526,Inconsistent review - 0049,Low,Regulatory Review,2026-07-05,2026-12-27,2026-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00050,ENT045,CTL00266,Late remediation - 0050,High,Compliance Testing,2024-01-15,2024-03-05,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00051,ENT009,CTL01525,Access exception - 0051,Medium,Regulatory Review,2025-04-24,2025-07-16,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00052,ENT092,CTL00102,Policy gap - 0052,Medium,Internal Audit,2024-01-15,2024-07-04,2024-07-14,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00053,ENT078,CTL00843,Late remediation - 0053,Low,Risk Assessment,2024-11-14,2025-04-30,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00054,ENT031,CTL00180,Inconsistent review - 0054,Critical,Internal Audit,2024-10-29,2025-03-18,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00055,ENT088,CTL00482,Policy gap - 0055,Low,Compliance Testing,2025-03-22,2025-06-23,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00056,ENT052,CTL00128,Access exception - 0056,Low,Regulatory Review,2024-05-23,2024-09-06,2024-09-15,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00057,ENT037,CTL01372,Access exception - 0057,Critical,Internal Audit,2026-01-17,2026-06-03,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00058,ENT010,CTL01249,Late remediation - 0058,Medium,Compliance Testing,2024-01-24,2024-06-03,2024-08-16,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00059,ENT022,CTL01005,Late remediation - 0059,Medium,Compliance Testing,2025-04-28,2025-06-13,2025-09-03,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00060,ENT019,CTL00080,Late remediation - 0060,Critical,Internal Audit,2024-03-26,2024-05-11,,Overdue,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00061,ENT021,CTL00291,Policy gap - 0061,Medium,Regulatory Review,2025-04-15,2025-06-21,2025-08-26,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00062,ENT103,CTL01559,Access exception - 0062,Medium,Internal Audit,2024-03-11,2024-05-03,2024-05-03,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00063,ENT069,CTL00552,Access exception - 0063,High,Risk Assessment,2025-02-20,2025-06-08,2025-07-09,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00064,ENT038,CTL00615,Missing evidence - 0064,Low,Risk Assessment,2024-10-10,2025-01-16,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00065,ENT034,CTL00441,Late remediation - 0065,High,Compliance Testing,2026-08-31,2027-02-04,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00066,ENT008,CTL00141,Late remediation - 0066,Critical,Internal Audit,2024-05-14,2024-09-16,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00067,ENT083,CTL01442,Inconsistent review - 0067,High,Risk Assessment,2025-05-06,2025-09-26,2025-10-07,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00068,ENT086,CTL00095,Access exception - 0068,Low,Compliance Testing,2024-11-08,2025-02-23,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00069,ENT008,CTL01148,Access exception - 0069,Medium,Internal Audit,2026-02-10,2026-04-21,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00070,ENT060,CTL01106,Late remediation - 0070,Low,Internal Audit,2026-08-16,2027-01-03,2026-11-24,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00071,ENT119,CTL00383,Late remediation - 0071,Low,Compliance Testing,2026-05-25,2026-11-07,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00072,ENT112,CTL01202,Policy gap - 0072,Medium,Internal Audit,2024-02-10,2024-05-27,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00073,ENT012,CTL00060,Late remediation - 0073,High,Risk Assessment,2025-09-24,2025-11-09,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00074,ENT082,CTL00706,Missing evidence - 0074,Critical,Regulatory Review,2025-01-01,2025-03-26,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00075,ENT072,CTL00656,Inconsistent review - 0075,Critical,Internal Audit,2024-11-25,2025-03-18,2025-04-26,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00076,ENT117,CTL00562,Policy gap - 0076,Critical,Risk Assessment,2026-05-03,2026-06-08,2026-06-13,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00077,ENT039,CTL00030,Access exception - 0077,High,Internal Audit,2025-11-15,2026-01-06,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00078,ENT062,CTL00902,Late remediation - 0078,Low,Risk Assessment,2025-03-07,2025-04-11,2025-04-27,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00079,ENT029,CTL01070,Access exception - 0079,Medium,Internal Audit,2024-11-25,2025-02-05,2025-03-06,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00080,ENT087,CTL00112,Inconsistent review - 0080,Critical,Internal Audit,2025-01-28,2025-05-20,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00081,ENT062,CTL00489,Inconsistent review - 0081,Medium,Compliance Testing,2026-09-03,2026-10-06,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00082,ENT043,CTL00636,Missing evidence - 0082,Medium,Regulatory Review,2024-02-18,2024-07-08,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00083,ENT115,CTL01040,Policy gap - 0083,Critical,Risk Assessment,2026-11-06,2027-04-20,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00084,ENT049,CTL00573,Inconsistent review - 0084,Medium,Internal Audit,2024-07-23,2024-11-09,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00085,ENT097,CTL00630,Access exception - 0085,Medium,Regulatory Review,2026-10-27,2027-04-21,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00086,ENT037,CTL00402,Inconsistent review - 0086,Critical,Risk Assessment,2026-05-11,2026-08-24,2026-08-26,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00087,ENT116,CTL00167,Late remediation - 0087,Critical,Risk Assessment,2024-03-31,2024-07-25,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00088,ENT066,CTL00881,Inconsistent review - 0088,High,Risk Assessment,2025-12-17,2026-03-17,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00089,ENT085,CTL01167,Access exception - 0089,High,Regulatory Review,2024-03-09,2024-06-17,2024-07-12,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00090,ENT028,CTL01260,Inconsistent review - 0090,Low,Risk Assessment,2024-05-17,2024-07-31,2024-09-12,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00091,ENT100,CTL00281,Missing evidence - 0091,Critical,Risk Assessment,2025-11-29,2026-01-13,2026-02-06,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00092,ENT091,CTL01381,Late remediation - 0092,High,Regulatory Review,2025-08-31,2026-02-03,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00093,ENT048,CTL01594,Access exception - 0093,Low,Risk Assessment,2024-05-13,2024-08-05,2024-08-14,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00094,ENT025,CTL00233,Inconsistent review - 0094,Critical,Internal Audit,2026-01-27,2026-03-23,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00095,ENT034,CTL01038,Inconsistent review - 0095,Medium,Internal Audit,2024-03-24,2024-08-17,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00096,ENT058,CTL01336,Policy gap - 0096,Critical,Internal Audit,2026-06-29,2026-08-17,2026-08-20,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00097,ENT093,CTL00904,Inconsistent review - 0097,Medium,Regulatory Review,2025-03-27,2025-05-24,2025-06-18,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00098,ENT013,CTL01559,Inconsistent review - 0098,Low,Risk Assessment,2026-01-23,2026-05-25,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00099,ENT014,CTL01119,Policy gap - 0099,Critical,Compliance Testing,2026-10-09,2027-01-30,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00100,ENT021,CTL01313,Missing evidence - 0100,Critical,Compliance Testing,2025-06-07,2025-07-12,2025-08-21,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00101,ENT026,CTL00172,Late remediation - 0101,High,Risk Assessment,2026-10-08,2027-01-31,2026-11-24,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00102,ENT006,CTL01529,Access exception - 0102,Critical,Regulatory Review,2025-01-13,2025-03-21,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00103,ENT083,CTL00280,Inconsistent review - 0103,Medium,Internal Audit,2026-09-26,2027-03-07,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00104,ENT120,CTL00637,Inconsistent review - 0104,Critical,Risk Assessment,2024-03-18,2024-05-27,2024-08-09,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00105,ENT112,CTL01479,Inconsistent review - 0105,Medium,Risk Assessment,2026-11-11,2027-02-25,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00106,ENT060,CTL00853,Late remediation - 0106,High,Compliance Testing,2025-01-17,2025-06-20,2025-06-20,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00107,ENT048,CTL00953,Missing evidence - 0107,Medium,Risk Assessment,2024-06-13,2024-10-14,2024-11-07,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00108,ENT095,CTL00513,Late remediation - 0108,Medium,Internal Audit,2025-04-18,2025-05-20,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00109,ENT116,CTL01058,Policy gap - 0109,Medium,Risk Assessment,2026-11-13,2027-01-18,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00110,ENT087,CTL00539,Missing evidence - 0110,High,Internal Audit,2026-10-05,2026-12-26,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00111,ENT003,CTL01408,Missing evidence - 0111,High,Internal Audit,2024-04-13,2024-09-29,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00112,ENT015,CTL00766,Late remediation - 0112,Low,Regulatory Review,2025-09-05,2025-10-08,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00113,ENT010,CTL00626,Access exception - 0113,High,Internal Audit,2026-05-02,2026-07-26,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00114,ENT028,CTL01299,Policy gap - 0114,Medium,Risk Assessment,2025-09-08,2025-12-13,,Overdue,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00115,ENT102,CTL01136,Inconsistent review - 0115,Critical,Regulatory Review,2026-11-20,2027-01-26,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00116,ENT059,CTL01402,Late remediation - 0116,Critical,Regulatory Review,2024-06-23,2024-12-18,2025-01-15,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00117,ENT117,CTL00458,Access exception - 0117,Medium,Risk Assessment,2026-09-19,2026-11-19,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00118,ENT069,CTL00849,Inconsistent review - 0118,Low,Compliance Testing,2025-09-17,2026-02-05,2026-02-11,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00119,ENT111,CTL01566,Inconsistent review - 0119,High,Regulatory Review,2024-12-07,2025-02-26,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00120,ENT040,CTL00288,Policy gap - 0120,Medium,Internal Audit,2025-06-19,2025-09-18,2025-10-08,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00121,ENT046,CTL00370,Access exception - 0121,Medium,Internal Audit,2025-12-03,2026-05-22,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00122,ENT031,CTL00204,Late remediation - 0122,Medium,Risk Assessment,2025-05-22,2025-07-21,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00123,ENT069,CTL00191,Access exception - 0123,High,Compliance Testing,2024-02-18,2024-06-10,2024-08-09,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00124,ENT063,CTL01174,Access exception - 0124,Medium,Regulatory Review,2025-06-29,2025-12-24,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00125,ENT069,CTL00296,Access exception - 0125,Critical,Regulatory Review,2024-05-15,2024-08-04,2024-08-23,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00126,ENT093,CTL00444,Access exception - 0126,Medium,Regulatory Review,2025-08-06,2025-12-18,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00127,ENT102,CTL01573,Access exception - 0127,Medium,Risk Assessment,2025-05-21,2025-10-18,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00128,ENT051,CTL00246,Access exception - 0128,Critical,Risk Assessment,2025-01-26,2025-05-10,2025-07-08,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00129,ENT086,CTL00922,Access exception - 0129,High,Compliance Testing,2024-08-14,2025-02-02,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00130,ENT083,CTL00280,Late remediation - 0130,Medium,Internal Audit,2025-01-21,2025-06-09,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00131,ENT034,CTL00370,Policy gap - 0131,Medium,Risk Assessment,2024-08-05,2024-09-04,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00132,ENT058,CTL01191,Late remediation - 0132,High,Risk Assessment,2025-07-17,2025-11-19,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00133,ENT063,CTL00973,Inconsistent review - 0133,Low,Risk Assessment,2026-05-29,2026-08-15,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00134,ENT048,CTL00201,Access exception - 0134,Low,Compliance Testing,2025-04-17,2025-09-20,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00135,ENT064,CTL00674,Late remediation - 0135,High,Internal Audit,2024-05-02,2024-06-15,2024-07-17,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00136,ENT099,CTL00136,Missing evidence - 0136,High,Regulatory Review,2026-03-14,2026-06-07,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00137,ENT089,CTL00542,Access exception - 0137,High,Regulatory Review,2025-10-16,2026-03-22,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00138,ENT063,CTL00204,Policy gap - 0138,Critical,Compliance Testing,2025-04-11,2025-08-02,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00139,ENT006,CTL00573,Missing evidence - 0139,High,Compliance Testing,2024-12-07,2025-05-15,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00140,ENT117,CTL01228,Inconsistent review - 0140,Medium,Compliance Testing,2026-03-12,2026-06-21,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00141,ENT091,CTL00216,Access exception - 0141,Medium,Compliance Testing,2025-11-19,2026-03-28,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00142,ENT103,CTL00931,Missing evidence - 0142,High,Regulatory Review,2026-05-03,2026-07-06,2026-09-05,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00143,ENT012,CTL00189,Policy gap - 0143,Low,Regulatory Review,2025-03-03,2025-07-21,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00144,ENT024,CTL01317,Policy gap - 0144,Low,Risk Assessment,2024-10-18,2024-12-17,2025-03-02,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00145,ENT104,CTL00982,Inconsistent review - 0145,Critical,Risk Assessment,2024-05-17,2024-08-31,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00146,ENT029,CTL00794,Late remediation - 0146,Low,Internal Audit,2025-04-03,2025-08-24,2025-11-21,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00147,ENT018,CTL00560,Inconsistent review - 0147,Low,Internal Audit,2026-07-31,2026-12-10,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00148,ENT029,CTL01208,Late remediation - 0148,High,Compliance Testing,2024-03-20,2024-04-28,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00149,ENT028,CTL01546,Inconsistent review - 0149,Medium,Regulatory Review,2024-06-05,2024-11-03,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00150,ENT080,CTL00930,Late remediation - 0150,Critical,Regulatory Review,2025-01-14,2025-03-04,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00151,ENT050,CTL01516,Missing evidence - 0151,Critical,Risk Assessment,2026-09-04,2027-01-24,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00152,ENT102,CTL01600,Policy gap - 0152,Medium,Internal Audit,2026-08-04,2026-10-27,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00153,ENT080,CTL00535,Policy gap - 0153,High,Compliance Testing,2025-08-25,2026-01-16,2026-04-08,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00154,ENT100,CTL00316,Late remediation - 0154,Critical,Regulatory Review,2024-07-22,2024-11-28,2025-02-09,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00155,ENT073,CTL00785,Inconsistent review - 0155,Low,Regulatory Review,2026-03-17,2026-09-01,,Overdue,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00156,ENT106,CTL00790,Inconsistent review - 0156,Medium,Compliance Testing,2026-05-25,2026-08-22,2026-10-21,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00157,ENT052,CTL00928,Access exception - 0157,Medium,Internal Audit,2024-01-24,2024-02-27,2024-03-30,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00158,ENT084,CTL01046,Inconsistent review - 0158,Critical,Internal Audit,2025-07-18,2025-09-15,2025-09-23,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00159,ENT041,CTL00010,Policy gap - 0159,Critical,Regulatory Review,2024-11-01,2025-04-19,2025-06-19,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00160,ENT118,CTL00254,Late remediation - 0160,High,Risk Assessment,2026-10-26,2027-04-11,2026-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00161,ENT009,CTL00351,Late remediation - 0161,Critical,Compliance Testing,2026-04-28,2026-09-14,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00162,ENT004,CTL00368,Access exception - 0162,Medium,Regulatory Review,2024-10-23,2025-01-04,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00163,ENT011,CTL01432,Access exception - 0163,Low,Regulatory Review,2026-04-26,2026-08-17,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00164,ENT024,CTL00108,Access exception - 0164,High,Compliance Testing,2026-04-06,2026-08-04,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00165,ENT097,CTL01380,Late remediation - 0165,Medium,Internal Audit,2024-12-25,2025-03-15,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00166,ENT074,CTL01227,Missing evidence - 0166,Low,Regulatory Review,2024-08-30,2024-11-15,2024-12-17,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00167,ENT072,CTL00608,Inconsistent review - 0167,Low,Compliance Testing,2026-01-18,2026-06-11,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00168,ENT073,CTL01394,Policy gap - 0168,Critical,Risk Assessment,2025-06-20,2025-08-03,2025-09-10,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00169,ENT020,CTL00796,Access exception - 0169,High,Regulatory Review,2024-04-08,2024-06-11,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00170,ENT092,CTL01238,Missing evidence - 0170,Low,Regulatory Review,2025-05-29,2025-10-26,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00171,ENT006,CTL00235,Missing evidence - 0171,Critical,Internal Audit,2026-09-30,2026-12-28,2026-11-24,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00172,ENT061,CTL01370,Missing evidence - 0172,Critical,Compliance Testing,2026-08-20,2026-12-30,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00173,ENT002,CTL00881,Access exception - 0173,High,Compliance Testing,2024-02-20,2024-05-23,2024-07-27,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00174,ENT018,CTL00289,Missing evidence - 0174,Medium,Internal Audit,2025-05-23,2025-09-17,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00175,ENT034,CTL01282,Missing evidence - 0175,High,Internal Audit,2025-11-19,2026-03-31,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00176,ENT047,CTL00217,Missing evidence - 0176,High,Regulatory Review,2025-06-12,2025-07-18,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00177,ENT034,CTL00642,Missing evidence - 0177,Low,Regulatory Review,2025-12-13,2026-02-21,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00178,ENT054,CTL01233,Access exception - 0178,Critical,Compliance Testing,2025-03-27,2025-08-11,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00179,ENT019,CTL01006,Inconsistent review - 0179,Critical,Compliance Testing,2026-11-13,2027-04-15,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00180,ENT116,CTL00021,Policy gap - 0180,Critical,Risk Assessment,2024-07-22,2024-11-02,2024-12-02,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00181,ENT066,CTL01183,Late remediation - 0181,Medium,Regulatory Review,2026-10-21,2027-02-21,,Overdue,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00182,ENT077,CTL01494,Late remediation - 0182,Critical,Compliance Testing,2024-02-13,2024-06-28,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00183,ENT101,CTL00622,Late remediation - 0183,Critical,Regulatory Review,2026-08-25,2026-10-12,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00184,ENT085,CTL00520,Policy gap - 0184,Critical,Regulatory Review,2024-08-02,2024-10-28,2025-01-26,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00185,ENT116,CTL00053,Inconsistent review - 0185,Critical,Compliance Testing,2026-08-14,2027-01-22,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00186,ENT103,CTL00077,Access exception - 0186,High,Regulatory Review,2026-08-01,2027-01-01,2026-11-24,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00187,ENT093,CTL01558,Access exception - 0187,High,Regulatory Review,2026-11-04,2027-03-01,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00188,ENT007,CTL00948,Policy gap - 0188,High,Compliance Testing,2025-04-15,2025-10-07,2025-12-11,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00189,ENT111,CTL00525,Inconsistent review - 0189,High,Regulatory Review,2024-03-03,2024-06-05,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00190,ENT088,CTL00017,Access exception - 0190,High,Compliance Testing,2025-10-01,2026-01-16,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00191,ENT120,CTL01427,Late remediation - 0191,Low,Risk Assessment,2024-01-29,2024-03-07,2024-05-15,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00192,ENT023,CTL00996,Late remediation - 0192,Critical,Compliance Testing,2025-01-24,2025-04-21,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00193,ENT110,CTL00584,Policy gap - 0193,Medium,Regulatory Review,2024-12-08,2025-01-30,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00194,ENT041,CTL00649,Missing evidence - 0194,Medium,Internal Audit,2026-09-23,2026-12-18,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00195,ENT113,CTL00389,Missing evidence - 0195,High,Risk Assessment,2026-05-09,2026-06-25,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00196,ENT020,CTL00316,Access exception - 0196,Low,Regulatory Review,2024-08-25,2025-02-19,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00197,ENT060,CTL01304,Inconsistent review - 0197,Critical,Internal Audit,2025-07-14,2025-08-25,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00198,ENT117,CTL00254,Policy gap - 0198,High,Regulatory Review,2026-02-24,2026-08-06,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00199,ENT035,CTL01005,Access exception - 0199,Medium,Internal Audit,2024-04-24,2024-09-01,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00200,ENT100,CTL01454,Missing evidence - 0200,Critical,Risk Assessment,2025-01-07,2025-05-15,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00201,ENT117,CTL00414,Missing evidence - 0201,High,Compliance Testing,2024-09-26,2024-11-28,2024-12-07,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00202,ENT027,CTL00660,Missing evidence - 0202,High,Regulatory Review,2026-08-09,2026-09-15,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00203,ENT064,CTL00841,Inconsistent review - 0203,Low,Compliance Testing,2024-12-02,2025-03-18,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00204,ENT043,CTL00240,Late remediation - 0204,Low,Compliance Testing,2024-09-09,2024-11-13,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00205,ENT094,CTL01023,Late remediation - 0205,High,Internal Audit,2025-11-18,2026-03-13,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00206,ENT116,CTL00871,Inconsistent review - 0206,Medium,Regulatory Review,2024-03-22,2024-05-30,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00207,ENT100,CTL01528,Missing evidence - 0207,High,Internal Audit,2026-01-10,2026-05-20,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00208,ENT078,CTL00324,Missing evidence - 0208,Critical,Internal Audit,2025-12-14,2026-04-04,2026-07-02,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00209,ENT098,CTL00226,Access exception - 0209,Low,Regulatory Review,2025-11-09,2026-02-01,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00210,ENT092,CTL00433,Access exception - 0210,Critical,Internal Audit,2025-11-22,2026-04-14,2026-04-30,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00211,ENT019,CTL00436,Late remediation - 0211,Medium,Compliance Testing,2024-05-17,2024-06-18,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00212,ENT058,CTL00733,Access exception - 0212,Medium,Internal Audit,2026-03-30,2026-07-19,2026-09-21,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00213,ENT042,CTL00688,Late remediation - 0213,Critical,Regulatory Review,2025-06-18,2025-12-03,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00214,ENT007,CTL01124,Policy gap - 0214,Medium,Risk Assessment,2025-09-18,2025-12-18,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00215,ENT109,CTL00795,Late remediation - 0215,Critical,Risk Assessment,2024-01-03,2024-05-13,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00216,ENT040,CTL00272,Missing evidence - 0216,Critical,Compliance Testing,2024-04-09,2024-08-05,2024-08-05,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00217,ENT060,CTL01031,Missing evidence - 0217,Medium,Compliance Testing,2026-10-18,2027-01-05,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00218,ENT021,CTL00794,Policy gap - 0218,Low,Internal Audit,2025-03-27,2025-06-17,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00219,ENT019,CTL00480,Late remediation - 0219,Medium,Internal Audit,2026-10-07,2027-04-03,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00220,ENT100,CTL00213,Inconsistent review - 0220,High,Risk Assessment,2024-10-22,2025-03-15,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00221,ENT118,CTL01066,Late remediation - 0221,Medium,Internal Audit,2025-05-24,2025-07-28,2025-09-04,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00222,ENT055,CTL00281,Missing evidence - 0222,High,Internal Audit,2024-12-19,2025-05-22,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00223,ENT096,CTL00635,Late remediation - 0223,Medium,Internal Audit,2025-10-29,2026-02-13,2026-03-03,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00224,ENT039,CTL01416,Missing evidence - 0224,Low,Internal Audit,2026-04-14,2026-06-01,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00225,ENT064,CTL00993,Late remediation - 0225,Low,Compliance Testing,2024-07-28,2024-10-29,2024-10-30,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00226,ENT082,CTL01300,Policy gap - 0226,Critical,Regulatory Review,2025-11-16,2026-01-09,2026-02-02,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00227,ENT023,CTL01301,Inconsistent review - 0227,Medium,Internal Audit,2024-04-26,2024-08-12,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00228,ENT039,CTL00912,Late remediation - 0228,Medium,Regulatory Review,2024-02-11,2024-04-07,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00229,ENT082,CTL00143,Access exception - 0229,Medium,Risk Assessment,2025-02-24,2025-06-13,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00230,ENT011,CTL00170,Inconsistent review - 0230,Low,Regulatory Review,2024-11-16,2024-12-20,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00231,ENT059,CTL00818,Late remediation - 0231,High,Regulatory Review,2026-06-17,2026-10-13,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00232,ENT027,CTL01071,Missing evidence - 0232,Low,Risk Assessment,2024-11-04,2024-12-12,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00233,ENT011,CTL00069,Missing evidence - 0233,Medium,Regulatory Review,2024-01-04,2024-06-16,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00234,ENT119,CTL00117,Inconsistent review - 0234,Low,Compliance Testing,2026-11-21,2027-04-20,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00235,ENT035,CTL00474,Missing evidence - 0235,Medium,Regulatory Review,2026-03-09,2026-08-04,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00236,ENT021,CTL01060,Inconsistent review - 0236,High,Compliance Testing,2025-11-14,2025-12-21,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00237,ENT081,CTL00885,Access exception - 0237,Low,Regulatory Review,2025-02-10,2025-06-25,2025-07-22,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00238,ENT032,CTL01212,Inconsistent review - 0238,High,Internal Audit,2026-10-04,2026-12-13,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00239,ENT030,CTL00806,Missing evidence - 0239,Low,Risk Assessment,2024-10-10,2025-01-26,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00240,ENT003,CTL00307,Policy gap - 0240,Medium,Risk Assessment,2026-01-02,2026-05-13,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00241,ENT119,CTL01365,Late remediation - 0241,High,Regulatory Review,2026-01-20,2026-06-03,2026-06-13,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00242,ENT095,CTL00456,Late remediation - 0242,Critical,Compliance Testing,2024-07-13,2024-10-02,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00243,ENT072,CTL00803,Inconsistent review - 0243,Critical,Regulatory Review,2024-04-06,2024-06-22,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00244,ENT061,CTL00609,Missing evidence - 0244,Medium,Compliance Testing,2026-06-11,2026-07-23,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00245,ENT014,CTL00853,Access exception - 0245,Low,Compliance Testing,2025-08-14,2025-10-20,2025-12-13,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00246,ENT112,CTL00609,Inconsistent review - 0246,Critical,Internal Audit,2026-03-20,2026-05-03,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00247,ENT021,CTL00793,Missing evidence - 0247,Medium,Compliance Testing,2025-09-17,2026-02-12,2026-02-21,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00248,ENT079,CTL00582,Policy gap - 0248,Low,Regulatory Review,2026-09-11,2027-02-23,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00249,ENT078,CTL00987,Inconsistent review - 0249,Medium,Compliance Testing,2025-04-04,2025-09-07,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00250,ENT022,CTL01417,Missing evidence - 0250,High,Regulatory Review,2026-09-15,2027-02-22,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00251,ENT053,CTL01034,Inconsistent review - 0251,Low,Internal Audit,2024-08-05,2024-10-08,2024-10-28,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00252,ENT107,CTL01230,Access exception - 0252,Critical,Risk Assessment,2026-08-03,2026-12-25,2026-11-24,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00253,ENT053,CTL00711,Policy gap - 0253,Critical,Internal Audit,2024-09-06,2024-11-20,2024-12-27,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00254,ENT072,CTL00385,Inconsistent review - 0254,Medium,Regulatory Review,2026-05-21,2026-10-18,2026-11-24,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00255,ENT067,CTL00328,Access exception - 0255,Low,Internal Audit,2024-05-26,2024-07-02,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00256,ENT045,CTL01550,Late remediation - 0256,Low,Risk Assessment,2026-03-13,2026-05-31,2026-06-08,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00257,ENT004,CTL00264,Late remediation - 0257,Critical,Regulatory Review,2025-11-19,2026-02-24,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00258,ENT054,CTL00016,Missing evidence - 0258,Low,Regulatory Review,2025-09-05,2026-01-31,2026-02-17,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00259,ENT114,CTL00258,Policy gap - 0259,Critical,Regulatory Review,2024-11-05,2025-02-04,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00260,ENT099,CTL00968,Late remediation - 0260,Medium,Regulatory Review,2025-05-14,2025-11-03,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00261,ENT018,CTL00463,Access exception - 0261,Critical,Compliance Testing,2025-02-17,2025-06-10,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00262,ENT003,CTL01159,Policy gap - 0262,High,Risk Assessment,2025-09-29,2026-01-29,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00263,ENT119,CTL00099,Access exception - 0263,Critical,Internal Audit,2026-01-15,2026-03-21,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00264,ENT106,CTL00045,Policy gap - 0264,Low,Regulatory Review,2025-10-09,2025-11-30,2025-12-01,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00265,ENT072,CTL01165,Inconsistent review - 0265,Medium,Compliance Testing,2026-11-17,2026-12-28,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00266,ENT082,CTL01079,Late remediation - 0266,High,Compliance Testing,2026-10-28,2026-12-18,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00267,ENT048,CTL00220,Policy gap - 0267,Low,Regulatory Review,2026-09-28,2026-11-11,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00268,ENT105,CTL01248,Inconsistent review - 0268,Critical,Risk Assessment,2024-03-29,2024-06-08,2024-08-25,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00269,ENT078,CTL01346,Late remediation - 0269,Critical,Regulatory Review,2026-03-17,2026-07-14,2026-09-22,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00270,ENT098,CTL01132,Inconsistent review - 0270,Low,Internal Audit,2026-01-19,2026-04-25,2026-05-03,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00271,ENT031,CTL00796,Access exception - 0271,Medium,Compliance Testing,2025-03-27,2025-06-21,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00272,ENT060,CTL00604,Inconsistent review - 0272,Low,Regulatory Review,2025-07-31,2025-10-27,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00273,ENT096,CTL00890,Missing evidence - 0273,Critical,Risk Assessment,2025-07-03,2025-10-28,2025-12-11,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00274,ENT072,CTL01222,Policy gap - 0274,Medium,Internal Audit,2024-06-06,2024-10-18,,Overdue,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00275,ENT057,CTL00856,Missing evidence - 0275,Critical,Regulatory Review,2026-11-13,2027-04-18,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00276,ENT087,CTL00583,Policy gap - 0276,High,Internal Audit,2026-02-19,2026-04-14,2026-06-10,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00277,ENT118,CTL01020,Inconsistent review - 0277,Low,Compliance Testing,2024-02-28,2024-05-06,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00278,ENT015,CTL00764,Inconsistent review - 0278,Critical,Regulatory Review,2026-05-25,2026-11-20,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00279,ENT112,CTL01192,Late remediation - 0279,Medium,Compliance Testing,2026-01-31,2026-06-10,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00280,ENT055,CTL01411,Late remediation - 0280,Critical,Regulatory Review,2025-08-28,2025-12-13,2026-02-17,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00281,ENT014,CTL01179,Access exception - 0281,Medium,Regulatory Review,2025-09-13,2026-01-16,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00282,ENT071,CTL01469,Policy gap - 0282,Low,Compliance Testing,2024-05-14,2024-09-08,2024-11-14,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00283,ENT045,CTL00044,Inconsistent review - 0283,High,Compliance Testing,2026-05-19,2026-07-09,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00284,ENT112,CTL00185,Policy gap - 0284,Medium,Regulatory Review,2026-04-04,2026-06-28,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00285,ENT099,CTL01393,Policy gap - 0285,Medium,Regulatory Review,2026-07-12,2026-11-19,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00286,ENT110,CTL00165,Policy gap - 0286,Medium,Compliance Testing,2026-10-20,2026-12-16,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00287,ENT005,CTL01177,Late remediation - 0287,Low,Risk Assessment,2026-06-04,2026-07-31,,Overdue,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00288,ENT012,CTL00447,Access exception - 0288,Medium,Internal Audit,2026-09-21,2027-01-09,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00289,ENT007,CTL00208,Policy gap - 0289,High,Regulatory Review,2024-11-08,2025-01-07,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00290,ENT054,CTL01589,Policy gap - 0290,High,Compliance Testing,2026-05-09,2026-10-08,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00291,ENT104,CTL01008,Inconsistent review - 0291,Critical,Regulatory Review,2024-12-30,2025-05-06,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00292,ENT023,CTL01025,Missing evidence - 0292,High,Internal Audit,2025-09-15,2025-12-03,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00293,ENT056,CTL00920,Inconsistent review - 0293,Low,Regulatory Review,2026-08-26,2027-02-14,2026-11-24,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00294,ENT055,CTL00960,Missing evidence - 0294,Critical,Compliance Testing,2024-06-25,2024-10-10,2024-12-28,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00295,ENT028,CTL00783,Access exception - 0295,Low,Internal Audit,2025-06-07,2025-10-06,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00296,ENT088,CTL00884,Policy gap - 0296,Medium,Compliance Testing,2024-08-08,2024-12-05,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00297,ENT043,CTL00672,Access exception - 0297,Low,Regulatory Review,2025-02-14,2025-03-28,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00298,ENT111,CTL00259,Missing evidence - 0298,Critical,Regulatory Review,2025-11-18,2026-02-02,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00299,ENT093,CTL00237,Access exception - 0299,Medium,Compliance Testing,2026-09-06,2027-01-29,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00300,ENT008,CTL00006,Inconsistent review - 0300,Medium,Compliance Testing,2024-06-18,2024-11-24,2024-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00301,ENT049,CTL01024,Missing evidence - 0301,Medium,Regulatory Review,2026-08-14,2026-10-27,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00302,ENT068,CTL01470,Late remediation - 0302,Critical,Regulatory Review,2026-08-25,2026-10-01,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00303,ENT050,CTL00889,Policy gap - 0303,Critical,Compliance Testing,2024-10-17,2024-12-17,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00304,ENT006,CTL01040,Inconsistent review - 0304,Low,Risk Assessment,2025-06-27,2025-11-03,2026-01-19,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00305,ENT070,CTL00851,Access exception - 0305,Critical,Compliance Testing,2024-01-05,2024-02-28,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00306,ENT103,CTL00314,Missing evidence - 0306,Low,Internal Audit,2026-04-14,2026-06-24,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00307,ENT004,CTL00043,Access exception - 0307,Critical,Regulatory Review,2024-10-12,2024-12-06,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00308,ENT078,CTL00604,Late remediation - 0308,Critical,Risk Assessment,2025-06-16,2025-11-17,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00309,ENT001,CTL00619,Missing evidence - 0309,Low,Risk Assessment,2024-10-24,2025-01-28,2025-02-23,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00310,ENT040,CTL00957,Access exception - 0310,Low,Regulatory Review,2025-08-06,2025-10-03,2025-11-21,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00311,ENT107,CTL00349,Inconsistent review - 0311,High,Risk Assessment,2026-03-26,2026-06-11,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00312,ENT015,CTL01565,Inconsistent review - 0312,High,Internal Audit,2026-09-16,2027-01-22,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00313,ENT044,CTL00942,Inconsistent review - 0313,Low,Regulatory Review,2026-10-25,2026-11-25,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00314,ENT005,CTL01270,Inconsistent review - 0314,High,Internal Audit,2025-11-10,2025-12-29,2026-03-16,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00315,ENT035,CTL01363,Policy gap - 0315,High,Internal Audit,2025-11-30,2026-05-09,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00316,ENT032,CTL00068,Missing evidence - 0316,Medium,Internal Audit,2024-01-21,2024-04-29,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00317,ENT021,CTL01567,Late remediation - 0317,Low,Regulatory Review,2026-09-06,2026-12-03,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00318,ENT112,CTL00381,Access exception - 0318,Critical,Compliance Testing,2026-04-21,2026-09-23,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00319,ENT050,CTL01058,Access exception - 0319,Critical,Internal Audit,2025-11-17,2025-12-23,2026-01-04,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00320,ENT073,CTL01287,Inconsistent review - 0320,High,Compliance Testing,2025-12-25,2026-06-21,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00321,ENT075,CTL00540,Missing evidence - 0321,Low,Regulatory Review,2024-12-30,2025-04-08,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00322,ENT110,CTL01421,Inconsistent review - 0322,High,Internal Audit,2025-12-08,2026-06-02,2026-08-16,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00323,ENT106,CTL00792,Missing evidence - 0323,High,Compliance Testing,2026-02-27,2026-06-08,2026-07-22,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00324,ENT089,CTL00153,Missing evidence - 0324,Low,Compliance Testing,2024-08-31,2024-12-14,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00325,ENT045,CTL00158,Late remediation - 0325,High,Internal Audit,2026-02-12,2026-03-29,2026-06-04,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00326,ENT005,CTL00926,Late remediation - 0326,Critical,Regulatory Review,2026-04-27,2026-06-25,2026-07-09,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00327,ENT044,CTL00906,Inconsistent review - 0327,High,Risk Assessment,2025-04-03,2025-09-12,2025-10-01,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00328,ENT114,CTL00458,Policy gap - 0328,Medium,Risk Assessment,2026-01-03,2026-05-31,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00329,ENT024,CTL01491,Inconsistent review - 0329,Low,Compliance Testing,2025-10-09,2026-03-10,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00330,ENT001,CTL01526,Late remediation - 0330,Critical,Internal Audit,2025-06-20,2025-11-07,2026-01-02,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00331,ENT118,CTL00371,Policy gap - 0331,Critical,Regulatory Review,2024-06-24,2024-09-20,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00332,ENT012,CTL01019,Missing evidence - 0332,High,Compliance Testing,2026-03-02,2026-07-31,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00333,ENT038,CTL00856,Inconsistent review - 0333,Critical,Internal Audit,2024-06-11,2024-07-20,2024-09-26,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00334,ENT002,CTL01186,Missing evidence - 0334,Medium,Compliance Testing,2025-02-26,2025-05-14,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00335,ENT016,CTL00523,Missing evidence - 0335,Medium,Compliance Testing,2025-05-01,2025-10-15,2025-10-26,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00336,ENT009,CTL00987,Inconsistent review - 0336,Critical,Compliance Testing,2026-11-23,2027-02-03,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00337,ENT060,CTL00967,Inconsistent review - 0337,Low,Regulatory Review,2024-10-19,2025-04-12,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00338,ENT027,CTL00476,Late remediation - 0338,Low,Regulatory Review,2024-03-24,2024-07-09,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00339,ENT115,CTL01519,Policy gap - 0339,Low,Regulatory Review,2024-02-16,2024-08-14,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00340,ENT021,CTL01242,Policy gap - 0340,Medium,Compliance Testing,2026-08-01,2026-12-25,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00341,ENT108,CTL00661,Access exception - 0341,Critical,Compliance Testing,2024-05-14,2024-07-31,,Overdue,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00342,ENT111,CTL01378,Access exception - 0342,Critical,Risk Assessment,2026-08-01,2026-11-05,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00343,ENT036,CTL00524,Missing evidence - 0343,High,Risk Assessment,2024-12-15,2025-03-12,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00344,ENT072,CTL00131,Missing evidence - 0344,High,Internal Audit,2026-11-02,2027-03-04,2026-11-24,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00345,ENT001,CTL00499,Missing evidence - 0345,Medium,Regulatory Review,2026-07-16,2026-10-24,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00346,ENT087,CTL00919,Inconsistent review - 0346,Medium,Risk Assessment,2026-03-23,2026-04-24,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00347,ENT111,CTL01048,Late remediation - 0347,Critical,Regulatory Review,2026-10-12,2027-03-18,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00348,ENT069,CTL00564,Policy gap - 0348,Critical,Internal Audit,2025-04-05,2025-08-07,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00349,ENT109,CTL01245,Late remediation - 0349,Low,Risk Assessment,2024-08-30,2025-01-16,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00350,ENT054,CTL01419,Missing evidence - 0350,Medium,Internal Audit,2025-02-16,2025-04-10,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00351,ENT037,CTL01295,Access exception - 0351,Medium,Risk Assessment,2024-08-23,2024-09-26,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00352,ENT077,CTL00371,Inconsistent review - 0352,Critical,Regulatory Review,2026-02-10,2026-05-24,2026-08-20,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00353,ENT009,CTL00557,Late remediation - 0353,Medium,Compliance Testing,2024-01-29,2024-03-28,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00354,ENT021,CTL00951,Missing evidence - 0354,High,Internal Audit,2025-07-04,2025-11-15,2026-01-02,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00355,ENT117,CTL01409,Late remediation - 0355,Critical,Regulatory Review,2025-08-30,2026-01-31,,Overdue,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00356,ENT025,CTL01147,Inconsistent review - 0356,High,Risk Assessment,2025-11-27,2026-05-12,2026-06-07,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00357,ENT086,CTL00464,Missing evidence - 0357,Low,Risk Assessment,2026-01-09,2026-03-09,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00358,ENT026,CTL00851,Late remediation - 0358,High,Risk Assessment,2024-09-30,2024-12-31,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00359,ENT016,CTL00400,Policy gap - 0359,Low,Regulatory Review,2026-05-06,2026-10-10,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00360,ENT098,CTL01153,Policy gap - 0360,Critical,Risk Assessment,2024-04-19,2024-08-05,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00361,ENT060,CTL00872,Access exception - 0361,Low,Risk Assessment,2024-08-15,2024-12-19,2025-02-02,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00362,ENT094,CTL00038,Inconsistent review - 0362,Medium,Regulatory Review,2025-03-22,2025-06-01,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00363,ENT120,CTL01421,Access exception - 0363,Medium,Internal Audit,2026-04-02,2026-07-17,2026-09-08,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00364,ENT067,CTL00331,Late remediation - 0364,High,Regulatory Review,2025-09-06,2025-11-13,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00365,ENT030,CTL00201,Late remediation - 0365,Low,Compliance Testing,2024-01-12,2024-07-01,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00366,ENT084,CTL00388,Missing evidence - 0366,High,Internal Audit,2025-01-23,2025-07-17,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00367,ENT004,CTL00700,Policy gap - 0367,High,Compliance Testing,2025-12-25,2026-05-13,2026-07-20,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00368,ENT086,CTL00157,Late remediation - 0368,Low,Internal Audit,2024-09-09,2025-01-21,2025-04-05,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00369,ENT114,CTL00122,Policy gap - 0369,Medium,Internal Audit,2025-05-14,2025-10-01,2025-11-16,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00370,ENT117,CTL00096,Access exception - 0370,Low,Regulatory Review,2024-06-03,2024-11-11,2024-12-11,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00371,ENT005,CTL01084,Access exception - 0371,Low,Risk Assessment,2025-04-27,2025-06-26,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00372,ENT050,CTL01079,Access exception - 0372,Medium,Regulatory Review,2025-04-03,2025-06-18,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00373,ENT106,CTL01360,Missing evidence - 0373,High,Compliance Testing,2025-04-16,2025-09-01,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00374,ENT019,CTL01347,Inconsistent review - 0374,Critical,Internal Audit,2024-07-08,2024-12-12,2025-02-21,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00375,ENT069,CTL01435,Access exception - 0375,Critical,Internal Audit,2024-05-22,2024-08-23,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00376,ENT059,CTL01313,Late remediation - 0376,Critical,Risk Assessment,2024-06-24,2024-07-28,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00377,ENT112,CTL00773,Inconsistent review - 0377,High,Compliance Testing,2026-05-09,2026-06-21,2026-06-25,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00378,ENT033,CTL01450,Policy gap - 0378,Low,Risk Assessment,2026-07-28,2027-01-21,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00379,ENT034,CTL00319,Late remediation - 0379,Medium,Risk Assessment,2026-02-28,2026-06-08,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00380,ENT108,CTL00450,Missing evidence - 0380,Critical,Compliance Testing,2025-02-25,2025-07-27,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00381,ENT001,CTL01368,Policy gap - 0381,High,Compliance Testing,2025-07-11,2025-12-04,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00382,ENT084,CTL01322,Missing evidence - 0382,Critical,Compliance Testing,2024-12-27,2025-04-29,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00383,ENT068,CTL00008,Missing evidence - 0383,Critical,Compliance Testing,2024-07-01,2024-10-12,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00384,ENT045,CTL01480,Late remediation - 0384,Critical,Regulatory Review,2024-10-01,2024-11-13,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00385,ENT085,CTL00713,Policy gap - 0385,Low,Compliance Testing,2025-08-21,2025-10-15,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00386,ENT006,CTL01572,Inconsistent review - 0386,Low,Compliance Testing,2026-10-07,2026-11-15,2026-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00387,ENT048,CTL00491,Access exception - 0387,Medium,Risk Assessment,2024-06-15,2024-09-18,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00388,ENT095,CTL01097,Access exception - 0388,Low,Regulatory Review,2024-12-04,2025-02-04,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00389,ENT005,CTL01590,Late remediation - 0389,Critical,Internal Audit,2024-04-25,2024-09-26,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00390,ENT020,CTL00765,Late remediation - 0390,Critical,Risk Assessment,2026-02-18,2026-04-16,2026-04-28,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00391,ENT013,CTL00637,Late remediation - 0391,Low,Risk Assessment,2026-01-29,2026-05-15,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00392,ENT001,CTL00555,Access exception - 0392,Medium,Regulatory Review,2025-05-27,2025-10-02,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00393,ENT090,CTL00878,Missing evidence - 0393,High,Compliance Testing,2026-08-14,2027-01-09,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00394,ENT003,CTL00672,Inconsistent review - 0394,High,Internal Audit,2024-04-02,2024-05-22,2024-06-28,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00395,ENT081,CTL00882,Inconsistent review - 0395,Medium,Compliance Testing,2024-07-02,2024-10-31,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00396,ENT013,CTL01592,Inconsistent review - 0396,Critical,Risk Assessment,2024-10-29,2024-12-25,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00397,ENT033,CTL00282,Access exception - 0397,Critical,Risk Assessment,2024-12-22,2025-03-09,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00398,ENT059,CTL00227,Inconsistent review - 0398,Low,Compliance Testing,2026-11-14,2027-04-14,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00399,ENT006,CTL00204,Inconsistent review - 0399,Low,Internal Audit,2026-07-24,2026-10-19,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00400,ENT057,CTL01053,Late remediation - 0400,Medium,Compliance Testing,2026-08-13,2026-11-16,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00401,ENT111,CTL00653,Inconsistent review - 0401,Medium,Risk Assessment,2026-01-14,2026-03-26,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00402,ENT095,CTL00216,Access exception - 0402,High,Regulatory Review,2025-11-28,2026-01-27,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00403,ENT037,CTL00588,Inconsistent review - 0403,Critical,Risk Assessment,2025-05-06,2025-10-23,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00404,ENT097,CTL00539,Missing evidence - 0404,Medium,Risk Assessment,2026-04-08,2026-05-16,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00405,ENT020,CTL01388,Policy gap - 0405,High,Compliance Testing,2026-01-12,2026-02-23,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00406,ENT043,CTL00207,Access exception - 0406,Medium,Internal Audit,2026-09-21,2027-03-16,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00407,ENT001,CTL01067,Access exception - 0407,Medium,Risk Assessment,2026-05-26,2026-08-15,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00408,ENT001,CTL01236,Policy gap - 0408,Medium,Compliance Testing,2025-10-18,2026-01-02,,Overdue,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00409,ENT006,CTL01029,Missing evidence - 0409,Medium,Regulatory Review,2025-06-04,2025-11-02,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00410,ENT031,CTL01077,Inconsistent review - 0410,Medium,Risk Assessment,2025-10-02,2025-11-14,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00411,ENT024,CTL01300,Policy gap - 0411,Critical,Internal Audit,2026-07-26,2026-11-25,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00412,ENT023,CTL00413,Policy gap - 0412,High,Regulatory Review,2025-11-26,2025-12-31,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00413,ENT029,CTL00211,Missing evidence - 0413,Critical,Risk Assessment,2025-09-04,2025-10-13,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00414,ENT039,CTL00809,Access exception - 0414,High,Risk Assessment,2024-03-25,2024-07-06,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00415,ENT075,CTL00842,Policy gap - 0415,High,Risk Assessment,2025-03-12,2025-04-16,2025-07-02,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00416,ENT054,CTL00662,Policy gap - 0416,Low,Compliance Testing,2026-02-08,2026-03-23,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00417,ENT074,CTL01306,Access exception - 0417,High,Regulatory Review,2024-03-22,2024-06-26,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00418,ENT104,CTL01284,Inconsistent review - 0418,Critical,Compliance Testing,2025-03-30,2025-06-17,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00419,ENT010,CTL01397,Missing evidence - 0419,High,Regulatory Review,2024-04-05,2024-09-24,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00420,ENT025,CTL01518,Policy gap - 0420,Critical,Regulatory Review,2024-02-23,2024-04-01,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00421,ENT100,CTL00853,Policy gap - 0421,Low,Risk Assessment,2026-07-16,2026-08-17,2026-09-11,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00422,ENT012,CTL01112,Inconsistent review - 0422,High,Internal Audit,2026-06-06,2026-09-26,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00423,ENT024,CTL01242,Missing evidence - 0423,Critical,Risk Assessment,2026-10-01,2026-12-05,2026-11-24,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00424,ENT040,CTL01274,Late remediation - 0424,Medium,Regulatory Review,2025-02-12,2025-05-11,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00425,ENT032,CTL00649,Inconsistent review - 0425,Low,Compliance Testing,2026-11-21,2027-03-03,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00426,ENT093,CTL00689,Inconsistent review - 0426,Medium,Risk Assessment,2024-01-26,2024-03-19,2024-05-31,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00427,ENT020,CTL00461,Missing evidence - 0427,High,Internal Audit,2024-02-06,2024-03-16,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00428,ENT117,CTL00817,Missing evidence - 0428,Critical,Regulatory Review,2024-10-04,2025-02-08,2025-03-09,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00429,ENT046,CTL00102,Access exception - 0429,Critical,Internal Audit,2025-10-24,2026-02-24,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00430,ENT120,CTL00188,Access exception - 0430,High,Regulatory Review,2026-08-13,2026-12-17,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00431,ENT018,CTL01013,Policy gap - 0431,Critical,Risk Assessment,2025-08-28,2025-12-14,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00432,ENT099,CTL00083,Missing evidence - 0432,High,Regulatory Review,2024-07-02,2024-08-23,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00433,ENT080,CTL01345,Late remediation - 0433,Low,Risk Assessment,2024-07-30,2024-10-19,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00434,ENT076,CTL00762,Inconsistent review - 0434,Low,Risk Assessment,2026-01-05,2026-05-18,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00435,ENT028,CTL01197,Missing evidence - 0435,Critical,Risk Assessment,2024-07-03,2024-11-23,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00436,ENT057,CTL00789,Inconsistent review - 0436,High,Regulatory Review,2024-12-24,2025-04-24,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00437,ENT033,CTL01245,Missing evidence - 0437,Critical,Internal Audit,2025-01-27,2025-05-15,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00438,ENT119,CTL00046,Missing evidence - 0438,High,Regulatory Review,2024-02-20,2024-05-03,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00439,ENT049,CTL00273,Access exception - 0439,Medium,Regulatory Review,2024-02-27,2024-07-05,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00440,ENT061,CTL00265,Late remediation - 0440,Medium,Risk Assessment,2025-08-28,2025-12-12,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00441,ENT012,CTL00996,Access exception - 0441,High,Internal Audit,2026-09-18,2026-12-01,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00442,ENT080,CTL00589,Policy gap - 0442,Critical,Compliance Testing,2025-06-08,2025-07-22,2025-09-15,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00443,ENT015,CTL01076,Access exception - 0443,Critical,Compliance Testing,2026-06-13,2026-07-30,2026-09-17,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00444,ENT089,CTL00632,Missing evidence - 0444,Medium,Risk Assessment,2024-09-16,2025-02-08,2025-05-01,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00445,ENT001,CTL00433,Inconsistent review - 0445,Critical,Regulatory Review,2026-08-11,2026-11-10,2026-11-15,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00446,ENT110,CTL00349,Late remediation - 0446,Medium,Compliance Testing,2026-11-18,2027-01-28,2026-11-24,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00447,ENT038,CTL00627,Policy gap - 0447,High,Risk Assessment,2026-07-02,2026-09-29,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00448,ENT034,CTL00693,Late remediation - 0448,Critical,Compliance Testing,2026-09-11,2026-12-15,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00449,ENT011,CTL00763,Inconsistent review - 0449,High,Internal Audit,2024-01-30,2024-03-18,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00450,ENT068,CTL01198,Access exception - 0450,Critical,Compliance Testing,2024-07-10,2024-11-06,2024-12-01,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00451,ENT103,CTL01346,Late remediation - 0451,High,Compliance Testing,2026-04-23,2026-08-29,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00452,ENT031,CTL01345,Late remediation - 0452,Medium,Compliance Testing,2026-01-30,2026-03-26,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00453,ENT042,CTL00587,Access exception - 0453,Low,Internal Audit,2025-06-25,2025-12-19,2026-01-14,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00454,ENT061,CTL00115,Missing evidence - 0454,High,Compliance Testing,2026-04-03,2026-09-19,2026-10-24,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00455,ENT007,CTL00203,Access exception - 0455,Critical,Risk Assessment,2026-09-11,2026-11-28,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00456,ENT029,CTL00565,Access exception - 0456,Medium,Risk Assessment,2026-06-17,2026-10-16,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00457,ENT016,CTL00397,Missing evidence - 0457,Critical,Regulatory Review,2026-06-23,2026-09-20,2026-11-02,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00458,ENT034,CTL00919,Late remediation - 0458,Critical,Risk Assessment,2026-11-05,2027-03-31,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00459,ENT073,CTL00724,Access exception - 0459,Critical,Regulatory Review,2024-05-30,2024-10-14,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00460,ENT101,CTL01574,Inconsistent review - 0460,Low,Internal Audit,2026-03-03,2026-06-05,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00461,ENT062,CTL00328,Inconsistent review - 0461,High,Risk Assessment,2024-07-09,2024-10-24,,Overdue,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00462,ENT026,CTL00650,Missing evidence - 0462,Low,Risk Assessment,2024-07-21,2025-01-11,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00463,ENT113,CTL00683,Access exception - 0463,Critical,Internal Audit,2024-07-20,2025-01-06,2025-03-13,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00464,ENT093,CTL00028,Late remediation - 0464,Medium,Compliance Testing,2025-04-05,2025-09-14,2025-09-16,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00465,ENT098,CTL01211,Missing evidence - 0465,Low,Regulatory Review,2026-03-25,2026-05-21,2026-07-02,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00466,ENT074,CTL01139,Policy gap - 0466,Critical,Regulatory Review,2024-06-12,2024-09-07,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00467,ENT095,CTL00535,Late remediation - 0467,Critical,Regulatory Review,2024-06-05,2024-09-28,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00468,ENT009,CTL00101,Late remediation - 0468,Low,Regulatory Review,2026-05-17,2026-09-06,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00469,ENT104,CTL01128,Inconsistent review - 0469,Critical,Compliance Testing,2025-11-06,2026-01-05,2026-03-17,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00470,ENT019,CTL00613,Missing evidence - 0470,Critical,Risk Assessment,2026-11-22,2027-03-25,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00471,ENT120,CTL00818,Late remediation - 0471,Medium,Internal Audit,2024-06-19,2024-10-21,,Overdue,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00472,ENT070,CTL01575,Policy gap - 0472,Low,Compliance Testing,2024-07-05,2024-08-24,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00473,ENT066,CTL00240,Access exception - 0473,Low,Regulatory Review,2024-04-23,2024-10-13,2024-12-09,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00474,ENT059,CTL00595,Missing evidence - 0474,High,Compliance Testing,2024-07-24,2024-11-28,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00475,ENT101,CTL01406,Policy gap - 0475,High,Regulatory Review,2025-02-15,2025-05-29,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00476,ENT080,CTL00451,Late remediation - 0476,Medium,Regulatory Review,2025-12-05,2026-05-02,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00477,ENT006,CTL00599,Access exception - 0477,Critical,Compliance Testing,2024-08-05,2024-12-21,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00478,ENT094,CTL01064,Policy gap - 0478,High,Internal Audit,2025-07-08,2025-08-22,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00479,ENT069,CTL00804,Missing evidence - 0479,Medium,Internal Audit,2024-08-24,2024-12-07,2025-02-18,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00480,ENT112,CTL01154,Inconsistent review - 0480,High,Risk Assessment,2025-01-11,2025-05-29,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00481,ENT101,CTL00345,Missing evidence - 0481,Critical,Risk Assessment,2026-01-01,2026-03-23,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00482,ENT024,CTL00279,Missing evidence - 0482,Low,Regulatory Review,2026-06-30,2026-09-01,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00483,ENT048,CTL00746,Late remediation - 0483,Low,Compliance Testing,2025-07-15,2026-01-09,2026-01-11,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00484,ENT059,CTL00524,Access exception - 0484,Critical,Compliance Testing,2025-10-24,2026-01-23,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00485,ENT092,CTL01155,Access exception - 0485,Critical,Regulatory Review,2026-03-31,2026-09-20,2026-09-26,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00486,ENT075,CTL00612,Inconsistent review - 0486,Low,Internal Audit,2026-05-09,2026-10-10,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00487,ENT120,CTL00435,Policy gap - 0487,Critical,Internal Audit,2024-05-23,2024-10-09,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00488,ENT097,CTL01419,Late remediation - 0488,High,Compliance Testing,2026-07-05,2026-09-10,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00489,ENT057,CTL00902,Policy gap - 0489,Critical,Internal Audit,2026-09-26,2026-10-26,2026-11-24,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00490,ENT022,CTL00581,Inconsistent review - 0490,Critical,Internal Audit,2025-09-06,2025-11-19,,Overdue,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00491,ENT080,CTL00440,Policy gap - 0491,Low,Risk Assessment,2025-03-20,2025-05-25,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00492,ENT005,CTL01366,Access exception - 0492,High,Regulatory Review,2025-01-12,2025-05-09,2025-05-12,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00493,ENT066,CTL01053,Missing evidence - 0493,Critical,Compliance Testing,2025-03-16,2025-05-12,2025-06-16,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00494,ENT004,CTL01109,Late remediation - 0494,High,Internal Audit,2026-07-24,2026-09-18,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00495,ENT096,CTL01126,Inconsistent review - 0495,Low,Risk Assessment,2025-09-21,2026-01-17,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00496,ENT114,CTL01136,Missing evidence - 0496,Low,Risk Assessment,2026-03-23,2026-09-01,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00497,ENT071,CTL00529,Late remediation - 0497,High,Compliance Testing,2025-09-04,2026-01-18,2026-02-11,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00498,ENT102,CTL00686,Missing evidence - 0498,Medium,Regulatory Review,2026-03-27,2026-06-30,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00499,ENT060,CTL00793,Access exception - 0499,Medium,Internal Audit,2024-07-10,2024-12-11,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00500,ENT056,CTL00053,Missing evidence - 0500,Critical,Regulatory Review,2024-06-22,2024-08-29,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00501,ENT005,CTL00554,Missing evidence - 0501,Critical,Internal Audit,2024-07-24,2024-10-02,2024-12-29,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00502,ENT007,CTL00208,Missing evidence - 0502,Low,Compliance Testing,2026-07-23,2026-12-01,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00503,ENT094,CTL00556,Policy gap - 0503,High,Internal Audit,2025-01-05,2025-02-27,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00504,ENT007,CTL00639,Missing evidence - 0504,Critical,Compliance Testing,2026-02-16,2026-05-06,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00505,ENT033,CTL01530,Access exception - 0505,Critical,Risk Assessment,2025-03-15,2025-05-30,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00506,ENT110,CTL01174,Policy gap - 0506,Critical,Regulatory Review,2026-03-10,2026-06-21,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00507,ENT099,CTL00282,Policy gap - 0507,High,Internal Audit,2025-07-21,2025-12-15,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00508,ENT111,CTL00098,Access exception - 0508,Medium,Regulatory Review,2026-10-02,2026-11-10,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00509,ENT003,CTL00590,Access exception - 0509,Low,Internal Audit,2025-03-07,2025-07-28,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00510,ENT080,CTL00410,Access exception - 0510,High,Internal Audit,2024-06-05,2024-10-24,2024-11-25,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00511,ENT012,CTL01344,Late remediation - 0511,Critical,Compliance Testing,2024-07-22,2024-10-31,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00512,ENT085,CTL01215,Missing evidence - 0512,Low,Internal Audit,2026-02-18,2026-06-07,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00513,ENT067,CTL00947,Missing evidence - 0513,High,Risk Assessment,2025-03-30,2025-09-20,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00514,ENT039,CTL00609,Late remediation - 0514,High,Compliance Testing,2026-09-29,2026-11-12,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00515,ENT041,CTL00596,Missing evidence - 0515,Critical,Risk Assessment,2026-06-30,2026-08-23,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00516,ENT116,CTL00545,Inconsistent review - 0516,Medium,Risk Assessment,2026-01-07,2026-03-19,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00517,ENT040,CTL00986,Missing evidence - 0517,Critical,Internal Audit,2026-04-16,2026-08-25,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00518,ENT094,CTL00725,Policy gap - 0518,Medium,Regulatory Review,2024-04-01,2024-08-07,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00519,ENT035,CTL00944,Access exception - 0519,Low,Risk Assessment,2026-08-15,2026-12-03,2026-11-24,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00520,ENT055,CTL00904,Access exception - 0520,Critical,Compliance Testing,2026-10-12,2027-02-15,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00521,ENT090,CTL01197,Access exception - 0521,Critical,Compliance Testing,2026-11-11,2027-01-06,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00522,ENT039,CTL01437,Access exception - 0522,Medium,Compliance Testing,2024-10-17,2024-12-27,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00523,ENT018,CTL00273,Missing evidence - 0523,Medium,Regulatory Review,2025-08-04,2025-11-15,2025-11-27,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00524,ENT003,CTL00646,Late remediation - 0524,Critical,Internal Audit,2025-08-04,2026-01-27,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00525,ENT108,CTL01149,Inconsistent review - 0525,Low,Risk Assessment,2026-10-25,2026-12-19,2026-11-24,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00526,ENT052,CTL00176,Late remediation - 0526,High,Regulatory Review,2024-04-27,2024-08-17,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00527,ENT046,CTL00068,Missing evidence - 0527,Medium,Regulatory Review,2025-02-22,2025-07-19,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00528,ENT028,CTL00102,Policy gap - 0528,Medium,Internal Audit,2025-06-07,2025-07-30,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00529,ENT043,CTL00558,Access exception - 0529,Critical,Compliance Testing,2024-04-30,2024-07-23,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00530,ENT036,CTL01245,Access exception - 0530,High,Compliance Testing,2024-03-17,2024-05-18,2024-08-14,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00531,ENT086,CTL00392,Missing evidence - 0531,High,Internal Audit,2025-11-12,2026-05-10,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00532,ENT044,CTL01517,Access exception - 0532,High,Risk Assessment,2025-12-31,2026-06-26,2026-07-04,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00533,ENT089,CTL00693,Access exception - 0533,High,Regulatory Review,2026-06-18,2026-08-15,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00534,ENT016,CTL01572,Missing evidence - 0534,High,Compliance Testing,2024-06-25,2024-08-21,2024-10-30,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00535,ENT086,CTL00412,Late remediation - 0535,High,Regulatory Review,2025-05-24,2025-07-31,2025-08-09,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00536,ENT035,CTL00145,Policy gap - 0536,Medium,Internal Audit,2024-09-05,2025-02-02,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00537,ENT107,CTL00603,Policy gap - 0537,Low,Compliance Testing,2024-09-04,2024-10-20,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00538,ENT015,CTL00030,Inconsistent review - 0538,Critical,Risk Assessment,2024-08-30,2025-02-02,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00539,ENT070,CTL00419,Access exception - 0539,Medium,Regulatory Review,2025-06-11,2025-10-08,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00540,ENT029,CTL00311,Missing evidence - 0540,High,Internal Audit,2024-06-29,2024-09-17,2024-10-10,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00541,ENT026,CTL00796,Inconsistent review - 0541,Critical,Compliance Testing,2025-06-06,2025-10-11,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00542,ENT104,CTL00465,Late remediation - 0542,Medium,Risk Assessment,2026-02-11,2026-04-27,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00543,ENT098,CTL00597,Policy gap - 0543,Critical,Compliance Testing,2026-02-25,2026-03-27,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00544,ENT044,CTL00926,Access exception - 0544,High,Compliance Testing,2025-07-17,2026-01-05,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00545,ENT117,CTL01057,Missing evidence - 0545,High,Compliance Testing,2024-05-06,2024-06-12,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00546,ENT031,CTL01274,Access exception - 0546,Critical,Regulatory Review,2025-03-08,2025-06-08,,Overdue,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00547,ENT015,CTL00919,Access exception - 0547,Low,Risk Assessment,2026-10-23,2026-11-29,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00548,ENT044,CTL00489,Late remediation - 0548,Low,Regulatory Review,2025-11-02,2026-02-06,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00549,ENT019,CTL00997,Late remediation - 0549,Critical,Risk Assessment,2025-02-10,2025-06-07,2025-06-07,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00550,ENT104,CTL01222,Missing evidence - 0550,Low,Compliance Testing,2025-02-25,2025-04-06,2025-06-17,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00551,ENT088,CTL00509,Policy gap - 0551,Low,Regulatory Review,2025-10-04,2026-02-09,,Overdue,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00552,ENT025,CTL01517,Policy gap - 0552,High,Regulatory Review,2024-07-19,2024-10-11,2024-11-11,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00553,ENT070,CTL00048,Missing evidence - 0553,Critical,Compliance Testing,2026-07-28,2026-11-20,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00554,ENT037,CTL01521,Inconsistent review - 0554,High,Risk Assessment,2025-02-07,2025-06-08,2025-06-28,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00555,ENT022,CTL01091,Late remediation - 0555,Critical,Risk Assessment,2026-11-14,2027-01-21,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00556,ENT048,CTL00360,Late remediation - 0556,Low,Risk Assessment,2026-02-21,2026-03-26,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00557,ENT059,CTL01112,Missing evidence - 0557,High,Compliance Testing,2026-08-09,2026-09-12,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00558,ENT064,CTL00550,Access exception - 0558,High,Compliance Testing,2024-11-20,2025-05-19,2025-06-29,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00559,ENT052,CTL01213,Inconsistent review - 0559,High,Regulatory Review,2026-11-24,2027-03-13,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00560,ENT051,CTL01441,Inconsistent review - 0560,High,Internal Audit,2024-10-23,2025-03-10,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00561,ENT018,CTL01526,Late remediation - 0561,Low,Risk Assessment,2025-08-28,2026-01-25,,Overdue,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00562,ENT102,CTL01393,Missing evidence - 0562,High,Internal Audit,2025-06-09,2025-10-09,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00563,ENT082,CTL00790,Access exception - 0563,High,Regulatory Review,2026-04-22,2026-09-28,2026-11-24,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00564,ENT113,CTL01293,Inconsistent review - 0564,Low,Risk Assessment,2025-09-28,2026-03-09,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00565,ENT117,CTL00267,Policy gap - 0565,Low,Internal Audit,2025-08-05,2026-01-15,2026-03-28,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00566,ENT094,CTL00250,Late remediation - 0566,Medium,Internal Audit,2025-12-12,2026-01-31,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00567,ENT030,CTL00913,Policy gap - 0567,High,Internal Audit,2026-03-28,2026-07-12,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00568,ENT070,CTL00089,Missing evidence - 0568,Medium,Regulatory Review,2026-10-26,2027-02-05,2026-11-24,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00569,ENT072,CTL01212,Policy gap - 0569,Critical,Regulatory Review,2024-12-28,2025-03-18,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00570,ENT019,CTL00274,Late remediation - 0570,Medium,Risk Assessment,2025-12-23,2026-06-02,2026-06-23,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00571,ENT016,CTL00668,Late remediation - 0571,Critical,Compliance Testing,2026-11-04,2026-12-11,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00572,ENT111,CTL01303,Policy gap - 0572,Medium,Risk Assessment,2026-02-02,2026-04-02,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00573,ENT120,CTL01524,Inconsistent review - 0573,Low,Risk Assessment,2026-02-05,2026-06-23,2026-07-08,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00574,ENT028,CTL00087,Inconsistent review - 0574,High,Regulatory Review,2026-08-19,2026-09-24,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00575,ENT084,CTL01044,Inconsistent review - 0575,Critical,Compliance Testing,2024-11-29,2025-03-31,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00576,ENT119,CTL01599,Inconsistent review - 0576,Low,Risk Assessment,2025-03-24,2025-07-26,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00577,ENT080,CTL00767,Inconsistent review - 0577,Medium,Internal Audit,2026-06-04,2026-08-19,2026-10-04,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00578,ENT065,CTL01568,Access exception - 0578,Critical,Risk Assessment,2026-08-12,2026-10-25,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00579,ENT021,CTL00989,Missing evidence - 0579,High,Risk Assessment,2024-12-13,2025-02-20,2025-05-11,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00580,ENT102,CTL00655,Access exception - 0580,Medium,Compliance Testing,2025-08-03,2025-12-01,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00581,ENT108,CTL01029,Policy gap - 0581,High,Internal Audit,2024-03-18,2024-07-08,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00582,ENT077,CTL00489,Inconsistent review - 0582,Medium,Compliance Testing,2026-10-29,2027-04-21,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00583,ENT004,CTL00105,Missing evidence - 0583,Critical,Regulatory Review,2026-05-27,2026-08-20,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00584,ENT078,CTL00977,Policy gap - 0584,High,Compliance Testing,2025-12-25,2026-04-25,2026-07-10,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00585,ENT084,CTL00259,Missing evidence - 0585,Medium,Regulatory Review,2024-09-01,2025-01-09,2025-03-31,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00586,ENT035,CTL01007,Missing evidence - 0586,High,Internal Audit,2026-02-09,2026-05-02,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00587,ENT053,CTL01058,Policy gap - 0587,Critical,Compliance Testing,2026-03-16,2026-06-16,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00588,ENT081,CTL01395,Policy gap - 0588,Medium,Risk Assessment,2026-11-13,2027-04-08,2026-11-24,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00589,ENT029,CTL00833,Access exception - 0589,Medium,Compliance Testing,2024-05-16,2024-10-29,2024-11-21,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00590,ENT066,CTL00914,Inconsistent review - 0590,Low,Risk Assessment,2026-08-18,2026-12-25,2026-11-24,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00591,ENT002,CTL01562,Access exception - 0591,High,Regulatory Review,2025-05-18,2025-08-31,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00592,ENT108,CTL00177,Late remediation - 0592,Medium,Regulatory Review,2025-04-27,2025-08-30,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00593,ENT044,CTL00102,Policy gap - 0593,Medium,Risk Assessment,2024-01-31,2024-03-06,2024-03-12,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00594,ENT061,CTL00469,Access exception - 0594,Low,Internal Audit,2024-05-27,2024-08-09,2024-08-21,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00595,ENT109,CTL00533,Missing evidence - 0595,High,Regulatory Review,2025-11-03,2026-02-26,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00596,ENT104,CTL01132,Missing evidence - 0596,Critical,Compliance Testing,2025-01-12,2025-02-24,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00597,ENT115,CTL00391,Missing evidence - 0597,Critical,Regulatory Review,2026-11-18,2027-02-14,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00598,ENT080,CTL00261,Inconsistent review - 0598,High,Risk Assessment,2025-10-24,2025-12-24,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00599,ENT102,CTL00060,Policy gap - 0599,Critical,Compliance Testing,2024-04-22,2024-10-09,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00600,ENT110,CTL00025,Late remediation - 0600,Critical,Regulatory Review,2026-02-24,2026-07-02,2026-07-03,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00601,ENT007,CTL00594,Missing evidence - 0601,Medium,Internal Audit,2025-12-04,2026-01-18,2026-01-29,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00602,ENT030,CTL00046,Missing evidence - 0602,Medium,Risk Assessment,2024-12-30,2025-06-19,2025-06-24,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00603,ENT080,CTL01058,Late remediation - 0603,High,Risk Assessment,2024-02-11,2024-05-20,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00604,ENT013,CTL00596,Policy gap - 0604,Critical,Risk Assessment,2026-07-19,2026-10-05,2026-11-24,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00605,ENT021,CTL00165,Missing evidence - 0605,High,Risk Assessment,2024-11-13,2025-02-25,2025-03-07,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00606,ENT113,CTL01125,Late remediation - 0606,High,Regulatory Review,2024-07-31,2024-10-04,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00607,ENT070,CTL00358,Policy gap - 0607,High,Compliance Testing,2025-03-24,2025-07-15,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00608,ENT084,CTL00836,Missing evidence - 0608,Low,Risk Assessment,2026-04-19,2026-09-24,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00609,ENT097,CTL00561,Policy gap - 0609,Critical,Compliance Testing,2026-04-10,2026-09-17,2026-09-27,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00610,ENT048,CTL00879,Access exception - 0610,Critical,Compliance Testing,2026-10-03,2027-03-27,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00611,ENT077,CTL01328,Late remediation - 0611,Medium,Compliance Testing,2025-06-01,2025-09-04,2025-09-04,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00612,ENT084,CTL01029,Access exception - 0612,Medium,Internal Audit,2025-09-24,2026-01-16,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00613,ENT104,CTL00972,Missing evidence - 0613,Medium,Regulatory Review,2024-12-11,2025-03-10,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00614,ENT118,CTL00027,Missing evidence - 0614,Critical,Compliance Testing,2024-03-05,2024-05-12,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00615,ENT053,CTL01120,Late remediation - 0615,Critical,Compliance Testing,2024-05-17,2024-06-24,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00616,ENT068,CTL00584,Policy gap - 0616,Critical,Risk Assessment,2024-04-22,2024-06-19,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00617,ENT090,CTL00472,Inconsistent review - 0617,Medium,Regulatory Review,2025-06-02,2025-09-05,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00618,ENT018,CTL00680,Missing evidence - 0618,Critical,Internal Audit,2024-07-02,2024-08-17,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00619,ENT035,CTL01550,Late remediation - 0619,High,Internal Audit,2026-01-11,2026-03-15,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00620,ENT044,CTL00889,Inconsistent review - 0620,Critical,Internal Audit,2025-12-31,2026-02-21,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00621,ENT069,CTL01337,Policy gap - 0621,Low,Risk Assessment,2026-11-15,2027-05-02,2026-11-24,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00622,ENT031,CTL00367,Late remediation - 0622,Medium,Risk Assessment,2026-07-26,2026-12-16,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00623,ENT101,CTL00572,Late remediation - 0623,High,Risk Assessment,2025-01-23,2025-03-14,2025-04-19,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00624,ENT072,CTL01009,Inconsistent review - 0624,High,Regulatory Review,2024-05-27,2024-07-07,2024-08-29,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00625,ENT109,CTL00966,Policy gap - 0625,High,Internal Audit,2024-05-27,2024-07-06,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00626,ENT002,CTL00396,Policy gap - 0626,Medium,Compliance Testing,2024-12-14,2025-04-04,2025-04-30,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00627,ENT070,CTL00711,Missing evidence - 0627,Medium,Risk Assessment,2025-10-04,2025-12-02,2025-12-07,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00628,ENT003,CTL00884,Policy gap - 0628,High,Compliance Testing,2026-10-10,2027-01-15,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00629,ENT059,CTL01034,Inconsistent review - 0629,Critical,Internal Audit,2024-06-15,2024-08-10,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00630,ENT049,CTL01571,Late remediation - 0630,Medium,Risk Assessment,2024-03-06,2024-06-26,2024-09-02,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00631,ENT082,CTL00755,Inconsistent review - 0631,Low,Regulatory Review,2026-08-06,2026-09-16,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00632,ENT076,CTL00269,Access exception - 0632,Medium,Regulatory Review,2026-04-12,2026-09-11,2026-10-29,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00633,ENT116,CTL01299,Policy gap - 0633,High,Regulatory Review,2026-09-22,2026-10-23,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00634,ENT027,CTL00320,Missing evidence - 0634,Low,Regulatory Review,2024-02-28,2024-06-29,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00635,ENT078,CTL01574,Inconsistent review - 0635,Low,Compliance Testing,2026-02-26,2026-07-04,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00636,ENT022,CTL01111,Access exception - 0636,Medium,Risk Assessment,2024-04-30,2024-08-05,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00637,ENT106,CTL01080,Late remediation - 0637,Medium,Compliance Testing,2024-01-07,2024-05-19,,Overdue,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00638,ENT010,CTL00065,Access exception - 0638,Medium,Compliance Testing,2024-06-06,2024-09-02,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00639,ENT062,CTL01416,Late remediation - 0639,Medium,Regulatory Review,2025-10-28,2026-01-19,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00640,ENT112,CTL00850,Inconsistent review - 0640,Medium,Internal Audit,2025-12-17,2026-01-19,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00641,ENT088,CTL00442,Missing evidence - 0641,Low,Regulatory Review,2025-08-19,2025-10-12,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00642,ENT108,CTL00128,Inconsistent review - 0642,High,Regulatory Review,2024-07-14,2024-12-15,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00643,ENT003,CTL00257,Missing evidence - 0643,High,Internal Audit,2025-06-10,2025-10-30,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00644,ENT103,CTL01381,Late remediation - 0644,Critical,Risk Assessment,2026-03-19,2026-04-23,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00645,ENT076,CTL01366,Late remediation - 0645,Critical,Regulatory Review,2024-01-14,2024-03-17,2024-03-23,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00646,ENT113,CTL00289,Access exception - 0646,High,Internal Audit,2026-11-04,2027-04-11,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00647,ENT043,CTL01150,Policy gap - 0647,Low,Compliance Testing,2025-04-26,2025-05-30,,Overdue,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00648,ENT049,CTL00463,Access exception - 0648,Medium,Regulatory Review,2026-05-17,2026-09-24,,Overdue,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00649,ENT012,CTL00762,Late remediation - 0649,Medium,Risk Assessment,2025-10-27,2025-12-05,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00650,ENT009,CTL00895,Policy gap - 0650,High,Internal Audit,2025-08-19,2025-12-26,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00651,ENT057,CTL00190,Policy gap - 0651,Critical,Regulatory Review,2024-05-13,2024-09-01,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00652,ENT008,CTL01431,Policy gap - 0652,High,Internal Audit,2026-05-31,2026-11-06,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00653,ENT099,CTL00646,Access exception - 0653,Low,Internal Audit,2026-06-14,2026-09-17,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00654,ENT029,CTL01436,Late remediation - 0654,Low,Compliance Testing,2024-10-01,2025-01-22,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00655,ENT071,CTL00073,Access exception - 0655,High,Regulatory Review,2024-07-03,2024-09-29,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00656,ENT048,CTL00683,Inconsistent review - 0656,High,Internal Audit,2026-03-11,2026-09-02,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00657,ENT072,CTL00779,Inconsistent review - 0657,Medium,Internal Audit,2024-06-13,2024-11-27,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00658,ENT119,CTL00131,Missing evidence - 0658,Low,Internal Audit,2026-05-27,2026-09-30,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00659,ENT045,CTL00188,Late remediation - 0659,High,Compliance Testing,2026-11-05,2026-12-22,2026-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00660,ENT070,CTL00877,Policy gap - 0660,Critical,Risk Assessment,2026-06-01,2026-09-22,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00661,ENT003,CTL00983,Late remediation - 0661,Medium,Internal Audit,2024-06-06,2024-11-24,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00662,ENT105,CTL00416,Policy gap - 0662,Critical,Compliance Testing,2026-08-08,2026-11-23,2026-11-24,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00663,ENT037,CTL01077,Late remediation - 0663,Critical,Compliance Testing,2024-12-06,2025-04-14,2025-05-23,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00664,ENT042,CTL01337,Late remediation - 0664,High,Compliance Testing,2024-11-23,2025-01-09,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00665,ENT059,CTL00792,Missing evidence - 0665,High,Compliance Testing,2025-02-27,2025-04-02,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00666,ENT076,CTL00466,Policy gap - 0666,Low,Risk Assessment,2026-06-28,2026-10-27,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00667,ENT095,CTL01209,Access exception - 0667,Medium,Compliance Testing,2025-08-30,2025-10-25,,Open,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00668,ENT062,CTL00559,Missing evidence - 0668,High,Regulatory Review,2024-09-15,2025-01-09,2025-02-27,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00669,ENT075,CTL00485,Missing evidence - 0669,Medium,Risk Assessment,2025-09-04,2025-10-24,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00670,ENT020,CTL01274,Access exception - 0670,High,Compliance Testing,2024-10-03,2025-02-05,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00671,ENT044,CTL00482,Policy gap - 0671,High,Compliance Testing,2024-05-25,2024-08-29,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00672,ENT113,CTL00223,Inconsistent review - 0672,High,Compliance Testing,2025-10-07,2026-03-21,2026-06-12,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00673,ENT002,CTL01288,Inconsistent review - 0673,Critical,Internal Audit,2025-12-13,2026-05-01,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00674,ENT086,CTL00424,Policy gap - 0674,Low,Internal Audit,2025-05-14,2025-10-17,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00675,ENT024,CTL00759,Inconsistent review - 0675,High,Internal Audit,2024-09-12,2024-12-05,2024-12-20,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00676,ENT014,CTL01173,Late remediation - 0676,High,Internal Audit,2026-11-23,2027-05-21,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00677,ENT062,CTL01232,Missing evidence - 0677,High,Internal Audit,2025-03-12,2025-06-06,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00678,ENT083,CTL01553,Late remediation - 0678,High,Regulatory Review,2026-05-15,2026-06-19,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00679,ENT118,CTL00545,Inconsistent review - 0679,High,Risk Assessment,2026-11-03,2027-01-02,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00680,ENT104,CTL00509,Access exception - 0680,Critical,Risk Assessment,2026-05-13,2026-07-27,,Overdue,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00681,ENT068,CTL01215,Policy gap - 0681,Critical,Regulatory Review,2026-07-14,2026-12-15,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00682,ENT064,CTL00858,Access exception - 0682,Medium,Compliance Testing,2024-04-15,2024-06-29,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00683,ENT084,CTL01298,Policy gap - 0683,Medium,Risk Assessment,2025-12-06,2026-06-01,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00684,ENT089,CTL00298,Late remediation - 0684,Critical,Regulatory Review,2025-01-15,2025-06-14,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00685,ENT033,CTL01312,Access exception - 0685,Critical,Internal Audit,2024-10-23,2024-12-31,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00686,ENT060,CTL01589,Inconsistent review - 0686,Low,Compliance Testing,2026-03-03,2026-08-18,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00687,ENT087,CTL00803,Access exception - 0687,Low,Regulatory Review,2024-08-08,2024-12-01,2025-02-25,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00688,ENT093,CTL00505,Access exception - 0688,Medium,Risk Assessment,2024-08-06,2024-11-13,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00689,ENT042,CTL00386,Inconsistent review - 0689,Low,Compliance Testing,2025-05-09,2025-09-23,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00690,ENT034,CTL01372,Missing evidence - 0690,Critical,Regulatory Review,2025-12-06,2026-04-28,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00691,ENT107,CTL01442,Access exception - 0691,Medium,Regulatory Review,2026-02-12,2026-06-26,2026-08-14,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00692,ENT067,CTL01421,Late remediation - 0692,Medium,Regulatory Review,2025-07-03,2025-12-29,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00693,ENT007,CTL00197,Access exception - 0693,Critical,Compliance Testing,2026-09-16,2026-10-27,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00694,ENT085,CTL01207,Policy gap - 0694,Critical,Regulatory Review,2025-03-14,2025-07-08,2025-08-21,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00695,ENT043,CTL01558,Late remediation - 0695,Medium,Internal Audit,2025-12-21,2026-03-05,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00696,ENT086,CTL00039,Access exception - 0696,Medium,Regulatory Review,2025-09-08,2025-12-20,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00697,ENT098,CTL00583,Access exception - 0697,Low,Risk Assessment,2024-05-15,2024-10-28,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00698,ENT052,CTL00889,Late remediation - 0698,Critical,Internal Audit,2024-09-23,2025-02-10,2025-04-15,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00699,ENT085,CTL00097,Inconsistent review - 0699,Low,Risk Assessment,2026-09-02,2026-11-30,2026-11-24,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00700,ENT111,CTL00868,Policy gap - 0700,Medium,Compliance Testing,2024-03-12,2024-08-08,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00701,ENT039,CTL00935,Missing evidence - 0701,Medium,Risk Assessment,2024-01-14,2024-07-07,2024-08-19,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00702,ENT015,CTL01588,Access exception - 0702,High,Internal Audit,2025-02-12,2025-05-05,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00703,ENT093,CTL01275,Policy gap - 0703,High,Internal Audit,2024-10-01,2025-03-04,2025-05-07,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00704,ENT046,CTL00298,Policy gap - 0704,Critical,Internal Audit,2025-04-25,2025-07-29,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00705,ENT043,CTL00347,Inconsistent review - 0705,Critical,Internal Audit,2025-10-17,2025-12-24,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00706,ENT090,CTL01409,Late remediation - 0706,Medium,Regulatory Review,2025-11-20,2026-04-19,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00707,ENT005,CTL01536,Missing evidence - 0707,Critical,Regulatory Review,2026-01-31,2026-05-15,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00708,ENT112,CTL00818,Inconsistent review - 0708,Medium,Internal Audit,2026-11-11,2027-01-24,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00709,ENT100,CTL01158,Policy gap - 0709,Low,Risk Assessment,2026-11-09,2027-04-27,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00710,ENT071,CTL00259,Policy gap - 0710,Critical,Risk Assessment,2024-06-01,2024-11-06,2024-11-19,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00711,ENT097,CTL01516,Late remediation - 0711,High,Regulatory Review,2024-08-13,2024-11-20,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00712,ENT090,CTL01221,Access exception - 0712,Low,Compliance Testing,2025-03-24,2025-07-01,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00713,ENT058,CTL01083,Policy gap - 0713,High,Risk Assessment,2024-08-01,2025-01-14,2025-02-18,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00714,ENT030,CTL00228,Access exception - 0714,Low,Compliance Testing,2026-08-13,2026-11-24,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00715,ENT034,CTL01410,Late remediation - 0715,Critical,Regulatory Review,2026-07-21,2026-10-10,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00716,ENT017,CTL01051,Missing evidence - 0716,High,Internal Audit,2025-05-22,2025-08-08,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00717,ENT046,CTL00899,Inconsistent review - 0717,Low,Regulatory Review,2025-07-07,2025-09-15,2025-12-08,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00718,ENT003,CTL01436,Access exception - 0718,Low,Internal Audit,2025-07-09,2025-09-03,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00719,ENT051,CTL00754,Late remediation - 0719,Critical,Regulatory Review,2025-07-06,2025-09-23,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00720,ENT017,CTL01552,Access exception - 0720,Medium,Risk Assessment,2026-11-01,2027-03-28,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00721,ENT108,CTL00008,Late remediation - 0721,Low,Risk Assessment,2024-02-01,2024-05-13,,Open,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00722,ENT053,CTL00832,Policy gap - 0722,Low,Regulatory Review,2024-01-10,2024-02-26,2024-05-09,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00723,ENT106,CTL01379,Inconsistent review - 0723,Low,Internal Audit,2025-01-18,2025-06-23,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00724,ENT110,CTL00086,Late remediation - 0724,Low,Compliance Testing,2026-10-08,2027-04-04,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00725,ENT064,CTL01433,Inconsistent review - 0725,Critical,Internal Audit,2026-11-13,2027-02-11,,Overdue,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00726,ENT116,CTL00575,Missing evidence - 0726,High,Internal Audit,2025-01-22,2025-06-04,2025-08-21,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00727,ENT102,CTL00810,Policy gap - 0727,Medium,Risk Assessment,2024-11-02,2025-03-08,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00728,ENT053,CTL01320,Access exception - 0728,Critical,Risk Assessment,2025-01-30,2025-04-15,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00729,ENT084,CTL01067,Access exception - 0729,Critical,Risk Assessment,2026-02-21,2026-07-20,2026-10-01,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00730,ENT034,CTL00059,Inconsistent review - 0730,High,Compliance Testing,2026-09-08,2026-12-20,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00731,ENT103,CTL00193,Access exception - 0731,High,Risk Assessment,2025-03-28,2025-08-20,2025-09-13,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00732,ENT065,CTL00504,Policy gap - 0732,High,Risk Assessment,2026-11-18,2027-01-02,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00733,ENT069,CTL01171,Policy gap - 0733,Low,Risk Assessment,2025-08-29,2025-10-06,2025-12-07,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00734,ENT068,CTL00645,Missing evidence - 0734,High,Compliance Testing,2025-11-20,2026-02-17,2026-02-18,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00735,ENT018,CTL01392,Late remediation - 0735,Critical,Risk Assessment,2024-06-24,2024-10-13,2024-12-01,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00736,ENT023,CTL01336,Missing evidence - 0736,High,Compliance Testing,2025-01-11,2025-03-20,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00737,ENT118,CTL01494,Inconsistent review - 0737,Low,Internal Audit,2024-06-21,2024-09-19,2024-09-26,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00738,ENT069,CTL00838,Access exception - 0738,High,Compliance Testing,2025-09-24,2025-10-26,2026-01-05,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00739,ENT042,CTL01202,Inconsistent review - 0739,High,Internal Audit,2026-01-20,2026-03-01,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00740,ENT089,CTL00614,Access exception - 0740,Critical,Compliance Testing,2024-09-30,2024-12-01,2024-12-06,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00741,ENT050,CTL00651,Policy gap - 0741,Critical,Risk Assessment,2024-07-25,2024-08-24,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00742,ENT075,CTL01543,Policy gap - 0742,Medium,Internal Audit,2025-01-20,2025-06-03,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00743,ENT108,CTL00373,Inconsistent review - 0743,Medium,Internal Audit,2024-08-11,2024-10-11,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00744,ENT086,CTL00160,Missing evidence - 0744,High,Compliance Testing,2024-12-04,2025-05-30,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00745,ENT025,CTL01184,Inconsistent review - 0745,Medium,Internal Audit,2024-11-19,2025-01-18,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00746,ENT024,CTL00353,Inconsistent review - 0746,Critical,Risk Assessment,2026-10-10,2027-01-07,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00747,ENT011,CTL01557,Missing evidence - 0747,Medium,Compliance Testing,2026-03-14,2026-05-06,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00748,ENT019,CTL00982,Late remediation - 0748,Medium,Compliance Testing,2024-07-07,2024-08-06,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00749,ENT070,CTL00506,Access exception - 0749,Critical,Risk Assessment,2024-06-30,2024-10-13,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00750,ENT091,CTL01242,Late remediation - 0750,Critical,Regulatory Review,2024-09-07,2025-03-02,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00751,ENT031,CTL01343,Missing evidence - 0751,Critical,Risk Assessment,2024-02-14,2024-04-11,,In Progress,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00752,ENT103,CTL01415,Policy gap - 0752,Critical,Internal Audit,2025-03-04,2025-05-02,2025-07-26,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00753,ENT015,CTL01147,Late remediation - 0753,High,Internal Audit,2024-01-03,2024-04-19,2024-06-10,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00754,ENT086,CTL01327,Missing evidence - 0754,Critical,Compliance Testing,2025-12-13,2026-04-19,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00755,ENT023,CTL00754,Inconsistent review - 0755,High,Regulatory Review,2026-10-10,2026-12-27,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00756,ENT048,CTL01306,Access exception - 0756,Low,Risk Assessment,2024-09-15,2024-10-28,2024-12-19,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00757,ENT094,CTL00872,Policy gap - 0757,Critical,Compliance Testing,2026-08-08,2026-10-01,2026-11-24,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00758,ENT040,CTL00045,Access exception - 0758,Low,Compliance Testing,2025-07-09,2025-08-12,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00759,ENT103,CTL00339,Access exception - 0759,Low,Internal Audit,2025-02-17,2025-05-21,2025-07-18,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00760,ENT026,CTL01123,Late remediation - 0760,Low,Regulatory Review,2024-02-03,2024-06-13,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00761,ENT074,CTL00280,Inconsistent review - 0761,Medium,Risk Assessment,2025-01-09,2025-02-23,2025-02-28,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00762,ENT002,CTL00878,Policy gap - 0762,Medium,Risk Assessment,2024-10-16,2025-02-26,2025-05-24,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00763,ENT013,CTL00267,Inconsistent review - 0763,Medium,Risk Assessment,2025-10-15,2026-03-04,2026-05-09,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00764,ENT080,CTL00681,Late remediation - 0764,High,Regulatory Review,2024-02-06,2024-06-19,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00765,ENT009,CTL00700,Policy gap - 0765,Medium,Regulatory Review,2025-08-02,2025-12-31,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00766,ENT013,CTL00349,Policy gap - 0766,Critical,Risk Assessment,2026-09-17,2026-11-23,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00767,ENT029,CTL01115,Access exception - 0767,High,Internal Audit,2025-07-08,2025-11-06,,Open,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00768,ENT082,CTL01035,Late remediation - 0768,High,Compliance Testing,2024-10-10,2025-02-23,2025-03-10,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00769,ENT092,CTL01409,Inconsistent review - 0769,Critical,Risk Assessment,2024-12-27,2025-02-07,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00770,ENT034,CTL00388,Access exception - 0770,Medium,Internal Audit,2025-11-23,2026-05-06,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00771,ENT069,CTL01262,Access exception - 0771,Critical,Regulatory Review,2026-01-03,2026-05-24,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00772,ENT033,CTL00515,Access exception - 0772,Medium,Compliance Testing,2025-05-14,2025-09-09,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00773,ENT003,CTL00554,Late remediation - 0773,Critical,Compliance Testing,2026-01-31,2026-05-12,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00774,ENT027,CTL01428,Late remediation - 0774,Medium,Risk Assessment,2024-05-28,2024-07-22,2024-08-25,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00775,ENT024,CTL01302,Late remediation - 0775,Medium,Regulatory Review,2026-11-17,2027-02-15,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00776,ENT020,CTL00008,Access exception - 0776,Medium,Risk Assessment,2026-06-16,2026-10-29,2026-10-31,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00777,ENT102,CTL01381,Policy gap - 0777,Medium,Internal Audit,2025-09-14,2026-02-04,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00778,ENT026,CTL00131,Missing evidence - 0778,Medium,Compliance Testing,2024-12-11,2025-05-19,2025-07-02,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00779,ENT022,CTL01033,Late remediation - 0779,Medium,Regulatory Review,2024-08-02,2024-10-01,2024-10-21,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00780,ENT014,CTL00771,Access exception - 0780,Medium,Regulatory Review,2024-06-20,2024-11-08,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00781,ENT115,CTL01393,Access exception - 0781,High,Compliance Testing,2026-05-22,2026-08-16,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00782,ENT075,CTL00605,Missing evidence - 0782,Low,Risk Assessment,2024-03-24,2024-05-13,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00783,ENT092,CTL00188,Access exception - 0783,Low,Regulatory Review,2026-04-06,2026-09-28,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00784,ENT044,CTL01392,Late remediation - 0784,Low,Compliance Testing,2024-10-25,2025-04-02,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00785,ENT097,CTL00208,Policy gap - 0785,Critical,Regulatory Review,2026-08-29,2027-01-23,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00786,ENT054,CTL00824,Access exception - 0786,Critical,Regulatory Review,2026-03-16,2026-07-04,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00787,ENT032,CTL00803,Missing evidence - 0787,Low,Internal Audit,2026-02-23,2026-06-24,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00788,ENT008,CTL00942,Late remediation - 0788,Low,Compliance Testing,2026-05-15,2026-11-07,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00789,ENT036,CTL00581,Inconsistent review - 0789,Low,Compliance Testing,2026-04-12,2026-06-20,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00790,ENT117,CTL00381,Late remediation - 0790,High,Regulatory Review,2025-10-08,2025-11-28,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00791,ENT099,CTL00594,Missing evidence - 0791,Low,Compliance Testing,2025-08-05,2025-12-26,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00792,ENT090,CTL00115,Missing evidence - 0792,Critical,Regulatory Review,2025-05-21,2025-10-04,2025-12-11,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00793,ENT062,CTL00580,Access exception - 0793,Critical,Compliance Testing,2026-02-23,2026-04-05,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00794,ENT120,CTL01359,Access exception - 0794,Medium,Internal Audit,2024-07-23,2024-12-09,2025-02-27,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00795,ENT051,CTL00783,Access exception - 0795,Low,Regulatory Review,2024-08-11,2025-01-18,2025-01-18,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00796,ENT086,CTL00627,Policy gap - 0796,Critical,Compliance Testing,2026-01-29,2026-06-23,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00797,ENT113,CTL00267,Late remediation - 0797,Low,Regulatory Review,2025-02-19,2025-05-03,2025-05-25,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00798,ENT064,CTL00459,Policy gap - 0798,Low,Risk Assessment,2024-07-20,2024-09-24,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00799,ENT054,CTL00115,Policy gap - 0799,Critical,Regulatory Review,2026-07-25,2026-10-22,,Overdue,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00800,ENT064,CTL01365,Inconsistent review - 0800,Low,Risk Assessment,2026-10-10,2026-12-20,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00801,ENT058,CTL00942,Policy gap - 0801,Low,Risk Assessment,2026-04-24,2026-06-12,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00802,ENT103,CTL00058,Inconsistent review - 0802,High,Regulatory Review,2026-08-19,2026-10-18,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00803,ENT092,CTL01193,Access exception - 0803,Medium,Regulatory Review,2024-09-17,2024-12-06,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00804,ENT035,CTL00555,Late remediation - 0804,High,Regulatory Review,2025-06-21,2025-08-12,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00805,ENT039,CTL00697,Policy gap - 0805,Critical,Compliance Testing,2024-05-29,2024-07-04,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00806,ENT067,CTL00453,Inconsistent review - 0806,Critical,Risk Assessment,2024-02-04,2024-07-08,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00807,ENT098,CTL00396,Inconsistent review - 0807,Critical,Risk Assessment,2026-05-05,2026-10-05,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00808,ENT077,CTL00118,Policy gap - 0808,Low,Compliance Testing,2025-02-12,2025-07-31,2025-09-08,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00809,ENT071,CTL00178,Missing evidence - 0809,Critical,Compliance Testing,2026-01-15,2026-05-31,2026-06-01,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00810,ENT107,CTL00437,Late remediation - 0810,Critical,Risk Assessment,2026-06-21,2026-10-20,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00811,ENT104,CTL00797,Missing evidence - 0811,Low,Regulatory Review,2025-08-30,2025-12-06,,Open,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00812,ENT083,CTL00814,Inconsistent review - 0812,Medium,Risk Assessment,2024-07-19,2024-10-08,2024-12-14,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00813,ENT025,CTL01541,Missing evidence - 0813,Medium,Internal Audit,2026-05-08,2026-06-29,2026-09-02,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00814,ENT118,CTL00980,Access exception - 0814,Low,Risk Assessment,2024-01-13,2024-05-02,2024-07-08,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00815,ENT033,CTL01209,Inconsistent review - 0815,Low,Internal Audit,2024-04-19,2024-07-01,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00816,ENT069,CTL00471,Access exception - 0816,Medium,Risk Assessment,2024-10-18,2025-03-14,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00817,ENT035,CTL01594,Late remediation - 0817,Critical,Risk Assessment,2025-11-20,2026-05-07,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00818,ENT057,CTL01212,Late remediation - 0818,Medium,Compliance Testing,2025-02-18,2025-04-04,,Overdue,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00819,ENT010,CTL00912,Late remediation - 0819,High,Risk Assessment,2025-07-21,2025-11-18,2026-01-04,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00820,ENT082,CTL00439,Missing evidence - 0820,Medium,Internal Audit,2026-04-02,2026-08-18,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00821,ENT067,CTL00897,Late remediation - 0821,Low,Compliance Testing,2024-06-20,2024-11-02,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00822,ENT059,CTL00407,Late remediation - 0822,Medium,Regulatory Review,2025-05-11,2025-07-30,2025-10-08,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00823,ENT032,CTL00683,Policy gap - 0823,Critical,Internal Audit,2026-03-18,2026-09-10,2026-09-24,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00824,ENT087,CTL00245,Policy gap - 0824,High,Compliance Testing,2024-03-10,2024-06-10,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00825,ENT094,CTL00489,Access exception - 0825,High,Compliance Testing,2025-10-20,2026-03-02,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00826,ENT058,CTL00661,Policy gap - 0826,Medium,Compliance Testing,2024-06-30,2024-09-12,,Open,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00827,ENT029,CTL00383,Late remediation - 0827,Low,Compliance Testing,2026-05-20,2026-06-19,,In Progress,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00828,ENT085,CTL00517,Access exception - 0828,Low,Risk Assessment,2026-11-12,2027-04-05,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00829,ENT042,CTL00103,Policy gap - 0829,Low,Internal Audit,2025-04-22,2025-06-21,2025-08-21,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00830,ENT002,CTL00894,Policy gap - 0830,Medium,Risk Assessment,2026-02-28,2026-04-09,,In Progress,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00831,ENT083,CTL00569,Access exception - 0831,Low,Internal Audit,2025-10-23,2026-04-21,2026-06-12,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00832,ENT087,CTL01318,Policy gap - 0832,High,Compliance Testing,2024-08-19,2024-12-19,2025-02-06,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00833,ENT053,CTL01378,Missing evidence - 0833,High,Compliance Testing,2024-06-15,2024-07-19,2024-08-15,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00834,ENT024,CTL00818,Policy gap - 0834,High,Regulatory Review,2025-01-23,2025-02-27,,Open,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00835,ENT037,CTL00081,Late remediation - 0835,Critical,Regulatory Review,2026-06-22,2026-09-18,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00836,ENT006,CTL01484,Access exception - 0836,High,Internal Audit,2025-02-08,2025-06-05,,Open,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00837,ENT019,CTL01528,Missing evidence - 0837,Medium,Compliance Testing,2026-11-05,2027-03-02,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00838,ENT043,CTL01077,Late remediation - 0838,High,Compliance Testing,2024-07-23,2024-09-10,2024-09-19,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00839,ENT113,CTL01015,Late remediation - 0839,Medium,Regulatory Review,2025-10-01,2026-01-02,2026-01-31,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00840,ENT103,CTL00989,Policy gap - 0840,Low,Compliance Testing,2025-06-25,2025-10-31,,In Progress,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00841,ENT027,CTL00428,Policy gap - 0841,Critical,Compliance Testing,2024-04-21,2024-05-27,2024-07-30,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00842,ENT102,CTL00551,Inconsistent review - 0842,Medium,Internal Audit,2026-10-08,2027-01-20,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00843,ENT110,CTL00063,Access exception - 0843,Medium,Risk Assessment,2024-12-08,2025-04-12,2025-05-26,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00844,ENT021,CTL01105,Policy gap - 0844,Medium,Compliance Testing,2025-05-18,2025-09-19,2025-10-01,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00845,ENT075,CTL00092,Access exception - 0845,Medium,Regulatory Review,2025-06-29,2025-09-26,2025-12-10,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00846,ENT094,CTL00476,Missing evidence - 0846,Critical,Regulatory Review,2025-06-24,2025-12-01,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00847,ENT117,CTL01464,Inconsistent review - 0847,High,Risk Assessment,2024-02-28,2024-07-26,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00848,ENT058,CTL01551,Access exception - 0848,High,Regulatory Review,2026-05-17,2026-06-18,,Overdue,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00849,ENT076,CTL00843,Access exception - 0849,Medium,Risk Assessment,2026-11-20,2027-02-19,2026-11-24,Closed,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00850,ENT088,CTL00017,Access exception - 0850,High,Regulatory Review,2025-03-18,2025-08-26,2025-09-24,Closed,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00851,ENT057,CTL00084,Access exception - 0851,Low,Internal Audit,2024-06-11,2024-10-18,,In Progress,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00852,ENT081,CTL00269,Late remediation - 0852,High,Risk Assessment,2025-09-26,2025-12-29,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00853,ENT024,CTL01119,Missing evidence - 0853,Low,Risk Assessment,2025-06-20,2025-12-15,,Open,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00854,ENT074,CTL01174,Inconsistent review - 0854,Critical,Internal Audit,2024-12-20,2025-02-12,2025-03-28,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00855,ENT114,CTL00819,Late remediation - 0855,Medium,Regulatory Review,2026-09-11,2027-01-18,2026-11-24,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00856,ENT120,CTL01502,Policy gap - 0856,Critical,Risk Assessment,2025-07-26,2025-09-15,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00857,ENT085,CTL01563,Access exception - 0857,Critical,Internal Audit,2026-10-18,2027-04-07,2026-11-24,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00858,ENT053,CTL00366,Access exception - 0858,Low,Compliance Testing,2025-02-01,2025-04-05,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00859,ENT024,CTL00849,Access exception - 0859,High,Risk Assessment,2025-11-27,2026-05-02,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00860,ENT071,CTL00438,Policy gap - 0860,Critical,Compliance Testing,2026-02-24,2026-07-11,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00861,ENT111,CTL01469,Inconsistent review - 0861,Medium,Risk Assessment,2024-07-16,2024-09-12,2024-11-22,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00862,ENT011,CTL01184,Late remediation - 0862,Medium,Risk Assessment,2026-01-03,2026-04-13,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00863,ENT091,CTL00136,Late remediation - 0863,Low,Compliance Testing,2024-07-26,2025-01-11,2025-04-09,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00864,ENT062,CTL01092,Late remediation - 0864,Critical,Compliance Testing,2026-05-08,2026-07-13,2026-08-10,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00865,ENT015,CTL00024,Inconsistent review - 0865,High,Compliance Testing,2024-02-26,2024-06-30,,In Progress,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00866,ENT078,CTL01451,Inconsistent review - 0866,High,Regulatory Review,2026-11-09,2026-12-14,,In Progress,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00867,ENT017,CTL01548,Policy gap - 0867,Medium,Internal Audit,2025-07-12,2025-09-28,2025-10-11,Closed,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00868,ENT018,CTL01525,Late remediation - 0868,Low,Internal Audit,2025-12-05,2026-05-30,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00869,ENT048,CTL00905,Policy gap - 0869,Low,Internal Audit,2024-05-24,2024-07-23,,In Progress,Jamie Garcia,Fictional audit or compliance finding for sample reporting.
+FND00870,ENT026,CTL00407,Late remediation - 0870,Critical,Regulatory Review,2024-08-26,2024-12-14,2025-01-01,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00871,ENT095,CTL01600,Missing evidence - 0871,Critical,Internal Audit,2026-08-09,2027-01-16,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00872,ENT072,CTL01459,Access exception - 0872,Critical,Compliance Testing,2025-04-17,2025-07-27,2025-09-20,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00873,ENT092,CTL00461,Access exception - 0873,Low,Risk Assessment,2024-04-03,2024-09-11,2024-12-01,Closed,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00874,ENT028,CTL01584,Late remediation - 0874,Medium,Risk Assessment,2026-02-06,2026-05-25,,Open,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00875,ENT109,CTL00743,Access exception - 0875,High,Regulatory Review,2024-01-03,2024-04-18,2024-06-06,Closed,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00876,ENT086,CTL00466,Late remediation - 0876,Low,Regulatory Review,2025-11-25,2026-04-14,,In Progress,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00877,ENT067,CTL01322,Inconsistent review - 0877,High,Risk Assessment,2024-06-05,2024-09-22,,Overdue,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00878,ENT111,CTL00386,Inconsistent review - 0878,Low,Risk Assessment,2025-02-13,2025-05-05,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00879,ENT067,CTL01152,Late remediation - 0879,Critical,Compliance Testing,2024-07-16,2024-10-30,,In Progress,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00880,ENT067,CTL00479,Access exception - 0880,Critical,Compliance Testing,2025-08-30,2025-11-03,2025-11-14,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00881,ENT061,CTL00527,Access exception - 0881,High,Regulatory Review,2026-11-04,2027-03-23,2026-11-24,Closed,Taylor Smith,Fictional audit or compliance finding for sample reporting.
+FND00882,ENT002,CTL01046,Policy gap - 0882,Critical,Internal Audit,2025-10-03,2025-12-09,2025-12-24,Closed,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00883,ENT007,CTL00874,Access exception - 0883,High,Internal Audit,2026-02-10,2026-04-21,,Overdue,Sam Johnson,Fictional audit or compliance finding for sample reporting.
+FND00884,ENT086,CTL00315,Access exception - 0884,Medium,Compliance Testing,2024-09-15,2024-11-22,,In Progress,Avery Brown,Fictional audit or compliance finding for sample reporting.
+FND00885,ENT054,CTL00078,Policy gap - 0885,Low,Risk Assessment,2024-11-09,2025-01-17,2025-02-19,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00886,ENT118,CTL00111,Inconsistent review - 0886,Low,Internal Audit,2026-04-29,2026-09-13,2026-11-08,Closed,Alex Morgan,Fictional audit or compliance finding for sample reporting.
+FND00887,ENT009,CTL00768,Access exception - 0887,Low,Risk Assessment,2024-04-14,2024-10-05,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00888,ENT117,CTL00265,Access exception - 0888,Low,Risk Assessment,2026-11-05,2027-04-19,,Overdue,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00889,ENT027,CTL00974,Missing evidence - 0889,Medium,Regulatory Review,2026-07-28,2026-09-19,,Overdue,Drew Martin,Fictional audit or compliance finding for sample reporting.
+FND00890,ENT014,CTL01120,Missing evidence - 0890,Low,Risk Assessment,2024-05-08,2024-10-05,2024-12-08,Closed,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00891,ENT047,CTL00880,Inconsistent review - 0891,High,Compliance Testing,2024-09-01,2025-02-13,2025-04-13,Closed,Cameron Wilson,Fictional audit or compliance finding for sample reporting.
+FND00892,ENT035,CTL00139,Late remediation - 0892,Medium,Regulatory Review,2024-04-26,2024-10-01,2024-10-11,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00893,ENT110,CTL00020,Missing evidence - 0893,Critical,Risk Assessment,2026-04-03,2026-06-17,2026-08-18,Closed,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00894,ENT101,CTL00092,Policy gap - 0894,Medium,Regulatory Review,2024-05-23,2024-11-15,2025-01-20,Closed,Morgan Davis,Fictional audit or compliance finding for sample reporting.
+FND00895,ENT103,CTL00910,Missing evidence - 0895,Low,Internal Audit,2024-03-19,2024-05-02,,Open,Riley Chen,Fictional audit or compliance finding for sample reporting.
+FND00896,ENT055,CTL00291,Policy gap - 0896,Medium,Compliance Testing,2025-02-24,2025-08-23,,Open,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00897,ENT061,CTL01329,Policy gap - 0897,High,Compliance Testing,2026-11-02,2027-01-20,,In Progress,Jordan Lee,Fictional audit or compliance finding for sample reporting.
+FND00898,ENT093,CTL00191,Inconsistent review - 0898,Low,Internal Audit,2025-07-17,2025-12-14,,Open,Robin Clark,Fictional audit or compliance finding for sample reporting.
+FND00899,ENT048,CTL00264,Policy gap - 0899,Low,Compliance Testing,2026-04-13,2026-06-22,,Overdue,Casey Patel,Fictional audit or compliance finding for sample reporting.
+FND00900,ENT050,CTL00476,Access exception - 0900,High,Internal Audit,2024-10-01,2024-11-13,,Overdue,Riley Chen,Fictional audit or compliance finding for sample reporting.

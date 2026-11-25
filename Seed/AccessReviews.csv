@@ -1,0 +1,1501 @@
+﻿AccessReviewID,EntityID,ReviewPeriod,ApplicationName,UserPopulation,Reviewer,ReviewDate,ExceptionsIdentified,ExceptionsResolved,ReviewStatus,CertificationStatus
+ARV00001,ENT048,2025-Q2,Finance ERP,894,Riley Chen,2025-04-01,0,10,In Progress,Certified with Exceptions
+ARV00002,ENT058,2025-Q2,Identity Management,465,Alex Morgan,2025-04-20,11,4,Overdue,Rejected
+ARV00003,ENT115,2025-Q3,Finance ERP,277,Drew Martin,2025-07-25,12,8,Not Started,Certified
+ARV00004,ENT094,2025-Q2,Client Data Hub,1003,Drew Martin,2025-05-24,12,0,Overdue,Pending
+ARV00005,ENT020,2025-Q4,HR Platform,190,Avery Brown,2025-10-15,10,0,In Progress,Rejected
+ARV00006,ENT060,2026-Q3,HR Platform,221,Sam Johnson,2026-09-20,11,12,Not Started,Rejected
+ARV00007,ENT093,2024-Q4,Identity Management,949,Cameron Wilson,2024-11-11,2,12,Not Started,Pending
+ARV00008,ENT002,2024-Q2,Risk Analytics,438,Jordan Lee,2024-04-07,11,2,In Progress,Pending
+ARV00009,ENT112,2025-Q3,Identity Management,492,Jamie Garcia,2025-08-03,6,2,Overdue,Certified with Exceptions
+ARV00010,ENT080,2026-Q1,Client Data Hub,250,Cameron Wilson,2026-02-09,3,2,In Progress,Pending
+ARV00011,ENT026,2024-Q1,HR Platform,164,Morgan Davis,2024-01-12,5,9,Overdue,Certified with Exceptions
+ARV00012,ENT020,2025-Q1,Identity Management,499,Jordan Lee,2025-03-12,5,9,Completed,Certified
+ARV00013,ENT046,2024-Q3,Identity Management,706,Alex Morgan,2024-07-10,10,7,Not Started,Certified with Exceptions
+ARV00014,ENT021,2026-Q4,Finance ERP,121,Robin Clark,2026-11-06,8,9,Completed,Rejected
+ARV00015,ENT002,2026-Q4,Identity Management,1164,Morgan Davis,2026-11-24,0,0,Completed,Certified with Exceptions
+ARV00016,ENT068,2024-Q3,Finance ERP,473,Taylor Smith,2024-07-24,0,3,Not Started,Certified
+ARV00017,ENT073,2026-Q1,Finance ERP,411,Casey Patel,2026-03-20,7,4,Not Started,Certified
+ARV00018,ENT022,2026-Q2,Identity Management,23,Avery Brown,2026-04-03,2,12,Completed,Rejected
+ARV00019,ENT078,2025-Q2,Risk Analytics,607,Riley Chen,2025-05-25,12,6,Not Started,Certified
+ARV00020,ENT082,2024-Q3,Finance ERP,340,Casey Patel,2024-08-19,1,9,In Progress,Rejected
+ARV00021,ENT075,2026-Q4,Finance ERP,574,Riley Chen,2026-10-30,6,0,Completed,Rejected
+ARV00022,ENT074,2024-Q2,Identity Management,537,Drew Martin,2024-06-15,2,3,Overdue,Certified with Exceptions
+ARV00023,ENT008,2024-Q4,Client Data Hub,450,Sam Johnson,2024-12-28,12,0,Overdue,Rejected
+ARV00024,ENT068,2024-Q1,Compliance Portal,681,Alex Morgan,2024-03-10,1,4,Overdue,Certified with Exceptions
+ARV00025,ENT001,2024-Q3,Finance ERP,157,Sam Johnson,2024-07-20,6,7,Completed,Pending
+ARV00026,ENT114,2024-Q3,HR Platform,170,Alex Morgan,2024-08-03,7,5,In Progress,Pending
+ARV00027,ENT026,2025-Q4,Risk Analytics,621,Sam Johnson,2025-12-26,2,11,In Progress,Rejected
+ARV00028,ENT048,2025-Q1,Client Data Hub,732,Morgan Davis,2025-03-06,8,4,Completed,Certified with Exceptions
+ARV00029,ENT082,2025-Q1,Client Data Hub,655,Taylor Smith,2025-01-02,4,9,Completed,Pending
+ARV00030,ENT100,2026-Q4,Compliance Portal,836,Jordan Lee,2026-11-22,8,9,Overdue,Rejected
+ARV00031,ENT042,2025-Q4,Compliance Portal,921,Casey Patel,2025-11-23,9,8,In Progress,Certified
+ARV00032,ENT011,2026-Q2,Finance ERP,385,Avery Brown,2026-05-22,9,2,Overdue,Certified with Exceptions
+ARV00033,ENT049,2024-Q3,Identity Management,182,Jordan Lee,2024-09-22,5,0,Not Started,Certified
+ARV00034,ENT054,2024-Q3,HR Platform,316,Jordan Lee,2024-09-16,7,1,Completed,Pending
+ARV00035,ENT049,2026-Q3,Compliance Portal,448,Alex Morgan,2026-08-09,1,5,Not Started,Certified
+ARV00036,ENT043,2025-Q4,Client Data Hub,94,Jordan Lee,2025-12-28,4,3,Completed,Certified with Exceptions
+ARV00037,ENT099,2026-Q2,Risk Analytics,821,Avery Brown,2026-06-25,10,9,Completed,Certified with Exceptions
+ARV00038,ENT036,2025-Q3,Finance ERP,594,Taylor Smith,2025-07-16,11,8,In Progress,Certified with Exceptions
+ARV00039,ENT033,2024-Q4,Finance ERP,104,Drew Martin,2024-12-12,5,4,Completed,Certified
+ARV00040,ENT119,2026-Q4,Compliance Portal,278,Drew Martin,2026-11-06,7,9,Not Started,Rejected
+ARV00041,ENT051,2025-Q3,HR Platform,861,Casey Patel,2025-08-29,11,3,In Progress,Certified
+ARV00042,ENT026,2024-Q4,Compliance Portal,871,Taylor Smith,2024-11-19,1,2,Not Started,Pending
+ARV00043,ENT011,2025-Q3,Finance ERP,700,Morgan Davis,2025-09-28,1,6,In Progress,Rejected
+ARV00044,ENT060,2024-Q4,Identity Management,160,Jamie Garcia,2024-11-06,1,10,Not Started,Certified with Exceptions
+ARV00045,ENT120,2025-Q3,Identity Management,875,Jordan Lee,2025-07-25,7,4,Not Started,Pending
+ARV00046,ENT071,2026-Q3,Risk Analytics,1051,Taylor Smith,2026-07-13,0,7,Overdue,Certified with Exceptions
+ARV00047,ENT008,2026-Q4,Compliance Portal,987,Alex Morgan,2026-10-18,4,12,Not Started,Pending
+ARV00048,ENT069,2025-Q1,Risk Analytics,966,Jordan Lee,2025-02-17,5,3,Completed,Certified with Exceptions
+ARV00049,ENT063,2026-Q2,HR Platform,249,Avery Brown,2026-05-05,4,12,Completed,Rejected
+ARV00050,ENT059,2025-Q2,HR Platform,231,Taylor Smith,2025-06-01,1,11,In Progress,Rejected
+ARV00051,ENT020,2025-Q4,Identity Management,876,Avery Brown,2025-12-16,3,4,Not Started,Pending
+ARV00052,ENT112,2025-Q1,Risk Analytics,234,Avery Brown,2025-01-25,12,8,Overdue,Certified
+ARV00053,ENT106,2026-Q2,Risk Analytics,532,Avery Brown,2026-05-20,11,5,Not Started,Certified
+ARV00054,ENT108,2024-Q3,Compliance Portal,979,Robin Clark,2024-08-09,11,5,Overdue,Certified
+ARV00055,ENT048,2026-Q3,Identity Management,898,Jordan Lee,2026-07-19,10,4,In Progress,Certified with Exceptions
+ARV00056,ENT030,2025-Q3,HR Platform,1140,Taylor Smith,2025-07-17,0,9,Not Started,Rejected
+ARV00057,ENT017,2024-Q4,HR Platform,687,Casey Patel,2024-11-11,4,11,In Progress,Certified with Exceptions
+ARV00058,ENT016,2025-Q2,Risk Analytics,339,Robin Clark,2025-04-01,8,6,Not Started,Rejected
+ARV00059,ENT028,2024-Q4,Compliance Portal,1183,Cameron Wilson,2024-12-02,10,9,Not Started,Certified
+ARV00060,ENT079,2025-Q2,Identity Management,596,Avery Brown,2025-05-12,5,8,Overdue,Certified with Exceptions
+ARV00061,ENT039,2025-Q2,HR Platform,331,Robin Clark,2025-06-16,8,0,Completed,Pending
+ARV00062,ENT087,2024-Q1,Identity Management,598,Morgan Davis,2024-01-29,1,7,Not Started,Certified
+ARV00063,ENT090,2024-Q3,Client Data Hub,172,Morgan Davis,2024-08-10,12,4,Overdue,Pending
+ARV00064,ENT007,2026-Q1,HR Platform,808,Taylor Smith,2026-02-02,3,6,Completed,Rejected
+ARV00065,ENT105,2026-Q2,Identity Management,352,Jamie Garcia,2026-05-03,3,7,Overdue,Certified
+ARV00066,ENT049,2026-Q4,Risk Analytics,686,Drew Martin,2026-10-25,6,4,Not Started,Pending
+ARV00067,ENT103,2024-Q4,Finance ERP,692,Avery Brown,2024-10-09,2,4,Overdue,Rejected
+ARV00068,ENT092,2026-Q1,Compliance Portal,595,Jamie Garcia,2026-03-16,4,3,Not Started,Certified with Exceptions
+ARV00069,ENT001,2026-Q2,Finance ERP,21,Riley Chen,2026-06-22,6,6,Not Started,Certified
+ARV00070,ENT093,2026-Q1,Risk Analytics,355,Taylor Smith,2026-01-10,11,6,Completed,Certified with Exceptions
+ARV00071,ENT104,2025-Q3,Client Data Hub,248,Casey Patel,2025-09-06,0,5,In Progress,Certified
+ARV00072,ENT051,2025-Q3,Risk Analytics,73,Robin Clark,2025-07-02,9,1,Completed,Rejected
+ARV00073,ENT095,2024-Q1,Client Data Hub,905,Drew Martin,2024-01-29,3,5,Overdue,Certified
+ARV00074,ENT091,2024-Q1,HR Platform,198,Jordan Lee,2024-02-17,4,11,Completed,Certified
+ARV00075,ENT041,2025-Q4,Identity Management,231,Jamie Garcia,2025-10-03,7,3,In Progress,Certified with Exceptions
+ARV00076,ENT077,2026-Q3,Finance ERP,618,Drew Martin,2026-07-22,8,3,Overdue,Rejected
+ARV00077,ENT109,2025-Q2,HR Platform,993,Avery Brown,2025-04-30,0,3,Not Started,Certified
+ARV00078,ENT103,2025-Q1,HR Platform,1052,Cameron Wilson,2025-03-27,12,10,Not Started,Pending
+ARV00079,ENT113,2024-Q4,Compliance Portal,979,Jamie Garcia,2024-10-07,12,8,Not Started,Pending
+ARV00080,ENT120,2025-Q1,Client Data Hub,564,Casey Patel,2025-01-05,7,9,Not Started,Rejected
+ARV00081,ENT094,2025-Q4,HR Platform,708,Riley Chen,2025-11-21,2,1,Not Started,Certified
+ARV00082,ENT098,2024-Q3,Client Data Hub,1096,Riley Chen,2024-08-31,11,9,Overdue,Certified with Exceptions
+ARV00083,ENT110,2026-Q1,HR Platform,655,Robin Clark,2026-02-13,9,4,Overdue,Certified
+ARV00084,ENT042,2025-Q1,Client Data Hub,767,Sam Johnson,2025-03-08,10,10,Overdue,Certified
+ARV00085,ENT036,2025-Q4,Risk Analytics,264,Jordan Lee,2025-11-19,11,4,Completed,Certified
+ARV00086,ENT011,2024-Q1,Identity Management,1114,Avery Brown,2024-01-14,10,2,Not Started,Certified
+ARV00087,ENT045,2025-Q3,Client Data Hub,218,Casey Patel,2025-09-21,7,3,In Progress,Rejected
+ARV00088,ENT106,2026-Q1,Client Data Hub,785,Sam Johnson,2026-02-22,11,9,Completed,Certified with Exceptions
+ARV00089,ENT099,2026-Q3,Risk Analytics,28,Casey Patel,2026-08-25,9,4,Not Started,Certified with Exceptions
+ARV00090,ENT091,2024-Q3,HR Platform,694,Riley Chen,2024-08-10,9,7,Completed,Rejected
+ARV00091,ENT045,2024-Q3,Compliance Portal,1177,Sam Johnson,2024-07-14,12,7,Not Started,Rejected
+ARV00092,ENT040,2024-Q2,Finance ERP,333,Cameron Wilson,2024-05-02,6,7,Overdue,Certified
+ARV00093,ENT054,2024-Q1,Client Data Hub,509,Jordan Lee,2024-03-02,9,8,Overdue,Certified
+ARV00094,ENT107,2025-Q3,Client Data Hub,1108,Cameron Wilson,2025-07-06,2,5,Overdue,Rejected
+ARV00095,ENT088,2026-Q2,Finance ERP,399,Cameron Wilson,2026-05-11,10,2,Overdue,Certified
+ARV00096,ENT108,2024-Q4,Identity Management,945,Robin Clark,2024-10-31,12,2,Not Started,Pending
+ARV00097,ENT114,2024-Q1,Client Data Hub,656,Avery Brown,2024-03-18,12,0,Not Started,Certified
+ARV00098,ENT033,2025-Q3,Identity Management,187,Sam Johnson,2025-08-18,6,10,Completed,Rejected
+ARV00099,ENT090,2025-Q1,Finance ERP,328,Avery Brown,2025-01-25,11,5,Not Started,Pending
+ARV00100,ENT114,2025-Q1,HR Platform,41,Morgan Davis,2025-01-26,0,0,Completed,Pending
+ARV00101,ENT086,2025-Q1,Client Data Hub,708,Drew Martin,2025-03-21,6,11,Completed,Rejected
+ARV00102,ENT044,2025-Q3,Compliance Portal,559,Robin Clark,2025-07-25,10,2,In Progress,Certified with Exceptions
+ARV00103,ENT028,2026-Q2,Finance ERP,873,Robin Clark,2026-06-14,9,4,In Progress,Pending
+ARV00104,ENT057,2024-Q4,Identity Management,894,Drew Martin,2024-10-01,11,10,In Progress,Certified with Exceptions
+ARV00105,ENT120,2024-Q3,Compliance Portal,285,Drew Martin,2024-07-31,11,9,Overdue,Rejected
+ARV00106,ENT011,2026-Q3,Risk Analytics,92,Cameron Wilson,2026-07-13,8,5,Overdue,Certified
+ARV00107,ENT072,2026-Q4,HR Platform,905,Riley Chen,2026-11-12,9,12,Completed,Pending
+ARV00108,ENT011,2025-Q1,Compliance Portal,649,Avery Brown,2025-01-10,2,4,Not Started,Certified with Exceptions
+ARV00109,ENT028,2024-Q1,HR Platform,639,Morgan Davis,2024-03-09,8,11,Overdue,Certified
+ARV00110,ENT076,2025-Q3,HR Platform,105,Cameron Wilson,2025-07-17,9,4,In Progress,Rejected
+ARV00111,ENT111,2026-Q2,Client Data Hub,626,Avery Brown,2026-04-21,10,0,Overdue,Pending
+ARV00112,ENT088,2026-Q3,Finance ERP,1189,Jamie Garcia,2026-08-26,1,3,Completed,Rejected
+ARV00113,ENT077,2026-Q1,Client Data Hub,124,Avery Brown,2026-01-08,1,3,Completed,Certified
+ARV00114,ENT113,2024-Q4,Risk Analytics,1061,Avery Brown,2024-11-12,8,5,In Progress,Rejected
+ARV00115,ENT089,2024-Q3,Risk Analytics,566,Riley Chen,2024-09-30,0,6,Overdue,Certified with Exceptions
+ARV00116,ENT113,2026-Q1,Risk Analytics,170,Avery Brown,2026-01-29,1,7,Completed,Certified
+ARV00117,ENT071,2026-Q4,HR Platform,312,Jordan Lee,2026-11-09,3,1,Not Started,Certified with Exceptions
+ARV00118,ENT030,2026-Q1,Risk Analytics,163,Casey Patel,2026-02-07,2,10,Completed,Certified
+ARV00119,ENT006,2024-Q3,Identity Management,704,Drew Martin,2024-08-02,4,0,Not Started,Pending
+ARV00120,ENT080,2025-Q4,Finance ERP,466,Casey Patel,2025-12-27,4,6,Not Started,Certified
+ARV00121,ENT048,2026-Q3,Client Data Hub,432,Jamie Garcia,2026-07-28,10,4,Completed,Pending
+ARV00122,ENT008,2024-Q4,HR Platform,814,Drew Martin,2024-12-24,5,6,In Progress,Certified
+ARV00123,ENT080,2025-Q3,Identity Management,602,Robin Clark,2025-07-10,10,6,Completed,Certified
+ARV00124,ENT020,2026-Q4,HR Platform,465,Drew Martin,2026-11-11,8,8,Overdue,Certified with Exceptions
+ARV00125,ENT061,2026-Q3,HR Platform,232,Jordan Lee,2026-08-19,8,3,Completed,Pending
+ARV00126,ENT114,2024-Q2,Risk Analytics,1006,Morgan Davis,2024-06-23,10,3,Completed,Rejected
+ARV00127,ENT022,2024-Q1,Compliance Portal,1044,Robin Clark,2024-02-06,6,12,Completed,Certified with Exceptions
+ARV00128,ENT007,2025-Q3,Finance ERP,276,Drew Martin,2025-07-29,11,2,Overdue,Certified
+ARV00129,ENT054,2025-Q2,HR Platform,150,Riley Chen,2025-05-01,11,10,Overdue,Pending
+ARV00130,ENT085,2026-Q2,Risk Analytics,1163,Sam Johnson,2026-05-09,12,6,In Progress,Certified
+ARV00131,ENT040,2026-Q2,Identity Management,1019,Alex Morgan,2026-04-18,4,11,Completed,Certified
+ARV00132,ENT047,2024-Q3,Client Data Hub,877,Drew Martin,2024-09-04,5,5,In Progress,Certified with Exceptions
+ARV00133,ENT099,2024-Q2,Identity Management,222,Robin Clark,2024-06-24,1,10,In Progress,Pending
+ARV00134,ENT107,2026-Q1,Compliance Portal,1090,Sam Johnson,2026-03-15,8,0,Not Started,Certified
+ARV00135,ENT064,2024-Q2,Client Data Hub,1028,Casey Patel,2024-04-19,0,9,In Progress,Certified with Exceptions
+ARV00136,ENT119,2024-Q4,HR Platform,1098,Taylor Smith,2024-12-29,1,10,Completed,Certified with Exceptions
+ARV00137,ENT016,2025-Q4,HR Platform,421,Riley Chen,2025-12-18,10,8,Overdue,Certified
+ARV00138,ENT059,2024-Q3,Identity Management,503,Taylor Smith,2024-08-11,2,5,Not Started,Certified
+ARV00139,ENT057,2026-Q3,Identity Management,210,Cameron Wilson,2026-07-16,5,0,Not Started,Pending
+ARV00140,ENT014,2026-Q3,Risk Analytics,1039,Casey Patel,2026-07-20,2,0,In Progress,Rejected
+ARV00141,ENT002,2026-Q3,Finance ERP,615,Drew Martin,2026-09-09,11,8,Not Started,Certified
+ARV00142,ENT107,2025-Q1,Client Data Hub,1104,Robin Clark,2025-02-20,4,12,Overdue,Pending
+ARV00143,ENT061,2026-Q2,Risk Analytics,974,Jamie Garcia,2026-04-12,10,3,Completed,Pending
+ARV00144,ENT016,2025-Q1,Risk Analytics,225,Robin Clark,2025-03-03,9,2,In Progress,Certified with Exceptions
+ARV00145,ENT023,2025-Q2,Identity Management,633,Robin Clark,2025-04-10,7,12,Completed,Certified
+ARV00146,ENT007,2025-Q4,Finance ERP,896,Avery Brown,2025-12-22,1,5,Not Started,Rejected
+ARV00147,ENT027,2026-Q1,Identity Management,688,Jamie Garcia,2026-02-26,8,8,Completed,Certified
+ARV00148,ENT005,2026-Q4,HR Platform,559,Cameron Wilson,2026-10-04,10,2,Completed,Pending
+ARV00149,ENT047,2024-Q1,Compliance Portal,1028,Casey Patel,2024-01-22,2,11,Not Started,Rejected
+ARV00150,ENT026,2024-Q2,Compliance Portal,871,Taylor Smith,2024-04-30,10,5,Not Started,Certified with Exceptions
+ARV00151,ENT017,2025-Q1,Client Data Hub,69,Drew Martin,2025-02-21,12,1,Overdue,Pending
+ARV00152,ENT021,2026-Q4,Compliance Portal,709,Cameron Wilson,2026-11-22,3,1,Not Started,Certified
+ARV00153,ENT037,2026-Q1,Risk Analytics,101,Drew Martin,2026-03-05,1,3,In Progress,Certified
+ARV00154,ENT114,2026-Q4,Client Data Hub,370,Jamie Garcia,2026-10-10,11,2,In Progress,Rejected
+ARV00155,ENT045,2024-Q2,Compliance Portal,753,Casey Patel,2024-04-21,12,12,In Progress,Certified with Exceptions
+ARV00156,ENT106,2025-Q3,Identity Management,779,Sam Johnson,2025-09-11,11,8,Completed,Certified with Exceptions
+ARV00157,ENT092,2025-Q4,Client Data Hub,848,Drew Martin,2025-10-31,9,11,Overdue,Certified with Exceptions
+ARV00158,ENT078,2026-Q3,HR Platform,729,Jordan Lee,2026-09-03,12,0,Not Started,Rejected
+ARV00159,ENT039,2024-Q2,Client Data Hub,367,Cameron Wilson,2024-06-25,11,8,Overdue,Pending
+ARV00160,ENT116,2024-Q3,Identity Management,1176,Morgan Davis,2024-07-06,10,5,In Progress,Pending
+ARV00161,ENT045,2025-Q1,Compliance Portal,729,Taylor Smith,2025-02-19,3,8,Overdue,Certified with Exceptions
+ARV00162,ENT015,2025-Q3,Client Data Hub,274,Jordan Lee,2025-08-23,11,1,Completed,Pending
+ARV00163,ENT045,2026-Q3,Risk Analytics,1184,Robin Clark,2026-08-04,11,4,In Progress,Certified with Exceptions
+ARV00164,ENT118,2025-Q2,Compliance Portal,233,Casey Patel,2025-05-19,2,4,In Progress,Rejected
+ARV00165,ENT089,2024-Q4,Identity Management,1122,Drew Martin,2024-12-02,11,3,Not Started,Pending
+ARV00166,ENT015,2025-Q4,Client Data Hub,681,Robin Clark,2025-12-16,4,5,Not Started,Certified
+ARV00167,ENT029,2025-Q4,Client Data Hub,802,Jordan Lee,2025-12-16,9,7,In Progress,Rejected
+ARV00168,ENT104,2025-Q2,Finance ERP,1000,Jamie Garcia,2025-06-18,10,10,Overdue,Rejected
+ARV00169,ENT001,2026-Q3,Client Data Hub,563,Drew Martin,2026-09-17,1,2,Completed,Certified
+ARV00170,ENT025,2024-Q3,Compliance Portal,1069,Sam Johnson,2024-09-23,6,6,In Progress,Rejected
+ARV00171,ENT004,2024-Q4,Finance ERP,863,Drew Martin,2024-12-27,11,8,Not Started,Certified
+ARV00172,ENT073,2024-Q2,HR Platform,911,Jamie Garcia,2024-05-13,11,7,Completed,Rejected
+ARV00173,ENT028,2024-Q4,HR Platform,440,Avery Brown,2024-10-05,9,7,Completed,Certified with Exceptions
+ARV00174,ENT112,2024-Q1,HR Platform,1007,Jordan Lee,2024-02-19,10,5,Completed,Certified with Exceptions
+ARV00175,ENT112,2025-Q1,HR Platform,904,Drew Martin,2025-03-22,0,1,Not Started,Certified with Exceptions
+ARV00176,ENT101,2026-Q2,HR Platform,1039,Jamie Garcia,2026-05-10,2,7,Overdue,Certified with Exceptions
+ARV00177,ENT007,2026-Q1,Finance ERP,96,Taylor Smith,2026-03-30,1,9,Completed,Certified with Exceptions
+ARV00178,ENT088,2025-Q3,Finance ERP,847,Sam Johnson,2025-09-06,4,4,Not Started,Rejected
+ARV00179,ENT111,2024-Q4,Compliance Portal,1136,Drew Martin,2024-11-17,3,2,In Progress,Certified
+ARV00180,ENT058,2025-Q2,Identity Management,637,Sam Johnson,2025-06-17,8,7,Overdue,Certified
+ARV00181,ENT048,2024-Q4,Finance ERP,447,Jordan Lee,2024-10-20,4,7,Overdue,Pending
+ARV00182,ENT087,2024-Q1,Client Data Hub,194,Avery Brown,2024-02-20,4,7,In Progress,Certified with Exceptions
+ARV00183,ENT095,2026-Q1,Client Data Hub,602,Avery Brown,2026-03-19,1,8,In Progress,Pending
+ARV00184,ENT036,2025-Q4,Client Data Hub,622,Avery Brown,2025-12-24,2,5,Overdue,Certified with Exceptions
+ARV00185,ENT105,2026-Q2,Compliance Portal,774,Morgan Davis,2026-05-18,6,0,Overdue,Certified with Exceptions
+ARV00186,ENT025,2025-Q1,Identity Management,303,Morgan Davis,2025-02-16,1,6,Completed,Certified with Exceptions
+ARV00187,ENT091,2024-Q1,Client Data Hub,1130,Casey Patel,2024-02-21,1,11,In Progress,Certified with Exceptions
+ARV00188,ENT117,2025-Q4,Finance ERP,508,Riley Chen,2025-12-02,1,3,Overdue,Certified
+ARV00189,ENT064,2024-Q2,Client Data Hub,972,Jordan Lee,2024-04-02,5,1,Overdue,Certified with Exceptions
+ARV00190,ENT111,2026-Q1,Risk Analytics,1145,Robin Clark,2026-01-17,6,2,Completed,Rejected
+ARV00191,ENT117,2024-Q1,Finance ERP,1055,Avery Brown,2024-03-20,12,8,Completed,Certified with Exceptions
+ARV00192,ENT095,2024-Q4,Identity Management,182,Jordan Lee,2024-12-23,1,1,In Progress,Rejected
+ARV00193,ENT078,2025-Q3,Finance ERP,772,Sam Johnson,2025-09-14,8,2,Not Started,Certified with Exceptions
+ARV00194,ENT036,2026-Q1,Identity Management,1091,Jamie Garcia,2026-01-21,5,11,In Progress,Certified
+ARV00195,ENT071,2025-Q4,Identity Management,390,Riley Chen,2025-12-30,12,5,Overdue,Certified
+ARV00196,ENT117,2025-Q1,Risk Analytics,213,Jamie Garcia,2025-01-20,12,3,Completed,Rejected
+ARV00197,ENT093,2025-Q2,HR Platform,729,Drew Martin,2025-04-30,11,9,Overdue,Rejected
+ARV00198,ENT118,2025-Q4,Finance ERP,290,Robin Clark,2025-12-09,11,2,Overdue,Certified with Exceptions
+ARV00199,ENT064,2026-Q2,Risk Analytics,1076,Riley Chen,2026-05-08,8,2,In Progress,Pending
+ARV00200,ENT110,2024-Q3,Finance ERP,579,Taylor Smith,2024-07-04,0,10,Not Started,Certified
+ARV00201,ENT107,2024-Q1,Finance ERP,729,Jamie Garcia,2024-03-21,3,3,Completed,Certified
+ARV00202,ENT081,2026-Q3,Compliance Portal,1039,Jamie Garcia,2026-08-26,10,4,Overdue,Certified with Exceptions
+ARV00203,ENT085,2024-Q4,HR Platform,1200,Casey Patel,2024-12-19,3,0,Not Started,Pending
+ARV00204,ENT021,2025-Q1,HR Platform,1145,Drew Martin,2025-01-26,3,1,Completed,Pending
+ARV00205,ENT074,2024-Q2,Client Data Hub,1176,Riley Chen,2024-04-18,4,0,Not Started,Certified with Exceptions
+ARV00206,ENT113,2026-Q3,HR Platform,178,Sam Johnson,2026-08-02,3,6,Not Started,Certified
+ARV00207,ENT095,2026-Q1,Identity Management,375,Robin Clark,2026-01-31,8,2,In Progress,Pending
+ARV00208,ENT076,2026-Q2,HR Platform,1088,Taylor Smith,2026-06-06,5,12,Not Started,Rejected
+ARV00209,ENT013,2026-Q2,Identity Management,180,Avery Brown,2026-05-05,5,5,Overdue,Certified
+ARV00210,ENT032,2025-Q1,Finance ERP,1073,Jordan Lee,2025-03-19,5,10,Completed,Certified
+ARV00211,ENT084,2025-Q2,Finance ERP,98,Jordan Lee,2025-04-11,0,11,Overdue,Certified
+ARV00212,ENT014,2025-Q2,Compliance Portal,471,Riley Chen,2025-06-03,12,12,In Progress,Pending
+ARV00213,ENT074,2025-Q3,Finance ERP,710,Robin Clark,2025-07-10,6,1,In Progress,Pending
+ARV00214,ENT111,2025-Q3,Client Data Hub,791,Casey Patel,2025-09-23,9,0,Not Started,Certified with Exceptions
+ARV00215,ENT105,2026-Q4,Client Data Hub,708,Jamie Garcia,2026-11-07,5,10,Not Started,Certified
+ARV00216,ENT107,2024-Q2,Finance ERP,372,Drew Martin,2024-05-28,4,10,Completed,Pending
+ARV00217,ENT096,2024-Q1,Finance ERP,314,Avery Brown,2024-03-27,2,4,Completed,Rejected
+ARV00218,ENT046,2024-Q1,HR Platform,1062,Cameron Wilson,2024-03-01,10,7,In Progress,Certified with Exceptions
+ARV00219,ENT071,2024-Q2,Client Data Hub,556,Morgan Davis,2024-05-14,4,9,Overdue,Rejected
+ARV00220,ENT024,2026-Q3,Compliance Portal,922,Avery Brown,2026-08-17,7,10,Not Started,Certified with Exceptions
+ARV00221,ENT022,2024-Q2,Risk Analytics,1099,Robin Clark,2024-05-27,6,7,In Progress,Certified with Exceptions
+ARV00222,ENT091,2026-Q2,HR Platform,797,Morgan Davis,2026-06-28,6,10,In Progress,Rejected
+ARV00223,ENT022,2024-Q2,Finance ERP,611,Morgan Davis,2024-04-21,1,12,Not Started,Pending
+ARV00224,ENT046,2024-Q2,Compliance Portal,161,Avery Brown,2024-05-11,10,8,In Progress,Rejected
+ARV00225,ENT030,2025-Q1,Risk Analytics,714,Alex Morgan,2025-03-24,2,1,Overdue,Certified with Exceptions
+ARV00226,ENT013,2026-Q3,HR Platform,199,Drew Martin,2026-09-19,9,8,In Progress,Certified with Exceptions
+ARV00227,ENT090,2026-Q2,HR Platform,331,Riley Chen,2026-06-25,2,8,In Progress,Certified with Exceptions
+ARV00228,ENT038,2025-Q2,Risk Analytics,311,Drew Martin,2025-06-10,10,0,Not Started,Certified
+ARV00229,ENT023,2024-Q4,Risk Analytics,508,Alex Morgan,2024-10-24,2,12,Overdue,Certified with Exceptions
+ARV00230,ENT086,2024-Q1,Finance ERP,981,Taylor Smith,2024-01-25,3,12,In Progress,Pending
+ARV00231,ENT110,2025-Q3,Compliance Portal,547,Riley Chen,2025-07-14,0,5,Completed,Certified with Exceptions
+ARV00232,ENT085,2026-Q3,Compliance Portal,1134,Cameron Wilson,2026-07-06,7,0,Overdue,Pending
+ARV00233,ENT033,2024-Q1,Finance ERP,752,Avery Brown,2024-01-25,11,2,Overdue,Certified with Exceptions
+ARV00234,ENT105,2025-Q2,Compliance Portal,490,Alex Morgan,2025-06-03,9,11,In Progress,Certified with Exceptions
+ARV00235,ENT026,2024-Q4,Finance ERP,735,Casey Patel,2024-10-14,10,2,In Progress,Certified with Exceptions
+ARV00236,ENT032,2024-Q4,Finance ERP,192,Cameron Wilson,2024-11-07,6,11,Completed,Rejected
+ARV00237,ENT022,2026-Q1,Risk Analytics,607,Morgan Davis,2026-03-21,6,0,Completed,Rejected
+ARV00238,ENT067,2026-Q2,HR Platform,201,Jordan Lee,2026-06-22,3,10,Overdue,Rejected
+ARV00239,ENT082,2024-Q2,Compliance Portal,131,Taylor Smith,2024-05-05,12,2,Not Started,Pending
+ARV00240,ENT114,2025-Q1,Finance ERP,128,Robin Clark,2025-02-07,11,3,In Progress,Pending
+ARV00241,ENT114,2026-Q1,HR Platform,801,Sam Johnson,2026-01-23,3,1,Overdue,Rejected
+ARV00242,ENT083,2025-Q2,Client Data Hub,108,Casey Patel,2025-04-27,8,11,Overdue,Rejected
+ARV00243,ENT057,2024-Q3,Risk Analytics,872,Alex Morgan,2024-09-20,12,3,In Progress,Certified with Exceptions
+ARV00244,ENT105,2026-Q1,Finance ERP,886,Casey Patel,2026-02-10,5,9,Completed,Rejected
+ARV00245,ENT057,2024-Q1,HR Platform,471,Robin Clark,2024-01-30,1,7,Overdue,Certified
+ARV00246,ENT113,2024-Q3,Finance ERP,676,Casey Patel,2024-07-21,5,2,Completed,Rejected
+ARV00247,ENT023,2024-Q3,Identity Management,855,Morgan Davis,2024-09-19,2,2,Completed,Certified
+ARV00248,ENT074,2026-Q2,Compliance Portal,575,Avery Brown,2026-05-06,1,3,In Progress,Pending
+ARV00249,ENT011,2024-Q3,HR Platform,222,Robin Clark,2024-08-11,12,11,Not Started,Rejected
+ARV00250,ENT115,2024-Q2,Client Data Hub,390,Morgan Davis,2024-04-14,3,6,Completed,Certified with Exceptions
+ARV00251,ENT085,2024-Q3,Identity Management,573,Cameron Wilson,2024-07-15,7,8,Not Started,Rejected
+ARV00252,ENT108,2026-Q3,Client Data Hub,170,Jordan Lee,2026-08-20,0,9,Completed,Certified with Exceptions
+ARV00253,ENT026,2024-Q4,Finance ERP,947,Sam Johnson,2024-11-27,6,2,Overdue,Rejected
+ARV00254,ENT028,2024-Q2,Client Data Hub,779,Jamie Garcia,2024-06-26,2,8,Overdue,Certified
+ARV00255,ENT116,2026-Q2,Identity Management,161,Morgan Davis,2026-04-11,8,10,In Progress,Certified
+ARV00256,ENT080,2024-Q3,Finance ERP,42,Casey Patel,2024-07-07,12,6,Not Started,Rejected
+ARV00257,ENT102,2025-Q4,Identity Management,103,Sam Johnson,2025-11-01,8,2,Not Started,Certified with Exceptions
+ARV00258,ENT029,2026-Q3,Client Data Hub,942,Sam Johnson,2026-09-29,10,9,In Progress,Certified
+ARV00259,ENT091,2025-Q4,Identity Management,408,Jamie Garcia,2025-12-10,5,7,Overdue,Pending
+ARV00260,ENT066,2026-Q2,Identity Management,715,Cameron Wilson,2026-04-08,7,11,In Progress,Certified with Exceptions
+ARV00261,ENT047,2026-Q3,Compliance Portal,655,Casey Patel,2026-09-02,3,8,Not Started,Certified with Exceptions
+ARV00262,ENT118,2025-Q1,Compliance Portal,230,Riley Chen,2025-01-23,2,9,In Progress,Certified
+ARV00263,ENT011,2026-Q2,Risk Analytics,1047,Robin Clark,2026-05-12,6,2,Completed,Certified
+ARV00264,ENT111,2025-Q2,Client Data Hub,765,Drew Martin,2025-05-02,6,4,Not Started,Certified with Exceptions
+ARV00265,ENT005,2026-Q1,Client Data Hub,973,Sam Johnson,2026-02-11,2,3,Overdue,Certified with Exceptions
+ARV00266,ENT066,2024-Q2,Identity Management,374,Jamie Garcia,2024-06-15,10,9,Overdue,Pending
+ARV00267,ENT075,2024-Q1,Finance ERP,172,Robin Clark,2024-02-09,0,3,Completed,Certified
+ARV00268,ENT023,2024-Q3,Identity Management,296,Riley Chen,2024-07-14,10,4,Not Started,Certified with Exceptions
+ARV00269,ENT026,2024-Q2,HR Platform,1191,Avery Brown,2024-04-30,3,9,Overdue,Certified with Exceptions
+ARV00270,ENT102,2026-Q3,Risk Analytics,644,Alex Morgan,2026-09-30,3,3,In Progress,Certified
+ARV00271,ENT030,2024-Q4,Identity Management,446,Drew Martin,2024-11-06,10,12,Completed,Rejected
+ARV00272,ENT090,2025-Q2,Finance ERP,136,Morgan Davis,2025-06-19,1,5,Not Started,Certified with Exceptions
+ARV00273,ENT074,2025-Q1,Compliance Portal,274,Casey Patel,2025-03-25,0,3,Overdue,Certified with Exceptions
+ARV00274,ENT094,2024-Q1,Risk Analytics,157,Casey Patel,2024-03-28,12,3,Completed,Certified with Exceptions
+ARV00275,ENT102,2025-Q3,HR Platform,367,Cameron Wilson,2025-09-26,9,9,Overdue,Certified
+ARV00276,ENT071,2024-Q4,Compliance Portal,479,Taylor Smith,2024-11-30,5,6,Overdue,Certified
+ARV00277,ENT091,2025-Q3,Risk Analytics,1144,Riley Chen,2025-08-07,6,11,Overdue,Pending
+ARV00278,ENT047,2026-Q2,Identity Management,34,Casey Patel,2026-05-12,3,6,Overdue,Pending
+ARV00279,ENT041,2025-Q2,Finance ERP,719,Avery Brown,2025-05-17,4,3,Overdue,Rejected
+ARV00280,ENT076,2026-Q3,Compliance Portal,878,Riley Chen,2026-09-09,10,3,In Progress,Rejected
+ARV00281,ENT027,2025-Q1,HR Platform,796,Alex Morgan,2025-02-07,4,3,In Progress,Certified
+ARV00282,ENT083,2026-Q2,Finance ERP,205,Taylor Smith,2026-05-17,1,12,Not Started,Certified
+ARV00283,ENT035,2025-Q1,Client Data Hub,1195,Jamie Garcia,2025-03-12,12,5,Completed,Pending
+ARV00284,ENT026,2025-Q1,Client Data Hub,289,Riley Chen,2025-01-22,1,10,Not Started,Pending
+ARV00285,ENT076,2024-Q1,Identity Management,923,Cameron Wilson,2024-03-30,2,7,Not Started,Certified
+ARV00286,ENT120,2026-Q3,Risk Analytics,248,Sam Johnson,2026-09-11,6,4,In Progress,Certified
+ARV00287,ENT084,2026-Q3,Compliance Portal,482,Avery Brown,2026-09-21,5,10,Completed,Rejected
+ARV00288,ENT104,2026-Q3,Client Data Hub,1063,Riley Chen,2026-08-30,2,5,Completed,Certified
+ARV00289,ENT090,2024-Q2,Client Data Hub,715,Sam Johnson,2024-06-30,8,8,Not Started,Rejected
+ARV00290,ENT010,2024-Q2,Identity Management,826,Avery Brown,2024-05-17,4,10,Not Started,Rejected
+ARV00291,ENT044,2025-Q1,Finance ERP,804,Taylor Smith,2025-03-19,10,12,Not Started,Rejected
+ARV00292,ENT006,2026-Q2,Risk Analytics,797,Drew Martin,2026-06-01,9,9,Overdue,Pending
+ARV00293,ENT011,2025-Q4,Compliance Portal,142,Casey Patel,2025-11-21,12,2,In Progress,Rejected
+ARV00294,ENT020,2025-Q3,Client Data Hub,701,Casey Patel,2025-08-19,12,6,Not Started,Rejected
+ARV00295,ENT072,2024-Q1,HR Platform,1160,Drew Martin,2024-01-17,4,6,Completed,Pending
+ARV00296,ENT104,2026-Q1,Compliance Portal,578,Morgan Davis,2026-01-20,1,1,Not Started,Pending
+ARV00297,ENT041,2026-Q1,Identity Management,463,Drew Martin,2026-01-23,10,8,In Progress,Certified
+ARV00298,ENT045,2026-Q2,Finance ERP,759,Sam Johnson,2026-06-20,6,4,Not Started,Certified with Exceptions
+ARV00299,ENT091,2025-Q4,Client Data Hub,919,Taylor Smith,2025-12-27,3,0,Overdue,Pending
+ARV00300,ENT036,2025-Q3,HR Platform,862,Riley Chen,2025-08-26,4,9,In Progress,Rejected
+ARV00301,ENT040,2026-Q3,Identity Management,45,Robin Clark,2026-09-18,8,8,Not Started,Rejected
+ARV00302,ENT070,2025-Q1,Identity Management,573,Drew Martin,2025-02-20,1,6,Not Started,Certified
+ARV00303,ENT096,2026-Q1,Client Data Hub,832,Robin Clark,2026-01-19,11,2,Overdue,Certified
+ARV00304,ENT051,2025-Q2,Risk Analytics,462,Morgan Davis,2025-05-26,11,10,Completed,Rejected
+ARV00305,ENT019,2026-Q2,Compliance Portal,979,Avery Brown,2026-04-08,8,8,Completed,Certified with Exceptions
+ARV00306,ENT091,2026-Q2,Client Data Hub,802,Jamie Garcia,2026-06-10,1,7,Not Started,Certified with Exceptions
+ARV00307,ENT008,2024-Q1,HR Platform,484,Robin Clark,2024-02-18,1,9,In Progress,Certified
+ARV00308,ENT021,2024-Q2,Finance ERP,206,Riley Chen,2024-04-11,5,0,Completed,Rejected
+ARV00309,ENT018,2025-Q3,Compliance Portal,651,Alex Morgan,2025-08-01,12,0,Completed,Certified with Exceptions
+ARV00310,ENT060,2024-Q3,HR Platform,641,Avery Brown,2024-09-18,2,4,In Progress,Pending
+ARV00311,ENT029,2024-Q2,Compliance Portal,839,Drew Martin,2024-04-19,6,10,Completed,Pending
+ARV00312,ENT083,2024-Q2,Identity Management,311,Casey Patel,2024-05-06,0,0,Not Started,Rejected
+ARV00313,ENT073,2024-Q4,Risk Analytics,1049,Riley Chen,2024-12-19,6,3,Overdue,Pending
+ARV00314,ENT044,2026-Q1,Compliance Portal,372,Taylor Smith,2026-02-22,6,0,Completed,Rejected
+ARV00315,ENT104,2026-Q1,Identity Management,965,Robin Clark,2026-01-29,0,1,Completed,Certified
+ARV00316,ENT065,2024-Q1,Compliance Portal,956,Drew Martin,2024-03-27,11,4,Completed,Pending
+ARV00317,ENT012,2026-Q1,Identity Management,598,Cameron Wilson,2026-02-02,8,8,In Progress,Pending
+ARV00318,ENT065,2024-Q2,HR Platform,137,Sam Johnson,2024-05-21,10,10,In Progress,Rejected
+ARV00319,ENT021,2025-Q4,Identity Management,270,Sam Johnson,2025-10-31,1,4,Completed,Rejected
+ARV00320,ENT066,2025-Q4,Finance ERP,845,Morgan Davis,2025-11-27,7,3,Completed,Certified with Exceptions
+ARV00321,ENT023,2025-Q4,Finance ERP,693,Morgan Davis,2025-11-26,2,9,Not Started,Pending
+ARV00322,ENT081,2024-Q3,Identity Management,821,Jamie Garcia,2024-09-26,7,7,Completed,Certified
+ARV00323,ENT023,2025-Q1,HR Platform,795,Cameron Wilson,2025-02-01,2,8,Not Started,Certified
+ARV00324,ENT071,2026-Q3,Finance ERP,1039,Sam Johnson,2026-07-30,9,4,Not Started,Certified with Exceptions
+ARV00325,ENT117,2024-Q2,Compliance Portal,292,Drew Martin,2024-04-20,1,11,Not Started,Rejected
+ARV00326,ENT046,2024-Q1,Identity Management,810,Casey Patel,2024-03-10,9,2,Not Started,Rejected
+ARV00327,ENT092,2026-Q1,Identity Management,1171,Riley Chen,2026-03-26,12,11,In Progress,Certified
+ARV00328,ENT014,2024-Q4,Compliance Portal,114,Drew Martin,2024-12-05,10,11,Not Started,Certified
+ARV00329,ENT084,2025-Q2,HR Platform,837,Jamie Garcia,2025-05-29,8,9,Overdue,Rejected
+ARV00330,ENT003,2025-Q3,Finance ERP,235,Cameron Wilson,2025-08-04,5,3,Overdue,Rejected
+ARV00331,ENT033,2024-Q3,HR Platform,168,Jamie Garcia,2024-09-14,4,2,Completed,Rejected
+ARV00332,ENT032,2025-Q3,Client Data Hub,181,Alex Morgan,2025-09-18,10,10,Not Started,Pending
+ARV00333,ENT088,2026-Q1,Finance ERP,932,Cameron Wilson,2026-03-18,12,6,In Progress,Certified
+ARV00334,ENT022,2025-Q3,Finance ERP,676,Avery Brown,2025-08-03,11,12,In Progress,Rejected
+ARV00335,ENT071,2024-Q4,Risk Analytics,571,Cameron Wilson,2024-10-12,3,7,Overdue,Certified
+ARV00336,ENT051,2024-Q2,Client Data Hub,154,Sam Johnson,2024-04-16,10,4,Completed,Certified with Exceptions
+ARV00337,ENT111,2025-Q4,Finance ERP,737,Avery Brown,2025-11-02,3,0,Completed,Rejected
+ARV00338,ENT038,2026-Q2,Compliance Portal,291,Riley Chen,2026-04-23,8,3,Overdue,Certified with Exceptions
+ARV00339,ENT116,2024-Q2,Finance ERP,653,Morgan Davis,2024-06-23,0,6,Overdue,Pending
+ARV00340,ENT030,2025-Q1,Compliance Portal,691,Jamie Garcia,2025-03-12,9,2,Overdue,Certified
+ARV00341,ENT014,2025-Q2,Identity Management,715,Drew Martin,2025-04-06,8,6,Overdue,Rejected
+ARV00342,ENT068,2025-Q3,Identity Management,46,Robin Clark,2025-08-09,8,11,Overdue,Certified with Exceptions
+ARV00343,ENT120,2024-Q4,Identity Management,359,Riley Chen,2024-11-11,8,7,Overdue,Certified with Exceptions
+ARV00344,ENT019,2025-Q2,Client Data Hub,358,Sam Johnson,2025-04-03,9,8,In Progress,Pending
+ARV00345,ENT077,2025-Q4,Risk Analytics,693,Jordan Lee,2025-11-08,1,12,Overdue,Certified
+ARV00346,ENT049,2025-Q3,Finance ERP,48,Sam Johnson,2025-07-12,0,6,Not Started,Pending
+ARV00347,ENT060,2024-Q3,Identity Management,164,Taylor Smith,2024-07-14,0,10,Completed,Certified
+ARV00348,ENT097,2024-Q3,Client Data Hub,319,Cameron Wilson,2024-08-08,2,11,Completed,Pending
+ARV00349,ENT048,2026-Q1,Compliance Portal,257,Drew Martin,2026-03-12,11,9,Completed,Certified with Exceptions
+ARV00350,ENT075,2026-Q3,Finance ERP,1000,Robin Clark,2026-07-21,12,12,Completed,Pending
+ARV00351,ENT079,2024-Q4,HR Platform,213,Alex Morgan,2024-10-16,12,5,Not Started,Certified
+ARV00352,ENT085,2024-Q4,Finance ERP,1172,Drew Martin,2024-11-25,7,11,Overdue,Certified with Exceptions
+ARV00353,ENT047,2025-Q2,Client Data Hub,144,Avery Brown,2025-05-28,8,8,In Progress,Pending
+ARV00354,ENT080,2025-Q3,Compliance Portal,950,Taylor Smith,2025-08-16,10,5,Completed,Certified with Exceptions
+ARV00355,ENT090,2024-Q3,HR Platform,61,Cameron Wilson,2024-09-04,6,10,Overdue,Pending
+ARV00356,ENT001,2024-Q1,Client Data Hub,98,Jordan Lee,2024-01-29,9,4,In Progress,Certified
+ARV00357,ENT048,2025-Q3,Client Data Hub,192,Jamie Garcia,2025-09-12,3,4,Overdue,Certified
+ARV00358,ENT041,2024-Q3,HR Platform,815,Jordan Lee,2024-08-07,12,11,In Progress,Pending
+ARV00359,ENT105,2024-Q1,HR Platform,891,Alex Morgan,2024-03-08,1,2,Not Started,Certified with Exceptions
+ARV00360,ENT059,2024-Q1,Identity Management,230,Avery Brown,2024-01-12,6,0,In Progress,Pending
+ARV00361,ENT002,2024-Q3,Risk Analytics,844,Casey Patel,2024-09-25,11,5,Not Started,Rejected
+ARV00362,ENT076,2026-Q1,Compliance Portal,344,Drew Martin,2026-02-05,9,1,Completed,Certified
+ARV00363,ENT105,2026-Q2,HR Platform,157,Jamie Garcia,2026-04-02,9,6,Not Started,Certified
+ARV00364,ENT069,2025-Q1,HR Platform,491,Cameron Wilson,2025-02-01,7,8,In Progress,Pending
+ARV00365,ENT001,2025-Q1,Risk Analytics,626,Alex Morgan,2025-01-30,12,12,Completed,Certified
+ARV00366,ENT109,2026-Q3,Finance ERP,654,Avery Brown,2026-08-18,6,4,Completed,Certified
+ARV00367,ENT032,2024-Q3,Client Data Hub,119,Jamie Garcia,2024-07-09,0,3,In Progress,Rejected
+ARV00368,ENT012,2025-Q1,Compliance Portal,554,Casey Patel,2025-01-18,3,7,Overdue,Pending
+ARV00369,ENT054,2026-Q4,Identity Management,1186,Jamie Garcia,2026-11-02,8,2,Not Started,Certified with Exceptions
+ARV00370,ENT033,2026-Q3,Finance ERP,928,Taylor Smith,2026-09-15,4,6,In Progress,Pending
+ARV00371,ENT080,2026-Q4,Identity Management,1079,Drew Martin,2026-10-04,6,8,Not Started,Certified with Exceptions
+ARV00372,ENT110,2024-Q2,Compliance Portal,704,Alex Morgan,2024-05-01,6,7,In Progress,Certified with Exceptions
+ARV00373,ENT030,2026-Q1,Finance ERP,1090,Casey Patel,2026-03-06,5,2,In Progress,Certified with Exceptions
+ARV00374,ENT076,2024-Q2,Identity Management,1077,Jamie Garcia,2024-06-16,2,10,Not Started,Rejected
+ARV00375,ENT100,2024-Q1,HR Platform,1158,Avery Brown,2024-03-04,4,8,In Progress,Certified with Exceptions
+ARV00376,ENT032,2024-Q3,HR Platform,182,Sam Johnson,2024-08-01,12,9,Not Started,Certified
+ARV00377,ENT018,2025-Q2,Finance ERP,910,Sam Johnson,2025-05-07,5,11,Overdue,Certified with Exceptions
+ARV00378,ENT026,2025-Q4,Finance ERP,938,Riley Chen,2025-12-23,9,6,Overdue,Rejected
+ARV00379,ENT070,2025-Q3,Risk Analytics,900,Avery Brown,2025-09-25,1,11,Overdue,Rejected
+ARV00380,ENT113,2024-Q3,Compliance Portal,484,Sam Johnson,2024-07-31,10,9,Overdue,Certified
+ARV00381,ENT085,2026-Q2,Finance ERP,1022,Taylor Smith,2026-05-04,4,12,Completed,Pending
+ARV00382,ENT032,2025-Q2,Client Data Hub,942,Taylor Smith,2025-05-30,10,3,Completed,Certified with Exceptions
+ARV00383,ENT030,2025-Q1,Client Data Hub,222,Riley Chen,2025-02-16,3,4,Overdue,Rejected
+ARV00384,ENT116,2025-Q3,Identity Management,804,Avery Brown,2025-09-08,1,10,Completed,Pending
+ARV00385,ENT025,2026-Q1,Risk Analytics,1003,Casey Patel,2026-02-02,11,0,In Progress,Certified with Exceptions
+ARV00386,ENT033,2024-Q2,Client Data Hub,43,Riley Chen,2024-05-12,12,6,In Progress,Certified
+ARV00387,ENT081,2026-Q3,Finance ERP,718,Alex Morgan,2026-09-13,1,12,Overdue,Certified with Exceptions
+ARV00388,ENT062,2025-Q4,Compliance Portal,368,Jamie Garcia,2025-10-09,3,5,Overdue,Certified
+ARV00389,ENT100,2025-Q4,Client Data Hub,79,Jordan Lee,2025-11-11,11,11,In Progress,Rejected
+ARV00390,ENT032,2024-Q4,Compliance Portal,483,Cameron Wilson,2024-12-15,10,10,Overdue,Pending
+ARV00391,ENT060,2024-Q2,Compliance Portal,889,Jamie Garcia,2024-06-26,11,9,Completed,Pending
+ARV00392,ENT076,2024-Q3,Compliance Portal,137,Riley Chen,2024-09-27,6,1,Not Started,Certified
+ARV00393,ENT062,2024-Q2,HR Platform,394,Avery Brown,2024-06-06,1,4,Not Started,Certified
+ARV00394,ENT011,2025-Q4,Client Data Hub,512,Robin Clark,2025-10-17,0,6,Completed,Rejected
+ARV00395,ENT087,2026-Q2,Risk Analytics,192,Casey Patel,2026-06-09,1,2,Completed,Certified with Exceptions
+ARV00396,ENT111,2026-Q3,Compliance Portal,875,Sam Johnson,2026-07-26,6,8,In Progress,Pending
+ARV00397,ENT014,2026-Q1,Finance ERP,293,Robin Clark,2026-02-16,12,3,Overdue,Rejected
+ARV00398,ENT092,2024-Q3,Finance ERP,1197,Taylor Smith,2024-08-25,6,3,In Progress,Certified with Exceptions
+ARV00399,ENT005,2024-Q1,Client Data Hub,731,Cameron Wilson,2024-03-20,10,2,In Progress,Certified with Exceptions
+ARV00400,ENT110,2024-Q1,Finance ERP,1200,Riley Chen,2024-01-09,6,3,Overdue,Certified
+ARV00401,ENT071,2026-Q2,Identity Management,755,Morgan Davis,2026-05-03,9,10,Not Started,Certified
+ARV00402,ENT115,2026-Q2,Risk Analytics,1150,Sam Johnson,2026-06-13,9,10,Completed,Pending
+ARV00403,ENT094,2024-Q1,Risk Analytics,1144,Cameron Wilson,2024-03-27,9,9,In Progress,Certified
+ARV00404,ENT022,2024-Q1,HR Platform,45,Cameron Wilson,2024-02-25,11,2,Not Started,Certified with Exceptions
+ARV00405,ENT094,2026-Q2,HR Platform,801,Morgan Davis,2026-05-29,6,7,Overdue,Rejected
+ARV00406,ENT076,2026-Q1,Compliance Portal,546,Taylor Smith,2026-02-23,0,9,Overdue,Certified with Exceptions
+ARV00407,ENT021,2026-Q3,Risk Analytics,670,Alex Morgan,2026-07-10,10,4,Overdue,Rejected
+ARV00408,ENT042,2026-Q1,Client Data Hub,88,Jordan Lee,2026-02-19,11,6,In Progress,Pending
+ARV00409,ENT114,2025-Q3,Identity Management,167,Jamie Garcia,2025-09-15,12,5,Overdue,Certified
+ARV00410,ENT114,2025-Q3,Compliance Portal,251,Jamie Garcia,2025-07-28,8,6,Completed,Pending
+ARV00411,ENT024,2025-Q4,Client Data Hub,471,Sam Johnson,2025-12-27,10,4,Overdue,Certified
+ARV00412,ENT028,2024-Q1,Identity Management,443,Cameron Wilson,2024-03-24,9,2,Overdue,Pending
+ARV00413,ENT105,2024-Q2,Finance ERP,154,Morgan Davis,2024-05-01,11,4,In Progress,Certified with Exceptions
+ARV00414,ENT011,2025-Q3,HR Platform,347,Casey Patel,2025-09-10,10,0,Not Started,Pending
+ARV00415,ENT114,2026-Q4,Client Data Hub,609,Robin Clark,2026-10-24,12,5,In Progress,Pending
+ARV00416,ENT102,2024-Q1,Finance ERP,133,Sam Johnson,2024-01-15,7,10,Overdue,Certified
+ARV00417,ENT019,2026-Q1,Client Data Hub,409,Robin Clark,2026-02-01,10,5,Not Started,Certified with Exceptions
+ARV00418,ENT070,2024-Q2,Compliance Portal,827,Jamie Garcia,2024-05-01,7,4,Not Started,Pending
+ARV00419,ENT078,2025-Q2,HR Platform,750,Jordan Lee,2025-05-26,6,4,Not Started,Pending
+ARV00420,ENT024,2026-Q4,Risk Analytics,77,Jordan Lee,2026-10-08,11,8,Not Started,Certified with Exceptions
+ARV00421,ENT104,2025-Q2,Identity Management,1044,Sam Johnson,2025-04-03,5,8,Not Started,Certified
+ARV00422,ENT052,2026-Q2,Client Data Hub,751,Morgan Davis,2026-06-09,2,4,Overdue,Certified with Exceptions
+ARV00423,ENT005,2025-Q2,Compliance Portal,895,Cameron Wilson,2025-05-19,6,11,Not Started,Certified with Exceptions
+ARV00424,ENT004,2025-Q2,Finance ERP,35,Alex Morgan,2025-06-02,9,5,In Progress,Rejected
+ARV00425,ENT045,2026-Q2,Client Data Hub,428,Avery Brown,2026-06-12,2,9,In Progress,Rejected
+ARV00426,ENT065,2026-Q4,Client Data Hub,166,Robin Clark,2026-10-04,2,12,Overdue,Pending
+ARV00427,ENT015,2025-Q3,HR Platform,773,Casey Patel,2025-09-29,10,3,Not Started,Certified
+ARV00428,ENT117,2024-Q4,Identity Management,907,Drew Martin,2024-12-13,0,11,Not Started,Rejected
+ARV00429,ENT041,2026-Q4,Identity Management,1019,Casey Patel,2026-10-10,5,9,Overdue,Pending
+ARV00430,ENT053,2025-Q2,Compliance Portal,376,Cameron Wilson,2025-05-10,10,5,In Progress,Pending
+ARV00431,ENT061,2025-Q3,Client Data Hub,339,Alex Morgan,2025-09-24,6,6,Overdue,Certified with Exceptions
+ARV00432,ENT063,2025-Q2,Compliance Portal,798,Morgan Davis,2025-04-08,5,2,Completed,Certified
+ARV00433,ENT011,2026-Q4,Risk Analytics,840,Drew Martin,2026-10-18,12,12,Not Started,Rejected
+ARV00434,ENT111,2026-Q2,Risk Analytics,1043,Robin Clark,2026-05-27,1,5,Not Started,Certified with Exceptions
+ARV00435,ENT114,2024-Q1,Risk Analytics,918,Robin Clark,2024-02-08,5,9,In Progress,Pending
+ARV00436,ENT103,2026-Q3,Identity Management,959,Avery Brown,2026-07-10,10,6,Not Started,Certified
+ARV00437,ENT100,2024-Q1,Finance ERP,368,Avery Brown,2024-03-10,3,12,Completed,Certified with Exceptions
+ARV00438,ENT060,2024-Q4,Client Data Hub,699,Jordan Lee,2024-10-09,2,5,Overdue,Pending
+ARV00439,ENT061,2024-Q4,Compliance Portal,287,Casey Patel,2024-10-11,4,10,Completed,Certified with Exceptions
+ARV00440,ENT106,2024-Q2,Finance ERP,143,Jamie Garcia,2024-06-22,4,3,Not Started,Rejected
+ARV00441,ENT059,2025-Q3,Compliance Portal,951,Sam Johnson,2025-08-06,7,4,In Progress,Certified
+ARV00442,ENT112,2025-Q4,Finance ERP,458,Jordan Lee,2025-12-16,8,12,In Progress,Rejected
+ARV00443,ENT111,2025-Q2,Client Data Hub,377,Jordan Lee,2025-04-28,9,11,Completed,Rejected
+ARV00444,ENT093,2026-Q3,Risk Analytics,968,Jordan Lee,2026-09-08,12,0,Not Started,Rejected
+ARV00445,ENT108,2025-Q3,Client Data Hub,526,Cameron Wilson,2025-07-21,11,11,Completed,Certified with Exceptions
+ARV00446,ENT072,2025-Q1,Identity Management,307,Avery Brown,2025-02-07,8,1,Not Started,Pending
+ARV00447,ENT087,2024-Q4,Client Data Hub,1072,Jamie Garcia,2024-12-25,9,0,In Progress,Certified
+ARV00448,ENT082,2024-Q1,Compliance Portal,726,Jordan Lee,2024-02-21,2,9,Not Started,Certified
+ARV00449,ENT118,2026-Q2,Risk Analytics,959,Jordan Lee,2026-04-28,6,1,In Progress,Rejected
+ARV00450,ENT120,2024-Q1,Finance ERP,1051,Sam Johnson,2024-03-19,1,1,Completed,Rejected
+ARV00451,ENT026,2025-Q4,Compliance Portal,367,Avery Brown,2025-12-20,8,4,Overdue,Certified
+ARV00452,ENT019,2026-Q2,Risk Analytics,149,Alex Morgan,2026-06-26,5,10,In Progress,Certified with Exceptions
+ARV00453,ENT040,2026-Q3,Risk Analytics,971,Cameron Wilson,2026-07-02,10,9,Overdue,Certified
+ARV00454,ENT045,2026-Q1,Client Data Hub,928,Sam Johnson,2026-03-03,11,10,Completed,Rejected
+ARV00455,ENT071,2025-Q3,Client Data Hub,854,Taylor Smith,2025-09-01,5,11,Not Started,Rejected
+ARV00456,ENT022,2025-Q2,HR Platform,646,Jamie Garcia,2025-05-24,10,1,Not Started,Certified
+ARV00457,ENT113,2026-Q4,Client Data Hub,193,Alex Morgan,2026-10-03,10,10,In Progress,Certified
+ARV00458,ENT027,2026-Q3,Identity Management,909,Riley Chen,2026-09-21,1,1,Overdue,Rejected
+ARV00459,ENT035,2026-Q3,Finance ERP,957,Drew Martin,2026-08-22,9,3,Not Started,Pending
+ARV00460,ENT069,2026-Q3,Identity Management,865,Casey Patel,2026-09-23,8,2,Overdue,Rejected
+ARV00461,ENT077,2026-Q2,Finance ERP,861,Cameron Wilson,2026-06-30,5,12,Overdue,Certified
+ARV00462,ENT112,2025-Q2,Finance ERP,354,Avery Brown,2025-04-03,10,10,Not Started,Certified with Exceptions
+ARV00463,ENT011,2025-Q4,HR Platform,1117,Jordan Lee,2025-11-06,5,9,Completed,Pending
+ARV00464,ENT108,2025-Q1,Client Data Hub,213,Robin Clark,2025-01-27,2,9,Completed,Pending
+ARV00465,ENT089,2024-Q3,Risk Analytics,812,Casey Patel,2024-08-29,9,11,Overdue,Pending
+ARV00466,ENT011,2024-Q4,Identity Management,713,Robin Clark,2024-11-26,8,9,Completed,Certified with Exceptions
+ARV00467,ENT098,2024-Q1,Identity Management,1078,Jordan Lee,2024-01-10,11,7,Completed,Certified
+ARV00468,ENT109,2025-Q4,Identity Management,1065,Avery Brown,2025-10-30,2,12,Overdue,Certified with Exceptions
+ARV00469,ENT038,2025-Q2,Finance ERP,858,Avery Brown,2025-04-25,4,1,Not Started,Rejected
+ARV00470,ENT015,2024-Q3,HR Platform,1093,Cameron Wilson,2024-09-15,9,1,In Progress,Rejected
+ARV00471,ENT079,2026-Q1,Identity Management,1109,Avery Brown,2026-03-10,8,9,Not Started,Certified with Exceptions
+ARV00472,ENT101,2025-Q3,HR Platform,1028,Taylor Smith,2025-07-16,4,11,In Progress,Rejected
+ARV00473,ENT095,2026-Q3,Compliance Portal,279,Casey Patel,2026-08-13,11,11,Overdue,Rejected
+ARV00474,ENT031,2026-Q3,Finance ERP,52,Sam Johnson,2026-08-14,10,11,Not Started,Certified with Exceptions
+ARV00475,ENT026,2025-Q4,Risk Analytics,874,Jordan Lee,2025-12-01,12,3,Completed,Pending
+ARV00476,ENT019,2025-Q3,Client Data Hub,177,Drew Martin,2025-08-19,5,3,Overdue,Certified with Exceptions
+ARV00477,ENT006,2026-Q3,Client Data Hub,286,Jordan Lee,2026-07-21,8,7,Completed,Rejected
+ARV00478,ENT085,2025-Q1,Compliance Portal,661,Sam Johnson,2025-02-05,12,7,Overdue,Certified with Exceptions
+ARV00479,ENT073,2026-Q3,Compliance Portal,261,Casey Patel,2026-08-23,5,3,Completed,Certified with Exceptions
+ARV00480,ENT025,2025-Q2,Client Data Hub,363,Robin Clark,2025-06-16,9,7,In Progress,Rejected
+ARV00481,ENT100,2024-Q2,Finance ERP,289,Riley Chen,2024-04-11,7,1,Completed,Certified
+ARV00482,ENT007,2025-Q2,Identity Management,515,Sam Johnson,2025-04-04,3,3,Completed,Certified
+ARV00483,ENT021,2026-Q3,Identity Management,978,Sam Johnson,2026-07-08,4,4,Overdue,Certified with Exceptions
+ARV00484,ENT063,2026-Q2,Risk Analytics,865,Jamie Garcia,2026-05-26,10,2,Overdue,Certified with Exceptions
+ARV00485,ENT066,2024-Q4,HR Platform,1020,Jamie Garcia,2024-12-26,6,3,Not Started,Certified with Exceptions
+ARV00486,ENT012,2025-Q2,Finance ERP,898,Jamie Garcia,2025-04-01,7,1,In Progress,Certified with Exceptions
+ARV00487,ENT089,2026-Q3,Identity Management,859,Cameron Wilson,2026-09-26,9,4,In Progress,Certified with Exceptions
+ARV00488,ENT072,2025-Q1,Risk Analytics,897,Robin Clark,2025-01-27,11,12,Overdue,Pending
+ARV00489,ENT085,2025-Q3,Risk Analytics,1133,Taylor Smith,2025-09-29,7,3,Overdue,Pending
+ARV00490,ENT071,2024-Q3,Client Data Hub,834,Jordan Lee,2024-07-21,4,9,Not Started,Certified
+ARV00491,ENT004,2026-Q4,Risk Analytics,353,Robin Clark,2026-11-20,9,6,In Progress,Certified with Exceptions
+ARV00492,ENT040,2025-Q4,Identity Management,143,Drew Martin,2025-12-13,4,7,In Progress,Certified
+ARV00493,ENT114,2025-Q4,Risk Analytics,724,Jamie Garcia,2025-12-02,3,2,Overdue,Certified with Exceptions
+ARV00494,ENT048,2026-Q4,Risk Analytics,1045,Cameron Wilson,2026-11-09,5,10,In Progress,Certified
+ARV00495,ENT117,2024-Q4,Risk Analytics,611,Alex Morgan,2024-10-18,2,3,Completed,Pending
+ARV00496,ENT003,2025-Q2,Identity Management,116,Drew Martin,2025-05-27,8,7,In Progress,Certified
+ARV00497,ENT030,2025-Q1,Finance ERP,335,Sam Johnson,2025-02-17,5,6,Completed,Rejected
+ARV00498,ENT031,2025-Q2,Identity Management,504,Jamie Garcia,2025-06-04,5,9,Overdue,Pending
+ARV00499,ENT081,2025-Q4,Client Data Hub,24,Jordan Lee,2025-12-15,11,12,Not Started,Certified with Exceptions
+ARV00500,ENT061,2026-Q4,Compliance Portal,453,Drew Martin,2026-11-09,11,8,Not Started,Pending
+ARV00501,ENT093,2025-Q4,Risk Analytics,1039,Casey Patel,2025-11-22,6,4,Completed,Pending
+ARV00502,ENT077,2024-Q4,Identity Management,846,Riley Chen,2024-10-11,10,0,Completed,Certified
+ARV00503,ENT003,2024-Q2,Risk Analytics,358,Drew Martin,2024-06-15,0,0,In Progress,Certified
+ARV00504,ENT004,2026-Q2,Identity Management,873,Sam Johnson,2026-06-30,3,6,Not Started,Certified
+ARV00505,ENT018,2024-Q1,Compliance Portal,214,Alex Morgan,2024-01-09,9,12,In Progress,Certified with Exceptions
+ARV00506,ENT094,2024-Q4,Finance ERP,382,Robin Clark,2024-11-30,5,2,Overdue,Pending
+ARV00507,ENT024,2024-Q1,HR Platform,1044,Jordan Lee,2024-02-23,12,3,Overdue,Certified with Exceptions
+ARV00508,ENT071,2025-Q2,HR Platform,1082,Cameron Wilson,2025-05-25,2,8,Overdue,Pending
+ARV00509,ENT087,2026-Q3,Identity Management,880,Avery Brown,2026-09-21,9,6,In Progress,Certified
+ARV00510,ENT021,2025-Q2,Compliance Portal,1083,Cameron Wilson,2025-04-16,10,6,Completed,Certified
+ARV00511,ENT008,2024-Q1,Finance ERP,593,Sam Johnson,2024-01-11,6,8,In Progress,Pending
+ARV00512,ENT019,2025-Q3,Finance ERP,714,Alex Morgan,2025-09-14,7,6,Overdue,Certified with Exceptions
+ARV00513,ENT090,2025-Q1,Risk Analytics,432,Morgan Davis,2025-03-11,7,0,Completed,Certified
+ARV00514,ENT054,2025-Q4,Finance ERP,1173,Taylor Smith,2025-10-17,9,8,Completed,Rejected
+ARV00515,ENT107,2025-Q4,Finance ERP,737,Taylor Smith,2025-12-13,7,0,Completed,Certified with Exceptions
+ARV00516,ENT090,2026-Q3,Compliance Portal,22,Robin Clark,2026-09-17,1,2,Not Started,Rejected
+ARV00517,ENT120,2026-Q2,Compliance Portal,295,Riley Chen,2026-05-05,9,11,Overdue,Pending
+ARV00518,ENT116,2026-Q4,Client Data Hub,1029,Jordan Lee,2026-10-04,9,2,In Progress,Pending
+ARV00519,ENT059,2024-Q4,HR Platform,262,Robin Clark,2024-11-05,10,3,In Progress,Pending
+ARV00520,ENT070,2024-Q1,Client Data Hub,848,Jordan Lee,2024-02-21,10,2,In Progress,Rejected
+ARV00521,ENT001,2026-Q2,Risk Analytics,787,Casey Patel,2026-05-29,10,6,Not Started,Certified
+ARV00522,ENT019,2024-Q2,Finance ERP,300,Casey Patel,2024-06-20,7,9,In Progress,Certified
+ARV00523,ENT034,2024-Q2,HR Platform,356,Drew Martin,2024-04-07,8,3,Overdue,Rejected
+ARV00524,ENT034,2026-Q3,Compliance Portal,568,Jordan Lee,2026-07-20,10,2,Overdue,Certified
+ARV00525,ENT036,2025-Q2,Identity Management,550,Taylor Smith,2025-05-19,11,8,In Progress,Certified with Exceptions
+ARV00526,ENT107,2025-Q4,Risk Analytics,179,Jordan Lee,2025-12-15,5,8,In Progress,Rejected
+ARV00527,ENT096,2024-Q1,HR Platform,542,Sam Johnson,2024-01-18,11,11,Overdue,Certified with Exceptions
+ARV00528,ENT067,2026-Q1,Identity Management,378,Casey Patel,2026-01-25,4,4,Not Started,Certified with Exceptions
+ARV00529,ENT091,2025-Q1,HR Platform,206,Jordan Lee,2025-03-13,1,9,Overdue,Rejected
+ARV00530,ENT005,2024-Q2,Finance ERP,1033,Taylor Smith,2024-05-18,10,3,Not Started,Certified with Exceptions
+ARV00531,ENT105,2024-Q2,Risk Analytics,54,Sam Johnson,2024-06-23,10,1,Completed,Rejected
+ARV00532,ENT081,2026-Q2,HR Platform,500,Avery Brown,2026-06-08,8,5,Overdue,Rejected
+ARV00533,ENT060,2024-Q3,HR Platform,465,Sam Johnson,2024-08-13,10,0,Completed,Rejected
+ARV00534,ENT064,2025-Q3,HR Platform,88,Taylor Smith,2025-09-20,1,12,In Progress,Certified
+ARV00535,ENT107,2026-Q2,Client Data Hub,501,Taylor Smith,2026-06-11,11,6,Not Started,Certified with Exceptions
+ARV00536,ENT076,2026-Q1,Identity Management,609,Cameron Wilson,2026-01-31,3,2,Not Started,Pending
+ARV00537,ENT089,2026-Q2,Compliance Portal,275,Taylor Smith,2026-04-23,6,6,In Progress,Certified
+ARV00538,ENT044,2026-Q2,Identity Management,470,Taylor Smith,2026-04-23,8,2,In Progress,Certified with Exceptions
+ARV00539,ENT009,2026-Q3,Client Data Hub,1035,Casey Patel,2026-09-10,6,11,Overdue,Certified with Exceptions
+ARV00540,ENT027,2025-Q4,Risk Analytics,552,Jamie Garcia,2025-10-10,8,1,Not Started,Pending
+ARV00541,ENT106,2025-Q4,Client Data Hub,674,Cameron Wilson,2025-12-01,7,10,Completed,Rejected
+ARV00542,ENT049,2026-Q4,Risk Analytics,793,Jamie Garcia,2026-11-03,12,0,Not Started,Pending
+ARV00543,ENT114,2024-Q1,Client Data Hub,779,Jamie Garcia,2024-02-22,6,3,Not Started,Certified with Exceptions
+ARV00544,ENT029,2025-Q1,Identity Management,1151,Riley Chen,2025-02-03,1,12,Completed,Certified
+ARV00545,ENT060,2025-Q4,Identity Management,30,Robin Clark,2025-12-13,4,9,Overdue,Rejected
+ARV00546,ENT086,2026-Q2,Finance ERP,466,Morgan Davis,2026-05-06,6,11,In Progress,Certified with Exceptions
+ARV00547,ENT087,2024-Q1,HR Platform,714,Morgan Davis,2024-02-21,5,7,Completed,Rejected
+ARV00548,ENT076,2025-Q3,Client Data Hub,415,Taylor Smith,2025-08-08,10,9,Overdue,Certified
+ARV00549,ENT119,2025-Q3,Risk Analytics,859,Avery Brown,2025-07-25,4,7,Completed,Certified with Exceptions
+ARV00550,ENT027,2026-Q3,Compliance Portal,843,Sam Johnson,2026-08-13,1,9,Completed,Pending
+ARV00551,ENT024,2025-Q3,Compliance Portal,849,Taylor Smith,2025-07-23,11,12,Overdue,Certified
+ARV00552,ENT055,2026-Q4,Compliance Portal,1200,Avery Brown,2026-10-17,4,8,Overdue,Certified with Exceptions
+ARV00553,ENT073,2026-Q1,Finance ERP,563,Cameron Wilson,2026-02-27,3,12,Completed,Certified with Exceptions
+ARV00554,ENT117,2024-Q2,Finance ERP,1138,Jordan Lee,2024-05-15,4,8,Overdue,Certified
+ARV00555,ENT055,2024-Q3,Identity Management,917,Drew Martin,2024-08-02,9,6,In Progress,Pending
+ARV00556,ENT085,2025-Q3,Finance ERP,855,Robin Clark,2025-07-29,0,11,In Progress,Pending
+ARV00557,ENT061,2024-Q3,Risk Analytics,309,Taylor Smith,2024-09-27,9,7,In Progress,Certified
+ARV00558,ENT081,2024-Q2,Client Data Hub,1190,Taylor Smith,2024-06-19,10,2,In Progress,Certified
+ARV00559,ENT096,2026-Q4,Compliance Portal,730,Casey Patel,2026-11-14,2,7,Not Started,Rejected
+ARV00560,ENT061,2024-Q1,Compliance Portal,782,Sam Johnson,2024-03-08,12,0,In Progress,Rejected
+ARV00561,ENT012,2024-Q2,Risk Analytics,802,Taylor Smith,2024-06-03,4,11,Not Started,Rejected
+ARV00562,ENT053,2025-Q4,Risk Analytics,35,Morgan Davis,2025-10-09,3,4,Not Started,Pending
+ARV00563,ENT120,2026-Q2,Compliance Portal,615,Morgan Davis,2026-06-17,1,0,Completed,Pending
+ARV00564,ENT073,2025-Q2,Compliance Portal,759,Morgan Davis,2025-05-29,4,5,Not Started,Certified with Exceptions
+ARV00565,ENT028,2024-Q4,Finance ERP,952,Drew Martin,2024-12-24,1,4,Completed,Certified
+ARV00566,ENT107,2026-Q1,Compliance Portal,408,Robin Clark,2026-02-27,5,11,Not Started,Certified
+ARV00567,ENT053,2024-Q2,Client Data Hub,50,Taylor Smith,2024-06-04,9,7,In Progress,Rejected
+ARV00568,ENT119,2024-Q4,Finance ERP,293,Drew Martin,2024-10-12,4,5,Overdue,Pending
+ARV00569,ENT056,2026-Q3,HR Platform,902,Jordan Lee,2026-08-19,4,2,Overdue,Pending
+ARV00570,ENT067,2025-Q1,Identity Management,542,Jordan Lee,2025-03-08,11,7,Overdue,Rejected
+ARV00571,ENT021,2025-Q1,Finance ERP,1158,Drew Martin,2025-03-18,6,1,In Progress,Rejected
+ARV00572,ENT117,2025-Q3,Compliance Portal,804,Morgan Davis,2025-08-01,12,5,Completed,Rejected
+ARV00573,ENT096,2025-Q1,Client Data Hub,294,Casey Patel,2025-03-19,4,2,In Progress,Certified with Exceptions
+ARV00574,ENT026,2024-Q4,Compliance Portal,857,Morgan Davis,2024-11-12,8,4,Not Started,Rejected
+ARV00575,ENT106,2025-Q1,Client Data Hub,853,Robin Clark,2025-02-09,8,12,In Progress,Rejected
+ARV00576,ENT036,2024-Q4,Risk Analytics,664,Drew Martin,2024-11-10,4,3,Not Started,Certified with Exceptions
+ARV00577,ENT096,2026-Q1,Identity Management,259,Cameron Wilson,2026-01-27,1,5,Completed,Pending
+ARV00578,ENT076,2025-Q3,Client Data Hub,892,Sam Johnson,2025-07-17,6,10,In Progress,Rejected
+ARV00579,ENT029,2026-Q3,HR Platform,556,Cameron Wilson,2026-08-11,8,6,In Progress,Pending
+ARV00580,ENT086,2024-Q4,HR Platform,249,Jamie Garcia,2024-10-29,9,3,In Progress,Rejected
+ARV00581,ENT047,2025-Q1,Client Data Hub,188,Riley Chen,2025-01-20,3,2,Not Started,Pending
+ARV00582,ENT028,2026-Q3,Client Data Hub,1068,Cameron Wilson,2026-08-18,10,2,Overdue,Certified
+ARV00583,ENT079,2024-Q2,Identity Management,564,Sam Johnson,2024-06-30,12,1,In Progress,Certified with Exceptions
+ARV00584,ENT075,2025-Q4,Risk Analytics,607,Avery Brown,2025-10-22,0,3,Overdue,Certified with Exceptions
+ARV00585,ENT101,2024-Q2,Identity Management,399,Jamie Garcia,2024-06-28,11,4,In Progress,Certified with Exceptions
+ARV00586,ENT113,2024-Q3,Client Data Hub,534,Riley Chen,2024-07-01,9,4,Overdue,Rejected
+ARV00587,ENT062,2025-Q1,Identity Management,276,Robin Clark,2025-03-17,1,1,In Progress,Certified
+ARV00588,ENT074,2026-Q1,Finance ERP,1086,Avery Brown,2026-03-12,2,11,Completed,Certified
+ARV00589,ENT010,2024-Q1,HR Platform,398,Avery Brown,2024-01-28,1,8,In Progress,Certified with Exceptions
+ARV00590,ENT089,2024-Q1,Identity Management,643,Riley Chen,2024-01-30,6,11,Not Started,Pending
+ARV00591,ENT003,2026-Q3,Compliance Portal,78,Riley Chen,2026-09-24,6,1,In Progress,Certified with Exceptions
+ARV00592,ENT033,2026-Q4,Finance ERP,593,Jordan Lee,2026-10-05,1,6,Not Started,Certified with Exceptions
+ARV00593,ENT103,2026-Q2,Risk Analytics,647,Morgan Davis,2026-05-25,0,6,Not Started,Rejected
+ARV00594,ENT011,2025-Q3,Client Data Hub,245,Jordan Lee,2025-09-21,7,12,Not Started,Rejected
+ARV00595,ENT118,2026-Q1,Identity Management,451,Drew Martin,2026-02-14,1,1,Completed,Certified with Exceptions
+ARV00596,ENT089,2026-Q3,Risk Analytics,411,Drew Martin,2026-07-18,5,2,Not Started,Certified with Exceptions
+ARV00597,ENT095,2026-Q2,Client Data Hub,634,Jordan Lee,2026-04-19,3,0,Overdue,Pending
+ARV00598,ENT001,2025-Q2,Client Data Hub,538,Robin Clark,2025-06-19,4,2,Overdue,Certified with Exceptions
+ARV00599,ENT068,2025-Q2,Client Data Hub,508,Drew Martin,2025-04-11,0,12,Completed,Rejected
+ARV00600,ENT016,2025-Q1,Client Data Hub,669,Sam Johnson,2025-03-05,9,1,Completed,Rejected
+ARV00601,ENT014,2025-Q1,Compliance Portal,729,Riley Chen,2025-02-22,9,6,Overdue,Pending
+ARV00602,ENT060,2024-Q3,Finance ERP,987,Sam Johnson,2024-08-18,9,11,In Progress,Certified with Exceptions
+ARV00603,ENT114,2026-Q1,Identity Management,706,Morgan Davis,2026-01-04,1,0,Not Started,Certified with Exceptions
+ARV00604,ENT043,2025-Q2,Risk Analytics,781,Avery Brown,2025-06-05,0,2,Not Started,Certified with Exceptions
+ARV00605,ENT089,2024-Q4,Finance ERP,650,Avery Brown,2024-10-24,6,2,In Progress,Certified with Exceptions
+ARV00606,ENT089,2025-Q3,HR Platform,1161,Alex Morgan,2025-07-29,3,1,Completed,Pending
+ARV00607,ENT102,2026-Q2,Finance ERP,928,Morgan Davis,2026-05-23,9,2,Not Started,Pending
+ARV00608,ENT073,2025-Q1,Identity Management,937,Sam Johnson,2025-03-20,8,8,Overdue,Certified with Exceptions
+ARV00609,ENT070,2024-Q3,Identity Management,1159,Drew Martin,2024-08-31,6,6,Not Started,Certified with Exceptions
+ARV00610,ENT114,2026-Q2,Finance ERP,1076,Morgan Davis,2026-06-18,12,0,Completed,Pending
+ARV00611,ENT055,2025-Q2,Compliance Portal,1124,Alex Morgan,2025-05-25,8,0,Overdue,Rejected
+ARV00612,ENT076,2024-Q2,Client Data Hub,441,Casey Patel,2024-06-05,10,9,In Progress,Certified with Exceptions
+ARV00613,ENT079,2024-Q3,Finance ERP,1100,Jamie Garcia,2024-07-07,2,4,In Progress,Certified
+ARV00614,ENT090,2024-Q3,Finance ERP,1055,Alex Morgan,2024-07-14,11,10,In Progress,Rejected
+ARV00615,ENT043,2024-Q2,HR Platform,93,Jamie Garcia,2024-04-03,10,12,Not Started,Rejected
+ARV00616,ENT084,2025-Q4,Risk Analytics,719,Avery Brown,2025-11-19,5,1,Overdue,Certified with Exceptions
+ARV00617,ENT026,2024-Q2,Compliance Portal,67,Alex Morgan,2024-06-23,6,6,Not Started,Certified with Exceptions
+ARV00618,ENT097,2024-Q4,HR Platform,771,Cameron Wilson,2024-10-09,1,6,Completed,Certified with Exceptions
+ARV00619,ENT020,2025-Q1,Client Data Hub,1028,Drew Martin,2025-02-28,10,9,Overdue,Pending
+ARV00620,ENT008,2026-Q1,Compliance Portal,743,Taylor Smith,2026-01-13,11,2,In Progress,Pending
+ARV00621,ENT081,2026-Q1,Client Data Hub,656,Taylor Smith,2026-03-05,2,0,Overdue,Pending
+ARV00622,ENT073,2024-Q4,Client Data Hub,981,Morgan Davis,2024-12-11,12,1,In Progress,Certified
+ARV00623,ENT083,2025-Q2,Risk Analytics,1013,Casey Patel,2025-05-08,2,9,Not Started,Certified with Exceptions
+ARV00624,ENT073,2024-Q2,Risk Analytics,632,Alex Morgan,2024-06-30,12,2,In Progress,Rejected
+ARV00625,ENT108,2026-Q4,Finance ERP,1124,Jordan Lee,2026-11-04,4,12,Not Started,Certified with Exceptions
+ARV00626,ENT119,2025-Q4,Compliance Portal,55,Jamie Garcia,2025-10-20,10,6,Not Started,Pending
+ARV00627,ENT037,2024-Q2,Client Data Hub,256,Casey Patel,2024-04-05,12,10,Not Started,Certified
+ARV00628,ENT043,2026-Q3,Risk Analytics,245,Jordan Lee,2026-08-20,12,3,In Progress,Rejected
+ARV00629,ENT084,2024-Q4,HR Platform,672,Jamie Garcia,2024-12-07,6,2,Overdue,Rejected
+ARV00630,ENT072,2025-Q1,HR Platform,159,Robin Clark,2025-03-10,6,8,Overdue,Pending
+ARV00631,ENT045,2026-Q1,Compliance Portal,685,Taylor Smith,2026-03-14,0,12,Completed,Certified with Exceptions
+ARV00632,ENT026,2024-Q4,Finance ERP,768,Avery Brown,2024-12-16,12,12,In Progress,Rejected
+ARV00633,ENT014,2025-Q3,Finance ERP,375,Robin Clark,2025-07-27,0,7,Completed,Certified with Exceptions
+ARV00634,ENT062,2026-Q3,Client Data Hub,256,Drew Martin,2026-08-22,1,0,Completed,Rejected
+ARV00635,ENT033,2026-Q1,Finance ERP,1102,Taylor Smith,2026-03-10,11,10,In Progress,Certified
+ARV00636,ENT087,2024-Q4,Client Data Hub,305,Jamie Garcia,2024-12-10,5,10,Not Started,Pending
+ARV00637,ENT101,2026-Q1,HR Platform,531,Sam Johnson,2026-01-14,11,2,Not Started,Rejected
+ARV00638,ENT064,2025-Q2,HR Platform,101,Taylor Smith,2025-05-02,2,9,In Progress,Certified
+ARV00639,ENT071,2025-Q3,Identity Management,715,Jordan Lee,2025-08-15,10,1,Completed,Rejected
+ARV00640,ENT004,2026-Q4,Risk Analytics,1082,Jamie Garcia,2026-11-22,10,2,Completed,Rejected
+ARV00641,ENT038,2025-Q3,HR Platform,59,Taylor Smith,2025-07-20,7,8,Completed,Certified with Exceptions
+ARV00642,ENT024,2025-Q4,HR Platform,659,Riley Chen,2025-10-26,8,12,Overdue,Certified with Exceptions
+ARV00643,ENT014,2026-Q4,HR Platform,894,Cameron Wilson,2026-10-20,2,12,Completed,Pending
+ARV00644,ENT083,2025-Q4,Client Data Hub,1019,Sam Johnson,2025-11-12,1,9,In Progress,Certified
+ARV00645,ENT010,2025-Q1,Compliance Portal,1044,Riley Chen,2025-01-06,4,1,Not Started,Certified
+ARV00646,ENT119,2025-Q4,Compliance Portal,638,Casey Patel,2025-12-22,9,6,Completed,Certified
+ARV00647,ENT063,2025-Q1,Finance ERP,662,Taylor Smith,2025-01-24,3,4,In Progress,Rejected
+ARV00648,ENT093,2024-Q4,Client Data Hub,775,Jordan Lee,2024-10-12,9,10,Completed,Certified with Exceptions
+ARV00649,ENT024,2024-Q1,Compliance Portal,1091,Morgan Davis,2024-01-30,3,12,Not Started,Pending
+ARV00650,ENT102,2026-Q1,Identity Management,121,Riley Chen,2026-01-15,8,2,Not Started,Rejected
+ARV00651,ENT082,2025-Q3,HR Platform,420,Sam Johnson,2025-08-10,3,6,In Progress,Certified
+ARV00652,ENT107,2024-Q3,Compliance Portal,972,Taylor Smith,2024-08-19,0,0,Completed,Certified
+ARV00653,ENT018,2026-Q1,Client Data Hub,486,Avery Brown,2026-01-16,10,8,In Progress,Certified
+ARV00654,ENT006,2025-Q4,Client Data Hub,960,Robin Clark,2025-11-06,12,11,In Progress,Certified with Exceptions
+ARV00655,ENT066,2024-Q1,Client Data Hub,807,Morgan Davis,2024-03-07,2,5,Not Started,Rejected
+ARV00656,ENT003,2025-Q4,Risk Analytics,782,Casey Patel,2025-12-03,4,3,Overdue,Certified with Exceptions
+ARV00657,ENT047,2026-Q1,Compliance Portal,143,Taylor Smith,2026-03-27,12,6,Not Started,Certified
+ARV00658,ENT041,2025-Q2,Risk Analytics,583,Robin Clark,2025-05-11,5,5,Not Started,Pending
+ARV00659,ENT001,2025-Q3,Compliance Portal,346,Avery Brown,2025-08-26,1,1,Completed,Certified with Exceptions
+ARV00660,ENT062,2024-Q2,Identity Management,947,Drew Martin,2024-05-07,10,8,Completed,Pending
+ARV00661,ENT009,2026-Q2,Compliance Portal,896,Avery Brown,2026-04-19,3,8,Overdue,Rejected
+ARV00662,ENT108,2025-Q3,Risk Analytics,1084,Cameron Wilson,2025-09-07,0,11,Completed,Certified
+ARV00663,ENT086,2024-Q4,Compliance Portal,515,Drew Martin,2024-10-13,0,5,In Progress,Certified with Exceptions
+ARV00664,ENT113,2024-Q3,Compliance Portal,804,Casey Patel,2024-08-13,6,0,Overdue,Certified
+ARV00665,ENT089,2024-Q3,Compliance Portal,732,Robin Clark,2024-09-22,1,7,Completed,Pending
+ARV00666,ENT073,2025-Q3,Compliance Portal,289,Cameron Wilson,2025-07-16,3,11,Completed,Pending
+ARV00667,ENT030,2025-Q2,Identity Management,862,Alex Morgan,2025-05-06,1,10,Completed,Pending
+ARV00668,ENT023,2024-Q3,HR Platform,920,Sam Johnson,2024-09-13,5,3,Overdue,Pending
+ARV00669,ENT106,2026-Q3,Compliance Portal,870,Avery Brown,2026-09-16,4,11,Overdue,Certified with Exceptions
+ARV00670,ENT052,2025-Q1,HR Platform,388,Morgan Davis,2025-03-02,11,0,In Progress,Certified with Exceptions
+ARV00671,ENT089,2025-Q3,Client Data Hub,946,Avery Brown,2025-08-15,8,11,Completed,Rejected
+ARV00672,ENT081,2025-Q2,Risk Analytics,277,Taylor Smith,2025-04-05,6,5,Not Started,Certified
+ARV00673,ENT011,2025-Q3,Finance ERP,1075,Avery Brown,2025-08-28,3,4,Not Started,Rejected
+ARV00674,ENT060,2026-Q4,Compliance Portal,330,Jamie Garcia,2026-11-21,5,9,Not Started,Pending
+ARV00675,ENT030,2026-Q1,HR Platform,90,Jordan Lee,2026-02-15,7,1,Completed,Certified
+ARV00676,ENT113,2025-Q2,HR Platform,526,Alex Morgan,2025-06-09,11,12,Completed,Certified with Exceptions
+ARV00677,ENT093,2026-Q3,HR Platform,798,Alex Morgan,2026-07-11,11,10,In Progress,Pending
+ARV00678,ENT052,2025-Q1,Finance ERP,947,Cameron Wilson,2025-02-06,9,0,In Progress,Certified with Exceptions
+ARV00679,ENT052,2026-Q4,HR Platform,889,Casey Patel,2026-10-01,6,9,Not Started,Certified
+ARV00680,ENT093,2026-Q2,Identity Management,941,Robin Clark,2026-06-22,0,0,Completed,Rejected
+ARV00681,ENT094,2025-Q2,Compliance Portal,434,Cameron Wilson,2025-06-29,11,8,In Progress,Certified with Exceptions
+ARV00682,ENT020,2024-Q3,Identity Management,990,Riley Chen,2024-07-09,0,2,In Progress,Certified with Exceptions
+ARV00683,ENT010,2026-Q2,Compliance Portal,527,Alex Morgan,2026-04-05,3,5,Completed,Certified
+ARV00684,ENT071,2024-Q2,Identity Management,170,Alex Morgan,2024-05-26,2,1,Completed,Pending
+ARV00685,ENT008,2025-Q1,Compliance Portal,528,Cameron Wilson,2025-01-08,1,2,Completed,Pending
+ARV00686,ENT037,2026-Q2,Risk Analytics,1187,Avery Brown,2026-05-03,12,9,Overdue,Pending
+ARV00687,ENT080,2025-Q2,Risk Analytics,833,Robin Clark,2025-05-19,10,6,Overdue,Pending
+ARV00688,ENT114,2025-Q4,Compliance Portal,362,Jordan Lee,2025-12-24,8,10,Completed,Pending
+ARV00689,ENT114,2025-Q4,Compliance Portal,563,Cameron Wilson,2025-11-25,6,3,Overdue,Rejected
+ARV00690,ENT009,2026-Q4,HR Platform,390,Drew Martin,2026-11-15,5,12,Completed,Rejected
+ARV00691,ENT085,2024-Q1,Identity Management,239,Alex Morgan,2024-02-22,9,9,Overdue,Pending
+ARV00692,ENT023,2026-Q3,Client Data Hub,199,Drew Martin,2026-09-04,11,11,Completed,Certified with Exceptions
+ARV00693,ENT034,2024-Q4,Client Data Hub,566,Casey Patel,2024-11-13,4,1,Overdue,Certified with Exceptions
+ARV00694,ENT115,2025-Q3,HR Platform,684,Robin Clark,2025-07-02,0,12,Overdue,Certified
+ARV00695,ENT113,2025-Q3,Identity Management,737,Casey Patel,2025-08-20,9,10,Not Started,Certified with Exceptions
+ARV00696,ENT011,2026-Q1,Identity Management,366,Riley Chen,2026-01-18,9,10,In Progress,Pending
+ARV00697,ENT060,2025-Q2,Client Data Hub,288,Morgan Davis,2025-04-01,12,7,Not Started,Certified with Exceptions
+ARV00698,ENT003,2026-Q2,HR Platform,1148,Morgan Davis,2026-06-14,5,10,Not Started,Certified
+ARV00699,ENT086,2024-Q1,Identity Management,136,Jamie Garcia,2024-03-24,3,10,Overdue,Certified with Exceptions
+ARV00700,ENT092,2025-Q4,Identity Management,990,Drew Martin,2025-12-02,7,7,In Progress,Rejected
+ARV00701,ENT023,2025-Q4,Risk Analytics,1023,Jamie Garcia,2025-12-03,2,2,Not Started,Certified with Exceptions
+ARV00702,ENT120,2025-Q3,Identity Management,206,Cameron Wilson,2025-07-25,2,4,Overdue,Pending
+ARV00703,ENT030,2026-Q2,HR Platform,595,Taylor Smith,2026-06-28,0,0,In Progress,Rejected
+ARV00704,ENT081,2025-Q4,HR Platform,1122,Alex Morgan,2025-12-07,7,0,Not Started,Rejected
+ARV00705,ENT009,2024-Q3,Compliance Portal,1105,Morgan Davis,2024-07-07,8,11,In Progress,Certified with Exceptions
+ARV00706,ENT059,2025-Q1,Compliance Portal,835,Taylor Smith,2025-02-25,5,5,Completed,Rejected
+ARV00707,ENT043,2025-Q3,HR Platform,557,Drew Martin,2025-09-25,11,6,Not Started,Certified
+ARV00708,ENT079,2026-Q4,HR Platform,1057,Drew Martin,2026-10-02,3,10,Completed,Certified
+ARV00709,ENT098,2024-Q4,Identity Management,208,Jordan Lee,2024-11-04,0,1,Completed,Certified
+ARV00710,ENT030,2026-Q4,Risk Analytics,103,Morgan Davis,2026-11-14,10,2,Completed,Rejected
+ARV00711,ENT025,2025-Q4,Client Data Hub,302,Sam Johnson,2025-11-27,4,3,Overdue,Pending
+ARV00712,ENT005,2025-Q2,Risk Analytics,1119,Drew Martin,2025-06-02,0,2,Completed,Rejected
+ARV00713,ENT107,2026-Q2,HR Platform,142,Avery Brown,2026-06-30,4,4,Not Started,Certified with Exceptions
+ARV00714,ENT110,2024-Q4,Client Data Hub,910,Sam Johnson,2024-10-13,4,3,Completed,Certified
+ARV00715,ENT061,2025-Q1,HR Platform,1168,Casey Patel,2025-01-04,12,11,Not Started,Pending
+ARV00716,ENT016,2024-Q4,Risk Analytics,1064,Avery Brown,2024-10-02,0,12,Overdue,Pending
+ARV00717,ENT077,2025-Q4,Identity Management,427,Cameron Wilson,2025-12-11,9,7,Not Started,Certified with Exceptions
+ARV00718,ENT118,2026-Q1,Finance ERP,906,Drew Martin,2026-02-07,7,11,Completed,Rejected
+ARV00719,ENT068,2026-Q3,Risk Analytics,1036,Morgan Davis,2026-07-02,4,12,Completed,Certified
+ARV00720,ENT067,2025-Q3,Risk Analytics,1041,Jamie Garcia,2025-08-26,2,9,Not Started,Pending
+ARV00721,ENT074,2025-Q2,Identity Management,937,Robin Clark,2025-05-30,9,1,Not Started,Certified
+ARV00722,ENT062,2024-Q2,Finance ERP,386,Robin Clark,2024-06-12,7,6,In Progress,Certified
+ARV00723,ENT076,2024-Q2,Finance ERP,754,Avery Brown,2024-04-13,3,11,Completed,Pending
+ARV00724,ENT046,2024-Q4,HR Platform,188,Drew Martin,2024-10-30,1,3,Overdue,Certified with Exceptions
+ARV00725,ENT094,2026-Q3,Compliance Portal,1011,Riley Chen,2026-09-24,6,7,Not Started,Rejected
+ARV00726,ENT041,2025-Q3,HR Platform,145,Drew Martin,2025-09-06,8,6,Not Started,Rejected
+ARV00727,ENT104,2025-Q3,Compliance Portal,143,Avery Brown,2025-08-06,0,7,In Progress,Certified
+ARV00728,ENT066,2024-Q2,Compliance Portal,569,Robin Clark,2024-05-08,2,1,Completed,Certified with Exceptions
+ARV00729,ENT087,2024-Q1,Identity Management,96,Sam Johnson,2024-01-01,1,6,Not Started,Pending
+ARV00730,ENT105,2025-Q3,HR Platform,799,Robin Clark,2025-09-19,1,9,In Progress,Pending
+ARV00731,ENT026,2025-Q4,Identity Management,280,Riley Chen,2025-10-22,0,6,Overdue,Certified with Exceptions
+ARV00732,ENT089,2024-Q3,Risk Analytics,434,Morgan Davis,2024-07-02,12,2,Overdue,Rejected
+ARV00733,ENT024,2025-Q3,Client Data Hub,103,Taylor Smith,2025-07-11,1,10,Not Started,Rejected
+ARV00734,ENT008,2024-Q3,Compliance Portal,434,Cameron Wilson,2024-09-20,12,11,In Progress,Rejected
+ARV00735,ENT106,2026-Q4,Client Data Hub,224,Alex Morgan,2026-10-16,9,9,In Progress,Certified with Exceptions
+ARV00736,ENT109,2024-Q1,Identity Management,827,Drew Martin,2024-01-19,5,8,In Progress,Pending
+ARV00737,ENT009,2026-Q3,Risk Analytics,596,Drew Martin,2026-08-24,1,4,Overdue,Pending
+ARV00738,ENT074,2024-Q4,Compliance Portal,411,Robin Clark,2024-12-12,4,6,Completed,Pending
+ARV00739,ENT070,2024-Q3,Finance ERP,663,Taylor Smith,2024-07-21,3,11,Not Started,Certified
+ARV00740,ENT031,2026-Q4,Client Data Hub,667,Casey Patel,2026-10-02,4,2,Overdue,Pending
+ARV00741,ENT107,2024-Q2,HR Platform,751,Casey Patel,2024-06-18,11,6,Overdue,Rejected
+ARV00742,ENT088,2025-Q3,HR Platform,414,Jordan Lee,2025-07-02,1,4,Overdue,Certified with Exceptions
+ARV00743,ENT074,2024-Q4,Risk Analytics,139,Sam Johnson,2024-10-17,7,7,Completed,Certified with Exceptions
+ARV00744,ENT077,2026-Q1,Risk Analytics,585,Alex Morgan,2026-01-16,6,3,Overdue,Certified
+ARV00745,ENT049,2024-Q1,Identity Management,1060,Riley Chen,2024-02-29,11,1,Overdue,Pending
+ARV00746,ENT089,2025-Q2,Identity Management,407,Alex Morgan,2025-06-03,11,3,Not Started,Certified
+ARV00747,ENT095,2026-Q2,Compliance Portal,786,Jordan Lee,2026-05-16,2,8,Completed,Certified with Exceptions
+ARV00748,ENT009,2025-Q3,Finance ERP,1016,Jamie Garcia,2025-07-10,6,7,In Progress,Certified
+ARV00749,ENT038,2024-Q1,Client Data Hub,1140,Taylor Smith,2024-01-28,4,3,In Progress,Rejected
+ARV00750,ENT106,2024-Q3,Client Data Hub,23,Robin Clark,2024-09-12,6,11,In Progress,Certified
+ARV00751,ENT023,2026-Q1,Identity Management,507,Jamie Garcia,2026-01-10,11,11,Not Started,Certified with Exceptions
+ARV00752,ENT087,2025-Q3,Finance ERP,810,Casey Patel,2025-08-05,11,8,In Progress,Pending
+ARV00753,ENT093,2026-Q2,Client Data Hub,155,Jordan Lee,2026-06-08,7,4,Overdue,Certified with Exceptions
+ARV00754,ENT068,2026-Q2,Client Data Hub,964,Drew Martin,2026-06-23,8,9,Not Started,Rejected
+ARV00755,ENT039,2025-Q3,HR Platform,492,Jordan Lee,2025-08-03,11,2,Overdue,Pending
+ARV00756,ENT063,2026-Q1,Client Data Hub,56,Cameron Wilson,2026-02-06,0,0,Not Started,Certified with Exceptions
+ARV00757,ENT088,2026-Q3,Client Data Hub,366,Taylor Smith,2026-08-20,4,1,Overdue,Certified
+ARV00758,ENT080,2024-Q3,Risk Analytics,131,Taylor Smith,2024-08-03,5,0,Not Started,Pending
+ARV00759,ENT025,2026-Q2,HR Platform,508,Morgan Davis,2026-06-18,0,12,In Progress,Certified
+ARV00760,ENT056,2026-Q3,Risk Analytics,333,Casey Patel,2026-09-03,10,8,In Progress,Rejected
+ARV00761,ENT068,2024-Q3,Compliance Portal,871,Drew Martin,2024-08-03,6,12,Not Started,Rejected
+ARV00762,ENT061,2024-Q2,Compliance Portal,1182,Cameron Wilson,2024-06-12,3,8,Not Started,Pending
+ARV00763,ENT071,2026-Q3,Identity Management,1058,Sam Johnson,2026-08-26,10,7,In Progress,Certified
+ARV00764,ENT109,2024-Q4,Identity Management,566,Jamie Garcia,2024-11-15,5,7,Not Started,Certified
+ARV00765,ENT083,2024-Q4,Compliance Portal,214,Taylor Smith,2024-10-04,4,6,Completed,Certified with Exceptions
+ARV00766,ENT047,2026-Q1,Identity Management,199,Jamie Garcia,2026-02-19,6,4,Completed,Certified
+ARV00767,ENT063,2025-Q2,Identity Management,137,Drew Martin,2025-06-30,11,0,Completed,Certified with Exceptions
+ARV00768,ENT004,2025-Q1,Identity Management,1011,Robin Clark,2025-01-12,8,3,In Progress,Certified with Exceptions
+ARV00769,ENT083,2024-Q2,Client Data Hub,918,Robin Clark,2024-05-05,1,4,Not Started,Rejected
+ARV00770,ENT081,2024-Q2,HR Platform,211,Taylor Smith,2024-05-06,8,6,Completed,Certified with Exceptions
+ARV00771,ENT096,2024-Q4,Finance ERP,593,Avery Brown,2024-10-17,11,5,In Progress,Pending
+ARV00772,ENT024,2026-Q4,Compliance Portal,483,Robin Clark,2026-11-15,8,6,In Progress,Certified with Exceptions
+ARV00773,ENT110,2024-Q4,HR Platform,165,Avery Brown,2024-10-19,0,10,Overdue,Certified
+ARV00774,ENT057,2025-Q4,Client Data Hub,1152,Alex Morgan,2025-11-13,4,7,Overdue,Certified
+ARV00775,ENT021,2026-Q1,Compliance Portal,281,Cameron Wilson,2026-02-12,8,7,Not Started,Certified
+ARV00776,ENT048,2025-Q2,HR Platform,881,Cameron Wilson,2025-04-28,12,6,Not Started,Rejected
+ARV00777,ENT077,2024-Q2,Finance ERP,868,Cameron Wilson,2024-05-04,11,6,Completed,Certified
+ARV00778,ENT091,2025-Q3,Client Data Hub,797,Taylor Smith,2025-07-01,2,2,Completed,Pending
+ARV00779,ENT098,2026-Q3,Risk Analytics,181,Jordan Lee,2026-07-18,11,9,Overdue,Certified with Exceptions
+ARV00780,ENT053,2026-Q1,Compliance Portal,404,Casey Patel,2026-03-23,0,6,Not Started,Rejected
+ARV00781,ENT099,2025-Q1,Identity Management,681,Riley Chen,2025-03-24,4,7,Overdue,Pending
+ARV00782,ENT055,2026-Q4,Risk Analytics,300,Morgan Davis,2026-11-23,4,2,Not Started,Rejected
+ARV00783,ENT112,2024-Q3,Identity Management,704,Sam Johnson,2024-09-12,5,1,Not Started,Rejected
+ARV00784,ENT063,2024-Q1,Finance ERP,150,Cameron Wilson,2024-03-23,4,8,Overdue,Pending
+ARV00785,ENT056,2025-Q3,Risk Analytics,1077,Robin Clark,2025-08-24,0,3,Overdue,Rejected
+ARV00786,ENT057,2026-Q2,Finance ERP,171,Morgan Davis,2026-05-19,6,4,Completed,Pending
+ARV00787,ENT069,2026-Q4,HR Platform,656,Taylor Smith,2026-10-05,2,11,In Progress,Pending
+ARV00788,ENT120,2025-Q1,Identity Management,821,Jordan Lee,2025-01-22,10,8,Completed,Rejected
+ARV00789,ENT099,2025-Q2,Finance ERP,535,Casey Patel,2025-05-19,0,9,Completed,Certified with Exceptions
+ARV00790,ENT007,2026-Q1,Identity Management,176,Cameron Wilson,2026-03-31,3,6,Completed,Certified with Exceptions
+ARV00791,ENT033,2026-Q3,Finance ERP,521,Avery Brown,2026-07-31,3,8,Not Started,Certified with Exceptions
+ARV00792,ENT033,2024-Q2,Risk Analytics,85,Taylor Smith,2024-04-03,4,3,In Progress,Pending
+ARV00793,ENT001,2025-Q4,Finance ERP,564,Drew Martin,2025-12-03,1,1,In Progress,Certified
+ARV00794,ENT096,2024-Q2,Risk Analytics,1158,Jordan Lee,2024-05-26,3,7,Not Started,Certified with Exceptions
+ARV00795,ENT036,2024-Q2,Client Data Hub,541,Taylor Smith,2024-05-20,2,10,Not Started,Pending
+ARV00796,ENT033,2025-Q4,Finance ERP,129,Jordan Lee,2025-12-04,0,2,Completed,Certified
+ARV00797,ENT102,2025-Q1,Risk Analytics,435,Riley Chen,2025-03-27,0,7,Completed,Pending
+ARV00798,ENT023,2026-Q2,Risk Analytics,833,Casey Patel,2026-05-29,2,7,Overdue,Certified with Exceptions
+ARV00799,ENT114,2025-Q2,Identity Management,990,Morgan Davis,2025-06-25,5,10,In Progress,Pending
+ARV00800,ENT085,2025-Q4,Identity Management,1035,Cameron Wilson,2025-12-03,12,7,Not Started,Certified with Exceptions
+ARV00801,ENT021,2025-Q2,Identity Management,915,Jamie Garcia,2025-04-25,4,2,Not Started,Pending
+ARV00802,ENT081,2024-Q4,HR Platform,594,Riley Chen,2024-11-14,1,11,Not Started,Pending
+ARV00803,ENT027,2026-Q2,Client Data Hub,975,Morgan Davis,2026-05-19,3,6,In Progress,Certified
+ARV00804,ENT097,2024-Q1,HR Platform,1013,Casey Patel,2024-01-16,11,5,Completed,Certified
+ARV00805,ENT057,2024-Q2,HR Platform,620,Avery Brown,2024-05-03,5,6,Not Started,Certified
+ARV00806,ENT118,2026-Q3,Risk Analytics,1010,Alex Morgan,2026-08-18,2,12,Completed,Pending
+ARV00807,ENT062,2025-Q2,Compliance Portal,666,Alex Morgan,2025-06-15,1,10,Overdue,Certified with Exceptions
+ARV00808,ENT027,2025-Q3,Risk Analytics,934,Drew Martin,2025-07-17,9,3,Completed,Pending
+ARV00809,ENT043,2026-Q2,Compliance Portal,598,Casey Patel,2026-06-21,1,7,Completed,Rejected
+ARV00810,ENT064,2025-Q1,Client Data Hub,1013,Jamie Garcia,2025-02-07,0,10,Not Started,Rejected
+ARV00811,ENT067,2026-Q3,Identity Management,277,Cameron Wilson,2026-07-21,6,3,Completed,Certified with Exceptions
+ARV00812,ENT042,2025-Q1,Risk Analytics,92,Alex Morgan,2025-03-29,5,4,In Progress,Certified
+ARV00813,ENT049,2026-Q2,Risk Analytics,35,Riley Chen,2026-06-30,0,4,In Progress,Certified with Exceptions
+ARV00814,ENT112,2024-Q4,Compliance Portal,117,Sam Johnson,2024-12-02,12,6,Not Started,Rejected
+ARV00815,ENT003,2026-Q2,Compliance Portal,111,Jamie Garcia,2026-04-09,4,6,In Progress,Rejected
+ARV00816,ENT068,2026-Q2,Client Data Hub,432,Cameron Wilson,2026-05-20,0,0,In Progress,Certified with Exceptions
+ARV00817,ENT014,2025-Q1,Client Data Hub,772,Cameron Wilson,2025-01-30,11,7,Completed,Rejected
+ARV00818,ENT058,2026-Q1,Client Data Hub,921,Sam Johnson,2026-03-04,5,8,In Progress,Certified
+ARV00819,ENT027,2024-Q3,HR Platform,1021,Cameron Wilson,2024-07-08,5,5,In Progress,Rejected
+ARV00820,ENT034,2025-Q1,Identity Management,1145,Cameron Wilson,2025-03-21,12,11,Not Started,Certified
+ARV00821,ENT112,2024-Q3,HR Platform,752,Morgan Davis,2024-08-21,4,3,Overdue,Certified
+ARV00822,ENT042,2025-Q3,Risk Analytics,181,Jamie Garcia,2025-07-02,10,2,Overdue,Pending
+ARV00823,ENT091,2024-Q2,Identity Management,166,Avery Brown,2024-04-24,11,8,Not Started,Rejected
+ARV00824,ENT062,2024-Q4,Identity Management,1112,Avery Brown,2024-11-01,12,3,Not Started,Certified
+ARV00825,ENT047,2024-Q3,Finance ERP,23,Sam Johnson,2024-08-03,3,5,In Progress,Pending
+ARV00826,ENT072,2025-Q2,Identity Management,690,Taylor Smith,2025-04-27,5,8,Completed,Certified
+ARV00827,ENT004,2026-Q2,HR Platform,194,Cameron Wilson,2026-06-05,0,12,Completed,Rejected
+ARV00828,ENT032,2025-Q1,Risk Analytics,178,Jamie Garcia,2025-02-08,6,12,Overdue,Certified with Exceptions
+ARV00829,ENT058,2025-Q1,Compliance Portal,123,Jordan Lee,2025-03-22,0,3,Completed,Certified
+ARV00830,ENT052,2024-Q3,Risk Analytics,706,Cameron Wilson,2024-07-13,12,10,Not Started,Certified with Exceptions
+ARV00831,ENT001,2024-Q3,Identity Management,389,Riley Chen,2024-09-12,10,4,Completed,Certified with Exceptions
+ARV00832,ENT031,2025-Q3,Identity Management,372,Taylor Smith,2025-07-25,2,4,Not Started,Certified
+ARV00833,ENT045,2025-Q4,Risk Analytics,264,Morgan Davis,2025-10-29,1,5,In Progress,Pending
+ARV00834,ENT037,2025-Q4,Identity Management,1090,Avery Brown,2025-12-27,11,1,Completed,Rejected
+ARV00835,ENT082,2024-Q1,HR Platform,260,Casey Patel,2024-03-04,8,6,Not Started,Certified
+ARV00836,ENT082,2024-Q3,Risk Analytics,1132,Casey Patel,2024-07-30,9,4,Not Started,Pending
+ARV00837,ENT019,2026-Q4,Risk Analytics,224,Taylor Smith,2026-10-01,9,10,Completed,Pending
+ARV00838,ENT021,2025-Q3,Finance ERP,1090,Taylor Smith,2025-08-10,7,4,Not Started,Certified
+ARV00839,ENT079,2024-Q3,Client Data Hub,657,Riley Chen,2024-09-07,3,3,Not Started,Certified with Exceptions
+ARV00840,ENT004,2024-Q2,Finance ERP,85,Jamie Garcia,2024-04-12,2,9,Completed,Certified with Exceptions
+ARV00841,ENT078,2024-Q2,Compliance Portal,224,Alex Morgan,2024-04-06,10,4,Completed,Rejected
+ARV00842,ENT030,2025-Q1,Finance ERP,594,Avery Brown,2025-03-20,6,7,In Progress,Certified
+ARV00843,ENT007,2024-Q3,Client Data Hub,615,Jamie Garcia,2024-07-31,1,9,Completed,Pending
+ARV00844,ENT072,2025-Q4,HR Platform,99,Cameron Wilson,2025-12-29,9,6,Not Started,Pending
+ARV00845,ENT051,2025-Q2,Finance ERP,1198,Riley Chen,2025-05-13,5,12,In Progress,Certified with Exceptions
+ARV00846,ENT093,2026-Q2,HR Platform,234,Drew Martin,2026-05-27,0,3,Not Started,Certified
+ARV00847,ENT092,2026-Q1,Compliance Portal,570,Casey Patel,2026-03-06,8,4,Overdue,Certified
+ARV00848,ENT083,2024-Q3,Client Data Hub,481,Taylor Smith,2024-09-21,10,12,Not Started,Certified with Exceptions
+ARV00849,ENT030,2026-Q3,Risk Analytics,873,Casey Patel,2026-09-06,4,5,Not Started,Certified with Exceptions
+ARV00850,ENT108,2026-Q2,HR Platform,778,Sam Johnson,2026-06-06,11,10,In Progress,Pending
+ARV00851,ENT102,2024-Q3,Risk Analytics,363,Avery Brown,2024-09-13,11,7,Overdue,Certified
+ARV00852,ENT063,2026-Q2,Client Data Hub,865,Alex Morgan,2026-05-21,12,9,Not Started,Pending
+ARV00853,ENT113,2025-Q3,Compliance Portal,1193,Taylor Smith,2025-09-19,10,10,Overdue,Pending
+ARV00854,ENT037,2025-Q4,Risk Analytics,161,Avery Brown,2025-11-22,6,4,In Progress,Pending
+ARV00855,ENT097,2025-Q2,HR Platform,1003,Casey Patel,2025-05-07,8,4,Not Started,Rejected
+ARV00856,ENT010,2024-Q1,Finance ERP,667,Drew Martin,2024-01-14,4,8,In Progress,Rejected
+ARV00857,ENT120,2024-Q1,Client Data Hub,99,Cameron Wilson,2024-03-26,7,10,Completed,Certified with Exceptions
+ARV00858,ENT012,2026-Q3,HR Platform,1064,Morgan Davis,2026-08-03,8,0,In Progress,Certified
+ARV00859,ENT067,2024-Q4,Finance ERP,844,Riley Chen,2024-11-20,6,0,In Progress,Certified with Exceptions
+ARV00860,ENT053,2026-Q1,Client Data Hub,1113,Jamie Garcia,2026-01-08,0,11,Completed,Pending
+ARV00861,ENT105,2024-Q1,Compliance Portal,520,Drew Martin,2024-01-17,3,12,Completed,Rejected
+ARV00862,ENT119,2026-Q2,Client Data Hub,703,Alex Morgan,2026-05-05,4,4,Not Started,Pending
+ARV00863,ENT081,2025-Q1,Risk Analytics,125,Avery Brown,2025-03-04,7,2,Completed,Rejected
+ARV00864,ENT085,2026-Q4,Finance ERP,403,Cameron Wilson,2026-11-15,2,11,Not Started,Certified with Exceptions
+ARV00865,ENT073,2024-Q2,Identity Management,1115,Robin Clark,2024-04-03,8,12,Overdue,Certified with Exceptions
+ARV00866,ENT062,2026-Q3,Compliance Portal,934,Robin Clark,2026-07-26,6,9,In Progress,Certified
+ARV00867,ENT037,2025-Q4,Finance ERP,95,Robin Clark,2025-11-26,5,8,In Progress,Rejected
+ARV00868,ENT071,2025-Q3,Identity Management,1070,Jamie Garcia,2025-09-27,0,0,Overdue,Pending
+ARV00869,ENT018,2026-Q1,Finance ERP,1106,Cameron Wilson,2026-01-06,6,10,Completed,Pending
+ARV00870,ENT045,2024-Q1,Client Data Hub,984,Cameron Wilson,2024-02-05,8,4,In Progress,Pending
+ARV00871,ENT084,2024-Q1,Risk Analytics,227,Cameron Wilson,2024-02-14,1,4,In Progress,Pending
+ARV00872,ENT006,2024-Q4,Client Data Hub,743,Taylor Smith,2024-12-12,8,7,Completed,Pending
+ARV00873,ENT079,2026-Q3,HR Platform,29,Robin Clark,2026-07-07,10,11,Not Started,Rejected
+ARV00874,ENT063,2024-Q3,Finance ERP,1109,Robin Clark,2024-08-13,8,1,In Progress,Certified
+ARV00875,ENT048,2026-Q2,Compliance Portal,572,Jordan Lee,2026-06-17,0,0,In Progress,Certified
+ARV00876,ENT053,2026-Q1,HR Platform,177,Robin Clark,2026-03-09,12,11,In Progress,Certified with Exceptions
+ARV00877,ENT026,2024-Q3,Client Data Hub,760,Jordan Lee,2024-09-02,4,2,Overdue,Certified with Exceptions
+ARV00878,ENT019,2025-Q3,HR Platform,332,Cameron Wilson,2025-07-17,11,12,Overdue,Certified
+ARV00879,ENT055,2025-Q3,Compliance Portal,441,Casey Patel,2025-08-23,8,4,Overdue,Certified with Exceptions
+ARV00880,ENT039,2026-Q3,Risk Analytics,556,Jordan Lee,2026-07-09,9,7,In Progress,Pending
+ARV00881,ENT120,2026-Q3,Finance ERP,1118,Cameron Wilson,2026-07-02,2,8,Overdue,Certified with Exceptions
+ARV00882,ENT031,2024-Q4,HR Platform,229,Drew Martin,2024-10-11,5,1,In Progress,Certified
+ARV00883,ENT089,2025-Q4,Compliance Portal,1107,Avery Brown,2025-11-06,8,10,Not Started,Certified
+ARV00884,ENT068,2026-Q2,Compliance Portal,809,Avery Brown,2026-06-29,4,0,Completed,Rejected
+ARV00885,ENT014,2025-Q3,HR Platform,668,Jamie Garcia,2025-07-03,10,10,In Progress,Certified
+ARV00886,ENT004,2024-Q4,HR Platform,393,Sam Johnson,2024-11-09,1,1,Completed,Pending
+ARV00887,ENT002,2025-Q1,Compliance Portal,1065,Jamie Garcia,2025-01-17,10,1,Completed,Pending
+ARV00888,ENT011,2026-Q2,HR Platform,755,Morgan Davis,2026-04-18,12,12,Overdue,Rejected
+ARV00889,ENT065,2025-Q3,Finance ERP,597,Morgan Davis,2025-07-10,12,12,Not Started,Pending
+ARV00890,ENT062,2025-Q2,Compliance Portal,725,Cameron Wilson,2025-05-10,7,8,Overdue,Rejected
+ARV00891,ENT050,2026-Q3,Finance ERP,811,Casey Patel,2026-09-08,4,4,Not Started,Rejected
+ARV00892,ENT073,2026-Q3,HR Platform,428,Jordan Lee,2026-07-04,12,12,Completed,Rejected
+ARV00893,ENT113,2025-Q4,Client Data Hub,775,Casey Patel,2025-12-08,0,10,Overdue,Pending
+ARV00894,ENT026,2026-Q3,Finance ERP,1040,Riley Chen,2026-08-13,10,7,Completed,Certified with Exceptions
+ARV00895,ENT010,2025-Q2,HR Platform,863,Drew Martin,2025-06-03,2,6,Completed,Certified with Exceptions
+ARV00896,ENT068,2024-Q4,Risk Analytics,973,Sam Johnson,2024-12-12,9,11,In Progress,Certified
+ARV00897,ENT057,2026-Q1,Finance ERP,555,Avery Brown,2026-01-29,5,7,Completed,Rejected
+ARV00898,ENT040,2024-Q3,Compliance Portal,274,Avery Brown,2024-09-08,4,5,Completed,Certified
+ARV00899,ENT087,2024-Q3,Risk Analytics,702,Drew Martin,2024-07-20,5,12,In Progress,Certified
+ARV00900,ENT111,2026-Q1,Client Data Hub,169,Drew Martin,2026-01-30,11,7,Overdue,Certified
+ARV00901,ENT052,2025-Q2,Compliance Portal,935,Cameron Wilson,2025-06-30,5,8,Overdue,Pending
+ARV00902,ENT120,2025-Q1,Identity Management,966,Jamie Garcia,2025-02-06,2,1,Completed,Rejected
+ARV00903,ENT115,2025-Q2,Identity Management,747,Robin Clark,2025-06-19,11,4,In Progress,Certified
+ARV00904,ENT065,2025-Q3,Risk Analytics,1168,Sam Johnson,2025-09-02,1,3,Overdue,Certified
+ARV00905,ENT116,2024-Q1,Compliance Portal,1024,Avery Brown,2024-01-26,1,8,Not Started,Rejected
+ARV00906,ENT030,2024-Q1,Identity Management,754,Robin Clark,2024-01-10,10,6,In Progress,Rejected
+ARV00907,ENT023,2025-Q2,Identity Management,388,Riley Chen,2025-04-06,1,5,Completed,Certified with Exceptions
+ARV00908,ENT104,2025-Q3,Risk Analytics,104,Jordan Lee,2025-08-03,7,4,Not Started,Certified
+ARV00909,ENT027,2026-Q2,Compliance Portal,178,Taylor Smith,2026-06-05,5,11,Overdue,Certified
+ARV00910,ENT067,2025-Q4,Finance ERP,1090,Jordan Lee,2025-11-30,10,11,Not Started,Pending
+ARV00911,ENT071,2026-Q3,Risk Analytics,989,Casey Patel,2026-09-10,9,7,Not Started,Pending
+ARV00912,ENT014,2026-Q3,Identity Management,446,Cameron Wilson,2026-07-11,10,5,In Progress,Pending
+ARV00913,ENT019,2026-Q3,Compliance Portal,947,Alex Morgan,2026-07-31,4,12,Not Started,Pending
+ARV00914,ENT058,2024-Q3,Risk Analytics,956,Casey Patel,2024-07-04,10,7,Not Started,Certified
+ARV00915,ENT047,2026-Q3,Identity Management,926,Taylor Smith,2026-07-17,9,10,In Progress,Certified
+ARV00916,ENT051,2024-Q1,Identity Management,1189,Robin Clark,2024-01-10,8,12,Completed,Certified with Exceptions
+ARV00917,ENT003,2025-Q1,Identity Management,366,Drew Martin,2025-01-23,6,3,Overdue,Pending
+ARV00918,ENT097,2025-Q2,HR Platform,702,Cameron Wilson,2025-04-19,7,8,Not Started,Certified
+ARV00919,ENT116,2024-Q4,HR Platform,157,Taylor Smith,2024-10-08,10,4,Overdue,Rejected
+ARV00920,ENT109,2025-Q3,Finance ERP,889,Jordan Lee,2025-09-29,10,6,Not Started,Pending
+ARV00921,ENT044,2025-Q4,Identity Management,446,Robin Clark,2025-10-01,0,7,Overdue,Certified
+ARV00922,ENT028,2024-Q3,Risk Analytics,624,Sam Johnson,2024-08-28,5,4,In Progress,Certified with Exceptions
+ARV00923,ENT066,2026-Q3,Compliance Portal,451,Robin Clark,2026-08-23,4,7,Not Started,Certified with Exceptions
+ARV00924,ENT076,2026-Q2,Finance ERP,167,Sam Johnson,2026-05-20,7,1,In Progress,Rejected
+ARV00925,ENT006,2025-Q1,Identity Management,280,Jordan Lee,2025-02-01,6,6,In Progress,Certified with Exceptions
+ARV00926,ENT092,2025-Q3,Finance ERP,800,Morgan Davis,2025-07-23,6,7,In Progress,Rejected
+ARV00927,ENT071,2024-Q1,Compliance Portal,913,Jordan Lee,2024-01-25,0,6,In Progress,Certified
+ARV00928,ENT059,2025-Q4,Client Data Hub,400,Jamie Garcia,2025-11-06,9,2,In Progress,Certified with Exceptions
+ARV00929,ENT100,2025-Q1,Risk Analytics,524,Jordan Lee,2025-03-24,2,4,Not Started,Rejected
+ARV00930,ENT049,2026-Q4,Client Data Hub,417,Avery Brown,2026-10-18,9,8,Completed,Certified
+ARV00931,ENT086,2026-Q4,Compliance Portal,449,Cameron Wilson,2026-10-28,4,8,Overdue,Certified
+ARV00932,ENT048,2026-Q1,Identity Management,1149,Jordan Lee,2026-02-12,3,2,In Progress,Certified
+ARV00933,ENT022,2025-Q3,Identity Management,759,Riley Chen,2025-08-06,3,10,In Progress,Certified
+ARV00934,ENT025,2024-Q4,Compliance Portal,457,Jamie Garcia,2024-11-08,1,4,Overdue,Certified with Exceptions
+ARV00935,ENT108,2024-Q1,Compliance Portal,165,Morgan Davis,2024-01-18,8,9,Overdue,Certified with Exceptions
+ARV00936,ENT058,2026-Q3,Identity Management,471,Riley Chen,2026-09-13,0,4,Not Started,Rejected
+ARV00937,ENT046,2024-Q2,Compliance Portal,909,Sam Johnson,2024-04-25,11,3,In Progress,Certified with Exceptions
+ARV00938,ENT030,2024-Q4,Client Data Hub,871,Cameron Wilson,2024-12-11,0,8,Not Started,Rejected
+ARV00939,ENT026,2024-Q2,Compliance Portal,344,Sam Johnson,2024-06-17,7,1,Not Started,Rejected
+ARV00940,ENT053,2026-Q3,Compliance Portal,906,Jamie Garcia,2026-07-18,2,12,Completed,Certified with Exceptions
+ARV00941,ENT044,2026-Q2,Risk Analytics,796,Alex Morgan,2026-04-20,9,4,Overdue,Rejected
+ARV00942,ENT079,2026-Q4,Identity Management,777,Morgan Davis,2026-10-04,0,0,Overdue,Rejected
+ARV00943,ENT080,2026-Q2,HR Platform,857,Taylor Smith,2026-04-25,5,7,Not Started,Rejected
+ARV00944,ENT016,2026-Q1,Risk Analytics,1159,Taylor Smith,2026-02-08,9,6,Completed,Certified with Exceptions
+ARV00945,ENT070,2024-Q2,Finance ERP,1056,Avery Brown,2024-05-16,1,7,Not Started,Certified with Exceptions
+ARV00946,ENT114,2024-Q3,Compliance Portal,830,Morgan Davis,2024-08-24,8,8,Not Started,Certified
+ARV00947,ENT021,2024-Q4,Client Data Hub,487,Riley Chen,2024-12-17,7,1,Overdue,Certified
+ARV00948,ENT093,2024-Q2,Risk Analytics,498,Jamie Garcia,2024-06-15,3,1,Not Started,Rejected
+ARV00949,ENT056,2025-Q1,Client Data Hub,30,Jordan Lee,2025-01-04,8,3,Overdue,Rejected
+ARV00950,ENT104,2025-Q3,Finance ERP,959,Alex Morgan,2025-07-19,11,8,Not Started,Certified
+ARV00951,ENT009,2025-Q2,Compliance Portal,37,Jamie Garcia,2025-06-15,5,8,Completed,Pending
+ARV00952,ENT051,2025-Q4,Client Data Hub,693,Morgan Davis,2025-10-15,5,2,Not Started,Rejected
+ARV00953,ENT056,2026-Q1,Compliance Portal,159,Morgan Davis,2026-03-22,5,7,Completed,Certified
+ARV00954,ENT080,2024-Q2,Client Data Hub,1168,Riley Chen,2024-04-15,5,10,Completed,Rejected
+ARV00955,ENT035,2025-Q1,Identity Management,1151,Robin Clark,2025-03-04,1,12,Completed,Pending
+ARV00956,ENT091,2024-Q1,Finance ERP,696,Jamie Garcia,2024-03-31,12,3,Overdue,Pending
+ARV00957,ENT092,2025-Q4,HR Platform,327,Sam Johnson,2025-11-10,2,12,Completed,Rejected
+ARV00958,ENT108,2025-Q2,Finance ERP,717,Jordan Lee,2025-06-13,10,6,Not Started,Certified
+ARV00959,ENT097,2026-Q3,Compliance Portal,1186,Jamie Garcia,2026-09-27,3,1,In Progress,Rejected
+ARV00960,ENT095,2025-Q3,HR Platform,831,Robin Clark,2025-07-16,2,1,Not Started,Rejected
+ARV00961,ENT034,2024-Q2,HR Platform,492,Taylor Smith,2024-04-17,7,11,In Progress,Rejected
+ARV00962,ENT090,2026-Q1,Finance ERP,601,Robin Clark,2026-02-05,11,2,Completed,Pending
+ARV00963,ENT043,2025-Q3,Client Data Hub,1087,Jordan Lee,2025-08-10,6,8,Not Started,Pending
+ARV00964,ENT045,2024-Q4,Finance ERP,1120,Jamie Garcia,2024-10-28,2,0,Not Started,Rejected
+ARV00965,ENT056,2025-Q3,HR Platform,168,Avery Brown,2025-07-05,0,0,Completed,Certified
+ARV00966,ENT102,2025-Q3,Client Data Hub,727,Avery Brown,2025-07-15,8,6,In Progress,Certified
+ARV00967,ENT065,2024-Q1,Identity Management,243,Sam Johnson,2024-02-19,6,3,Not Started,Certified
+ARV00968,ENT022,2024-Q1,Identity Management,858,Taylor Smith,2024-01-14,8,6,Not Started,Certified
+ARV00969,ENT120,2025-Q2,Compliance Portal,27,Robin Clark,2025-06-09,12,9,Not Started,Pending
+ARV00970,ENT108,2026-Q3,Finance ERP,907,Jordan Lee,2026-07-12,8,5,Completed,Rejected
+ARV00971,ENT066,2026-Q4,Risk Analytics,876,Taylor Smith,2026-10-24,0,4,In Progress,Rejected
+ARV00972,ENT066,2026-Q4,Finance ERP,668,Cameron Wilson,2026-11-21,1,4,Completed,Certified
+ARV00973,ENT069,2025-Q1,Client Data Hub,677,Taylor Smith,2025-01-16,11,5,Not Started,Pending
+ARV00974,ENT085,2026-Q2,Identity Management,93,Avery Brown,2026-05-16,8,10,In Progress,Certified with Exceptions
+ARV00975,ENT073,2025-Q2,Compliance Portal,1105,Sam Johnson,2025-06-26,0,10,Overdue,Rejected
+ARV00976,ENT028,2025-Q3,Finance ERP,665,Avery Brown,2025-07-12,1,7,Overdue,Rejected
+ARV00977,ENT044,2025-Q1,Identity Management,553,Jamie Garcia,2025-02-21,3,4,In Progress,Certified
+ARV00978,ENT048,2025-Q1,Finance ERP,1143,Sam Johnson,2025-01-02,2,5,Completed,Certified with Exceptions
+ARV00979,ENT113,2024-Q4,Compliance Portal,199,Jamie Garcia,2024-10-14,11,2,Completed,Rejected
+ARV00980,ENT059,2025-Q1,Risk Analytics,931,Drew Martin,2025-01-15,6,12,Not Started,Pending
+ARV00981,ENT010,2024-Q1,Finance ERP,167,Taylor Smith,2024-01-12,8,3,Overdue,Pending
+ARV00982,ENT120,2024-Q4,Finance ERP,1016,Sam Johnson,2024-12-04,3,1,Completed,Certified with Exceptions
+ARV00983,ENT089,2026-Q3,Finance ERP,1111,Drew Martin,2026-09-20,0,5,In Progress,Rejected
+ARV00984,ENT064,2025-Q4,Finance ERP,829,Morgan Davis,2025-10-17,2,8,Overdue,Pending
+ARV00985,ENT043,2025-Q3,Finance ERP,803,Riley Chen,2025-08-13,11,9,Not Started,Rejected
+ARV00986,ENT056,2026-Q3,Identity Management,1188,Alex Morgan,2026-08-20,3,2,In Progress,Pending
+ARV00987,ENT072,2024-Q3,Identity Management,685,Alex Morgan,2024-08-23,0,0,Completed,Pending
+ARV00988,ENT090,2026-Q1,Identity Management,444,Sam Johnson,2026-03-05,5,4,Completed,Certified with Exceptions
+ARV00989,ENT023,2024-Q1,Identity Management,1161,Drew Martin,2024-03-26,9,3,Not Started,Pending
+ARV00990,ENT076,2025-Q4,Compliance Portal,364,Casey Patel,2025-11-01,6,6,In Progress,Rejected
+ARV00991,ENT092,2025-Q2,HR Platform,938,Robin Clark,2025-06-15,7,1,Overdue,Rejected
+ARV00992,ENT089,2025-Q2,Client Data Hub,114,Casey Patel,2025-04-17,8,7,In Progress,Rejected
+ARV00993,ENT018,2024-Q3,Client Data Hub,1052,Cameron Wilson,2024-09-10,2,9,In Progress,Certified
+ARV00994,ENT103,2025-Q3,Compliance Portal,1165,Avery Brown,2025-07-05,11,11,Overdue,Rejected
+ARV00995,ENT050,2025-Q2,HR Platform,695,Robin Clark,2025-05-06,7,2,Not Started,Certified
+ARV00996,ENT037,2025-Q3,Identity Management,82,Drew Martin,2025-08-05,2,5,In Progress,Certified with Exceptions
+ARV00997,ENT068,2024-Q1,HR Platform,91,Drew Martin,2024-03-24,8,8,Completed,Certified with Exceptions
+ARV00998,ENT044,2025-Q2,Compliance Portal,314,Casey Patel,2025-04-26,4,8,Overdue,Rejected
+ARV00999,ENT120,2024-Q3,HR Platform,553,Riley Chen,2024-07-20,9,7,Not Started,Rejected
+ARV01000,ENT081,2024-Q4,Client Data Hub,1070,Morgan Davis,2024-12-27,6,5,Overdue,Certified
+ARV01001,ENT046,2024-Q3,Identity Management,592,Casey Patel,2024-09-30,0,4,Overdue,Certified with Exceptions
+ARV01002,ENT084,2025-Q3,HR Platform,583,Jamie Garcia,2025-09-10,4,12,Overdue,Certified with Exceptions
+ARV01003,ENT021,2024-Q1,HR Platform,610,Cameron Wilson,2024-03-21,0,5,In Progress,Certified with Exceptions
+ARV01004,ENT014,2026-Q1,Compliance Portal,517,Avery Brown,2026-02-05,8,2,Not Started,Certified with Exceptions
+ARV01005,ENT042,2025-Q3,Compliance Portal,1110,Sam Johnson,2025-09-07,3,8,Overdue,Certified with Exceptions
+ARV01006,ENT012,2025-Q3,Identity Management,736,Avery Brown,2025-08-28,11,10,Overdue,Rejected
+ARV01007,ENT110,2026-Q1,Client Data Hub,837,Alex Morgan,2026-03-16,2,12,Overdue,Pending
+ARV01008,ENT007,2024-Q2,Finance ERP,611,Casey Patel,2024-06-05,2,12,Completed,Pending
+ARV01009,ENT094,2025-Q3,Identity Management,1072,Alex Morgan,2025-07-09,3,7,In Progress,Certified
+ARV01010,ENT063,2026-Q2,Identity Management,657,Riley Chen,2026-06-16,1,11,Overdue,Certified
+ARV01011,ENT047,2026-Q2,Identity Management,302,Cameron Wilson,2026-04-02,6,11,Completed,Rejected
+ARV01012,ENT033,2025-Q4,HR Platform,1180,Cameron Wilson,2025-11-10,6,7,Overdue,Pending
+ARV01013,ENT037,2024-Q4,HR Platform,1129,Casey Patel,2024-10-15,9,2,Overdue,Rejected
+ARV01014,ENT096,2025-Q1,Risk Analytics,62,Robin Clark,2025-01-13,8,1,Not Started,Certified with Exceptions
+ARV01015,ENT064,2026-Q1,Risk Analytics,735,Taylor Smith,2026-01-21,5,8,In Progress,Pending
+ARV01016,ENT023,2025-Q4,Identity Management,810,Taylor Smith,2025-12-04,12,3,Not Started,Pending
+ARV01017,ENT014,2024-Q2,Risk Analytics,234,Taylor Smith,2024-06-22,1,3,Overdue,Certified
+ARV01018,ENT014,2026-Q1,Client Data Hub,432,Avery Brown,2026-03-31,4,10,Not Started,Rejected
+ARV01019,ENT112,2024-Q4,Risk Analytics,370,Alex Morgan,2024-12-27,2,1,Overdue,Pending
+ARV01020,ENT100,2025-Q3,HR Platform,516,Cameron Wilson,2025-09-17,9,9,In Progress,Pending
+ARV01021,ENT088,2026-Q2,Compliance Portal,1124,Riley Chen,2026-06-28,3,7,Overdue,Certified
+ARV01022,ENT017,2026-Q3,Risk Analytics,1134,Alex Morgan,2026-09-25,6,10,In Progress,Certified
+ARV01023,ENT077,2024-Q4,HR Platform,922,Morgan Davis,2024-10-16,1,5,Overdue,Pending
+ARV01024,ENT020,2025-Q1,Finance ERP,549,Morgan Davis,2025-03-23,10,10,Completed,Pending
+ARV01025,ENT021,2025-Q3,Client Data Hub,1191,Jamie Garcia,2025-09-05,3,7,Completed,Certified
+ARV01026,ENT075,2026-Q1,Compliance Portal,204,Taylor Smith,2026-03-31,4,9,Overdue,Rejected
+ARV01027,ENT102,2024-Q2,Identity Management,150,Jordan Lee,2024-05-31,1,12,In Progress,Certified
+ARV01028,ENT076,2026-Q3,Compliance Portal,317,Jamie Garcia,2026-07-10,9,4,Completed,Certified
+ARV01029,ENT100,2024-Q2,Client Data Hub,299,Casey Patel,2024-06-30,12,4,Not Started,Rejected
+ARV01030,ENT003,2025-Q2,Identity Management,32,Drew Martin,2025-04-22,0,1,In Progress,Certified
+ARV01031,ENT064,2024-Q3,Identity Management,999,Jordan Lee,2024-08-04,8,0,In Progress,Rejected
+ARV01032,ENT104,2025-Q1,Finance ERP,480,Robin Clark,2025-03-03,4,7,In Progress,Certified
+ARV01033,ENT099,2024-Q1,HR Platform,317,Robin Clark,2024-03-29,8,10,Not Started,Certified
+ARV01034,ENT062,2024-Q2,Identity Management,660,Jamie Garcia,2024-06-13,0,6,Not Started,Certified
+ARV01035,ENT036,2024-Q2,Compliance Portal,496,Taylor Smith,2024-05-16,0,11,Completed,Certified
+ARV01036,ENT090,2026-Q3,Risk Analytics,489,Sam Johnson,2026-08-18,5,5,In Progress,Certified
+ARV01037,ENT115,2024-Q1,Client Data Hub,327,Jordan Lee,2024-02-19,2,8,Completed,Rejected
+ARV01038,ENT097,2025-Q3,Finance ERP,535,Drew Martin,2025-09-04,6,3,Not Started,Pending
+ARV01039,ENT102,2024-Q1,Identity Management,1045,Taylor Smith,2024-02-17,9,0,In Progress,Certified
+ARV01040,ENT015,2026-Q2,Finance ERP,146,Drew Martin,2026-05-13,10,1,Not Started,Rejected
+ARV01041,ENT118,2026-Q1,Client Data Hub,719,Robin Clark,2026-03-01,10,0,Overdue,Rejected
+ARV01042,ENT113,2024-Q4,Compliance Portal,690,Morgan Davis,2024-10-18,5,3,Completed,Certified
+ARV01043,ENT079,2024-Q1,Compliance Portal,334,Drew Martin,2024-03-15,8,5,Not Started,Pending
+ARV01044,ENT071,2026-Q1,Finance ERP,520,Avery Brown,2026-01-07,9,7,In Progress,Rejected
+ARV01045,ENT042,2025-Q2,Compliance Portal,1094,Jordan Lee,2025-06-02,4,3,Completed,Certified with Exceptions
+ARV01046,ENT025,2025-Q3,Compliance Portal,1184,Taylor Smith,2025-08-10,7,4,Not Started,Rejected
+ARV01047,ENT022,2024-Q3,Client Data Hub,994,Cameron Wilson,2024-08-01,5,5,Overdue,Rejected
+ARV01048,ENT108,2026-Q2,Finance ERP,695,Cameron Wilson,2026-05-05,7,8,Completed,Rejected
+ARV01049,ENT050,2025-Q1,Identity Management,37,Taylor Smith,2025-03-12,9,6,Overdue,Certified
+ARV01050,ENT118,2026-Q4,HR Platform,213,Cameron Wilson,2026-11-21,4,9,Overdue,Certified
+ARV01051,ENT052,2025-Q3,Compliance Portal,896,Casey Patel,2025-07-06,1,8,Not Started,Certified
+ARV01052,ENT081,2026-Q3,Identity Management,1103,Cameron Wilson,2026-08-26,10,2,In Progress,Pending
+ARV01053,ENT015,2026-Q2,Risk Analytics,60,Drew Martin,2026-06-13,5,8,Not Started,Certified
+ARV01054,ENT043,2024-Q1,Compliance Portal,745,Cameron Wilson,2024-02-04,1,4,Not Started,Certified
+ARV01055,ENT020,2025-Q1,Compliance Portal,255,Morgan Davis,2025-01-11,7,5,In Progress,Certified
+ARV01056,ENT116,2024-Q3,Compliance Portal,1125,Robin Clark,2024-08-24,8,4,Completed,Certified with Exceptions
+ARV01057,ENT068,2024-Q3,Risk Analytics,144,Riley Chen,2024-07-14,1,11,Completed,Certified
+ARV01058,ENT077,2026-Q3,Identity Management,368,Drew Martin,2026-08-10,3,10,Not Started,Certified with Exceptions
+ARV01059,ENT041,2025-Q3,Finance ERP,618,Alex Morgan,2025-09-05,11,12,In Progress,Certified with Exceptions
+ARV01060,ENT110,2026-Q2,HR Platform,377,Jamie Garcia,2026-06-19,0,8,Completed,Certified with Exceptions
+ARV01061,ENT069,2026-Q2,HR Platform,433,Cameron Wilson,2026-06-23,8,5,Not Started,Pending
+ARV01062,ENT052,2026-Q2,Compliance Portal,627,Sam Johnson,2026-05-09,8,6,In Progress,Certified
+ARV01063,ENT017,2026-Q1,HR Platform,797,Drew Martin,2026-02-16,5,8,Completed,Certified
+ARV01064,ENT002,2025-Q2,Identity Management,207,Jamie Garcia,2025-06-01,8,5,Overdue,Certified
+ARV01065,ENT054,2025-Q4,Risk Analytics,257,Jordan Lee,2025-12-11,6,10,In Progress,Certified with Exceptions
+ARV01066,ENT014,2026-Q3,HR Platform,483,Alex Morgan,2026-08-08,10,11,Not Started,Certified with Exceptions
+ARV01067,ENT080,2026-Q3,Client Data Hub,925,Robin Clark,2026-09-15,0,4,In Progress,Pending
+ARV01068,ENT092,2024-Q3,Identity Management,720,Taylor Smith,2024-09-06,9,0,In Progress,Certified
+ARV01069,ENT054,2026-Q1,Client Data Hub,627,Robin Clark,2026-01-17,5,9,Not Started,Pending
+ARV01070,ENT105,2024-Q3,Compliance Portal,682,Jordan Lee,2024-08-20,8,7,In Progress,Rejected
+ARV01071,ENT047,2024-Q3,Compliance Portal,1070,Morgan Davis,2024-08-07,12,4,In Progress,Pending
+ARV01072,ENT044,2024-Q4,Finance ERP,335,Robin Clark,2024-12-29,1,3,Overdue,Certified with Exceptions
+ARV01073,ENT008,2024-Q4,Compliance Portal,882,Casey Patel,2024-12-20,3,8,In Progress,Certified with Exceptions
+ARV01074,ENT066,2024-Q2,HR Platform,1151,Sam Johnson,2024-04-29,7,10,In Progress,Pending
+ARV01075,ENT030,2025-Q2,Finance ERP,236,Avery Brown,2025-06-08,3,12,Not Started,Certified
+ARV01076,ENT060,2025-Q3,Compliance Portal,1087,Avery Brown,2025-09-17,5,8,Not Started,Certified with Exceptions
+ARV01077,ENT109,2025-Q4,Client Data Hub,575,Casey Patel,2025-11-02,3,1,Completed,Rejected
+ARV01078,ENT036,2026-Q3,Identity Management,837,Jordan Lee,2026-07-07,0,5,In Progress,Rejected
+ARV01079,ENT112,2024-Q1,Risk Analytics,1021,Riley Chen,2024-02-13,11,3,In Progress,Certified
+ARV01080,ENT080,2024-Q1,Client Data Hub,726,Alex Morgan,2024-01-12,4,12,In Progress,Certified with Exceptions
+ARV01081,ENT013,2026-Q1,Risk Analytics,1182,Drew Martin,2026-01-19,9,8,Not Started,Certified
+ARV01082,ENT035,2026-Q2,HR Platform,1113,Jordan Lee,2026-04-11,5,9,In Progress,Certified with Exceptions
+ARV01083,ENT099,2026-Q1,Identity Management,1051,Robin Clark,2026-02-12,11,11,In Progress,Certified
+ARV01084,ENT015,2024-Q3,Risk Analytics,860,Robin Clark,2024-08-09,0,6,Overdue,Certified
+ARV01085,ENT050,2026-Q1,Identity Management,186,Sam Johnson,2026-03-03,11,3,Overdue,Rejected
+ARV01086,ENT087,2026-Q2,HR Platform,166,Jordan Lee,2026-05-26,9,12,Not Started,Certified with Exceptions
+ARV01087,ENT093,2024-Q3,Identity Management,526,Jordan Lee,2024-09-02,11,6,Completed,Rejected
+ARV01088,ENT039,2026-Q1,HR Platform,727,Jordan Lee,2026-01-06,8,11,Not Started,Rejected
+ARV01089,ENT028,2025-Q4,Identity Management,605,Avery Brown,2025-11-24,7,11,In Progress,Rejected
+ARV01090,ENT058,2025-Q4,Finance ERP,464,Morgan Davis,2025-12-07,5,8,Completed,Pending
+ARV01091,ENT028,2025-Q1,HR Platform,672,Morgan Davis,2025-02-03,7,5,Not Started,Pending
+ARV01092,ENT098,2026-Q3,Client Data Hub,928,Alex Morgan,2026-09-21,4,2,In Progress,Certified
+ARV01093,ENT021,2025-Q3,Compliance Portal,705,Sam Johnson,2025-09-13,8,9,Completed,Certified with Exceptions
+ARV01094,ENT092,2025-Q1,Risk Analytics,1025,Alex Morgan,2025-03-27,11,2,Overdue,Certified
+ARV01095,ENT019,2025-Q2,Risk Analytics,250,Cameron Wilson,2025-06-15,7,9,Not Started,Pending
+ARV01096,ENT076,2024-Q4,Identity Management,819,Cameron Wilson,2024-11-07,6,7,Completed,Pending
+ARV01097,ENT120,2024-Q2,Client Data Hub,827,Cameron Wilson,2024-06-09,11,0,Completed,Pending
+ARV01098,ENT084,2025-Q4,Finance ERP,26,Jordan Lee,2025-10-30,10,1,Overdue,Certified with Exceptions
+ARV01099,ENT047,2025-Q1,Client Data Hub,589,Alex Morgan,2025-01-13,5,1,Not Started,Pending
+ARV01100,ENT067,2024-Q4,Finance ERP,227,Sam Johnson,2024-10-04,7,5,Overdue,Certified with Exceptions
+ARV01101,ENT118,2024-Q3,Compliance Portal,822,Taylor Smith,2024-08-08,0,9,Not Started,Pending
+ARV01102,ENT081,2024-Q3,Client Data Hub,995,Jamie Garcia,2024-07-28,6,4,Completed,Certified
+ARV01103,ENT057,2024-Q3,Finance ERP,448,Taylor Smith,2024-09-23,11,12,In Progress,Pending
+ARV01104,ENT101,2026-Q1,Client Data Hub,335,Robin Clark,2026-01-28,8,2,Overdue,Rejected
+ARV01105,ENT014,2024-Q4,Finance ERP,710,Avery Brown,2024-10-15,8,5,Overdue,Certified
+ARV01106,ENT082,2025-Q3,Identity Management,827,Cameron Wilson,2025-09-16,0,4,Not Started,Pending
+ARV01107,ENT004,2025-Q3,HR Platform,241,Jamie Garcia,2025-08-18,11,9,In Progress,Certified
+ARV01108,ENT059,2026-Q3,Client Data Hub,946,Drew Martin,2026-08-24,7,7,Completed,Rejected
+ARV01109,ENT043,2025-Q2,Finance ERP,76,Jamie Garcia,2025-04-29,1,10,Not Started,Rejected
+ARV01110,ENT069,2025-Q3,Compliance Portal,542,Morgan Davis,2025-07-29,1,10,Not Started,Certified
+ARV01111,ENT029,2024-Q2,HR Platform,819,Robin Clark,2024-05-05,11,8,Not Started,Certified with Exceptions
+ARV01112,ENT105,2025-Q2,Identity Management,175,Jordan Lee,2025-05-16,5,8,Overdue,Certified with Exceptions
+ARV01113,ENT111,2024-Q1,Finance ERP,492,Jordan Lee,2024-03-30,3,4,Not Started,Pending
+ARV01114,ENT024,2024-Q3,Client Data Hub,577,Drew Martin,2024-09-24,9,3,Overdue,Certified with Exceptions
+ARV01115,ENT039,2024-Q3,Compliance Portal,486,Drew Martin,2024-08-27,8,4,Completed,Certified
+ARV01116,ENT004,2025-Q3,Risk Analytics,1165,Cameron Wilson,2025-09-16,0,7,Overdue,Pending
+ARV01117,ENT068,2026-Q4,Finance ERP,249,Drew Martin,2026-10-21,2,7,Not Started,Certified with Exceptions
+ARV01118,ENT058,2026-Q4,Client Data Hub,373,Cameron Wilson,2026-10-26,12,11,In Progress,Pending
+ARV01119,ENT004,2025-Q3,HR Platform,575,Robin Clark,2025-09-02,10,1,Overdue,Pending
+ARV01120,ENT024,2024-Q2,Compliance Portal,404,Alex Morgan,2024-06-20,12,0,Overdue,Certified
+ARV01121,ENT053,2025-Q1,Identity Management,1138,Jamie Garcia,2025-01-19,11,10,Overdue,Rejected
+ARV01122,ENT042,2025-Q4,Finance ERP,1068,Jamie Garcia,2025-12-01,5,12,Not Started,Certified
+ARV01123,ENT033,2024-Q1,HR Platform,688,Riley Chen,2024-02-14,10,4,Completed,Rejected
+ARV01124,ENT111,2024-Q1,Finance ERP,709,Casey Patel,2024-02-26,2,5,Not Started,Pending
+ARV01125,ENT069,2026-Q1,Identity Management,1031,Jordan Lee,2026-03-29,2,1,Completed,Rejected
+ARV01126,ENT080,2025-Q1,Compliance Portal,972,Avery Brown,2025-03-07,3,9,Not Started,Certified with Exceptions
+ARV01127,ENT081,2025-Q2,Finance ERP,400,Sam Johnson,2025-06-15,7,0,In Progress,Pending
+ARV01128,ENT046,2026-Q3,HR Platform,34,Avery Brown,2026-09-03,1,1,Completed,Certified with Exceptions
+ARV01129,ENT042,2024-Q4,Risk Analytics,819,Morgan Davis,2024-10-23,7,10,In Progress,Rejected
+ARV01130,ENT030,2025-Q1,Compliance Portal,168,Avery Brown,2025-02-04,11,12,In Progress,Certified
+ARV01131,ENT046,2024-Q1,Compliance Portal,798,Morgan Davis,2024-03-22,7,8,Overdue,Rejected
+ARV01132,ENT051,2026-Q1,HR Platform,922,Jordan Lee,2026-02-14,3,1,In Progress,Pending
+ARV01133,ENT007,2024-Q3,HR Platform,394,Jamie Garcia,2024-08-09,5,3,Not Started,Certified with Exceptions
+ARV01134,ENT119,2025-Q2,Identity Management,940,Cameron Wilson,2025-04-08,5,0,In Progress,Rejected
+ARV01135,ENT115,2026-Q1,HR Platform,514,Casey Patel,2026-01-11,5,5,Overdue,Certified with Exceptions
+ARV01136,ENT006,2026-Q4,Client Data Hub,969,Robin Clark,2026-11-17,5,0,Completed,Certified with Exceptions
+ARV01137,ENT026,2025-Q3,Compliance Portal,461,Sam Johnson,2025-09-13,6,5,Completed,Pending
+ARV01138,ENT029,2024-Q4,Client Data Hub,882,Casey Patel,2024-11-16,10,9,Overdue,Rejected
+ARV01139,ENT088,2026-Q4,Compliance Portal,178,Riley Chen,2026-11-22,10,2,In Progress,Rejected
+ARV01140,ENT100,2024-Q2,Compliance Portal,1050,Morgan Davis,2024-04-19,5,1,In Progress,Certified
+ARV01141,ENT107,2025-Q1,Identity Management,544,Casey Patel,2025-03-30,11,6,Not Started,Certified
+ARV01142,ENT111,2024-Q2,HR Platform,756,Robin Clark,2024-06-03,8,11,Overdue,Pending
+ARV01143,ENT064,2026-Q3,Risk Analytics,675,Alex Morgan,2026-08-12,2,10,Not Started,Pending
+ARV01144,ENT086,2024-Q1,Finance ERP,177,Jordan Lee,2024-01-16,1,8,Completed,Pending
+ARV01145,ENT109,2024-Q1,Compliance Portal,370,Cameron Wilson,2024-02-29,5,8,In Progress,Certified
+ARV01146,ENT069,2024-Q4,Finance ERP,43,Avery Brown,2024-11-15,9,1,Completed,Rejected
+ARV01147,ENT115,2026-Q4,Identity Management,1152,Alex Morgan,2026-10-08,8,7,Overdue,Pending
+ARV01148,ENT053,2025-Q2,Compliance Portal,980,Sam Johnson,2025-05-13,10,3,Not Started,Certified with Exceptions
+ARV01149,ENT095,2025-Q2,Finance ERP,95,Drew Martin,2025-05-05,3,12,Completed,Rejected
+ARV01150,ENT028,2025-Q2,Identity Management,788,Sam Johnson,2025-04-16,1,6,Completed,Certified with Exceptions
+ARV01151,ENT020,2024-Q4,Client Data Hub,577,Sam Johnson,2024-10-27,2,11,Completed,Rejected
+ARV01152,ENT071,2025-Q1,Risk Analytics,978,Avery Brown,2025-01-09,1,0,Overdue,Certified
+ARV01153,ENT108,2024-Q2,Risk Analytics,1158,Casey Patel,2024-06-11,2,5,Overdue,Certified
+ARV01154,ENT020,2024-Q2,HR Platform,1137,Casey Patel,2024-06-15,0,8,In Progress,Certified with Exceptions
+ARV01155,ENT080,2025-Q1,HR Platform,605,Jamie Garcia,2025-02-01,2,2,Not Started,Pending
+ARV01156,ENT019,2025-Q2,Finance ERP,89,Robin Clark,2025-06-02,1,7,Overdue,Certified with Exceptions
+ARV01157,ENT047,2024-Q3,Compliance Portal,556,Avery Brown,2024-07-23,3,8,In Progress,Certified with Exceptions
+ARV01158,ENT114,2025-Q1,Client Data Hub,994,Alex Morgan,2025-03-11,7,6,In Progress,Certified
+ARV01159,ENT088,2025-Q4,Client Data Hub,58,Morgan Davis,2025-12-10,2,4,Overdue,Certified
+ARV01160,ENT072,2025-Q3,Client Data Hub,927,Robin Clark,2025-08-27,1,0,Completed,Certified with Exceptions
+ARV01161,ENT057,2025-Q4,Risk Analytics,1034,Cameron Wilson,2025-11-28,9,8,Not Started,Rejected
+ARV01162,ENT087,2026-Q4,Identity Management,265,Jordan Lee,2026-10-14,6,4,Completed,Certified with Exceptions
+ARV01163,ENT119,2025-Q3,Identity Management,415,Robin Clark,2025-09-17,8,9,Not Started,Rejected
+ARV01164,ENT043,2025-Q1,Risk Analytics,828,Sam Johnson,2025-01-28,7,6,In Progress,Certified
+ARV01165,ENT058,2024-Q4,Risk Analytics,1130,Avery Brown,2024-12-02,2,7,Overdue,Rejected
+ARV01166,ENT082,2025-Q1,Finance ERP,1160,Taylor Smith,2025-03-19,10,11,Completed,Certified with Exceptions
+ARV01167,ENT010,2025-Q2,HR Platform,1163,Jamie Garcia,2025-04-03,12,0,Not Started,Certified with Exceptions
+ARV01168,ENT105,2026-Q3,Compliance Portal,847,Robin Clark,2026-09-26,2,2,In Progress,Certified with Exceptions
+ARV01169,ENT042,2025-Q3,Compliance Portal,788,Sam Johnson,2025-07-06,3,9,Not Started,Certified with Exceptions
+ARV01170,ENT097,2024-Q4,Client Data Hub,862,Drew Martin,2024-10-05,1,9,Not Started,Rejected
+ARV01171,ENT112,2026-Q1,HR Platform,421,Alex Morgan,2026-03-16,2,12,Overdue,Certified
+ARV01172,ENT041,2025-Q2,Compliance Portal,905,Avery Brown,2025-06-13,11,9,Overdue,Pending
+ARV01173,ENT058,2024-Q3,Risk Analytics,843,Avery Brown,2024-08-06,5,11,Not Started,Pending
+ARV01174,ENT098,2026-Q4,Compliance Portal,892,Riley Chen,2026-11-11,10,8,In Progress,Certified
+ARV01175,ENT077,2026-Q4,Identity Management,130,Cameron Wilson,2026-11-03,1,5,Overdue,Certified
+ARV01176,ENT086,2026-Q1,Risk Analytics,621,Alex Morgan,2026-02-16,3,3,Overdue,Rejected
+ARV01177,ENT088,2024-Q4,Client Data Hub,597,Sam Johnson,2024-12-01,10,0,Overdue,Pending
+ARV01178,ENT041,2024-Q3,Compliance Portal,770,Avery Brown,2024-07-04,2,10,In Progress,Certified
+ARV01179,ENT049,2024-Q1,Risk Analytics,684,Drew Martin,2024-03-11,6,0,Overdue,Certified with Exceptions
+ARV01180,ENT050,2026-Q3,Finance ERP,872,Drew Martin,2026-07-05,7,7,Completed,Rejected
+ARV01181,ENT050,2026-Q3,Risk Analytics,470,Jordan Lee,2026-07-21,4,8,Completed,Certified with Exceptions
+ARV01182,ENT034,2026-Q3,Identity Management,783,Jamie Garcia,2026-09-28,0,5,Completed,Certified with Exceptions
+ARV01183,ENT108,2024-Q2,Client Data Hub,708,Jordan Lee,2024-04-04,5,7,In Progress,Certified
+ARV01184,ENT024,2025-Q2,Risk Analytics,251,Robin Clark,2025-05-30,9,12,Completed,Pending
+ARV01185,ENT028,2026-Q1,HR Platform,905,Casey Patel,2026-02-12,9,12,Not Started,Certified with Exceptions
+ARV01186,ENT072,2025-Q4,Risk Analytics,901,Drew Martin,2025-10-28,0,5,In Progress,Rejected
+ARV01187,ENT020,2025-Q4,Client Data Hub,833,Morgan Davis,2025-12-08,4,8,Completed,Certified
+ARV01188,ENT014,2024-Q3,Client Data Hub,120,Avery Brown,2024-08-09,8,2,Completed,Certified
+ARV01189,ENT062,2026-Q2,Compliance Portal,512,Sam Johnson,2026-05-10,11,11,Not Started,Certified
+ARV01190,ENT051,2026-Q3,Compliance Portal,305,Riley Chen,2026-08-17,7,11,Overdue,Certified
+ARV01191,ENT062,2024-Q2,HR Platform,933,Sam Johnson,2024-05-23,2,5,Not Started,Certified
+ARV01192,ENT032,2024-Q4,Risk Analytics,376,Cameron Wilson,2024-10-06,7,5,Overdue,Certified with Exceptions
+ARV01193,ENT084,2026-Q4,Identity Management,74,Alex Morgan,2026-11-23,5,6,Not Started,Pending
+ARV01194,ENT009,2024-Q4,Risk Analytics,1172,Riley Chen,2024-10-19,10,3,Completed,Pending
+ARV01195,ENT005,2025-Q3,Compliance Portal,1126,Casey Patel,2025-07-24,9,1,Not Started,Certified with Exceptions
+ARV01196,ENT112,2024-Q2,Finance ERP,1166,Jamie Garcia,2024-04-01,11,5,Not Started,Rejected
+ARV01197,ENT074,2026-Q4,Finance ERP,592,Jordan Lee,2026-10-04,12,5,Not Started,Pending
+ARV01198,ENT017,2025-Q2,HR Platform,322,Jordan Lee,2025-06-26,5,11,Not Started,Rejected
+ARV01199,ENT116,2024-Q4,Identity Management,394,Avery Brown,2024-10-26,3,0,Not Started,Certified with Exceptions
+ARV01200,ENT095,2025-Q2,Client Data Hub,84,Avery Brown,2025-05-05,3,4,Overdue,Rejected
+ARV01201,ENT062,2025-Q4,Identity Management,649,Sam Johnson,2025-11-10,9,9,Completed,Certified
+ARV01202,ENT091,2026-Q3,Compliance Portal,469,Avery Brown,2026-09-05,5,7,In Progress,Rejected
+ARV01203,ENT114,2024-Q2,Risk Analytics,1055,Morgan Davis,2024-04-27,5,3,Completed,Rejected
+ARV01204,ENT051,2025-Q4,Finance ERP,616,Casey Patel,2025-12-13,4,4,Overdue,Rejected
+ARV01205,ENT056,2024-Q3,Risk Analytics,239,Avery Brown,2024-08-14,12,7,Completed,Rejected
+ARV01206,ENT020,2025-Q2,Finance ERP,395,Riley Chen,2025-04-29,8,2,Completed,Certified with Exceptions
+ARV01207,ENT089,2025-Q1,Finance ERP,282,Robin Clark,2025-01-09,7,2,Overdue,Rejected
+ARV01208,ENT044,2024-Q4,HR Platform,856,Taylor Smith,2024-12-04,5,5,Overdue,Certified with Exceptions
+ARV01209,ENT016,2025-Q4,HR Platform,306,Drew Martin,2025-10-10,3,0,Completed,Certified
+ARV01210,ENT063,2026-Q1,Identity Management,761,Jordan Lee,2026-02-23,4,5,Completed,Pending
+ARV01211,ENT034,2024-Q2,HR Platform,613,Robin Clark,2024-06-08,8,6,Not Started,Certified
+ARV01212,ENT089,2024-Q2,Finance ERP,715,Jamie Garcia,2024-04-29,3,1,Overdue,Certified with Exceptions
+ARV01213,ENT060,2026-Q3,Finance ERP,230,Riley Chen,2026-08-03,3,8,In Progress,Certified
+ARV01214,ENT093,2025-Q3,Compliance Portal,846,Casey Patel,2025-09-12,5,8,Overdue,Certified with Exceptions
+ARV01215,ENT012,2024-Q3,Finance ERP,271,Avery Brown,2024-07-02,9,11,In Progress,Certified
+ARV01216,ENT059,2026-Q3,Finance ERP,739,Avery Brown,2026-09-07,7,11,In Progress,Rejected
+ARV01217,ENT048,2025-Q1,HR Platform,460,Sam Johnson,2025-01-27,5,6,Overdue,Rejected
+ARV01218,ENT025,2024-Q4,Identity Management,645,Jamie Garcia,2024-11-08,0,1,In Progress,Pending
+ARV01219,ENT044,2025-Q1,Identity Management,818,Robin Clark,2025-01-13,9,10,In Progress,Certified with Exceptions
+ARV01220,ENT065,2025-Q2,Client Data Hub,388,Jamie Garcia,2025-06-21,9,11,Not Started,Certified
+ARV01221,ENT061,2025-Q1,Client Data Hub,41,Cameron Wilson,2025-01-07,7,3,In Progress,Certified with Exceptions
+ARV01222,ENT069,2024-Q2,Risk Analytics,790,Drew Martin,2024-06-20,7,10,Overdue,Certified
+ARV01223,ENT058,2025-Q2,Risk Analytics,1072,Cameron Wilson,2025-04-13,6,11,Overdue,Pending
+ARV01224,ENT072,2024-Q3,Risk Analytics,440,Morgan Davis,2024-08-22,4,6,Not Started,Pending
+ARV01225,ENT117,2024-Q4,HR Platform,1084,Drew Martin,2024-10-29,7,5,In Progress,Certified with Exceptions
+ARV01226,ENT079,2026-Q2,Identity Management,1158,Jamie Garcia,2026-04-07,0,1,Completed,Certified with Exceptions
+ARV01227,ENT116,2025-Q4,Client Data Hub,1097,Taylor Smith,2025-11-26,9,9,Not Started,Rejected
+ARV01228,ENT096,2026-Q2,Finance ERP,600,Jamie Garcia,2026-06-27,8,9,Not Started,Certified with Exceptions
+ARV01229,ENT017,2026-Q3,Client Data Hub,710,Riley Chen,2026-08-13,0,5,Overdue,Pending
+ARV01230,ENT115,2024-Q1,Identity Management,416,Riley Chen,2024-03-22,8,4,Completed,Certified with Exceptions
+ARV01231,ENT051,2024-Q3,Identity Management,685,Morgan Davis,2024-09-17,4,4,Overdue,Rejected
+ARV01232,ENT073,2024-Q3,Identity Management,1006,Alex Morgan,2024-09-13,9,2,Not Started,Certified
+ARV01233,ENT019,2024-Q3,Finance ERP,1125,Morgan Davis,2024-07-03,8,8,Overdue,Certified with Exceptions
+ARV01234,ENT105,2025-Q1,Identity Management,354,Drew Martin,2025-02-25,5,7,Not Started,Pending
+ARV01235,ENT106,2024-Q1,Identity Management,726,Sam Johnson,2024-02-06,10,2,Overdue,Rejected
+ARV01236,ENT115,2025-Q1,Finance ERP,1103,Alex Morgan,2025-03-11,0,0,Completed,Certified with Exceptions
+ARV01237,ENT089,2024-Q3,Finance ERP,946,Riley Chen,2024-08-12,1,2,Not Started,Certified
+ARV01238,ENT002,2024-Q3,Finance ERP,477,Jordan Lee,2024-07-02,2,8,Completed,Rejected
+ARV01239,ENT086,2024-Q4,Identity Management,641,Sam Johnson,2024-10-18,11,4,Not Started,Pending
+ARV01240,ENT049,2024-Q4,HR Platform,850,Drew Martin,2024-11-26,6,4,Completed,Rejected
+ARV01241,ENT050,2025-Q2,Identity Management,817,Casey Patel,2025-05-11,10,1,Not Started,Certified with Exceptions
+ARV01242,ENT033,2025-Q4,Risk Analytics,765,Morgan Davis,2025-11-17,12,4,Not Started,Certified
+ARV01243,ENT054,2024-Q1,Risk Analytics,1032,Cameron Wilson,2024-03-12,0,5,Overdue,Certified
+ARV01244,ENT057,2024-Q3,HR Platform,1090,Drew Martin,2024-08-18,9,12,Not Started,Certified
+ARV01245,ENT014,2024-Q2,Client Data Hub,893,Taylor Smith,2024-06-14,1,5,Not Started,Certified with Exceptions
+ARV01246,ENT011,2025-Q3,Compliance Portal,102,Sam Johnson,2025-07-19,3,11,In Progress,Certified
+ARV01247,ENT048,2024-Q4,HR Platform,766,Taylor Smith,2024-10-02,10,11,Overdue,Certified with Exceptions
+ARV01248,ENT098,2025-Q1,HR Platform,90,Cameron Wilson,2025-01-06,10,10,Completed,Certified with Exceptions
+ARV01249,ENT088,2026-Q4,Risk Analytics,658,Drew Martin,2026-10-15,9,3,Completed,Certified
+ARV01250,ENT001,2024-Q3,Finance ERP,287,Cameron Wilson,2024-07-17,4,12,Completed,Certified
+ARV01251,ENT105,2026-Q4,HR Platform,475,Riley Chen,2026-10-11,11,4,Not Started,Rejected
+ARV01252,ENT063,2026-Q1,HR Platform,834,Cameron Wilson,2026-01-18,12,9,Completed,Certified with Exceptions
+ARV01253,ENT114,2026-Q2,Identity Management,194,Morgan Davis,2026-04-06,4,2,In Progress,Certified with Exceptions
+ARV01254,ENT075,2024-Q2,Identity Management,873,Drew Martin,2024-06-12,8,8,Completed,Pending
+ARV01255,ENT074,2024-Q2,Identity Management,1143,Sam Johnson,2024-05-25,1,7,Completed,Certified
+ARV01256,ENT015,2026-Q1,Identity Management,253,Drew Martin,2026-02-05,11,7,Not Started,Certified
+ARV01257,ENT100,2026-Q3,Compliance Portal,575,Casey Patel,2026-07-11,10,10,Overdue,Rejected
+ARV01258,ENT081,2026-Q4,HR Platform,197,Avery Brown,2026-11-04,10,11,In Progress,Certified
+ARV01259,ENT037,2026-Q1,Compliance Portal,39,Morgan Davis,2026-01-13,6,10,Overdue,Certified with Exceptions
+ARV01260,ENT003,2024-Q3,Compliance Portal,569,Jamie Garcia,2024-09-30,4,12,In Progress,Pending
+ARV01261,ENT075,2026-Q1,HR Platform,716,Taylor Smith,2026-01-27,10,9,In Progress,Pending
+ARV01262,ENT018,2024-Q2,Risk Analytics,1178,Alex Morgan,2024-04-16,4,2,Overdue,Pending
+ARV01263,ENT030,2024-Q4,Risk Analytics,1188,Jordan Lee,2024-12-26,3,11,Not Started,Certified
+ARV01264,ENT062,2026-Q4,HR Platform,338,Riley Chen,2026-10-09,4,1,Overdue,Rejected
+ARV01265,ENT115,2025-Q1,HR Platform,395,Avery Brown,2025-03-29,8,8,Overdue,Pending
+ARV01266,ENT102,2025-Q1,Finance ERP,689,Alex Morgan,2025-03-24,6,9,Not Started,Pending
+ARV01267,ENT068,2025-Q4,HR Platform,733,Avery Brown,2025-10-09,2,4,In Progress,Pending
+ARV01268,ENT073,2026-Q4,Client Data Hub,875,Riley Chen,2026-10-29,0,12,Completed,Rejected
+ARV01269,ENT074,2026-Q2,Compliance Portal,913,Drew Martin,2026-05-21,0,1,Not Started,Pending
+ARV01270,ENT036,2024-Q4,Risk Analytics,500,Robin Clark,2024-10-07,7,0,Completed,Pending
+ARV01271,ENT009,2025-Q4,Compliance Portal,154,Robin Clark,2025-11-22,0,12,Overdue,Certified
+ARV01272,ENT057,2026-Q3,Compliance Portal,982,Cameron Wilson,2026-09-25,6,1,In Progress,Certified with Exceptions
+ARV01273,ENT106,2026-Q1,Risk Analytics,1045,Avery Brown,2026-02-01,6,6,In Progress,Rejected
+ARV01274,ENT079,2024-Q2,Identity Management,194,Jordan Lee,2024-04-12,9,6,In Progress,Certified with Exceptions
+ARV01275,ENT030,2026-Q1,HR Platform,785,Casey Patel,2026-03-05,7,8,Not Started,Certified with Exceptions
+ARV01276,ENT005,2026-Q3,Finance ERP,265,Sam Johnson,2026-07-15,10,3,Completed,Rejected
+ARV01277,ENT096,2026-Q3,Identity Management,123,Casey Patel,2026-07-02,3,10,In Progress,Certified with Exceptions
+ARV01278,ENT013,2026-Q2,Compliance Portal,1190,Morgan Davis,2026-05-18,8,6,Overdue,Certified
+ARV01279,ENT105,2026-Q4,Finance ERP,679,Cameron Wilson,2026-10-07,12,0,In Progress,Certified
+ARV01280,ENT062,2024-Q3,Risk Analytics,615,Jamie Garcia,2024-07-11,0,1,Completed,Pending
+ARV01281,ENT066,2026-Q3,HR Platform,567,Riley Chen,2026-08-27,1,12,Completed,Certified
+ARV01282,ENT098,2025-Q2,Identity Management,1008,Robin Clark,2025-05-11,3,0,In Progress,Certified
+ARV01283,ENT104,2024-Q2,Compliance Portal,218,Drew Martin,2024-05-07,6,12,Completed,Pending
+ARV01284,ENT095,2026-Q2,Identity Management,253,Alex Morgan,2026-05-29,7,11,Not Started,Pending
+ARV01285,ENT031,2024-Q4,Client Data Hub,443,Jordan Lee,2024-10-29,4,2,Overdue,Certified with Exceptions
+ARV01286,ENT115,2024-Q4,Risk Analytics,324,Riley Chen,2024-10-19,11,4,In Progress,Pending
+ARV01287,ENT014,2026-Q1,HR Platform,1138,Riley Chen,2026-02-06,1,0,In Progress,Pending
+ARV01288,ENT004,2026-Q3,Compliance Portal,396,Robin Clark,2026-09-12,6,0,Not Started,Rejected
+ARV01289,ENT048,2025-Q3,Risk Analytics,462,Jordan Lee,2025-07-05,1,3,Completed,Rejected
+ARV01290,ENT119,2025-Q2,Client Data Hub,1002,Riley Chen,2025-05-04,0,12,Completed,Pending
+ARV01291,ENT023,2024-Q4,Identity Management,753,Taylor Smith,2024-11-25,2,0,Overdue,Certified with Exceptions
+ARV01292,ENT030,2024-Q1,Risk Analytics,31,Jamie Garcia,2024-01-18,2,3,Completed,Pending
+ARV01293,ENT004,2025-Q3,Client Data Hub,1130,Taylor Smith,2025-07-05,7,7,In Progress,Pending
+ARV01294,ENT095,2025-Q4,Client Data Hub,431,Robin Clark,2025-12-08,10,4,Not Started,Pending
+ARV01295,ENT019,2026-Q2,Client Data Hub,659,Drew Martin,2026-06-05,9,8,In Progress,Pending
+ARV01296,ENT093,2024-Q3,Identity Management,275,Avery Brown,2024-07-03,7,3,Not Started,Rejected
+ARV01297,ENT052,2024-Q1,Client Data Hub,359,Morgan Davis,2024-01-29,9,3,Not Started,Rejected
+ARV01298,ENT021,2025-Q3,Compliance Portal,940,Riley Chen,2025-08-09,4,1,Overdue,Certified with Exceptions
+ARV01299,ENT079,2026-Q1,Client Data Hub,87,Cameron Wilson,2026-02-08,12,6,Completed,Pending
+ARV01300,ENT066,2025-Q2,Finance ERP,176,Cameron Wilson,2025-06-04,5,1,Overdue,Rejected
+ARV01301,ENT116,2026-Q3,HR Platform,825,Cameron Wilson,2026-07-30,11,11,Overdue,Pending
+ARV01302,ENT049,2024-Q2,Identity Management,151,Robin Clark,2024-06-26,3,4,In Progress,Certified
+ARV01303,ENT093,2026-Q1,Client Data Hub,775,Morgan Davis,2026-02-21,11,0,In Progress,Certified
+ARV01304,ENT119,2024-Q1,Identity Management,428,Cameron Wilson,2024-01-02,12,8,In Progress,Pending
+ARV01305,ENT049,2025-Q1,Client Data Hub,988,Casey Patel,2025-01-27,11,12,Not Started,Rejected
+ARV01306,ENT068,2024-Q1,Finance ERP,860,Taylor Smith,2024-02-11,2,3,Completed,Pending
+ARV01307,ENT017,2024-Q3,Finance ERP,383,Morgan Davis,2024-07-29,3,4,Completed,Pending
+ARV01308,ENT113,2025-Q2,Compliance Portal,621,Alex Morgan,2025-06-18,7,2,Completed,Certified
+ARV01309,ENT109,2024-Q3,HR Platform,674,Drew Martin,2024-09-09,6,12,Not Started,Rejected
+ARV01310,ENT111,2025-Q4,Client Data Hub,220,Jordan Lee,2025-12-23,3,9,In Progress,Pending
+ARV01311,ENT031,2024-Q1,Finance ERP,463,Jamie Garcia,2024-03-30,3,3,Overdue,Rejected
+ARV01312,ENT097,2026-Q1,Client Data Hub,991,Cameron Wilson,2026-01-15,9,12,Not Started,Rejected
+ARV01313,ENT092,2026-Q1,Finance ERP,364,Avery Brown,2026-03-02,12,6,Overdue,Certified
+ARV01314,ENT120,2025-Q2,Risk Analytics,347,Riley Chen,2025-06-09,11,1,Completed,Certified
+ARV01315,ENT103,2026-Q2,Identity Management,92,Alex Morgan,2026-04-19,4,1,Completed,Certified with Exceptions
+ARV01316,ENT053,2026-Q2,HR Platform,92,Jamie Garcia,2026-04-13,6,6,Completed,Certified
+ARV01317,ENT109,2024-Q4,Finance ERP,185,Jordan Lee,2024-12-12,11,7,Overdue,Pending
+ARV01318,ENT015,2026-Q4,Risk Analytics,1107,Drew Martin,2026-10-31,3,4,Not Started,Rejected
+ARV01319,ENT029,2024-Q2,Finance ERP,236,Jordan Lee,2024-05-24,11,0,Not Started,Certified
+ARV01320,ENT001,2025-Q2,Finance ERP,1107,Morgan Davis,2025-04-18,9,7,In Progress,Rejected
+ARV01321,ENT006,2026-Q1,Finance ERP,379,Riley Chen,2026-03-07,5,5,Overdue,Certified
+ARV01322,ENT075,2026-Q1,Finance ERP,475,Robin Clark,2026-01-21,2,2,In Progress,Rejected
+ARV01323,ENT056,2025-Q4,Finance ERP,1127,Alex Morgan,2025-11-13,1,7,Completed,Pending
+ARV01324,ENT054,2025-Q3,Identity Management,95,Riley Chen,2025-08-27,5,7,Overdue,Rejected
+ARV01325,ENT016,2025-Q2,Risk Analytics,450,Morgan Davis,2025-06-12,1,2,Completed,Certified
+ARV01326,ENT036,2025-Q4,Risk Analytics,273,Morgan Davis,2025-12-06,8,2,Overdue,Certified with Exceptions
+ARV01327,ENT105,2026-Q1,Compliance Portal,908,Cameron Wilson,2026-03-13,11,5,Not Started,Rejected
+ARV01328,ENT106,2025-Q2,Compliance Portal,488,Alex Morgan,2025-06-09,2,7,Completed,Certified
+ARV01329,ENT059,2025-Q3,Compliance Portal,914,Jordan Lee,2025-09-22,10,8,Overdue,Certified
+ARV01330,ENT022,2024-Q1,Compliance Portal,556,Alex Morgan,2024-02-16,4,8,In Progress,Pending
+ARV01331,ENT045,2026-Q3,Client Data Hub,1122,Taylor Smith,2026-08-06,5,4,Completed,Certified with Exceptions
+ARV01332,ENT099,2024-Q4,Finance ERP,601,Sam Johnson,2024-12-12,6,0,Not Started,Rejected
+ARV01333,ENT072,2024-Q2,Identity Management,603,Casey Patel,2024-06-04,9,11,In Progress,Pending
+ARV01334,ENT107,2026-Q2,Risk Analytics,1141,Riley Chen,2026-06-21,7,6,Overdue,Certified
+ARV01335,ENT044,2025-Q3,Client Data Hub,789,Avery Brown,2025-09-01,4,12,Overdue,Pending
+ARV01336,ENT028,2024-Q2,HR Platform,1044,Jamie Garcia,2024-06-16,7,8,In Progress,Certified with Exceptions
+ARV01337,ENT055,2024-Q4,Risk Analytics,1033,Robin Clark,2024-12-30,10,8,Overdue,Certified with Exceptions
+ARV01338,ENT082,2025-Q1,Client Data Hub,626,Alex Morgan,2025-02-19,5,10,Completed,Rejected
+ARV01339,ENT091,2024-Q2,Client Data Hub,761,Avery Brown,2024-05-26,10,3,In Progress,Certified with Exceptions
+ARV01340,ENT071,2025-Q1,Client Data Hub,245,Casey Patel,2025-01-30,8,1,Overdue,Certified with Exceptions
+ARV01341,ENT003,2024-Q2,HR Platform,1138,Avery Brown,2024-04-19,10,3,Overdue,Certified
+ARV01342,ENT026,2026-Q2,HR Platform,1010,Sam Johnson,2026-04-16,5,6,In Progress,Pending
+ARV01343,ENT020,2024-Q3,Risk Analytics,622,Taylor Smith,2024-09-19,9,3,In Progress,Rejected
+ARV01344,ENT059,2025-Q2,Risk Analytics,696,Taylor Smith,2025-06-12,11,0,In Progress,Rejected
+ARV01345,ENT087,2024-Q1,Client Data Hub,732,Drew Martin,2024-02-22,8,11,Completed,Rejected
+ARV01346,ENT098,2025-Q1,Finance ERP,221,Jamie Garcia,2025-03-22,0,1,In Progress,Pending
+ARV01347,ENT118,2024-Q1,HR Platform,894,Alex Morgan,2024-01-30,3,6,Completed,Certified with Exceptions
+ARV01348,ENT061,2024-Q3,Compliance Portal,929,Robin Clark,2024-08-15,5,11,Overdue,Rejected
+ARV01349,ENT046,2025-Q4,Risk Analytics,346,Cameron Wilson,2025-12-27,1,12,Completed,Certified with Exceptions
+ARV01350,ENT014,2025-Q2,Identity Management,842,Casey Patel,2025-04-07,5,5,In Progress,Certified with Exceptions
+ARV01351,ENT012,2025-Q2,HR Platform,699,Cameron Wilson,2025-04-11,11,6,In Progress,Rejected
+ARV01352,ENT065,2025-Q4,Finance ERP,499,Cameron Wilson,2025-12-10,5,10,Completed,Pending
+ARV01353,ENT035,2026-Q1,Risk Analytics,120,Jordan Lee,2026-02-19,0,1,Not Started,Certified with Exceptions
+ARV01354,ENT019,2024-Q2,Finance ERP,118,Riley Chen,2024-04-29,10,12,In Progress,Certified
+ARV01355,ENT079,2025-Q1,Identity Management,813,Robin Clark,2025-03-22,11,0,Not Started,Certified with Exceptions
+ARV01356,ENT025,2024-Q3,HR Platform,773,Jamie Garcia,2024-08-19,11,11,Not Started,Certified
+ARV01357,ENT034,2024-Q4,Finance ERP,806,Taylor Smith,2024-11-07,1,4,Completed,Certified with Exceptions
+ARV01358,ENT035,2025-Q2,Risk Analytics,618,Sam Johnson,2025-05-25,2,1,Not Started,Certified
+ARV01359,ENT085,2024-Q3,Compliance Portal,278,Taylor Smith,2024-08-31,3,1,In Progress,Pending
+ARV01360,ENT012,2026-Q1,Risk Analytics,395,Avery Brown,2026-01-18,7,6,Overdue,Pending
+ARV01361,ENT104,2025-Q1,Compliance Portal,528,Taylor Smith,2025-01-06,4,2,Overdue,Pending
+ARV01362,ENT089,2026-Q2,Compliance Portal,1189,Morgan Davis,2026-06-29,7,6,In Progress,Pending
+ARV01363,ENT106,2024-Q4,Identity Management,1133,Drew Martin,2024-12-29,6,10,Completed,Rejected
+ARV01364,ENT042,2024-Q4,Identity Management,1169,Sam Johnson,2024-12-07,12,2,Completed,Rejected
+ARV01365,ENT006,2024-Q4,Client Data Hub,290,Riley Chen,2024-11-29,5,8,Overdue,Certified with Exceptions
+ARV01366,ENT020,2025-Q3,Risk Analytics,483,Jordan Lee,2025-08-26,6,7,In Progress,Certified
+ARV01367,ENT071,2025-Q2,Risk Analytics,1155,Cameron Wilson,2025-04-15,8,4,Not Started,Certified
+ARV01368,ENT086,2024-Q1,Identity Management,855,Taylor Smith,2024-02-11,2,6,Overdue,Certified
+ARV01369,ENT077,2025-Q3,Finance ERP,871,Jamie Garcia,2025-07-30,9,4,In Progress,Pending
+ARV01370,ENT115,2024-Q1,Compliance Portal,705,Jamie Garcia,2024-03-05,10,2,Not Started,Pending
+ARV01371,ENT048,2025-Q2,HR Platform,1155,Riley Chen,2025-04-12,1,9,Not Started,Certified with Exceptions
+ARV01372,ENT015,2026-Q4,Compliance Portal,264,Morgan Davis,2026-11-12,5,10,In Progress,Pending
+ARV01373,ENT098,2026-Q2,Identity Management,944,Morgan Davis,2026-06-03,10,3,Overdue,Rejected
+ARV01374,ENT028,2026-Q1,Compliance Portal,1186,Taylor Smith,2026-02-28,7,11,Not Started,Rejected
+ARV01375,ENT009,2024-Q3,Risk Analytics,432,Jordan Lee,2024-09-08,11,7,Not Started,Certified
+ARV01376,ENT108,2025-Q4,Risk Analytics,1046,Robin Clark,2025-11-05,6,5,Completed,Pending
+ARV01377,ENT091,2026-Q4,Client Data Hub,137,Cameron Wilson,2026-10-30,7,2,Overdue,Certified
+ARV01378,ENT016,2024-Q1,Client Data Hub,979,Robin Clark,2024-01-25,11,6,Overdue,Pending
+ARV01379,ENT085,2025-Q3,Finance ERP,753,Jamie Garcia,2025-07-16,0,2,Completed,Certified
+ARV01380,ENT068,2026-Q2,HR Platform,333,Cameron Wilson,2026-06-24,5,11,Not Started,Pending
+ARV01381,ENT114,2024-Q2,Risk Analytics,133,Morgan Davis,2024-05-07,12,10,In Progress,Certified
+ARV01382,ENT045,2025-Q1,Compliance Portal,879,Morgan Davis,2025-03-30,0,12,In Progress,Certified with Exceptions
+ARV01383,ENT038,2024-Q1,HR Platform,72,Avery Brown,2024-02-18,0,11,In Progress,Certified
+ARV01384,ENT071,2026-Q4,Risk Analytics,712,Sam Johnson,2026-10-22,4,11,In Progress,Certified with Exceptions
+ARV01385,ENT112,2025-Q3,Identity Management,1097,Casey Patel,2025-09-26,12,7,Not Started,Certified with Exceptions
+ARV01386,ENT065,2025-Q4,Risk Analytics,875,Alex Morgan,2025-11-03,8,9,Not Started,Certified with Exceptions
+ARV01387,ENT092,2026-Q1,Compliance Portal,618,Avery Brown,2026-03-24,7,4,Not Started,Certified
+ARV01388,ENT011,2024-Q2,Risk Analytics,87,Cameron Wilson,2024-06-21,4,3,Completed,Certified
+ARV01389,ENT055,2025-Q2,Compliance Portal,1081,Avery Brown,2025-05-23,5,1,Overdue,Rejected
+ARV01390,ENT003,2024-Q2,HR Platform,665,Casey Patel,2024-04-21,0,0,Overdue,Pending
+ARV01391,ENT006,2025-Q2,Risk Analytics,567,Riley Chen,2025-05-08,9,9,Completed,Pending
+ARV01392,ENT094,2025-Q2,Finance ERP,256,Avery Brown,2025-06-11,7,4,Overdue,Certified
+ARV01393,ENT025,2025-Q4,Compliance Portal,540,Drew Martin,2025-10-09,11,2,Overdue,Certified with Exceptions
+ARV01394,ENT093,2024-Q2,Compliance Portal,1084,Robin Clark,2024-04-18,11,1,In Progress,Pending
+ARV01395,ENT048,2024-Q3,HR Platform,868,Sam Johnson,2024-08-14,4,0,Completed,Certified with Exceptions
+ARV01396,ENT072,2026-Q3,Compliance Portal,679,Drew Martin,2026-07-01,12,8,Not Started,Certified
+ARV01397,ENT051,2026-Q2,Client Data Hub,584,Casey Patel,2026-04-11,0,6,Not Started,Certified with Exceptions
+ARV01398,ENT067,2026-Q3,Compliance Portal,102,Taylor Smith,2026-09-21,7,8,Not Started,Certified with Exceptions
+ARV01399,ENT111,2026-Q1,HR Platform,214,Cameron Wilson,2026-03-08,4,8,Completed,Rejected
+ARV01400,ENT059,2025-Q2,Compliance Portal,670,Cameron Wilson,2025-06-10,4,8,Completed,Certified
+ARV01401,ENT054,2026-Q1,Finance ERP,1010,Casey Patel,2026-02-14,10,4,Not Started,Pending
+ARV01402,ENT023,2025-Q1,Finance ERP,163,Riley Chen,2025-01-15,3,1,Overdue,Certified
+ARV01403,ENT087,2026-Q2,Finance ERP,1006,Jordan Lee,2026-06-19,10,11,Completed,Certified with Exceptions
+ARV01404,ENT082,2024-Q1,HR Platform,464,Riley Chen,2024-03-21,9,2,Overdue,Certified
+ARV01405,ENT079,2026-Q2,Finance ERP,1144,Casey Patel,2026-04-04,0,3,Not Started,Certified with Exceptions
+ARV01406,ENT071,2024-Q3,Identity Management,493,Taylor Smith,2024-08-31,8,4,Completed,Certified
+ARV01407,ENT105,2026-Q3,Identity Management,304,Jamie Garcia,2026-08-06,10,10,In Progress,Certified
+ARV01408,ENT087,2025-Q1,HR Platform,548,Jordan Lee,2025-03-19,9,12,Completed,Certified
+ARV01409,ENT082,2024-Q2,Risk Analytics,383,Taylor Smith,2024-04-15,5,9,Completed,Rejected
+ARV01410,ENT029,2025-Q1,Risk Analytics,552,Morgan Davis,2025-03-08,3,11,Overdue,Certified with Exceptions
+ARV01411,ENT082,2024-Q3,Finance ERP,785,Morgan Davis,2024-08-13,8,11,Completed,Certified
+ARV01412,ENT079,2025-Q2,Finance ERP,109,Casey Patel,2025-04-23,0,11,Overdue,Certified with Exceptions
+ARV01413,ENT100,2026-Q3,Finance ERP,434,Riley Chen,2026-07-15,4,11,Completed,Pending
+ARV01414,ENT040,2024-Q2,Risk Analytics,635,Casey Patel,2024-04-26,8,11,Completed,Rejected
+ARV01415,ENT115,2025-Q4,Compliance Portal,579,Robin Clark,2025-12-27,12,0,Overdue,Pending
+ARV01416,ENT086,2025-Q4,Identity Management,788,Riley Chen,2025-10-13,4,5,In Progress,Rejected
+ARV01417,ENT037,2026-Q1,Compliance Portal,69,Avery Brown,2026-03-12,2,12,In Progress,Certified
+ARV01418,ENT104,2025-Q2,Compliance Portal,240,Drew Martin,2025-05-26,1,10,Not Started,Certified with Exceptions
+ARV01419,ENT072,2026-Q4,Compliance Portal,581,Cameron Wilson,2026-11-20,3,5,Not Started,Pending
+ARV01420,ENT029,2024-Q2,Compliance Portal,1153,Alex Morgan,2024-05-14,8,1,Completed,Certified with Exceptions
+ARV01421,ENT102,2026-Q2,HR Platform,498,Sam Johnson,2026-04-01,3,3,In Progress,Rejected
+ARV01422,ENT011,2025-Q2,Finance ERP,38,Taylor Smith,2025-05-13,0,7,Completed,Rejected
+ARV01423,ENT109,2025-Q3,Client Data Hub,444,Drew Martin,2025-08-23,11,5,Completed,Certified
+ARV01424,ENT095,2024-Q3,Risk Analytics,992,Riley Chen,2024-07-21,4,1,Completed,Rejected
+ARV01425,ENT006,2026-Q3,HR Platform,513,Alex Morgan,2026-08-13,11,8,Overdue,Rejected
+ARV01426,ENT052,2026-Q2,HR Platform,1071,Jordan Lee,2026-06-13,9,9,Not Started,Certified with Exceptions
+ARV01427,ENT045,2026-Q4,Risk Analytics,582,Casey Patel,2026-11-10,4,10,Completed,Rejected
+ARV01428,ENT056,2025-Q4,Finance ERP,522,Jamie Garcia,2025-12-04,0,2,Completed,Certified with Exceptions
+ARV01429,ENT003,2025-Q4,Risk Analytics,267,Taylor Smith,2025-12-14,7,1,Completed,Certified
+ARV01430,ENT120,2026-Q4,Compliance Portal,561,Jamie Garcia,2026-11-21,5,12,In Progress,Pending
+ARV01431,ENT082,2024-Q3,Client Data Hub,745,Taylor Smith,2024-09-27,3,4,In Progress,Certified
+ARV01432,ENT040,2024-Q1,Client Data Hub,469,Taylor Smith,2024-03-28,5,11,In Progress,Pending
+ARV01433,ENT050,2024-Q2,Finance ERP,421,Morgan Davis,2024-06-24,2,4,Completed,Pending
+ARV01434,ENT037,2025-Q3,Client Data Hub,1196,Morgan Davis,2025-08-25,8,1,Overdue,Certified
+ARV01435,ENT015,2024-Q4,Finance ERP,1094,Casey Patel,2024-12-01,8,9,In Progress,Certified
+ARV01436,ENT009,2026-Q2,HR Platform,567,Avery Brown,2026-04-20,0,1,Not Started,Pending
+ARV01437,ENT033,2024-Q3,Identity Management,508,Sam Johnson,2024-09-03,10,10,Overdue,Certified with Exceptions
+ARV01438,ENT079,2025-Q1,Risk Analytics,876,Casey Patel,2025-03-09,1,7,Not Started,Certified
+ARV01439,ENT073,2026-Q3,HR Platform,41,Jordan Lee,2026-09-01,4,10,Completed,Certified
+ARV01440,ENT013,2024-Q2,Identity Management,623,Sam Johnson,2024-04-02,9,8,Completed,Pending
+ARV01441,ENT053,2026-Q3,Identity Management,1143,Morgan Davis,2026-08-26,8,6,Overdue,Certified
+ARV01442,ENT064,2026-Q1,Finance ERP,1120,Riley Chen,2026-03-10,12,11,Completed,Pending
+ARV01443,ENT024,2024-Q3,Finance ERP,875,Robin Clark,2024-07-22,3,3,Overdue,Certified
+ARV01444,ENT016,2026-Q2,Client Data Hub,528,Casey Patel,2026-06-01,1,3,In Progress,Certified with Exceptions
+ARV01445,ENT099,2026-Q3,HR Platform,843,Jordan Lee,2026-08-30,7,9,Overdue,Pending
+ARV01446,ENT082,2026-Q4,HR Platform,781,Cameron Wilson,2026-10-27,7,4,Overdue,Pending
+ARV01447,ENT026,2024-Q3,HR Platform,568,Jordan Lee,2024-09-04,7,11,Overdue,Certified
+ARV01448,ENT103,2026-Q2,Compliance Portal,1169,Sam Johnson,2026-05-05,10,9,Not Started,Certified
+ARV01449,ENT037,2026-Q2,Risk Analytics,642,Robin Clark,2026-06-04,0,0,Completed,Pending
+ARV01450,ENT116,2024-Q2,HR Platform,530,Avery Brown,2024-06-09,0,9,Overdue,Rejected
+ARV01451,ENT119,2024-Q4,Client Data Hub,305,Jordan Lee,2024-12-05,6,3,Completed,Pending
+ARV01452,ENT060,2026-Q3,Client Data Hub,198,Morgan Davis,2026-08-03,7,4,In Progress,Pending
+ARV01453,ENT042,2024-Q3,HR Platform,801,Riley Chen,2024-08-09,12,9,In Progress,Certified
+ARV01454,ENT013,2026-Q1,Identity Management,598,Robin Clark,2026-02-25,5,2,Not Started,Rejected
+ARV01455,ENT083,2024-Q4,Compliance Portal,505,Riley Chen,2024-11-29,10,7,Completed,Certified
+ARV01456,ENT040,2024-Q4,Client Data Hub,1193,Jordan Lee,2024-12-17,0,12,In Progress,Rejected
+ARV01457,ENT079,2026-Q4,Compliance Portal,322,Cameron Wilson,2026-10-19,9,0,Not Started,Rejected
+ARV01458,ENT073,2024-Q1,Compliance Portal,863,Casey Patel,2024-03-07,10,6,Overdue,Certified with Exceptions
+ARV01459,ENT008,2025-Q2,Compliance Portal,977,Drew Martin,2025-06-11,6,10,Not Started,Rejected
+ARV01460,ENT083,2024-Q3,Compliance Portal,923,Jamie Garcia,2024-07-11,0,6,Not Started,Certified
+ARV01461,ENT003,2024-Q3,HR Platform,1145,Alex Morgan,2024-07-04,0,2,Overdue,Certified with Exceptions
+ARV01462,ENT009,2024-Q2,Finance ERP,51,Drew Martin,2024-06-20,8,2,Overdue,Certified with Exceptions
+ARV01463,ENT028,2025-Q4,HR Platform,839,Morgan Davis,2025-10-01,9,11,Overdue,Rejected
+ARV01464,ENT002,2024-Q4,Identity Management,272,Sam Johnson,2024-12-31,6,2,In Progress,Rejected
+ARV01465,ENT043,2025-Q4,Client Data Hub,966,Robin Clark,2025-11-14,9,9,Not Started,Certified
+ARV01466,ENT036,2026-Q2,Identity Management,780,Avery Brown,2026-06-10,4,12,Overdue,Pending
+ARV01467,ENT021,2024-Q4,Compliance Portal,117,Cameron Wilson,2024-11-20,12,3,In Progress,Rejected
+ARV01468,ENT060,2024-Q1,Risk Analytics,1181,Taylor Smith,2024-03-26,2,7,In Progress,Pending
+ARV01469,ENT045,2026-Q3,Identity Management,984,Avery Brown,2026-07-19,2,9,Not Started,Certified with Exceptions
+ARV01470,ENT044,2026-Q2,Identity Management,407,Sam Johnson,2026-04-23,11,7,Overdue,Rejected
+ARV01471,ENT070,2026-Q1,HR Platform,1049,Riley Chen,2026-02-12,10,0,Overdue,Pending
+ARV01472,ENT027,2026-Q3,HR Platform,1051,Morgan Davis,2026-09-23,8,3,In Progress,Certified
+ARV01473,ENT117,2025-Q1,Compliance Portal,21,Casey Patel,2025-03-15,11,6,Completed,Rejected
+ARV01474,ENT086,2025-Q1,Risk Analytics,1016,Avery Brown,2025-02-12,1,5,Completed,Rejected
+ARV01475,ENT010,2025-Q2,Risk Analytics,1102,Alex Morgan,2025-05-11,12,6,Overdue,Certified
+ARV01476,ENT007,2025-Q1,Identity Management,1093,Sam Johnson,2025-01-09,0,7,In Progress,Certified with Exceptions
+ARV01477,ENT070,2025-Q2,Risk Analytics,127,Riley Chen,2025-04-12,0,4,Not Started,Pending
+ARV01478,ENT095,2024-Q2,Client Data Hub,247,Taylor Smith,2024-06-29,3,6,Overdue,Certified with Exceptions
+ARV01479,ENT070,2025-Q1,Identity Management,417,Casey Patel,2025-02-09,12,10,Overdue,Rejected
+ARV01480,ENT041,2026-Q3,Compliance Portal,620,Morgan Davis,2026-07-07,8,2,Overdue,Rejected
+ARV01481,ENT114,2025-Q3,HR Platform,477,Avery Brown,2025-07-03,12,7,In Progress,Certified
+ARV01482,ENT034,2025-Q2,Identity Management,465,Riley Chen,2025-04-25,5,3,Completed,Certified with Exceptions
+ARV01483,ENT079,2026-Q1,Finance ERP,589,Jamie Garcia,2026-01-27,8,7,Not Started,Certified
+ARV01484,ENT031,2025-Q4,Finance ERP,518,Sam Johnson,2025-12-18,10,8,Overdue,Pending
+ARV01485,ENT028,2025-Q1,Client Data Hub,825,Morgan Davis,2025-02-05,8,10,Completed,Certified with Exceptions
+ARV01486,ENT022,2024-Q1,Identity Management,818,Jamie Garcia,2024-01-03,7,10,In Progress,Certified
+ARV01487,ENT055,2024-Q4,Compliance Portal,900,Cameron Wilson,2024-12-14,5,7,Overdue,Certified with Exceptions
+ARV01488,ENT039,2026-Q3,Compliance Portal,1166,Morgan Davis,2026-07-25,0,8,Completed,Rejected
+ARV01489,ENT009,2024-Q1,Compliance Portal,975,Taylor Smith,2024-03-20,6,10,Overdue,Certified with Exceptions
+ARV01490,ENT065,2025-Q2,Client Data Hub,183,Morgan Davis,2025-06-09,9,6,Overdue,Pending
+ARV01491,ENT030,2024-Q3,Risk Analytics,62,Morgan Davis,2024-09-02,1,0,Not Started,Pending
+ARV01492,ENT054,2026-Q4,Identity Management,795,Sam Johnson,2026-11-23,7,3,In Progress,Certified with Exceptions
+ARV01493,ENT050,2025-Q4,Compliance Portal,1176,Drew Martin,2025-11-13,12,10,In Progress,Certified with Exceptions
+ARV01494,ENT106,2024-Q3,HR Platform,524,Jordan Lee,2024-08-04,12,11,Overdue,Certified with Exceptions
+ARV01495,ENT032,2024-Q1,Risk Analytics,64,Morgan Davis,2024-01-19,1,6,Not Started,Pending
+ARV01496,ENT019,2025-Q1,Compliance Portal,497,Jordan Lee,2025-03-03,9,4,Not Started,Pending
+ARV01497,ENT096,2026-Q3,Compliance Portal,1078,Jordan Lee,2026-07-21,6,4,Overdue,Rejected
+ARV01498,ENT119,2025-Q1,Compliance Portal,469,Robin Clark,2025-01-16,12,1,Overdue,Certified with Exceptions
+ARV01499,ENT043,2026-Q2,Finance ERP,511,Riley Chen,2026-06-09,1,1,Overdue,Rejected
+ARV01500,ENT024,2025-Q4,Identity Management,700,Riley Chen,2025-12-22,1,2,Completed,Pending

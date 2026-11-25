@@ -1,0 +1,1501 @@
+﻿RiskID,EntityID,RiskTitle,RiskCategory,RiskOwner,Likelihood,Impact,InherentRiskScore,ResidualRiskScore,RiskRating,Status,IdentifiedDate
+RSK00001,ENT049,Operational risk - system access 0001,Regulatory,Riley Chen,2,5,25,3.4,Critical,Closed,2025-10-06
+RSK00002,ENT091,Operational risk - control gap 0002,Cybersecurity,Riley Chen,3,4,5,1.0,Low,Open,2025-09-11
+RSK00003,ENT023,Regulatory risk - data handling 0003,Third-Party,Alex Morgan,3,1,5,1.0,Low,Closed,2026-10-21
+RSK00004,ENT020,Third-Party risk - control gap 0004,Conduct,Morgan Davis,3,4,10,1.5,Medium,Open,2024-07-20
+RSK00005,ENT106,Cybersecurity risk - data handling 0005,Data Privacy,Cameron Wilson,2,2,25,3.7,Critical,Open,2025-09-28
+RSK00006,ENT120,Regulatory risk - process weakness 0006,Third-Party,Sam Johnson,5,1,5,1.0,Low,Closed,2024-02-16
+RSK00007,ENT074,Technology risk - control gap 0007,Third-Party,Morgan Davis,2,3,15,1.4,High,Closed,2024-08-28
+RSK00008,ENT035,Third-Party risk - system access 0008,Third-Party,Jordan Lee,2,3,10,1.0,Medium,Open,2025-12-18
+RSK00009,ENT071,Conduct risk - control gap 0009,Third-Party,Casey Patel,3,2,15,2.6,High,Open,2025-09-29
+RSK00010,ENT079,Regulatory risk - data handling 0010,Data Privacy,Alex Morgan,5,4,15,1.1,High,Open,2024-04-20
+RSK00011,ENT012,Third-Party risk - data handling 0011,Third-Party,Morgan Davis,4,2,20,3.0,Critical,In Progress,2025-02-09
+RSK00012,ENT092,Regulatory risk - data handling 0012,Regulatory,Avery Brown,1,4,25,3.3,Critical,In Progress,2026-08-11
+RSK00013,ENT061,Third-Party risk - control gap 0013,Technology,Jamie Garcia,2,2,10,1.6,Medium,Open,2025-11-07
+RSK00014,ENT101,Cybersecurity risk - process weakness 0014,Technology,Avery Brown,4,4,15,1.1,High,In Progress,2024-12-15
+RSK00015,ENT037,Regulatory risk - data handling 0015,Conduct,Robin Clark,5,5,15,1.3,High,Closed,2025-10-29
+RSK00016,ENT072,Third-Party risk - data handling 0016,Operational,Drew Martin,3,5,5,1.0,Low,Open,2024-11-21
+RSK00017,ENT062,Data Privacy risk - system access 0017,Cybersecurity,Jamie Garcia,1,3,20,1.9,Critical,In Progress,2025-12-01
+RSK00018,ENT070,Data Privacy risk - system access 0018,Conduct,Avery Brown,2,1,10,1.5,Medium,Open,2026-08-06
+RSK00019,ENT042,Cybersecurity risk - process weakness 0019,Third-Party,Jordan Lee,1,4,25,2.2,Critical,Closed,2026-02-15
+RSK00020,ENT042,Operational risk - system access 0020,Conduct,Sam Johnson,1,1,20,1.9,Critical,Closed,2024-10-27
+RSK00021,ENT085,Third-Party risk - system access 0021,Cybersecurity,Casey Patel,4,5,10,1.0,Medium,Open,2025-10-10
+RSK00022,ENT039,Technology risk - process weakness 0022,Third-Party,Alex Morgan,3,4,25,3.7,Critical,Closed,2026-11-11
+RSK00023,ENT052,Third-Party risk - process weakness 0023,Regulatory,Robin Clark,3,1,10,1.1,Medium,In Progress,2026-01-05
+RSK00024,ENT015,Third-Party risk - data handling 0024,Data Privacy,Morgan Davis,1,2,15,1.8,High,Closed,2026-04-11
+RSK00025,ENT049,Cybersecurity risk - regulatory exposure 0025,Operational,Cameron Wilson,5,2,20,2.9,Critical,In Progress,2026-01-07
+RSK00026,ENT108,Data Privacy risk - regulatory exposure 0026,Operational,Alex Morgan,2,3,20,3.6,Critical,Open,2024-02-02
+RSK00027,ENT019,Data Privacy risk - data handling 0027,Conduct,Avery Brown,4,2,20,1.6,Critical,Closed,2026-05-21
+RSK00028,ENT080,Conduct risk - data handling 0028,Cybersecurity,Morgan Davis,4,5,10,1.2,Medium,Open,2026-05-19
+RSK00029,ENT078,Operational risk - system access 0029,Technology,Jamie Garcia,5,4,5,1.0,Low,Overdue,2026-01-21
+RSK00030,ENT005,Regulatory risk - system access 0030,Cybersecurity,Robin Clark,5,4,5,1.0,Low,Open,2025-07-26
+RSK00031,ENT060,Regulatory risk - regulatory exposure 0031,Cybersecurity,Sam Johnson,1,5,25,4.2,Critical,Closed,2024-06-08
+RSK00032,ENT088,Technology risk - system access 0032,Conduct,Alex Morgan,5,3,25,3.4,Critical,In Progress,2026-11-15
+RSK00033,ENT116,Conduct risk - control gap 0033,Technology,Taylor Smith,5,3,20,2.3,Critical,Open,2025-09-14
+RSK00034,ENT094,Third-Party risk - regulatory exposure 0034,Third-Party,Alex Morgan,3,1,25,3.5,Critical,Closed,2025-08-20
+RSK00035,ENT104,Operational risk - system access 0035,Regulatory,Riley Chen,1,3,25,3.1,Critical,In Progress,2025-07-29
+RSK00036,ENT036,Third-Party risk - regulatory exposure 0036,Data Privacy,Avery Brown,1,1,15,2.0,High,In Progress,2024-12-25
+RSK00037,ENT034,Conduct risk - process weakness 0037,Technology,Jordan Lee,4,2,10,1.6,Medium,Overdue,2024-11-11
+RSK00038,ENT108,Cybersecurity risk - regulatory exposure 0038,Operational,Drew Martin,4,4,20,1.9,Critical,Closed,2025-12-07
+RSK00039,ENT007,Cybersecurity risk - data handling 0039,Technology,Avery Brown,1,1,15,1.3,High,Closed,2025-04-23
+RSK00040,ENT049,Conduct risk - data handling 0040,Regulatory,Riley Chen,4,3,20,1.7,Critical,Overdue,2026-07-08
+RSK00041,ENT049,Third-Party risk - control gap 0041,Conduct,Jamie Garcia,5,1,15,1.2,High,Closed,2025-07-12
+RSK00042,ENT043,Third-Party risk - data handling 0042,Cybersecurity,Sam Johnson,3,1,15,1.5,High,Closed,2025-02-03
+RSK00043,ENT067,Data Privacy risk - process weakness 0043,Conduct,Jordan Lee,2,3,15,2.0,High,Open,2024-07-19
+RSK00044,ENT068,Technology risk - control gap 0044,Operational,Alex Morgan,4,3,5,1.0,Low,Open,2024-07-07
+RSK00045,ENT008,Data Privacy risk - process weakness 0045,Regulatory,Drew Martin,2,5,25,3.5,Critical,Open,2025-01-13
+RSK00046,ENT115,Data Privacy risk - process weakness 0046,Data Privacy,Avery Brown,2,3,5,1.0,Low,Overdue,2025-07-20
+RSK00047,ENT099,Regulatory risk - control gap 0047,Conduct,Alex Morgan,3,3,20,1.8,Critical,In Progress,2025-11-12
+RSK00048,ENT008,Cybersecurity risk - regulatory exposure 0048,Third-Party,Jamie Garcia,3,2,15,1.8,High,Open,2026-10-04
+RSK00049,ENT014,Data Privacy risk - process weakness 0049,Cybersecurity,Robin Clark,5,4,10,1.0,Medium,In Progress,2024-03-12
+RSK00050,ENT010,Regulatory risk - data handling 0050,Operational,Sam Johnson,5,3,5,1.0,Low,Closed,2024-03-18
+RSK00051,ENT086,Cybersecurity risk - system access 0051,Regulatory,Cameron Wilson,3,2,20,2.9,Critical,Closed,2026-10-01
+RSK00052,ENT062,Regulatory risk - data handling 0052,Data Privacy,Avery Brown,4,1,20,2.6,Critical,Open,2026-01-05
+RSK00053,ENT043,Data Privacy risk - process weakness 0053,Technology,Cameron Wilson,4,1,15,2.1,High,Closed,2025-11-27
+RSK00054,ENT011,Regulatory risk - data handling 0054,Data Privacy,Casey Patel,3,2,20,1.8,Critical,In Progress,2026-03-09
+RSK00055,ENT115,Data Privacy risk - data handling 0055,Data Privacy,Casey Patel,3,4,5,1.0,Low,Open,2025-01-30
+RSK00056,ENT004,Conduct risk - system access 0056,Data Privacy,Riley Chen,2,4,25,2.8,Critical,In Progress,2026-07-09
+RSK00057,ENT003,Data Privacy risk - process weakness 0057,Cybersecurity,Jordan Lee,3,1,5,1.0,Low,Open,2026-07-27
+RSK00058,ENT087,Regulatory risk - process weakness 0058,Data Privacy,Taylor Smith,2,5,25,2.4,Critical,In Progress,2024-02-09
+RSK00059,ENT061,Operational risk - process weakness 0059,Operational,Sam Johnson,1,2,25,3.7,Critical,Open,2025-09-21
+RSK00060,ENT106,Third-Party risk - process weakness 0060,Conduct,Jordan Lee,4,5,5,1.0,Low,Open,2025-03-27
+RSK00061,ENT009,Data Privacy risk - data handling 0061,Technology,Jordan Lee,4,3,10,1.6,Medium,Overdue,2024-10-08
+RSK00062,ENT042,Regulatory risk - process weakness 0062,Technology,Taylor Smith,1,5,10,1.0,Medium,Closed,2024-12-10
+RSK00063,ENT090,Third-Party risk - process weakness 0063,Operational,Jordan Lee,5,2,15,1.8,High,Closed,2026-02-09
+RSK00064,ENT100,Regulatory risk - regulatory exposure 0064,Regulatory,Robin Clark,1,4,10,1.0,Medium,Closed,2025-08-04
+RSK00065,ENT054,Technology risk - system access 0065,Cybersecurity,Jamie Garcia,2,2,20,1.7,Critical,Open,2024-12-23
+RSK00066,ENT079,Third-Party risk - process weakness 0066,Data Privacy,Riley Chen,5,2,5,1.0,Low,In Progress,2024-01-10
+RSK00067,ENT072,Regulatory risk - system access 0067,Technology,Cameron Wilson,2,1,10,1.8,Medium,In Progress,2026-08-08
+RSK00068,ENT099,Conduct risk - regulatory exposure 0068,Data Privacy,Avery Brown,3,1,10,1.0,Medium,In Progress,2024-11-23
+RSK00069,ENT086,Cybersecurity risk - control gap 0069,Technology,Drew Martin,1,3,5,1.0,Low,Closed,2026-07-17
+RSK00070,ENT006,Conduct risk - process weakness 0070,Cybersecurity,Cameron Wilson,1,5,5,1.0,Low,Open,2025-04-26
+RSK00071,ENT093,Operational risk - control gap 0071,Operational,Jordan Lee,5,5,20,2.1,Critical,In Progress,2024-07-19
+RSK00072,ENT031,Regulatory risk - data handling 0072,Third-Party,Avery Brown,2,4,20,3.4,Critical,Open,2026-06-11
+RSK00073,ENT019,Technology risk - regulatory exposure 0073,Cybersecurity,Robin Clark,5,4,10,1.0,Medium,Open,2026-01-04
+RSK00074,ENT035,Third-Party risk - process weakness 0074,Technology,Taylor Smith,3,2,10,1.0,Medium,Open,2026-08-11
+RSK00075,ENT059,Technology risk - system access 0075,Operational,Sam Johnson,2,3,20,1.9,Critical,Overdue,2024-12-14
+RSK00076,ENT074,Third-Party risk - data handling 0076,Conduct,Casey Patel,2,1,25,2.9,Critical,In Progress,2026-08-05
+RSK00077,ENT036,Cybersecurity risk - system access 0077,Operational,Drew Martin,4,2,5,1.0,Low,Overdue,2024-01-11
+RSK00078,ENT054,Third-Party risk - process weakness 0078,Cybersecurity,Cameron Wilson,1,4,5,1.0,Low,In Progress,2024-07-19
+RSK00079,ENT058,Regulatory risk - data handling 0079,Operational,Taylor Smith,2,1,20,2.6,Critical,In Progress,2025-05-04
+RSK00080,ENT083,Operational risk - data handling 0080,Conduct,Drew Martin,1,4,5,1.0,Low,Closed,2024-02-19
+RSK00081,ENT059,Conduct risk - control gap 0081,Data Privacy,Avery Brown,2,4,20,1.8,Critical,Closed,2024-01-03
+RSK00082,ENT111,Technology risk - data handling 0082,Conduct,Riley Chen,4,3,5,1.0,Low,Closed,2025-02-28
+RSK00083,ENT101,Regulatory risk - system access 0083,Data Privacy,Morgan Davis,5,3,5,1.0,Low,Closed,2024-08-15
+RSK00084,ENT050,Technology risk - regulatory exposure 0084,Data Privacy,Cameron Wilson,4,5,15,1.1,High,Closed,2025-02-23
+RSK00085,ENT018,Cybersecurity risk - system access 0085,Conduct,Robin Clark,2,5,15,1.2,High,Open,2025-04-06
+RSK00086,ENT042,Technology risk - process weakness 0086,Regulatory,Morgan Davis,3,5,15,2.2,High,In Progress,2026-09-22
+RSK00087,ENT065,Data Privacy risk - system access 0087,Technology,Avery Brown,1,4,25,3.7,Critical,Closed,2024-05-14
+RSK00088,ENT025,Operational risk - control gap 0088,Regulatory,Jordan Lee,1,1,20,2.3,Critical,Open,2024-08-17
+RSK00089,ENT090,Third-Party risk - process weakness 0089,Technology,Jamie Garcia,4,2,10,1.7,Medium,Overdue,2024-09-27
+RSK00090,ENT061,Regulatory risk - control gap 0090,Operational,Jordan Lee,4,4,15,2.3,High,Open,2025-04-20
+RSK00091,ENT107,Data Privacy risk - control gap 0091,Cybersecurity,Drew Martin,3,4,25,3.3,Critical,Closed,2026-06-30
+RSK00092,ENT059,Technology risk - regulatory exposure 0092,Conduct,Riley Chen,5,2,15,2.5,High,Open,2026-01-31
+RSK00093,ENT037,Operational risk - system access 0093,Operational,Robin Clark,2,3,5,1.0,Low,In Progress,2025-01-08
+RSK00094,ENT023,Technology risk - system access 0094,Operational,Avery Brown,2,2,10,1.0,Medium,In Progress,2025-01-12
+RSK00095,ENT027,Operational risk - control gap 0095,Cybersecurity,Cameron Wilson,1,3,25,4.4,Critical,Overdue,2025-09-09
+RSK00096,ENT016,Cybersecurity risk - control gap 0096,Operational,Alex Morgan,4,4,5,1.0,Low,Overdue,2026-11-05
+RSK00097,ENT043,Conduct risk - system access 0097,Data Privacy,Taylor Smith,4,3,15,2.6,High,Closed,2026-06-24
+RSK00098,ENT044,Third-Party risk - process weakness 0098,Technology,Alex Morgan,4,1,5,1.0,Low,In Progress,2025-03-27
+RSK00099,ENT058,Data Privacy risk - regulatory exposure 0099,Third-Party,Cameron Wilson,1,3,15,1.1,High,Open,2025-07-23
+RSK00100,ENT026,Data Privacy risk - process weakness 0100,Third-Party,Jamie Garcia,1,5,5,1.0,Low,Open,2025-10-12
+RSK00101,ENT078,Technology risk - data handling 0101,Operational,Robin Clark,5,1,25,4.2,Critical,Closed,2026-01-27
+RSK00102,ENT050,Technology risk - data handling 0102,Conduct,Cameron Wilson,1,3,15,1.6,High,Open,2026-06-28
+RSK00103,ENT095,Data Privacy risk - data handling 0103,Data Privacy,Jamie Garcia,4,3,20,1.8,Critical,Open,2024-06-25
+RSK00104,ENT019,Third-Party risk - control gap 0104,Regulatory,Drew Martin,3,4,10,1.8,Medium,Closed,2024-06-30
+RSK00105,ENT001,Cybersecurity risk - system access 0105,Conduct,Taylor Smith,3,4,20,1.8,Critical,Open,2026-02-20
+RSK00106,ENT038,Technology risk - system access 0106,Technology,Avery Brown,4,1,25,4.0,Critical,In Progress,2026-08-07
+RSK00107,ENT029,Data Privacy risk - data handling 0107,Regulatory,Sam Johnson,1,2,5,1.0,Low,Closed,2025-08-12
+RSK00108,ENT054,Conduct risk - control gap 0108,Cybersecurity,Jordan Lee,4,2,10,1.0,Medium,In Progress,2026-01-10
+RSK00109,ENT075,Data Privacy risk - data handling 0109,Data Privacy,Jordan Lee,5,4,20,3.3,Critical,In Progress,2024-02-05
+RSK00110,ENT109,Technology risk - data handling 0110,Data Privacy,Taylor Smith,2,5,15,1.1,High,In Progress,2024-04-18
+RSK00111,ENT035,Technology risk - system access 0111,Data Privacy,Jordan Lee,4,3,15,1.1,High,In Progress,2025-01-10
+RSK00112,ENT098,Conduct risk - control gap 0112,Conduct,Sam Johnson,5,2,5,1.0,Low,Closed,2025-07-09
+RSK00113,ENT088,Conduct risk - regulatory exposure 0113,Regulatory,Taylor Smith,1,5,15,2.0,High,In Progress,2026-02-02
+RSK00114,ENT100,Operational risk - process weakness 0114,Operational,Taylor Smith,4,3,20,3.4,Critical,In Progress,2025-01-20
+RSK00115,ENT102,Data Privacy risk - system access 0115,Data Privacy,Jordan Lee,5,5,25,4.1,Critical,In Progress,2024-06-05
+RSK00116,ENT015,Data Privacy risk - control gap 0116,Operational,Avery Brown,1,4,10,1.1,Medium,Closed,2025-12-01
+RSK00117,ENT023,Conduct risk - regulatory exposure 0117,Data Privacy,Casey Patel,1,1,15,1.4,High,In Progress,2025-03-05
+RSK00118,ENT017,Conduct risk - data handling 0118,Conduct,Jamie Garcia,4,1,5,1.0,Low,Open,2024-08-08
+RSK00119,ENT005,Technology risk - process weakness 0119,Regulatory,Riley Chen,5,1,25,3.0,Critical,Closed,2024-07-16
+RSK00120,ENT101,Operational risk - regulatory exposure 0120,Data Privacy,Morgan Davis,5,2,5,1.0,Low,Open,2024-10-25
+RSK00121,ENT109,Conduct risk - system access 0121,Conduct,Robin Clark,5,3,15,1.6,High,Closed,2026-10-31
+RSK00122,ENT073,Third-Party risk - regulatory exposure 0122,Data Privacy,Casey Patel,1,5,5,1.0,Low,Overdue,2024-12-17
+RSK00123,ENT116,Third-Party risk - data handling 0123,Technology,Robin Clark,1,1,25,4.3,Critical,In Progress,2026-06-19
+RSK00124,ENT087,Cybersecurity risk - regulatory exposure 0124,Third-Party,Casey Patel,2,3,5,1.0,Low,In Progress,2025-10-05
+RSK00125,ENT016,Conduct risk - control gap 0125,Data Privacy,Riley Chen,1,5,20,1.7,Critical,In Progress,2024-03-24
+RSK00126,ENT011,Cybersecurity risk - system access 0126,Data Privacy,Riley Chen,4,1,15,1.7,High,Closed,2026-06-28
+RSK00127,ENT029,Cybersecurity risk - regulatory exposure 0127,Conduct,Jordan Lee,4,3,25,4.5,Critical,Closed,2026-09-01
+RSK00128,ENT087,Cybersecurity risk - process weakness 0128,Cybersecurity,Avery Brown,2,1,15,2.7,High,In Progress,2024-06-23
+RSK00129,ENT016,Regulatory risk - regulatory exposure 0129,Regulatory,Morgan Davis,4,4,10,1.5,Medium,Overdue,2025-11-24
+RSK00130,ENT026,Cybersecurity risk - data handling 0130,Technology,Robin Clark,4,1,25,2.4,Critical,Closed,2025-07-13
+RSK00131,ENT097,Cybersecurity risk - data handling 0131,Third-Party,Riley Chen,3,4,20,2.9,Critical,Open,2026-07-20
+RSK00132,ENT014,Data Privacy risk - regulatory exposure 0132,Regulatory,Jordan Lee,3,4,5,1.0,Low,Closed,2024-05-19
+RSK00133,ENT064,Technology risk - regulatory exposure 0133,Technology,Drew Martin,2,4,5,1.0,Low,Closed,2024-06-05
+RSK00134,ENT085,Data Privacy risk - data handling 0134,Cybersecurity,Cameron Wilson,4,4,25,2.3,Critical,In Progress,2025-12-04
+RSK00135,ENT104,Regulatory risk - data handling 0135,Regulatory,Jamie Garcia,5,1,25,4.4,Critical,In Progress,2026-02-09
+RSK00136,ENT057,Data Privacy risk - control gap 0136,Data Privacy,Taylor Smith,1,1,20,1.8,Critical,In Progress,2024-10-02
+RSK00137,ENT040,Cybersecurity risk - system access 0137,Data Privacy,Cameron Wilson,4,1,20,2.7,Critical,In Progress,2026-09-01
+RSK00138,ENT072,Cybersecurity risk - system access 0138,Cybersecurity,Drew Martin,5,1,10,1.1,Medium,Closed,2025-08-05
+RSK00139,ENT042,Conduct risk - control gap 0139,Technology,Robin Clark,1,5,5,1.0,Low,In Progress,2025-11-29
+RSK00140,ENT049,Cybersecurity risk - control gap 0140,Regulatory,Sam Johnson,4,3,5,1.0,Low,Open,2025-04-25
+RSK00141,ENT083,Regulatory risk - control gap 0141,Regulatory,Morgan Davis,5,1,15,2.6,High,Open,2025-10-29
+RSK00142,ENT005,Cybersecurity risk - control gap 0142,Regulatory,Robin Clark,4,5,20,2.5,Critical,In Progress,2024-02-15
+RSK00143,ENT041,Regulatory risk - data handling 0143,Regulatory,Robin Clark,5,4,20,2.1,Critical,Closed,2025-11-19
+RSK00144,ENT064,Technology risk - data handling 0144,Operational,Avery Brown,3,2,25,3.4,Critical,Closed,2024-06-03
+RSK00145,ENT108,Technology risk - system access 0145,Cybersecurity,Casey Patel,2,3,25,2.5,Critical,Closed,2024-07-07
+RSK00146,ENT092,Regulatory risk - system access 0146,Conduct,Cameron Wilson,1,5,25,2.7,Critical,In Progress,2025-03-05
+RSK00147,ENT045,Cybersecurity risk - system access 0147,Technology,Casey Patel,3,5,5,1.0,Low,In Progress,2025-05-29
+RSK00148,ENT080,Regulatory risk - system access 0148,Conduct,Taylor Smith,4,5,25,2.2,Critical,In Progress,2025-03-12
+RSK00149,ENT085,Conduct risk - data handling 0149,Third-Party,Robin Clark,3,5,20,3.2,Critical,Closed,2025-02-14
+RSK00150,ENT047,Data Privacy risk - control gap 0150,Conduct,Jamie Garcia,2,2,20,1.7,Critical,In Progress,2024-05-11
+RSK00151,ENT082,Data Privacy risk - regulatory exposure 0151,Technology,Sam Johnson,4,3,10,1.6,Medium,Closed,2026-04-11
+RSK00152,ENT031,Conduct risk - control gap 0152,Cybersecurity,Avery Brown,2,2,5,1.0,Low,In Progress,2026-06-12
+RSK00153,ENT055,Regulatory risk - control gap 0153,Conduct,Riley Chen,2,2,5,1.0,Low,Closed,2024-12-26
+RSK00154,ENT083,Regulatory risk - control gap 0154,Third-Party,Riley Chen,4,1,5,1.0,Low,Closed,2026-04-13
+RSK00155,ENT115,Data Privacy risk - regulatory exposure 0155,Operational,Jordan Lee,1,4,15,2.6,High,In Progress,2026-10-21
+RSK00156,ENT120,Third-Party risk - control gap 0156,Cybersecurity,Jordan Lee,5,5,5,1.0,Low,Open,2024-09-07
+RSK00157,ENT099,Conduct risk - regulatory exposure 0157,Cybersecurity,Casey Patel,3,5,15,2.3,High,Open,2024-12-24
+RSK00158,ENT028,Third-Party risk - process weakness 0158,Cybersecurity,Cameron Wilson,4,4,15,1.5,High,In Progress,2024-08-19
+RSK00159,ENT041,Technology risk - regulatory exposure 0159,Technology,Avery Brown,4,4,25,3.6,Critical,Closed,2025-09-23
+RSK00160,ENT003,Conduct risk - regulatory exposure 0160,Technology,Cameron Wilson,1,1,25,3.6,Critical,In Progress,2026-01-13
+RSK00161,ENT116,Cybersecurity risk - process weakness 0161,Cybersecurity,Riley Chen,5,2,5,1.0,Low,In Progress,2025-04-27
+RSK00162,ENT039,Conduct risk - data handling 0162,Conduct,Alex Morgan,2,4,10,1.4,Medium,In Progress,2024-06-13
+RSK00163,ENT106,Technology risk - data handling 0163,Conduct,Jordan Lee,4,4,20,3.4,Critical,Closed,2025-06-18
+RSK00164,ENT065,Conduct risk - system access 0164,Data Privacy,Morgan Davis,3,4,5,1.0,Low,In Progress,2024-02-26
+RSK00165,ENT098,Operational risk - process weakness 0165,Cybersecurity,Casey Patel,2,4,5,1.0,Low,Closed,2025-10-04
+RSK00166,ENT074,Data Privacy risk - regulatory exposure 0166,Conduct,Drew Martin,1,2,5,1.0,Low,Closed,2025-10-16
+RSK00167,ENT058,Third-Party risk - control gap 0167,Conduct,Riley Chen,2,3,20,1.8,Critical,Open,2026-04-28
+RSK00168,ENT048,Third-Party risk - regulatory exposure 0168,Regulatory,Alex Morgan,4,4,10,1.7,Medium,Overdue,2025-04-13
+RSK00169,ENT117,Conduct risk - regulatory exposure 0169,Regulatory,Jamie Garcia,4,2,5,1.0,Low,Closed,2025-06-16
+RSK00170,ENT020,Regulatory risk - process weakness 0170,Data Privacy,Cameron Wilson,3,2,5,1.0,Low,In Progress,2026-07-18
+RSK00171,ENT106,Operational risk - control gap 0171,Technology,Robin Clark,1,2,20,3.0,Critical,In Progress,2024-09-23
+RSK00172,ENT056,Technology risk - regulatory exposure 0172,Cybersecurity,Taylor Smith,5,2,10,1.8,Medium,In Progress,2024-10-25
+RSK00173,ENT004,Operational risk - control gap 0173,Third-Party,Sam Johnson,3,2,15,2.1,High,Closed,2024-06-24
+RSK00174,ENT002,Cybersecurity risk - regulatory exposure 0174,Data Privacy,Jamie Garcia,2,3,20,3.5,Critical,Closed,2025-06-08
+RSK00175,ENT010,Operational risk - data handling 0175,Technology,Drew Martin,5,1,5,1.0,Low,Overdue,2024-04-03
+RSK00176,ENT001,Cybersecurity risk - control gap 0176,Operational,Cameron Wilson,5,5,15,1.7,High,Open,2025-01-02
+RSK00177,ENT034,Cybersecurity risk - regulatory exposure 0177,Regulatory,Morgan Davis,5,4,10,1.7,Medium,Closed,2026-06-05
+RSK00178,ENT019,Operational risk - data handling 0178,Conduct,Riley Chen,1,3,15,1.1,High,Closed,2026-05-30
+RSK00179,ENT037,Cybersecurity risk - regulatory exposure 0179,Technology,Robin Clark,5,3,15,1.9,High,Overdue,2024-11-05
+RSK00180,ENT072,Operational risk - regulatory exposure 0180,Regulatory,Avery Brown,1,2,20,1.7,Critical,In Progress,2026-08-14
+RSK00181,ENT056,Data Privacy risk - system access 0181,Cybersecurity,Avery Brown,4,1,5,1.0,Low,In Progress,2024-10-30
+RSK00182,ENT016,Operational risk - regulatory exposure 0182,Data Privacy,Cameron Wilson,1,2,15,2.5,High,Closed,2025-03-10
+RSK00183,ENT075,Regulatory risk - regulatory exposure 0183,Conduct,Avery Brown,5,5,5,1.0,Low,Closed,2025-11-04
+RSK00184,ENT004,Regulatory risk - control gap 0184,Operational,Alex Morgan,1,4,15,1.7,High,Open,2026-09-09
+RSK00185,ENT059,Regulatory risk - system access 0185,Cybersecurity,Morgan Davis,5,1,15,1.6,High,Overdue,2024-09-21
+RSK00186,ENT028,Data Privacy risk - process weakness 0186,Third-Party,Drew Martin,3,3,5,1.0,Low,In Progress,2026-03-27
+RSK00187,ENT033,Conduct risk - regulatory exposure 0187,Operational,Jamie Garcia,2,4,10,1.0,Medium,Closed,2025-08-06
+RSK00188,ENT083,Cybersecurity risk - control gap 0188,Data Privacy,Drew Martin,1,3,10,1.2,Medium,Open,2024-07-15
+RSK00189,ENT107,Cybersecurity risk - data handling 0189,Technology,Drew Martin,5,2,15,1.9,High,Closed,2024-07-03
+RSK00190,ENT097,Data Privacy risk - data handling 0190,Regulatory,Alex Morgan,3,5,20,1.8,Critical,In Progress,2026-08-07
+RSK00191,ENT087,Data Privacy risk - system access 0191,Regulatory,Riley Chen,2,4,10,1.3,Medium,In Progress,2024-06-11
+RSK00192,ENT117,Data Privacy risk - control gap 0192,Conduct,Casey Patel,3,2,20,3.6,Critical,In Progress,2025-08-28
+RSK00193,ENT073,Third-Party risk - process weakness 0193,Third-Party,Jamie Garcia,5,1,5,1.0,Low,In Progress,2026-08-09
+RSK00194,ENT085,Regulatory risk - system access 0194,Regulatory,Jordan Lee,3,3,25,2.5,Critical,Closed,2026-08-05
+RSK00195,ENT023,Data Privacy risk - control gap 0195,Technology,Drew Martin,4,1,10,1.0,Medium,Closed,2026-07-10
+RSK00196,ENT080,Regulatory risk - system access 0196,Technology,Sam Johnson,3,2,15,1.4,High,Open,2024-02-06
+RSK00197,ENT001,Cybersecurity risk - data handling 0197,Data Privacy,Jamie Garcia,1,1,20,1.8,Critical,Closed,2026-09-23
+RSK00198,ENT039,Data Privacy risk - data handling 0198,Conduct,Riley Chen,5,3,25,3.6,Critical,Open,2024-10-03
+RSK00199,ENT002,Operational risk - process weakness 0199,Operational,Avery Brown,1,1,10,1.5,Medium,Closed,2025-05-10
+RSK00200,ENT056,Cybersecurity risk - regulatory exposure 0200,Cybersecurity,Jamie Garcia,2,1,25,2.6,Critical,Open,2024-12-06
+RSK00201,ENT116,Conduct risk - data handling 0201,Third-Party,Casey Patel,4,4,10,1.2,Medium,Open,2026-03-13
+RSK00202,ENT007,Data Privacy risk - data handling 0202,Cybersecurity,Avery Brown,1,1,15,2.1,High,Closed,2025-08-18
+RSK00203,ENT005,Data Privacy risk - system access 0203,Data Privacy,Avery Brown,4,4,20,2.5,Critical,Open,2024-05-04
+RSK00204,ENT068,Regulatory risk - control gap 0204,Data Privacy,Jamie Garcia,4,5,5,1.0,Low,Closed,2024-08-27
+RSK00205,ENT064,Regulatory risk - regulatory exposure 0205,Technology,Robin Clark,3,4,25,3.7,Critical,Open,2025-12-05
+RSK00206,ENT057,Data Privacy risk - control gap 0206,Third-Party,Robin Clark,5,2,10,1.3,Medium,Closed,2024-09-25
+RSK00207,ENT114,Data Privacy risk - control gap 0207,Conduct,Avery Brown,4,4,15,2.4,High,Closed,2024-11-27
+RSK00208,ENT080,Operational risk - regulatory exposure 0208,Operational,Taylor Smith,3,1,10,1.4,Medium,Closed,2024-07-25
+RSK00209,ENT102,Third-Party risk - process weakness 0209,Regulatory,Morgan Davis,4,3,20,1.9,Critical,Closed,2026-01-01
+RSK00210,ENT087,Regulatory risk - control gap 0210,Cybersecurity,Jordan Lee,2,5,10,1.0,Medium,Closed,2024-09-04
+RSK00211,ENT072,Conduct risk - control gap 0211,Conduct,Alex Morgan,4,3,10,1.8,Medium,Closed,2025-07-01
+RSK00212,ENT115,Data Privacy risk - process weakness 0212,Cybersecurity,Avery Brown,5,5,10,1.4,Medium,Overdue,2024-08-15
+RSK00213,ENT014,Regulatory risk - system access 0213,Regulatory,Taylor Smith,5,1,25,4.0,Critical,Closed,2025-02-24
+RSK00214,ENT117,Conduct risk - system access 0214,Cybersecurity,Robin Clark,2,3,15,2.2,High,Closed,2024-11-11
+RSK00215,ENT083,Operational risk - data handling 0215,Cybersecurity,Alex Morgan,3,2,15,1.3,High,Open,2026-08-28
+RSK00216,ENT044,Technology risk - data handling 0216,Technology,Sam Johnson,5,2,15,1.2,High,Closed,2024-11-06
+RSK00217,ENT097,Cybersecurity risk - data handling 0217,Cybersecurity,Avery Brown,4,2,25,2.1,Critical,Overdue,2026-11-23
+RSK00218,ENT102,Regulatory risk - system access 0218,Regulatory,Jordan Lee,1,4,15,1.3,High,In Progress,2026-04-02
+RSK00219,ENT099,Regulatory risk - regulatory exposure 0219,Third-Party,Alex Morgan,4,1,10,1.1,Medium,Overdue,2025-08-28
+RSK00220,ENT054,Technology risk - control gap 0220,Regulatory,Riley Chen,5,3,20,3.0,Critical,Overdue,2024-10-27
+RSK00221,ENT090,Third-Party risk - system access 0221,Data Privacy,Avery Brown,4,2,20,3.4,Critical,Closed,2026-04-08
+RSK00222,ENT100,Technology risk - data handling 0222,Data Privacy,Robin Clark,3,1,10,1.0,Medium,Closed,2024-09-15
+RSK00223,ENT067,Third-Party risk - control gap 0223,Third-Party,Morgan Davis,3,2,25,2.0,Critical,Closed,2024-11-23
+RSK00224,ENT003,Conduct risk - control gap 0224,Data Privacy,Jamie Garcia,5,5,5,1.0,Low,Overdue,2024-08-14
+RSK00225,ENT094,Technology risk - process weakness 0225,Regulatory,Sam Johnson,3,3,5,1.0,Low,Overdue,2026-07-08
+RSK00226,ENT039,Operational risk - system access 0226,Third-Party,Robin Clark,1,4,25,2.7,Critical,Closed,2025-04-23
+RSK00227,ENT045,Data Privacy risk - data handling 0227,Third-Party,Robin Clark,3,5,15,2.2,High,Open,2025-11-02
+RSK00228,ENT067,Operational risk - data handling 0228,Conduct,Jamie Garcia,2,3,25,3.0,Critical,Open,2024-05-07
+RSK00229,ENT055,Technology risk - system access 0229,Cybersecurity,Drew Martin,4,2,10,1.2,Medium,In Progress,2026-03-19
+RSK00230,ENT112,Cybersecurity risk - data handling 0230,Data Privacy,Jamie Garcia,5,4,15,2.1,High,Closed,2024-10-22
+RSK00231,ENT065,Data Privacy risk - system access 0231,Conduct,Cameron Wilson,4,4,10,1.0,Medium,Open,2025-03-11
+RSK00232,ENT059,Technology risk - process weakness 0232,Third-Party,Jamie Garcia,1,2,20,3.5,Critical,Open,2026-01-26
+RSK00233,ENT074,Technology risk - control gap 0233,Technology,Riley Chen,1,5,15,1.3,High,In Progress,2024-02-27
+RSK00234,ENT102,Technology risk - control gap 0234,Operational,Taylor Smith,2,5,10,1.2,Medium,Closed,2026-09-28
+RSK00235,ENT001,Regulatory risk - data handling 0235,Cybersecurity,Drew Martin,5,3,5,1.0,Low,In Progress,2026-07-15
+RSK00236,ENT116,Conduct risk - system access 0236,Operational,Taylor Smith,4,4,15,2.4,High,In Progress,2026-08-01
+RSK00237,ENT098,Technology risk - process weakness 0237,Conduct,Drew Martin,4,2,20,3.3,Critical,Closed,2026-04-18
+RSK00238,ENT050,Data Privacy risk - data handling 0238,Data Privacy,Riley Chen,4,3,10,1.3,Medium,Closed,2024-12-05
+RSK00239,ENT091,Regulatory risk - system access 0239,Regulatory,Casey Patel,5,3,5,1.0,Low,Overdue,2024-04-18
+RSK00240,ENT073,Regulatory risk - process weakness 0240,Data Privacy,Cameron Wilson,2,4,25,3.1,Critical,Open,2024-02-08
+RSK00241,ENT036,Conduct risk - system access 0241,Third-Party,Morgan Davis,2,5,10,1.2,Medium,In Progress,2024-04-02
+RSK00242,ENT063,Regulatory risk - system access 0242,Technology,Jamie Garcia,3,4,5,1.0,Low,In Progress,2024-08-22
+RSK00243,ENT013,Technology risk - process weakness 0243,Operational,Riley Chen,2,3,25,2.1,Critical,Overdue,2024-12-12
+RSK00244,ENT008,Regulatory risk - control gap 0244,Cybersecurity,Jordan Lee,3,2,25,1.8,Critical,In Progress,2026-04-25
+RSK00245,ENT115,Regulatory risk - process weakness 0245,Operational,Casey Patel,3,4,15,2.6,High,Closed,2025-04-29
+RSK00246,ENT064,Technology risk - process weakness 0246,Technology,Avery Brown,5,4,25,4.4,Critical,In Progress,2024-05-14
+RSK00247,ENT062,Regulatory risk - control gap 0247,Third-Party,Drew Martin,4,2,5,1.0,Low,Closed,2025-05-19
+RSK00248,ENT098,Cybersecurity risk - process weakness 0248,Conduct,Sam Johnson,2,3,25,3.3,Critical,In Progress,2024-10-18
+RSK00249,ENT048,Cybersecurity risk - system access 0249,Cybersecurity,Alex Morgan,2,2,25,3.2,Critical,Open,2026-08-09
+RSK00250,ENT107,Cybersecurity risk - control gap 0250,Third-Party,Riley Chen,3,2,25,1.8,Critical,Closed,2026-02-17
+RSK00251,ENT045,Operational risk - system access 0251,Third-Party,Jordan Lee,5,5,10,1.0,Medium,In Progress,2026-03-20
+RSK00252,ENT090,Cybersecurity risk - regulatory exposure 0252,Third-Party,Cameron Wilson,2,5,5,1.0,Low,Overdue,2025-10-13
+RSK00253,ENT114,Data Privacy risk - control gap 0253,Technology,Casey Patel,3,4,15,1.5,High,In Progress,2025-11-03
+RSK00254,ENT003,Regulatory risk - regulatory exposure 0254,Cybersecurity,Cameron Wilson,1,5,10,1.2,Medium,Closed,2026-09-28
+RSK00255,ENT098,Data Privacy risk - process weakness 0255,Third-Party,Alex Morgan,5,1,20,3.1,Critical,Closed,2026-06-30
+RSK00256,ENT087,Technology risk - data handling 0256,Operational,Robin Clark,3,4,5,1.0,Low,Overdue,2024-09-12
+RSK00257,ENT060,Data Privacy risk - process weakness 0257,Conduct,Riley Chen,2,4,15,1.1,High,Closed,2026-01-02
+RSK00258,ENT025,Operational risk - regulatory exposure 0258,Cybersecurity,Morgan Davis,5,3,5,1.0,Low,Open,2026-10-06
+RSK00259,ENT116,Conduct risk - data handling 0259,Regulatory,Riley Chen,2,1,25,2.3,Critical,In Progress,2026-10-08
+RSK00260,ENT022,Third-Party risk - system access 0260,Operational,Jordan Lee,2,5,25,3.6,Critical,In Progress,2024-05-13
+RSK00261,ENT017,Data Privacy risk - control gap 0261,Operational,Sam Johnson,5,2,15,2.5,High,Open,2025-06-01
+RSK00262,ENT088,Data Privacy risk - process weakness 0262,Conduct,Morgan Davis,4,1,25,4.3,Critical,In Progress,2026-04-13
+RSK00263,ENT036,Third-Party risk - process weakness 0263,Data Privacy,Casey Patel,5,4,5,1.0,Low,Open,2026-05-10
+RSK00264,ENT069,Technology risk - process weakness 0264,Third-Party,Alex Morgan,3,1,20,2.3,Critical,Overdue,2025-04-07
+RSK00265,ENT089,Technology risk - control gap 0265,Regulatory,Sam Johnson,1,2,20,1.8,Critical,Closed,2024-02-27
+RSK00266,ENT062,Technology risk - control gap 0266,Operational,Jordan Lee,1,5,20,3.2,Critical,In Progress,2025-11-28
+RSK00267,ENT107,Regulatory risk - system access 0267,Third-Party,Avery Brown,3,5,5,1.0,Low,Closed,2026-07-03
+RSK00268,ENT075,Cybersecurity risk - control gap 0268,Conduct,Robin Clark,1,1,5,1.0,Low,Open,2024-09-18
+RSK00269,ENT008,Cybersecurity risk - process weakness 0269,Regulatory,Sam Johnson,1,3,20,2.7,Critical,Open,2024-04-16
+RSK00270,ENT038,Cybersecurity risk - regulatory exposure 0270,Conduct,Drew Martin,4,1,20,2.8,Critical,Closed,2024-01-22
+RSK00271,ENT059,Third-Party risk - process weakness 0271,Technology,Sam Johnson,4,4,20,3.3,Critical,Overdue,2024-02-23
+RSK00272,ENT059,Regulatory risk - process weakness 0272,Third-Party,Robin Clark,3,5,25,2.3,Critical,Open,2025-01-31
+RSK00273,ENT116,Cybersecurity risk - data handling 0273,Data Privacy,Drew Martin,2,5,25,2.5,Critical,In Progress,2025-05-12
+RSK00274,ENT018,Cybersecurity risk - system access 0274,Data Privacy,Morgan Davis,1,2,5,1.0,Low,In Progress,2024-10-25
+RSK00275,ENT019,Technology risk - process weakness 0275,Third-Party,Drew Martin,3,5,20,2.2,Critical,Closed,2024-10-23
+RSK00276,ENT008,Cybersecurity risk - control gap 0276,Operational,Casey Patel,5,5,10,1.6,Medium,Closed,2025-02-16
+RSK00277,ENT101,Data Privacy risk - data handling 0277,Third-Party,Robin Clark,3,2,5,1.0,Low,In Progress,2025-11-18
+RSK00278,ENT079,Cybersecurity risk - process weakness 0278,Cybersecurity,Casey Patel,4,3,15,1.3,High,Overdue,2025-04-01
+RSK00279,ENT089,Cybersecurity risk - control gap 0279,Conduct,Robin Clark,4,5,10,1.0,Medium,In Progress,2026-03-30
+RSK00280,ENT024,Regulatory risk - system access 0280,Regulatory,Taylor Smith,3,1,5,1.0,Low,In Progress,2025-02-02
+RSK00281,ENT081,Operational risk - regulatory exposure 0281,Technology,Taylor Smith,3,1,25,4.4,Critical,Open,2025-06-20
+RSK00282,ENT093,Operational risk - process weakness 0282,Operational,Riley Chen,3,5,10,1.0,Medium,Overdue,2024-02-12
+RSK00283,ENT107,Operational risk - control gap 0283,Cybersecurity,Casey Patel,4,1,10,1.1,Medium,In Progress,2026-02-01
+RSK00284,ENT085,Data Privacy risk - process weakness 0284,Regulatory,Taylor Smith,5,5,10,1.7,Medium,Closed,2024-09-24
+RSK00285,ENT102,Technology risk - control gap 0285,Third-Party,Jamie Garcia,2,5,10,1.1,Medium,Overdue,2025-05-15
+RSK00286,ENT118,Third-Party risk - control gap 0286,Conduct,Taylor Smith,5,5,5,1.0,Low,In Progress,2024-04-19
+RSK00287,ENT081,Cybersecurity risk - regulatory exposure 0287,Data Privacy,Jordan Lee,2,5,15,2.6,High,Closed,2024-05-12
+RSK00288,ENT022,Third-Party risk - data handling 0288,Operational,Morgan Davis,4,5,25,2.8,Critical,Closed,2026-09-16
+RSK00289,ENT092,Data Privacy risk - system access 0289,Data Privacy,Alex Morgan,4,3,20,2.7,Critical,Open,2025-02-19
+RSK00290,ENT058,Cybersecurity risk - system access 0290,Operational,Morgan Davis,4,2,10,1.0,Medium,In Progress,2024-06-22
+RSK00291,ENT018,Operational risk - system access 0291,Regulatory,Avery Brown,3,4,5,1.0,Low,In Progress,2025-11-19
+RSK00292,ENT055,Conduct risk - data handling 0292,Technology,Riley Chen,4,4,20,2.3,Critical,In Progress,2025-01-02
+RSK00293,ENT057,Regulatory risk - control gap 0293,Conduct,Cameron Wilson,3,1,10,1.1,Medium,In Progress,2024-06-09
+RSK00294,ENT101,Technology risk - process weakness 0294,Third-Party,Casey Patel,2,1,15,1.2,High,In Progress,2025-11-05
+RSK00295,ENT033,Operational risk - system access 0295,Technology,Alex Morgan,3,2,15,2.2,High,Closed,2025-07-31
+RSK00296,ENT106,Conduct risk - process weakness 0296,Cybersecurity,Sam Johnson,4,4,15,2.4,High,In Progress,2024-11-01
+RSK00297,ENT111,Operational risk - data handling 0297,Operational,Cameron Wilson,2,2,20,3.0,Critical,In Progress,2026-08-17
+RSK00298,ENT093,Operational risk - data handling 0298,Conduct,Robin Clark,3,1,20,2.1,Critical,In Progress,2026-06-17
+RSK00299,ENT058,Conduct risk - regulatory exposure 0299,Technology,Robin Clark,1,3,25,2.1,Critical,Open,2025-12-27
+RSK00300,ENT044,Cybersecurity risk - system access 0300,Technology,Morgan Davis,4,4,10,1.5,Medium,In Progress,2024-03-06
+RSK00301,ENT119,Conduct risk - system access 0301,Third-Party,Drew Martin,2,3,10,1.3,Medium,Closed,2026-02-19
+RSK00302,ENT027,Cybersecurity risk - process weakness 0302,Technology,Drew Martin,1,5,20,2.3,Critical,Overdue,2025-09-15
+RSK00303,ENT012,Conduct risk - system access 0303,Cybersecurity,Alex Morgan,1,5,10,1.0,Medium,Open,2024-05-22
+RSK00304,ENT117,Data Privacy risk - system access 0304,Regulatory,Avery Brown,3,2,20,1.9,Critical,Open,2024-01-23
+RSK00305,ENT022,Regulatory risk - regulatory exposure 0305,Third-Party,Jamie Garcia,4,4,15,1.3,High,In Progress,2024-05-20
+RSK00306,ENT050,Conduct risk - data handling 0306,Operational,Drew Martin,2,2,10,1.0,Medium,In Progress,2025-09-27
+RSK00307,ENT076,Regulatory risk - regulatory exposure 0307,Cybersecurity,Jordan Lee,5,4,10,1.0,Medium,Closed,2025-05-20
+RSK00308,ENT068,Third-Party risk - process weakness 0308,Data Privacy,Jordan Lee,5,4,15,1.8,High,In Progress,2026-07-23
+RSK00309,ENT045,Conduct risk - regulatory exposure 0309,Cybersecurity,Casey Patel,4,5,15,2.4,High,Open,2026-06-03
+RSK00310,ENT059,Data Privacy risk - process weakness 0310,Operational,Taylor Smith,2,5,20,1.6,Critical,In Progress,2025-08-20
+RSK00311,ENT086,Conduct risk - system access 0311,Regulatory,Morgan Davis,2,4,5,1.0,Low,Open,2024-08-03
+RSK00312,ENT065,Operational risk - system access 0312,Regulatory,Avery Brown,4,4,15,1.3,High,Open,2026-08-03
+RSK00313,ENT049,Regulatory risk - control gap 0313,Regulatory,Robin Clark,4,2,15,1.7,High,Overdue,2025-10-31
+RSK00314,ENT086,Third-Party risk - regulatory exposure 0314,Data Privacy,Avery Brown,4,4,20,1.6,Critical,Open,2025-07-25
+RSK00315,ENT108,Operational risk - control gap 0315,Regulatory,Cameron Wilson,2,1,10,1.4,Medium,Closed,2024-12-10
+RSK00316,ENT010,Operational risk - regulatory exposure 0316,Data Privacy,Alex Morgan,3,2,5,1.0,Low,Closed,2025-03-18
+RSK00317,ENT057,Technology risk - data handling 0317,Regulatory,Drew Martin,5,1,5,1.0,Low,Open,2026-02-11
+RSK00318,ENT099,Operational risk - process weakness 0318,Regulatory,Jamie Garcia,2,3,10,1.7,Medium,Open,2024-01-30
+RSK00319,ENT044,Regulatory risk - regulatory exposure 0319,Data Privacy,Taylor Smith,1,2,10,1.8,Medium,Open,2026-11-15
+RSK00320,ENT014,Third-Party risk - regulatory exposure 0320,Third-Party,Jamie Garcia,3,5,15,2.1,High,Overdue,2024-09-04
+RSK00321,ENT030,Regulatory risk - data handling 0321,Data Privacy,Morgan Davis,1,3,10,1.1,Medium,Open,2025-03-11
+RSK00322,ENT059,Technology risk - process weakness 0322,Regulatory,Casey Patel,1,3,10,1.4,Medium,In Progress,2026-10-20
+RSK00323,ENT014,Regulatory risk - system access 0323,Technology,Sam Johnson,5,2,25,2.4,Critical,Closed,2024-09-29
+RSK00324,ENT043,Regulatory risk - system access 0324,Third-Party,Avery Brown,3,4,10,1.0,Medium,In Progress,2025-04-21
+RSK00325,ENT065,Conduct risk - process weakness 0325,Technology,Casey Patel,1,2,25,1.8,Critical,Closed,2025-05-13
+RSK00326,ENT080,Technology risk - regulatory exposure 0326,Operational,Jamie Garcia,1,2,5,1.0,Low,Open,2024-03-18
+RSK00327,ENT031,Technology risk - process weakness 0327,Third-Party,Jamie Garcia,4,3,25,2.1,Critical,Closed,2025-08-13
+RSK00328,ENT097,Operational risk - system access 0328,Regulatory,Sam Johnson,2,3,5,1.0,Low,Overdue,2025-03-31
+RSK00329,ENT078,Data Privacy risk - process weakness 0329,Regulatory,Avery Brown,5,3,20,1.8,Critical,Open,2025-01-29
+RSK00330,ENT007,Third-Party risk - system access 0330,Conduct,Casey Patel,2,2,10,1.0,Medium,Open,2024-06-09
+RSK00331,ENT055,Operational risk - data handling 0331,Operational,Drew Martin,3,2,20,3.0,Critical,Open,2025-08-07
+RSK00332,ENT074,Cybersecurity risk - process weakness 0332,Technology,Jamie Garcia,2,3,20,3.3,Critical,In Progress,2026-08-22
+RSK00333,ENT057,Conduct risk - regulatory exposure 0333,Conduct,Avery Brown,5,5,20,3.0,Critical,Open,2026-02-20
+RSK00334,ENT055,Third-Party risk - regulatory exposure 0334,Technology,Jamie Garcia,3,5,5,1.0,Low,In Progress,2026-07-17
+RSK00335,ENT037,Technology risk - regulatory exposure 0335,Data Privacy,Avery Brown,5,5,20,2.5,Critical,Open,2025-01-23
+RSK00336,ENT001,Cybersecurity risk - data handling 0336,Data Privacy,Morgan Davis,5,3,5,1.0,Low,In Progress,2025-09-22
+RSK00337,ENT083,Regulatory risk - data handling 0337,Third-Party,Taylor Smith,1,4,25,4.2,Critical,Open,2026-06-12
+RSK00338,ENT033,Technology risk - process weakness 0338,Data Privacy,Jamie Garcia,5,4,15,2.1,High,Overdue,2025-05-20
+RSK00339,ENT032,Data Privacy risk - process weakness 0339,Data Privacy,Sam Johnson,1,3,20,2.8,Critical,Closed,2025-06-19
+RSK00340,ENT078,Third-Party risk - regulatory exposure 0340,Regulatory,Jordan Lee,2,3,20,1.9,Critical,Closed,2026-02-26
+RSK00341,ENT051,Cybersecurity risk - regulatory exposure 0341,Conduct,Jamie Garcia,1,5,25,4.3,Critical,In Progress,2025-09-10
+RSK00342,ENT065,Cybersecurity risk - process weakness 0342,Regulatory,Sam Johnson,4,5,25,2.6,Critical,In Progress,2025-12-06
+RSK00343,ENT105,Cybersecurity risk - control gap 0343,Regulatory,Taylor Smith,3,2,10,1.7,Medium,Closed,2024-01-04
+RSK00344,ENT013,Technology risk - data handling 0344,Operational,Taylor Smith,4,5,5,1.0,Low,In Progress,2024-10-02
+RSK00345,ENT026,Cybersecurity risk - system access 0345,Conduct,Casey Patel,2,5,20,3.5,Critical,Open,2024-04-30
+RSK00346,ENT096,Conduct risk - data handling 0346,Cybersecurity,Sam Johnson,2,3,10,1.8,Medium,Overdue,2024-08-11
+RSK00347,ENT112,Regulatory risk - control gap 0347,Regulatory,Morgan Davis,1,3,10,1.0,Medium,Open,2025-04-25
+RSK00348,ENT062,Conduct risk - process weakness 0348,Data Privacy,Drew Martin,1,1,20,1.5,Critical,Closed,2024-03-26
+RSK00349,ENT013,Third-Party risk - control gap 0349,Cybersecurity,Avery Brown,5,1,10,1.1,Medium,Closed,2026-05-29
+RSK00350,ENT044,Technology risk - data handling 0350,Cybersecurity,Drew Martin,3,3,15,2.4,High,Open,2025-12-30
+RSK00351,ENT112,Data Privacy risk - data handling 0351,Data Privacy,Taylor Smith,1,1,15,1.8,High,Open,2024-09-08
+RSK00352,ENT112,Third-Party risk - data handling 0352,Third-Party,Jamie Garcia,3,2,25,2.8,Critical,Closed,2024-01-07
+RSK00353,ENT082,Conduct risk - control gap 0353,Data Privacy,Avery Brown,1,3,15,2.5,High,Open,2026-09-19
+RSK00354,ENT052,Cybersecurity risk - process weakness 0354,Data Privacy,Jamie Garcia,1,3,25,2.9,Critical,In Progress,2025-02-03
+RSK00355,ENT092,Data Privacy risk - system access 0355,Regulatory,Taylor Smith,5,5,10,1.6,Medium,In Progress,2024-06-27
+RSK00356,ENT039,Regulatory risk - data handling 0356,Data Privacy,Cameron Wilson,4,2,25,4.2,Critical,Open,2025-03-09
+RSK00357,ENT022,Regulatory risk - regulatory exposure 0357,Technology,Jamie Garcia,1,4,5,1.0,Low,Closed,2025-03-27
+RSK00358,ENT093,Third-Party risk - data handling 0358,Regulatory,Robin Clark,4,1,15,2.1,High,In Progress,2025-04-03
+RSK00359,ENT120,Cybersecurity risk - data handling 0359,Data Privacy,Sam Johnson,5,1,25,3.5,Critical,Closed,2026-06-13
+RSK00360,ENT104,Regulatory risk - process weakness 0360,Regulatory,Morgan Davis,2,3,10,1.0,Medium,Closed,2025-01-20
+RSK00361,ENT096,Technology risk - data handling 0361,Third-Party,Robin Clark,5,3,5,1.0,Low,Open,2024-05-06
+RSK00362,ENT076,Technology risk - control gap 0362,Conduct,Sam Johnson,2,4,25,4.4,Critical,Overdue,2024-09-15
+RSK00363,ENT067,Regulatory risk - system access 0363,Conduct,Avery Brown,5,2,25,2.0,Critical,In Progress,2025-08-30
+RSK00364,ENT108,Technology risk - regulatory exposure 0364,Data Privacy,Sam Johnson,4,4,10,1.0,Medium,Closed,2024-03-11
+RSK00365,ENT077,Regulatory risk - control gap 0365,Conduct,Robin Clark,3,5,15,2.7,High,In Progress,2025-03-17
+RSK00366,ENT064,Technology risk - regulatory exposure 0366,Conduct,Robin Clark,4,1,15,2.7,High,Open,2025-04-05
+RSK00367,ENT090,Technology risk - regulatory exposure 0367,Regulatory,Cameron Wilson,2,4,5,1.0,Low,In Progress,2026-05-15
+RSK00368,ENT087,Third-Party risk - control gap 0368,Technology,Robin Clark,3,4,20,2.3,Critical,Overdue,2026-03-17
+RSK00369,ENT013,Regulatory risk - control gap 0369,Cybersecurity,Sam Johnson,3,5,10,1.7,Medium,Open,2024-10-08
+RSK00370,ENT057,Conduct risk - regulatory exposure 0370,Data Privacy,Sam Johnson,3,2,20,1.9,Critical,Open,2024-07-27
+RSK00371,ENT087,Operational risk - process weakness 0371,Regulatory,Morgan Davis,4,4,10,1.4,Medium,Overdue,2025-01-02
+RSK00372,ENT007,Operational risk - data handling 0372,Operational,Alex Morgan,5,3,5,1.0,Low,Open,2026-03-23
+RSK00373,ENT063,Cybersecurity risk - process weakness 0373,Conduct,Avery Brown,5,2,15,2.1,High,Closed,2026-02-21
+RSK00374,ENT036,Regulatory risk - process weakness 0374,Cybersecurity,Sam Johnson,3,1,20,1.7,Critical,Closed,2026-11-09
+RSK00375,ENT029,Cybersecurity risk - control gap 0375,Data Privacy,Robin Clark,5,5,5,1.0,Low,Open,2025-01-05
+RSK00376,ENT050,Regulatory risk - control gap 0376,Regulatory,Robin Clark,4,3,20,2.7,Critical,Overdue,2025-01-13
+RSK00377,ENT052,Conduct risk - system access 0377,Cybersecurity,Jordan Lee,4,5,5,1.0,Low,In Progress,2024-09-11
+RSK00378,ENT097,Data Privacy risk - regulatory exposure 0378,Regulatory,Cameron Wilson,1,2,10,1.6,Medium,In Progress,2025-10-05
+RSK00379,ENT016,Operational risk - process weakness 0379,Third-Party,Riley Chen,2,5,5,1.0,Low,Closed,2024-03-12
+RSK00380,ENT011,Third-Party risk - regulatory exposure 0380,Cybersecurity,Sam Johnson,5,3,5,1.0,Low,Open,2025-09-07
+RSK00381,ENT006,Third-Party risk - data handling 0381,Data Privacy,Morgan Davis,3,5,25,3.0,Critical,In Progress,2025-12-22
+RSK00382,ENT078,Data Privacy risk - process weakness 0382,Operational,Alex Morgan,5,2,25,3.6,Critical,Open,2025-09-05
+RSK00383,ENT110,Third-Party risk - control gap 0383,Technology,Taylor Smith,2,5,10,1.3,Medium,Closed,2026-05-14
+RSK00384,ENT010,Operational risk - data handling 0384,Cybersecurity,Jordan Lee,3,3,25,2.8,Critical,Overdue,2026-05-21
+RSK00385,ENT089,Data Privacy risk - control gap 0385,Data Privacy,Robin Clark,5,2,10,1.0,Medium,Closed,2026-02-01
+RSK00386,ENT073,Operational risk - control gap 0386,Conduct,Jamie Garcia,5,2,25,2.9,Critical,In Progress,2025-05-21
+RSK00387,ENT010,Third-Party risk - data handling 0387,Regulatory,Morgan Davis,1,5,15,1.2,High,Closed,2026-01-13
+RSK00388,ENT117,Operational risk - control gap 0388,Regulatory,Jordan Lee,3,2,15,2.5,High,In Progress,2025-03-31
+RSK00389,ENT049,Technology risk - system access 0389,Conduct,Avery Brown,1,2,5,1.0,Low,Open,2025-12-15
+RSK00390,ENT090,Regulatory risk - process weakness 0390,Operational,Morgan Davis,3,5,25,2.5,Critical,Overdue,2026-03-08
+RSK00391,ENT024,Conduct risk - data handling 0391,Cybersecurity,Drew Martin,5,5,15,2.0,High,Open,2024-01-20
+RSK00392,ENT088,Third-Party risk - control gap 0392,Regulatory,Robin Clark,2,2,25,2.1,Critical,Closed,2026-01-28
+RSK00393,ENT091,Operational risk - data handling 0393,Technology,Avery Brown,5,4,10,1.5,Medium,In Progress,2025-07-18
+RSK00394,ENT055,Regulatory risk - control gap 0394,Cybersecurity,Morgan Davis,2,3,25,3.5,Critical,Closed,2024-06-11
+RSK00395,ENT010,Regulatory risk - control gap 0395,Third-Party,Avery Brown,1,2,10,1.3,Medium,Closed,2024-01-22
+RSK00396,ENT055,Data Privacy risk - system access 0396,Data Privacy,Jordan Lee,2,4,25,3.1,Critical,In Progress,2025-01-24
+RSK00397,ENT117,Operational risk - system access 0397,Data Privacy,Drew Martin,4,5,5,1.0,Low,Open,2026-07-07
+RSK00398,ENT022,Conduct risk - regulatory exposure 0398,Third-Party,Morgan Davis,2,2,25,2.0,Critical,Overdue,2026-05-15
+RSK00399,ENT064,Technology risk - regulatory exposure 0399,Conduct,Cameron Wilson,2,3,20,3.5,Critical,Closed,2024-08-29
+RSK00400,ENT038,Regulatory risk - system access 0400,Cybersecurity,Casey Patel,4,3,15,1.5,High,Overdue,2026-11-21
+RSK00401,ENT106,Regulatory risk - control gap 0401,Regulatory,Drew Martin,4,5,5,1.0,Low,In Progress,2025-09-03
+RSK00402,ENT046,Operational risk - data handling 0402,Technology,Alex Morgan,1,3,5,1.0,Low,Open,2026-10-04
+RSK00403,ENT026,Cybersecurity risk - process weakness 0403,Cybersecurity,Alex Morgan,5,5,5,1.0,Low,Open,2025-05-27
+RSK00404,ENT029,Cybersecurity risk - regulatory exposure 0404,Third-Party,Riley Chen,4,3,20,2.1,Critical,Open,2026-06-17
+RSK00405,ENT085,Cybersecurity risk - process weakness 0405,Technology,Robin Clark,2,2,20,2.2,Critical,Open,2025-01-23
+RSK00406,ENT037,Technology risk - process weakness 0406,Operational,Sam Johnson,2,4,5,1.0,Low,Open,2026-09-08
+RSK00407,ENT086,Cybersecurity risk - regulatory exposure 0407,Technology,Jamie Garcia,1,4,15,1.9,High,In Progress,2026-03-07
+RSK00408,ENT017,Technology risk - system access 0408,Regulatory,Sam Johnson,1,1,5,1.0,Low,Open,2025-12-01
+RSK00409,ENT055,Technology risk - data handling 0409,Regulatory,Jamie Garcia,1,4,25,3.1,Critical,Open,2024-11-08
+RSK00410,ENT094,Regulatory risk - control gap 0410,Data Privacy,Casey Patel,2,2,25,2.5,Critical,Closed,2026-05-28
+RSK00411,ENT026,Operational risk - system access 0411,Data Privacy,Sam Johnson,1,5,20,2.7,Critical,Open,2024-09-03
+RSK00412,ENT017,Operational risk - data handling 0412,Regulatory,Drew Martin,1,3,20,3.6,Critical,Open,2024-04-14
+RSK00413,ENT049,Operational risk - regulatory exposure 0413,Technology,Jamie Garcia,5,3,20,2.9,Critical,In Progress,2026-11-10
+RSK00414,ENT055,Technology risk - control gap 0414,Data Privacy,Jamie Garcia,3,1,5,1.0,Low,Open,2024-04-07
+RSK00415,ENT024,Technology risk - regulatory exposure 0415,Technology,Avery Brown,1,1,5,1.0,Low,In Progress,2024-07-25
+RSK00416,ENT056,Technology risk - process weakness 0416,Regulatory,Sam Johnson,3,4,10,1.1,Medium,Open,2024-09-23
+RSK00417,ENT043,Technology risk - regulatory exposure 0417,Data Privacy,Riley Chen,3,5,15,1.9,High,Open,2026-02-25
+RSK00418,ENT012,Third-Party risk - regulatory exposure 0418,Operational,Robin Clark,2,5,5,1.0,Low,In Progress,2024-07-21
+RSK00419,ENT010,Cybersecurity risk - regulatory exposure 0419,Third-Party,Robin Clark,5,3,25,2.6,Critical,Open,2024-09-18
+RSK00420,ENT025,Conduct risk - system access 0420,Technology,Morgan Davis,5,3,20,3.4,Critical,In Progress,2024-08-28
+RSK00421,ENT117,Third-Party risk - process weakness 0421,Operational,Drew Martin,1,4,20,2.3,Critical,In Progress,2024-09-21
+RSK00422,ENT038,Data Privacy risk - regulatory exposure 0422,Data Privacy,Jamie Garcia,5,1,5,1.0,Low,In Progress,2026-11-17
+RSK00423,ENT010,Conduct risk - data handling 0423,Cybersecurity,Drew Martin,4,5,10,1.1,Medium,In Progress,2025-01-11
+RSK00424,ENT001,Regulatory risk - system access 0424,Cybersecurity,Cameron Wilson,5,2,10,1.4,Medium,Closed,2025-06-14
+RSK00425,ENT039,Operational risk - regulatory exposure 0425,Regulatory,Cameron Wilson,3,3,10,1.3,Medium,Open,2024-03-21
+RSK00426,ENT082,Conduct risk - process weakness 0426,Data Privacy,Casey Patel,3,2,10,1.0,Medium,Overdue,2025-03-06
+RSK00427,ENT069,Technology risk - control gap 0427,Regulatory,Robin Clark,1,3,5,1.0,Low,Closed,2025-06-24
+RSK00428,ENT093,Regulatory risk - process weakness 0428,Conduct,Morgan Davis,4,5,10,1.0,Medium,Open,2025-07-26
+RSK00429,ENT023,Conduct risk - system access 0429,Regulatory,Robin Clark,1,5,15,2.1,High,Closed,2026-02-21
+RSK00430,ENT084,Cybersecurity risk - regulatory exposure 0430,Technology,Riley Chen,5,5,15,1.4,High,Open,2026-03-20
+RSK00431,ENT020,Cybersecurity risk - process weakness 0431,Cybersecurity,Taylor Smith,2,4,20,2.2,Critical,In Progress,2024-12-26
+RSK00432,ENT025,Regulatory risk - control gap 0432,Operational,Taylor Smith,4,2,25,3.5,Critical,Closed,2025-01-19
+RSK00433,ENT009,Data Privacy risk - data handling 0433,Regulatory,Robin Clark,1,4,10,1.0,Medium,In Progress,2024-01-25
+RSK00434,ENT078,Conduct risk - process weakness 0434,Conduct,Sam Johnson,4,4,5,1.0,Low,Overdue,2024-09-27
+RSK00435,ENT032,Third-Party risk - process weakness 0435,Conduct,Alex Morgan,3,2,5,1.0,Low,Overdue,2024-08-05
+RSK00436,ENT070,Conduct risk - system access 0436,Cybersecurity,Taylor Smith,1,2,15,1.3,High,In Progress,2026-09-07
+RSK00437,ENT020,Data Privacy risk - system access 0437,Regulatory,Alex Morgan,1,5,10,1.5,Medium,Closed,2024-07-29
+RSK00438,ENT070,Cybersecurity risk - regulatory exposure 0438,Regulatory,Casey Patel,1,5,15,2.5,High,Open,2026-05-24
+RSK00439,ENT050,Data Privacy risk - data handling 0439,Data Privacy,Robin Clark,3,3,10,1.0,Medium,Closed,2024-08-18
+RSK00440,ENT063,Technology risk - control gap 0440,Regulatory,Drew Martin,1,2,10,1.0,Medium,In Progress,2026-01-08
+RSK00441,ENT119,Cybersecurity risk - system access 0441,Technology,Drew Martin,1,5,5,1.0,Low,Open,2026-05-20
+RSK00442,ENT020,Regulatory risk - control gap 0442,Cybersecurity,Sam Johnson,5,3,15,1.6,High,In Progress,2025-06-27
+RSK00443,ENT104,Operational risk - control gap 0443,Operational,Jamie Garcia,1,2,5,1.0,Low,In Progress,2026-09-06
+RSK00444,ENT105,Data Privacy risk - control gap 0444,Operational,Jordan Lee,1,5,5,1.0,Low,In Progress,2024-09-18
+RSK00445,ENT024,Cybersecurity risk - data handling 0445,Third-Party,Sam Johnson,3,3,20,2.5,Critical,In Progress,2025-05-18
+RSK00446,ENT050,Cybersecurity risk - system access 0446,Third-Party,Casey Patel,5,4,20,2.6,Critical,In Progress,2026-05-13
+RSK00447,ENT068,Regulatory risk - regulatory exposure 0447,Conduct,Alex Morgan,2,1,25,2.4,Critical,In Progress,2026-08-28
+RSK00448,ENT018,Conduct risk - regulatory exposure 0448,Technology,Avery Brown,1,3,5,1.0,Low,Open,2026-05-12
+RSK00449,ENT032,Regulatory risk - regulatory exposure 0449,Cybersecurity,Robin Clark,2,1,10,1.5,Medium,Open,2026-05-19
+RSK00450,ENT048,Conduct risk - system access 0450,Conduct,Taylor Smith,1,5,5,1.0,Low,Open,2026-01-18
+RSK00451,ENT019,Conduct risk - data handling 0451,Operational,Taylor Smith,2,1,5,1.0,Low,In Progress,2024-10-13
+RSK00452,ENT096,Technology risk - data handling 0452,Conduct,Sam Johnson,3,4,25,2.9,Critical,Closed,2025-08-10
+RSK00453,ENT015,Operational risk - system access 0453,Operational,Alex Morgan,1,1,10,1.4,Medium,In Progress,2026-05-17
+RSK00454,ENT088,Third-Party risk - control gap 0454,Data Privacy,Casey Patel,5,3,20,3.4,Critical,In Progress,2024-11-17
+RSK00455,ENT035,Operational risk - regulatory exposure 0455,Cybersecurity,Drew Martin,5,4,5,1.0,Low,Open,2026-03-14
+RSK00456,ENT024,Cybersecurity risk - data handling 0456,Technology,Sam Johnson,5,1,25,4.0,Critical,Closed,2026-02-18
+RSK00457,ENT022,Regulatory risk - process weakness 0457,Regulatory,Morgan Davis,3,4,5,1.0,Low,Closed,2025-11-18
+RSK00458,ENT004,Regulatory risk - regulatory exposure 0458,Third-Party,Alex Morgan,3,2,10,1.3,Medium,Closed,2025-09-25
+RSK00459,ENT025,Regulatory risk - system access 0459,Third-Party,Alex Morgan,2,1,25,2.4,Critical,In Progress,2026-09-17
+RSK00460,ENT006,Regulatory risk - control gap 0460,Conduct,Riley Chen,3,1,5,1.0,Low,Overdue,2026-10-21
+RSK00461,ENT025,Data Privacy risk - process weakness 0461,Technology,Jamie Garcia,4,3,15,2.7,High,Closed,2026-10-28
+RSK00462,ENT013,Cybersecurity risk - data handling 0462,Third-Party,Alex Morgan,2,1,25,3.4,Critical,In Progress,2024-11-06
+RSK00463,ENT088,Operational risk - regulatory exposure 0463,Conduct,Sam Johnson,1,1,20,3.5,Critical,Closed,2024-11-25
+RSK00464,ENT065,Technology risk - data handling 0464,Conduct,Taylor Smith,5,5,25,4.3,Critical,In Progress,2026-01-07
+RSK00465,ENT080,Third-Party risk - system access 0465,Regulatory,Taylor Smith,1,4,20,1.9,Critical,In Progress,2026-10-15
+RSK00466,ENT013,Conduct risk - process weakness 0466,Cybersecurity,Jordan Lee,2,3,5,1.0,Low,In Progress,2024-12-13
+RSK00467,ENT120,Technology risk - control gap 0467,Regulatory,Jordan Lee,2,1,15,1.5,High,Open,2026-08-01
+RSK00468,ENT034,Operational risk - process weakness 0468,Third-Party,Avery Brown,3,4,20,2.8,Critical,Open,2025-08-10
+RSK00469,ENT052,Third-Party risk - system access 0469,Technology,Morgan Davis,5,2,20,2.4,Critical,Open,2026-04-26
+RSK00470,ENT065,Data Privacy risk - process weakness 0470,Data Privacy,Casey Patel,3,1,20,2.8,Critical,Closed,2024-01-17
+RSK00471,ENT020,Cybersecurity risk - process weakness 0471,Operational,Jamie Garcia,3,4,5,1.0,Low,Closed,2024-07-10
+RSK00472,ENT045,Cybersecurity risk - process weakness 0472,Regulatory,Taylor Smith,4,5,20,3.4,Critical,Closed,2026-03-23
+RSK00473,ENT099,Technology risk - control gap 0473,Third-Party,Avery Brown,2,4,20,2.1,Critical,Open,2026-09-02
+RSK00474,ENT015,Cybersecurity risk - regulatory exposure 0474,Data Privacy,Casey Patel,4,1,15,1.9,High,In Progress,2024-03-05
+RSK00475,ENT077,Cybersecurity risk - regulatory exposure 0475,Regulatory,Casey Patel,1,3,20,3.1,Critical,Closed,2026-05-16
+RSK00476,ENT035,Technology risk - data handling 0476,Regulatory,Riley Chen,2,1,15,1.3,High,Closed,2026-07-13
+RSK00477,ENT112,Technology risk - regulatory exposure 0477,Conduct,Alex Morgan,5,2,20,2.9,Critical,Open,2026-05-27
+RSK00478,ENT044,Cybersecurity risk - data handling 0478,Cybersecurity,Cameron Wilson,2,2,15,1.6,High,Closed,2024-11-25
+RSK00479,ENT090,Regulatory risk - system access 0479,Conduct,Drew Martin,3,5,20,2.3,Critical,Open,2024-10-23
+RSK00480,ENT042,Operational risk - data handling 0480,Conduct,Morgan Davis,1,2,15,2.5,High,Open,2026-04-12
+RSK00481,ENT034,Conduct risk - regulatory exposure 0481,Data Privacy,Avery Brown,1,4,25,4.3,Critical,Closed,2024-07-18
+RSK00482,ENT005,Conduct risk - regulatory exposure 0482,Third-Party,Jamie Garcia,2,4,10,1.5,Medium,Open,2025-03-05
+RSK00483,ENT025,Regulatory risk - control gap 0483,Technology,Cameron Wilson,1,3,25,4.0,Critical,Closed,2024-09-12
+RSK00484,ENT090,Technology risk - system access 0484,Cybersecurity,Cameron Wilson,4,4,20,2.3,Critical,Overdue,2025-11-18
+RSK00485,ENT015,Third-Party risk - system access 0485,Operational,Cameron Wilson,4,4,10,1.1,Medium,In Progress,2025-08-06
+RSK00486,ENT109,Conduct risk - process weakness 0486,Regulatory,Jordan Lee,3,5,20,3.5,Critical,Open,2024-02-03
+RSK00487,ENT079,Third-Party risk - system access 0487,Regulatory,Sam Johnson,1,4,20,3.0,Critical,In Progress,2024-03-07
+RSK00488,ENT086,Cybersecurity risk - system access 0488,Cybersecurity,Jordan Lee,4,2,15,1.4,High,Open,2026-08-19
+RSK00489,ENT016,Data Privacy risk - data handling 0489,Regulatory,Morgan Davis,4,4,15,2.5,High,Closed,2026-11-05
+RSK00490,ENT037,Conduct risk - data handling 0490,Data Privacy,Casey Patel,3,3,15,2.4,High,Open,2026-04-29
+RSK00491,ENT005,Conduct risk - system access 0491,Conduct,Robin Clark,1,2,5,1.0,Low,In Progress,2025-11-17
+RSK00492,ENT022,Cybersecurity risk - regulatory exposure 0492,Third-Party,Sam Johnson,4,2,25,3.3,Critical,In Progress,2024-04-15
+RSK00493,ENT103,Cybersecurity risk - regulatory exposure 0493,Cybersecurity,Morgan Davis,4,2,25,4.3,Critical,In Progress,2026-06-14
+RSK00494,ENT030,Third-Party risk - data handling 0494,Conduct,Sam Johnson,2,5,5,1.0,Low,Overdue,2024-11-21
+RSK00495,ENT042,Regulatory risk - system access 0495,Operational,Alex Morgan,1,1,10,1.0,Medium,Closed,2024-06-10
+RSK00496,ENT074,Data Privacy risk - control gap 0496,Operational,Casey Patel,1,2,20,3.6,Critical,Closed,2025-03-30
+RSK00497,ENT039,Conduct risk - data handling 0497,Conduct,Riley Chen,5,2,10,1.5,Medium,Closed,2025-07-17
+RSK00498,ENT011,Regulatory risk - data handling 0498,Third-Party,Jordan Lee,1,5,10,1.7,Medium,Open,2025-08-01
+RSK00499,ENT034,Technology risk - regulatory exposure 0499,Cybersecurity,Jordan Lee,1,1,10,1.2,Medium,In Progress,2024-02-14
+RSK00500,ENT053,Cybersecurity risk - data handling 0500,Technology,Sam Johnson,4,1,5,1.0,Low,Overdue,2024-11-25
+RSK00501,ENT024,Data Privacy risk - system access 0501,Conduct,Alex Morgan,1,2,15,2.1,High,Open,2025-12-03
+RSK00502,ENT045,Operational risk - system access 0502,Data Privacy,Riley Chen,5,5,20,2.6,Critical,Overdue,2025-01-29
+RSK00503,ENT078,Conduct risk - regulatory exposure 0503,Operational,Morgan Davis,5,1,5,1.0,Low,Open,2025-03-20
+RSK00504,ENT004,Data Privacy risk - regulatory exposure 0504,Technology,Riley Chen,2,2,15,1.2,High,In Progress,2024-07-07
+RSK00505,ENT045,Cybersecurity risk - data handling 0505,Third-Party,Jamie Garcia,3,4,25,3.8,Critical,Overdue,2025-05-27
+RSK00506,ENT023,Conduct risk - system access 0506,Technology,Taylor Smith,3,4,10,1.0,Medium,Closed,2026-09-26
+RSK00507,ENT056,Conduct risk - control gap 0507,Third-Party,Jordan Lee,4,5,20,3.0,Critical,Closed,2026-05-29
+RSK00508,ENT026,Conduct risk - process weakness 0508,Cybersecurity,Taylor Smith,3,3,25,4.2,Critical,Closed,2026-11-13
+RSK00509,ENT033,Data Privacy risk - system access 0509,Technology,Jamie Garcia,4,3,25,3.4,Critical,Open,2025-01-03
+RSK00510,ENT104,Regulatory risk - regulatory exposure 0510,Data Privacy,Morgan Davis,4,2,15,1.6,High,In Progress,2025-10-05
+RSK00511,ENT016,Operational risk - data handling 0511,Third-Party,Morgan Davis,3,1,5,1.0,Low,Closed,2024-05-15
+RSK00512,ENT050,Regulatory risk - system access 0512,Technology,Robin Clark,5,2,15,1.9,High,Closed,2024-06-02
+RSK00513,ENT074,Operational risk - regulatory exposure 0513,Regulatory,Avery Brown,4,3,20,3.2,Critical,In Progress,2025-07-16
+RSK00514,ENT054,Technology risk - system access 0514,Cybersecurity,Casey Patel,1,4,5,1.0,Low,In Progress,2025-08-06
+RSK00515,ENT003,Conduct risk - data handling 0515,Regulatory,Cameron Wilson,1,4,25,2.5,Critical,Overdue,2024-03-21
+RSK00516,ENT044,Conduct risk - data handling 0516,Data Privacy,Riley Chen,1,4,5,1.0,Low,In Progress,2025-12-09
+RSK00517,ENT052,Regulatory risk - data handling 0517,Technology,Robin Clark,5,3,5,1.0,Low,Overdue,2026-10-07
+RSK00518,ENT109,Operational risk - process weakness 0518,Conduct,Alex Morgan,3,5,5,1.0,Low,Open,2025-10-23
+RSK00519,ENT111,Data Privacy risk - control gap 0519,Conduct,Cameron Wilson,2,2,20,1.6,Critical,Overdue,2024-04-17
+RSK00520,ENT034,Regulatory risk - control gap 0520,Technology,Robin Clark,1,1,5,1.0,Low,Closed,2026-02-16
+RSK00521,ENT035,Operational risk - control gap 0521,Conduct,Taylor Smith,2,5,10,1.2,Medium,Closed,2026-04-26
+RSK00522,ENT082,Third-Party risk - data handling 0522,Data Privacy,Avery Brown,1,5,20,2.6,Critical,Overdue,2025-10-21
+RSK00523,ENT099,Technology risk - process weakness 0523,Technology,Cameron Wilson,2,1,20,2.0,Critical,Closed,2025-05-11
+RSK00524,ENT085,Regulatory risk - regulatory exposure 0524,Regulatory,Sam Johnson,1,1,10,1.8,Medium,Open,2026-02-27
+RSK00525,ENT025,Third-Party risk - system access 0525,Third-Party,Morgan Davis,1,3,20,1.9,Critical,Closed,2025-09-30
+RSK00526,ENT091,Operational risk - regulatory exposure 0526,Technology,Jamie Garcia,2,5,20,1.6,Critical,Overdue,2026-11-17
+RSK00527,ENT026,Operational risk - control gap 0527,Conduct,Drew Martin,2,1,20,2.0,Critical,Closed,2024-10-28
+RSK00528,ENT060,Cybersecurity risk - regulatory exposure 0528,Technology,Alex Morgan,1,2,5,1.0,Low,In Progress,2026-07-16
+RSK00529,ENT046,Cybersecurity risk - regulatory exposure 0529,Operational,Jamie Garcia,1,5,15,1.2,High,In Progress,2026-11-06
+RSK00530,ENT043,Regulatory risk - data handling 0530,Data Privacy,Jamie Garcia,4,3,5,1.0,Low,Open,2025-01-22
+RSK00531,ENT052,Cybersecurity risk - system access 0531,Cybersecurity,Jordan Lee,5,3,10,1.3,Medium,Closed,2025-05-24
+RSK00532,ENT015,Third-Party risk - control gap 0532,Operational,Jordan Lee,1,1,10,1.7,Medium,In Progress,2025-07-18
+RSK00533,ENT029,Operational risk - control gap 0533,Cybersecurity,Casey Patel,4,4,25,2.8,Critical,Open,2025-02-20
+RSK00534,ENT045,Regulatory risk - regulatory exposure 0534,Third-Party,Robin Clark,5,3,15,2.3,High,Closed,2025-09-17
+RSK00535,ENT110,Operational risk - regulatory exposure 0535,Technology,Avery Brown,2,3,10,1.4,Medium,Open,2024-01-27
+RSK00536,ENT086,Technology risk - process weakness 0536,Operational,Sam Johnson,4,3,20,1.4,Critical,Closed,2024-01-20
+RSK00537,ENT077,Conduct risk - regulatory exposure 0537,Cybersecurity,Jordan Lee,4,5,15,1.1,High,Open,2024-02-05
+RSK00538,ENT073,Conduct risk - regulatory exposure 0538,Conduct,Jordan Lee,2,5,15,1.9,High,Open,2025-11-18
+RSK00539,ENT058,Cybersecurity risk - control gap 0539,Technology,Avery Brown,3,5,20,2.0,Critical,Open,2025-12-23
+RSK00540,ENT039,Technology risk - system access 0540,Data Privacy,Sam Johnson,5,5,15,1.8,High,Open,2026-04-20
+RSK00541,ENT110,Operational risk - system access 0541,Data Privacy,Robin Clark,2,3,10,1.2,Medium,Overdue,2026-01-06
+RSK00542,ENT027,Technology risk - system access 0542,Cybersecurity,Cameron Wilson,2,4,5,1.0,Low,Open,2025-12-15
+RSK00543,ENT114,Technology risk - control gap 0543,Operational,Alex Morgan,4,5,15,1.7,High,In Progress,2025-12-04
+RSK00544,ENT107,Third-Party risk - control gap 0544,Technology,Jordan Lee,1,4,25,3.9,Critical,Overdue,2026-10-18
+RSK00545,ENT119,Technology risk - system access 0545,Third-Party,Sam Johnson,4,2,10,1.3,Medium,Open,2026-09-24
+RSK00546,ENT037,Operational risk - control gap 0546,Conduct,Drew Martin,3,1,5,1.0,Low,Open,2026-09-27
+RSK00547,ENT040,Regulatory risk - process weakness 0547,Technology,Taylor Smith,4,3,5,1.0,Low,In Progress,2025-08-03
+RSK00548,ENT101,Data Privacy risk - control gap 0548,Operational,Robin Clark,5,2,25,4.4,Critical,Open,2024-06-14
+RSK00549,ENT038,Operational risk - data handling 0549,Cybersecurity,Jamie Garcia,1,4,10,1.7,Medium,Overdue,2024-07-19
+RSK00550,ENT115,Third-Party risk - data handling 0550,Data Privacy,Morgan Davis,3,5,15,1.6,High,Closed,2024-10-12
+RSK00551,ENT088,Operational risk - control gap 0551,Technology,Jordan Lee,3,2,10,1.2,Medium,In Progress,2026-08-02
+RSK00552,ENT070,Third-Party risk - data handling 0552,Data Privacy,Morgan Davis,4,4,10,1.0,Medium,In Progress,2026-01-02
+RSK00553,ENT060,Cybersecurity risk - data handling 0553,Regulatory,Cameron Wilson,4,4,15,1.7,High,Open,2026-05-12
+RSK00554,ENT012,Third-Party risk - system access 0554,Technology,Taylor Smith,5,3,10,1.6,Medium,Closed,2025-08-23
+RSK00555,ENT007,Cybersecurity risk - system access 0555,Cybersecurity,Alex Morgan,2,4,20,2.9,Critical,Open,2025-07-07
+RSK00556,ENT107,Technology risk - system access 0556,Cybersecurity,Robin Clark,3,5,5,1.0,Low,In Progress,2024-05-04
+RSK00557,ENT016,Third-Party risk - regulatory exposure 0557,Third-Party,Robin Clark,5,1,25,3.7,Critical,Overdue,2024-10-06
+RSK00558,ENT029,Regulatory risk - data handling 0558,Third-Party,Robin Clark,3,3,10,1.5,Medium,Open,2024-05-17
+RSK00559,ENT001,Operational risk - regulatory exposure 0559,Regulatory,Avery Brown,5,1,10,1.3,Medium,Open,2026-11-01
+RSK00560,ENT057,Cybersecurity risk - regulatory exposure 0560,Conduct,Casey Patel,1,1,20,2.1,Critical,Closed,2025-06-17
+RSK00561,ENT106,Operational risk - process weakness 0561,Operational,Taylor Smith,4,5,25,2.1,Critical,Closed,2025-05-07
+RSK00562,ENT022,Technology risk - control gap 0562,Data Privacy,Jordan Lee,5,2,25,3.1,Critical,Overdue,2026-10-06
+RSK00563,ENT048,Regulatory risk - data handling 0563,Cybersecurity,Jamie Garcia,4,4,15,2.2,High,Open,2025-08-03
+RSK00564,ENT059,Technology risk - process weakness 0564,Data Privacy,Sam Johnson,5,4,5,1.0,Low,Closed,2026-06-29
+RSK00565,ENT006,Cybersecurity risk - control gap 0565,Regulatory,Taylor Smith,2,4,15,2.5,High,In Progress,2026-10-27
+RSK00566,ENT027,Operational risk - regulatory exposure 0566,Technology,Sam Johnson,5,4,15,1.9,High,Closed,2025-11-25
+RSK00567,ENT059,Regulatory risk - data handling 0567,Cybersecurity,Avery Brown,3,3,10,1.7,Medium,Closed,2025-01-04
+RSK00568,ENT074,Technology risk - system access 0568,Third-Party,Morgan Davis,5,3,25,2.1,Critical,In Progress,2026-04-06
+RSK00569,ENT009,Data Privacy risk - process weakness 0569,Cybersecurity,Sam Johnson,1,2,5,1.0,Low,In Progress,2025-04-19
+RSK00570,ENT099,Cybersecurity risk - data handling 0570,Regulatory,Alex Morgan,1,2,10,1.5,Medium,Closed,2024-08-22
+RSK00571,ENT005,Conduct risk - process weakness 0571,Operational,Morgan Davis,4,3,5,1.0,Low,Open,2026-07-09
+RSK00572,ENT049,Technology risk - data handling 0572,Cybersecurity,Sam Johnson,5,5,10,1.0,Medium,In Progress,2025-02-16
+RSK00573,ENT095,Operational risk - process weakness 0573,Third-Party,Alex Morgan,4,5,10,1.6,Medium,Closed,2024-07-16
+RSK00574,ENT027,Cybersecurity risk - system access 0574,Third-Party,Jordan Lee,2,1,5,1.0,Low,In Progress,2026-10-13
+RSK00575,ENT025,Technology risk - system access 0575,Third-Party,Taylor Smith,5,4,10,1.3,Medium,Closed,2026-06-17
+RSK00576,ENT055,Conduct risk - system access 0576,Technology,Jordan Lee,1,5,20,1.6,Critical,Open,2025-04-17
+RSK00577,ENT007,Conduct risk - control gap 0577,Conduct,Riley Chen,5,3,25,1.8,Critical,In Progress,2026-01-02
+RSK00578,ENT009,Operational risk - system access 0578,Third-Party,Cameron Wilson,3,1,10,1.3,Medium,In Progress,2024-04-26
+RSK00579,ENT070,Technology risk - process weakness 0579,Regulatory,Morgan Davis,5,4,5,1.0,Low,In Progress,2025-02-14
+RSK00580,ENT043,Data Privacy risk - control gap 0580,Conduct,Sam Johnson,2,2,5,1.0,Low,Overdue,2024-05-07
+RSK00581,ENT031,Data Privacy risk - process weakness 0581,Technology,Jordan Lee,1,5,20,3.4,Critical,Overdue,2024-06-14
+RSK00582,ENT114,Regulatory risk - process weakness 0582,Regulatory,Avery Brown,4,2,25,2.5,Critical,In Progress,2025-12-18
+RSK00583,ENT056,Regulatory risk - process weakness 0583,Conduct,Casey Patel,3,2,20,1.4,Critical,In Progress,2026-02-15
+RSK00584,ENT088,Conduct risk - data handling 0584,Data Privacy,Taylor Smith,5,4,5,1.0,Low,In Progress,2026-05-24
+RSK00585,ENT071,Third-Party risk - control gap 0585,Technology,Casey Patel,1,4,10,1.0,Medium,In Progress,2024-04-28
+RSK00586,ENT031,Cybersecurity risk - system access 0586,Third-Party,Alex Morgan,1,5,10,1.0,Medium,Overdue,2024-01-31
+RSK00587,ENT112,Cybersecurity risk - regulatory exposure 0587,Technology,Alex Morgan,1,1,10,1.0,Medium,In Progress,2025-05-15
+RSK00588,ENT038,Regulatory risk - process weakness 0588,Regulatory,Riley Chen,5,4,10,1.2,Medium,Overdue,2025-02-25
+RSK00589,ENT064,Technology risk - system access 0589,Technology,Sam Johnson,2,4,15,2.2,High,Open,2025-07-01
+RSK00590,ENT041,Cybersecurity risk - system access 0590,Cybersecurity,Riley Chen,5,1,25,1.9,Critical,Open,2024-10-07
+RSK00591,ENT108,Operational risk - process weakness 0591,Technology,Robin Clark,2,3,25,3.8,Critical,Closed,2024-10-17
+RSK00592,ENT005,Regulatory risk - data handling 0592,Conduct,Alex Morgan,4,4,10,1.7,Medium,In Progress,2026-02-25
+RSK00593,ENT039,Cybersecurity risk - data handling 0593,Regulatory,Jamie Garcia,1,3,5,1.0,Low,In Progress,2024-03-31
+RSK00594,ENT029,Third-Party risk - process weakness 0594,Data Privacy,Riley Chen,4,2,10,1.4,Medium,Open,2025-12-13
+RSK00595,ENT120,Technology risk - system access 0595,Operational,Alex Morgan,5,3,5,1.0,Low,In Progress,2026-06-07
+RSK00596,ENT111,Data Privacy risk - control gap 0596,Conduct,Cameron Wilson,1,1,20,2.6,Critical,In Progress,2025-06-16
+RSK00597,ENT021,Regulatory risk - control gap 0597,Conduct,Sam Johnson,4,2,20,1.7,Critical,Overdue,2024-06-24
+RSK00598,ENT032,Regulatory risk - system access 0598,Technology,Morgan Davis,3,3,25,3.3,Critical,In Progress,2025-05-28
+RSK00599,ENT101,Data Privacy risk - control gap 0599,Conduct,Riley Chen,1,1,25,2.6,Critical,Closed,2026-06-27
+RSK00600,ENT060,Technology risk - data handling 0600,Data Privacy,Cameron Wilson,4,1,5,1.0,Low,Open,2024-04-29
+RSK00601,ENT075,Regulatory risk - data handling 0601,Operational,Riley Chen,3,5,5,1.0,Low,Closed,2025-07-19
+RSK00602,ENT034,Operational risk - system access 0602,Data Privacy,Alex Morgan,2,2,20,2.8,Critical,Open,2024-03-19
+RSK00603,ENT024,Third-Party risk - regulatory exposure 0603,Regulatory,Robin Clark,4,5,25,2.6,Critical,Overdue,2025-06-11
+RSK00604,ENT003,Technology risk - process weakness 0604,Regulatory,Cameron Wilson,5,1,15,2.0,High,In Progress,2026-11-12
+RSK00605,ENT010,Conduct risk - data handling 0605,Regulatory,Sam Johnson,2,3,10,1.3,Medium,In Progress,2025-08-02
+RSK00606,ENT019,Technology risk - data handling 0606,Data Privacy,Morgan Davis,3,5,5,1.0,Low,In Progress,2025-08-25
+RSK00607,ENT080,Operational risk - system access 0607,Regulatory,Jordan Lee,2,3,5,1.0,Low,Closed,2025-10-03
+RSK00608,ENT066,Cybersecurity risk - system access 0608,Regulatory,Sam Johnson,5,3,25,4.3,Critical,Closed,2026-02-19
+RSK00609,ENT098,Third-Party risk - system access 0609,Data Privacy,Jamie Garcia,1,2,5,1.0,Low,In Progress,2024-09-05
+RSK00610,ENT109,Third-Party risk - system access 0610,Cybersecurity,Morgan Davis,1,5,25,3.0,Critical,In Progress,2025-08-23
+RSK00611,ENT117,Technology risk - regulatory exposure 0611,Cybersecurity,Morgan Davis,3,2,10,1.6,Medium,Closed,2024-08-24
+RSK00612,ENT089,Technology risk - system access 0612,Third-Party,Jordan Lee,4,4,10,1.1,Medium,Overdue,2026-09-18
+RSK00613,ENT078,Conduct risk - regulatory exposure 0613,Third-Party,Casey Patel,4,4,10,1.0,Medium,Closed,2026-04-14
+RSK00614,ENT087,Technology risk - control gap 0614,Technology,Jordan Lee,2,5,25,2.5,Critical,Open,2026-05-12
+RSK00615,ENT065,Conduct risk - regulatory exposure 0615,Operational,Avery Brown,5,4,10,1.4,Medium,Open,2024-09-04
+RSK00616,ENT054,Operational risk - process weakness 0616,Conduct,Jamie Garcia,5,4,15,2.3,High,Open,2024-12-07
+RSK00617,ENT010,Cybersecurity risk - control gap 0617,Operational,Jamie Garcia,5,5,10,1.7,Medium,Closed,2025-05-09
+RSK00618,ENT092,Technology risk - system access 0618,Third-Party,Drew Martin,1,3,15,2.5,High,Open,2024-04-02
+RSK00619,ENT010,Data Privacy risk - data handling 0619,Technology,Avery Brown,4,4,15,2.1,High,Closed,2025-01-10
+RSK00620,ENT093,Regulatory risk - system access 0620,Third-Party,Morgan Davis,5,1,25,2.2,Critical,Closed,2026-07-17
+RSK00621,ENT049,Third-Party risk - control gap 0621,Conduct,Jordan Lee,4,2,15,1.9,High,Open,2026-10-07
+RSK00622,ENT044,Third-Party risk - system access 0622,Conduct,Jamie Garcia,5,5,5,1.0,Low,In Progress,2026-02-25
+RSK00623,ENT041,Data Privacy risk - regulatory exposure 0623,Cybersecurity,Cameron Wilson,2,1,10,1.6,Medium,In Progress,2025-10-05
+RSK00624,ENT013,Technology risk - data handling 0624,Cybersecurity,Casey Patel,3,2,15,1.2,High,Closed,2025-08-13
+RSK00625,ENT118,Data Privacy risk - control gap 0625,Operational,Jordan Lee,5,1,15,2.6,High,Open,2026-11-07
+RSK00626,ENT097,Third-Party risk - system access 0626,Conduct,Casey Patel,1,5,10,1.7,Medium,Open,2024-02-22
+RSK00627,ENT048,Cybersecurity risk - system access 0627,Operational,Avery Brown,3,5,10,1.2,Medium,In Progress,2024-08-12
+RSK00628,ENT092,Regulatory risk - regulatory exposure 0628,Technology,Robin Clark,4,4,5,1.0,Low,Closed,2025-12-25
+RSK00629,ENT103,Third-Party risk - control gap 0629,Technology,Avery Brown,2,1,5,1.0,Low,Closed,2026-11-16
+RSK00630,ENT087,Data Privacy risk - system access 0630,Technology,Casey Patel,3,1,5,1.0,Low,Closed,2024-03-13
+RSK00631,ENT082,Conduct risk - regulatory exposure 0631,Data Privacy,Casey Patel,2,2,5,1.0,Low,In Progress,2024-11-06
+RSK00632,ENT063,Data Privacy risk - process weakness 0632,Third-Party,Robin Clark,4,3,10,1.0,Medium,Closed,2024-01-07
+RSK00633,ENT056,Data Privacy risk - regulatory exposure 0633,Regulatory,Jamie Garcia,4,5,5,1.0,Low,Closed,2026-02-17
+RSK00634,ENT081,Data Privacy risk - regulatory exposure 0634,Technology,Casey Patel,2,3,25,3.1,Critical,Closed,2026-09-20
+RSK00635,ENT063,Technology risk - process weakness 0635,Operational,Jordan Lee,5,3,20,2.6,Critical,Overdue,2025-08-11
+RSK00636,ENT054,Regulatory risk - regulatory exposure 0636,Cybersecurity,Morgan Davis,3,2,20,2.9,Critical,Closed,2025-12-12
+RSK00637,ENT090,Conduct risk - data handling 0637,Third-Party,Jamie Garcia,2,4,20,3.2,Critical,Closed,2024-02-29
+RSK00638,ENT038,Conduct risk - data handling 0638,Regulatory,Cameron Wilson,5,2,15,2.5,High,Closed,2025-06-19
+RSK00639,ENT087,Cybersecurity risk - data handling 0639,Technology,Alex Morgan,4,4,15,2.4,High,In Progress,2025-03-24
+RSK00640,ENT044,Third-Party risk - regulatory exposure 0640,Third-Party,Casey Patel,3,4,5,1.0,Low,Closed,2024-08-13
+RSK00641,ENT079,Regulatory risk - process weakness 0641,Conduct,Jamie Garcia,3,2,25,3.4,Critical,Open,2025-11-13
+RSK00642,ENT117,Third-Party risk - regulatory exposure 0642,Technology,Cameron Wilson,5,1,15,2.1,High,Open,2024-11-17
+RSK00643,ENT108,Operational risk - control gap 0643,Technology,Jamie Garcia,4,2,25,2.5,Critical,Open,2025-05-24
+RSK00644,ENT002,Cybersecurity risk - data handling 0644,Regulatory,Taylor Smith,1,5,5,1.0,Low,In Progress,2024-02-19
+RSK00645,ENT030,Conduct risk - data handling 0645,Data Privacy,Jamie Garcia,1,3,10,1.5,Medium,Open,2025-07-06
+RSK00646,ENT111,Data Privacy risk - data handling 0646,Regulatory,Alex Morgan,1,1,5,1.0,Low,Closed,2024-11-06
+RSK00647,ENT013,Conduct risk - control gap 0647,Conduct,Morgan Davis,4,2,25,4.0,Critical,In Progress,2024-02-17
+RSK00648,ENT039,Data Privacy risk - system access 0648,Cybersecurity,Jamie Garcia,4,2,15,1.2,High,In Progress,2024-07-09
+RSK00649,ENT029,Data Privacy risk - system access 0649,Third-Party,Casey Patel,5,3,20,2.5,Critical,In Progress,2026-10-14
+RSK00650,ENT094,Cybersecurity risk - regulatory exposure 0650,Third-Party,Alex Morgan,3,5,20,3.0,Critical,In Progress,2025-04-20
+RSK00651,ENT058,Technology risk - control gap 0651,Operational,Sam Johnson,4,5,15,1.2,High,Overdue,2024-07-14
+RSK00652,ENT072,Regulatory risk - regulatory exposure 0652,Cybersecurity,Drew Martin,2,4,10,1.4,Medium,Closed,2025-04-21
+RSK00653,ENT008,Technology risk - regulatory exposure 0653,Regulatory,Morgan Davis,3,4,20,2.1,Critical,Closed,2026-04-12
+RSK00654,ENT112,Conduct risk - data handling 0654,Third-Party,Avery Brown,3,2,5,1.0,Low,In Progress,2025-04-27
+RSK00655,ENT042,Data Privacy risk - process weakness 0655,Regulatory,Jamie Garcia,4,5,20,2.6,Critical,Closed,2026-02-08
+RSK00656,ENT017,Operational risk - regulatory exposure 0656,Cybersecurity,Jordan Lee,2,5,5,1.0,Low,Open,2026-05-18
+RSK00657,ENT064,Conduct risk - system access 0657,Cybersecurity,Jamie Garcia,5,4,10,1.0,Medium,Open,2024-08-28
+RSK00658,ENT056,Technology risk - system access 0658,Data Privacy,Taylor Smith,3,5,15,1.6,High,Open,2025-02-22
+RSK00659,ENT103,Cybersecurity risk - data handling 0659,Operational,Morgan Davis,3,5,25,3.4,Critical,Overdue,2024-10-04
+RSK00660,ENT022,Operational risk - regulatory exposure 0660,Cybersecurity,Jordan Lee,4,1,25,2.6,Critical,Overdue,2024-01-12
+RSK00661,ENT040,Technology risk - process weakness 0661,Regulatory,Drew Martin,2,1,10,1.3,Medium,In Progress,2024-11-16
+RSK00662,ENT009,Regulatory risk - regulatory exposure 0662,Technology,Riley Chen,5,2,15,1.6,High,Closed,2026-05-22
+RSK00663,ENT075,Technology risk - system access 0663,Third-Party,Sam Johnson,3,5,15,2.3,High,Closed,2024-06-07
+RSK00664,ENT076,Technology risk - system access 0664,Regulatory,Taylor Smith,1,2,10,1.0,Medium,Closed,2026-02-23
+RSK00665,ENT043,Conduct risk - system access 0665,Data Privacy,Avery Brown,5,5,25,2.5,Critical,Open,2024-01-06
+RSK00666,ENT101,Third-Party risk - regulatory exposure 0666,Operational,Taylor Smith,2,1,10,1.7,Medium,In Progress,2024-01-01
+RSK00667,ENT042,Cybersecurity risk - data handling 0667,Data Privacy,Avery Brown,1,2,5,1.0,Low,In Progress,2026-10-21
+RSK00668,ENT098,Conduct risk - data handling 0668,Data Privacy,Avery Brown,2,5,5,1.0,Low,In Progress,2025-10-11
+RSK00669,ENT068,Data Privacy risk - control gap 0669,Data Privacy,Taylor Smith,5,2,5,1.0,Low,Closed,2026-06-23
+RSK00670,ENT063,Data Privacy risk - control gap 0670,Operational,Alex Morgan,1,5,15,2.5,High,Closed,2026-08-12
+RSK00671,ENT099,Operational risk - data handling 0671,Technology,Taylor Smith,4,2,15,2.1,High,Overdue,2024-01-22
+RSK00672,ENT026,Third-Party risk - control gap 0672,Technology,Jordan Lee,3,5,20,1.8,Critical,Overdue,2025-06-03
+RSK00673,ENT065,Technology risk - data handling 0673,Cybersecurity,Alex Morgan,5,3,5,1.0,Low,Overdue,2025-06-02
+RSK00674,ENT036,Cybersecurity risk - system access 0674,Data Privacy,Avery Brown,5,1,5,1.0,Low,In Progress,2026-08-27
+RSK00675,ENT096,Third-Party risk - regulatory exposure 0675,Data Privacy,Robin Clark,1,1,25,2.8,Critical,Open,2024-09-26
+RSK00676,ENT011,Data Privacy risk - process weakness 0676,Technology,Jordan Lee,1,1,20,2.4,Critical,Closed,2025-07-22
+RSK00677,ENT110,Data Privacy risk - control gap 0677,Data Privacy,Taylor Smith,5,1,10,1.1,Medium,Overdue,2026-01-20
+RSK00678,ENT067,Data Privacy risk - process weakness 0678,Regulatory,Casey Patel,4,4,5,1.0,Low,Closed,2026-10-24
+RSK00679,ENT019,Technology risk - system access 0679,Operational,Robin Clark,1,2,15,1.8,High,In Progress,2024-12-20
+RSK00680,ENT082,Regulatory risk - control gap 0680,Cybersecurity,Drew Martin,3,3,5,1.0,Low,Closed,2024-06-25
+RSK00681,ENT073,Operational risk - process weakness 0681,Operational,Morgan Davis,1,1,20,3.4,Critical,In Progress,2024-02-11
+RSK00682,ENT099,Cybersecurity risk - process weakness 0682,Data Privacy,Casey Patel,1,2,10,1.4,Medium,In Progress,2025-01-26
+RSK00683,ENT096,Technology risk - regulatory exposure 0683,Technology,Taylor Smith,3,1,10,1.1,Medium,In Progress,2026-04-27
+RSK00684,ENT029,Technology risk - control gap 0684,Data Privacy,Avery Brown,3,2,10,1.0,Medium,In Progress,2026-09-30
+RSK00685,ENT046,Third-Party risk - data handling 0685,Conduct,Sam Johnson,3,3,25,3.9,Critical,Closed,2024-12-15
+RSK00686,ENT005,Operational risk - data handling 0686,Technology,Sam Johnson,4,2,25,3.2,Critical,Closed,2025-08-14
+RSK00687,ENT027,Conduct risk - control gap 0687,Regulatory,Cameron Wilson,5,5,15,2.4,High,Closed,2025-06-12
+RSK00688,ENT028,Third-Party risk - regulatory exposure 0688,Cybersecurity,Taylor Smith,3,1,20,3.4,Critical,In Progress,2025-10-23
+RSK00689,ENT048,Technology risk - process weakness 0689,Data Privacy,Morgan Davis,4,5,25,4.2,Critical,Closed,2024-01-17
+RSK00690,ENT021,Regulatory risk - regulatory exposure 0690,Technology,Riley Chen,4,3,20,2.1,Critical,Open,2025-01-16
+RSK00691,ENT097,Third-Party risk - data handling 0691,Data Privacy,Jamie Garcia,4,5,5,1.0,Low,In Progress,2025-05-13
+RSK00692,ENT033,Cybersecurity risk - control gap 0692,Regulatory,Casey Patel,5,3,15,1.8,High,Closed,2026-11-04
+RSK00693,ENT014,Cybersecurity risk - system access 0693,Regulatory,Taylor Smith,4,3,20,3.5,Critical,In Progress,2025-09-07
+RSK00694,ENT114,Third-Party risk - regulatory exposure 0694,Operational,Sam Johnson,5,2,25,4.4,Critical,In Progress,2024-04-20
+RSK00695,ENT012,Operational risk - data handling 0695,Regulatory,Sam Johnson,2,3,15,1.8,High,Open,2024-12-18
+RSK00696,ENT039,Operational risk - data handling 0696,Regulatory,Robin Clark,1,2,15,1.4,High,Open,2026-02-05
+RSK00697,ENT001,Third-Party risk - data handling 0697,Data Privacy,Casey Patel,2,3,20,1.6,Critical,Overdue,2026-02-09
+RSK00698,ENT107,Technology risk - regulatory exposure 0698,Cybersecurity,Morgan Davis,2,1,20,2.3,Critical,Closed,2026-05-19
+RSK00699,ENT077,Data Privacy risk - system access 0699,Regulatory,Casey Patel,5,1,20,2.2,Critical,Closed,2024-12-30
+RSK00700,ENT099,Conduct risk - process weakness 0700,Third-Party,Drew Martin,3,3,10,1.1,Medium,Closed,2024-06-07
+RSK00701,ENT083,Operational risk - control gap 0701,Cybersecurity,Jordan Lee,2,4,10,1.0,Medium,In Progress,2025-01-03
+RSK00702,ENT055,Conduct risk - data handling 0702,Regulatory,Riley Chen,3,3,10,1.1,Medium,Overdue,2026-05-13
+RSK00703,ENT023,Cybersecurity risk - process weakness 0703,Technology,Sam Johnson,4,5,10,1.6,Medium,Closed,2026-04-08
+RSK00704,ENT103,Third-Party risk - data handling 0704,Data Privacy,Avery Brown,2,3,5,1.0,Low,Open,2026-04-02
+RSK00705,ENT055,Data Privacy risk - process weakness 0705,Third-Party,Avery Brown,3,4,5,1.0,Low,In Progress,2026-08-27
+RSK00706,ENT092,Operational risk - data handling 0706,Third-Party,Jamie Garcia,5,3,15,1.2,High,Closed,2024-06-12
+RSK00707,ENT020,Third-Party risk - system access 0707,Data Privacy,Avery Brown,3,5,5,1.0,Low,In Progress,2026-08-09
+RSK00708,ENT037,Regulatory risk - system access 0708,Data Privacy,Morgan Davis,1,4,5,1.0,Low,In Progress,2025-11-22
+RSK00709,ENT087,Technology risk - control gap 0709,Cybersecurity,Alex Morgan,1,5,15,1.5,High,In Progress,2025-09-01
+RSK00710,ENT082,Regulatory risk - system access 0710,Data Privacy,Jamie Garcia,5,1,5,1.0,Low,Open,2024-06-21
+RSK00711,ENT069,Cybersecurity risk - control gap 0711,Technology,Avery Brown,2,2,5,1.0,Low,Closed,2025-05-14
+RSK00712,ENT118,Technology risk - control gap 0712,Regulatory,Taylor Smith,5,4,25,1.9,Critical,Closed,2024-07-26
+RSK00713,ENT049,Data Privacy risk - control gap 0713,Cybersecurity,Jamie Garcia,1,3,25,4.3,Critical,Open,2025-06-10
+RSK00714,ENT093,Third-Party risk - control gap 0714,Technology,Drew Martin,4,1,5,1.0,Low,In Progress,2025-05-14
+RSK00715,ENT089,Conduct risk - data handling 0715,Technology,Robin Clark,3,5,5,1.0,Low,Closed,2025-01-15
+RSK00716,ENT036,Operational risk - control gap 0716,Technology,Alex Morgan,1,5,25,2.8,Critical,In Progress,2024-02-08
+RSK00717,ENT101,Third-Party risk - control gap 0717,Regulatory,Casey Patel,2,3,20,2.0,Critical,Open,2025-10-26
+RSK00718,ENT029,Third-Party risk - data handling 0718,Third-Party,Jamie Garcia,5,3,5,1.0,Low,Closed,2025-11-04
+RSK00719,ENT070,Technology risk - control gap 0719,Technology,Avery Brown,4,5,20,1.4,Critical,Open,2026-10-18
+RSK00720,ENT027,Regulatory risk - system access 0720,Regulatory,Sam Johnson,2,4,25,2.5,Critical,In Progress,2025-12-08
+RSK00721,ENT011,Conduct risk - control gap 0721,Cybersecurity,Sam Johnson,5,3,10,1.0,Medium,In Progress,2024-11-15
+RSK00722,ENT080,Cybersecurity risk - data handling 0722,Conduct,Alex Morgan,2,5,25,2.7,Critical,Closed,2025-08-04
+RSK00723,ENT072,Operational risk - data handling 0723,Third-Party,Jordan Lee,2,4,20,3.4,Critical,Open,2025-03-23
+RSK00724,ENT028,Operational risk - data handling 0724,Third-Party,Jamie Garcia,5,3,5,1.0,Low,In Progress,2025-03-21
+RSK00725,ENT054,Data Privacy risk - process weakness 0725,Data Privacy,Sam Johnson,3,3,25,3.9,Critical,Overdue,2025-10-12
+RSK00726,ENT065,Cybersecurity risk - data handling 0726,Conduct,Avery Brown,5,4,25,2.4,Critical,In Progress,2026-07-09
+RSK00727,ENT021,Conduct risk - control gap 0727,Conduct,Avery Brown,4,3,10,1.0,Medium,Closed,2024-07-20
+RSK00728,ENT050,Data Privacy risk - process weakness 0728,Third-Party,Casey Patel,4,4,25,2.9,Critical,Open,2026-10-27
+RSK00729,ENT011,Technology risk - system access 0729,Operational,Taylor Smith,5,4,25,4.4,Critical,In Progress,2026-08-24
+RSK00730,ENT088,Conduct risk - data handling 0730,Third-Party,Cameron Wilson,3,1,5,1.0,Low,Closed,2024-11-26
+RSK00731,ENT059,Data Privacy risk - regulatory exposure 0731,Technology,Taylor Smith,2,2,15,1.8,High,In Progress,2024-03-04
+RSK00732,ENT027,Third-Party risk - data handling 0732,Operational,Taylor Smith,4,4,25,2.4,Critical,Overdue,2026-10-21
+RSK00733,ENT083,Operational risk - regulatory exposure 0733,Cybersecurity,Robin Clark,5,3,5,1.0,Low,Overdue,2024-01-15
+RSK00734,ENT096,Conduct risk - data handling 0734,Regulatory,Jamie Garcia,4,5,5,1.0,Low,Overdue,2024-09-04
+RSK00735,ENT092,Conduct risk - process weakness 0735,Technology,Jamie Garcia,5,1,25,3.0,Critical,Closed,2024-03-22
+RSK00736,ENT047,Regulatory risk - process weakness 0736,Operational,Riley Chen,5,4,20,2.3,Critical,Closed,2024-08-16
+RSK00737,ENT093,Operational risk - regulatory exposure 0737,Conduct,Avery Brown,3,4,10,1.4,Medium,Open,2024-07-17
+RSK00738,ENT043,Conduct risk - control gap 0738,Technology,Riley Chen,4,4,5,1.0,Low,Closed,2025-11-08
+RSK00739,ENT101,Regulatory risk - regulatory exposure 0739,Operational,Cameron Wilson,3,5,20,2.0,Critical,In Progress,2025-03-28
+RSK00740,ENT113,Technology risk - regulatory exposure 0740,Third-Party,Sam Johnson,5,3,15,2.2,High,In Progress,2026-06-19
+RSK00741,ENT087,Technology risk - data handling 0741,Technology,Sam Johnson,2,2,15,1.3,High,Open,2025-03-09
+RSK00742,ENT075,Technology risk - system access 0742,Data Privacy,Cameron Wilson,2,5,15,1.1,High,In Progress,2024-12-14
+RSK00743,ENT045,Technology risk - data handling 0743,Conduct,Avery Brown,5,5,10,1.0,Medium,Closed,2026-09-14
+RSK00744,ENT023,Regulatory risk - control gap 0744,Operational,Riley Chen,4,1,20,2.9,Critical,Open,2024-11-03
+RSK00745,ENT036,Cybersecurity risk - system access 0745,Data Privacy,Alex Morgan,1,2,25,2.7,Critical,Closed,2025-04-12
+RSK00746,ENT095,Regulatory risk - control gap 0746,Third-Party,Jordan Lee,3,1,10,1.1,Medium,In Progress,2024-06-11
+RSK00747,ENT103,Operational risk - control gap 0747,Conduct,Robin Clark,4,5,5,1.0,Low,Open,2025-05-16
+RSK00748,ENT030,Technology risk - system access 0748,Technology,Jordan Lee,2,1,20,3.6,Critical,Closed,2024-05-10
+RSK00749,ENT116,Operational risk - regulatory exposure 0749,Third-Party,Drew Martin,5,3,10,1.0,Medium,In Progress,2024-07-20
+RSK00750,ENT069,Regulatory risk - data handling 0750,Regulatory,Avery Brown,3,1,5,1.0,Low,Open,2025-03-16
+RSK00751,ENT077,Cybersecurity risk - process weakness 0751,Data Privacy,Avery Brown,3,5,20,1.4,Critical,Closed,2025-02-02
+RSK00752,ENT076,Cybersecurity risk - system access 0752,Technology,Avery Brown,4,1,25,2.4,Critical,Closed,2025-11-04
+RSK00753,ENT065,Technology risk - control gap 0753,Conduct,Cameron Wilson,5,3,20,3.5,Critical,Open,2025-07-17
+RSK00754,ENT087,Regulatory risk - regulatory exposure 0754,Cybersecurity,Alex Morgan,5,3,25,3.5,Critical,In Progress,2026-11-09
+RSK00755,ENT061,Cybersecurity risk - control gap 0755,Regulatory,Avery Brown,2,2,20,1.5,Critical,In Progress,2025-01-09
+RSK00756,ENT025,Technology risk - control gap 0756,Conduct,Cameron Wilson,2,2,5,1.0,Low,In Progress,2025-09-06
+RSK00757,ENT119,Technology risk - regulatory exposure 0757,Operational,Jamie Garcia,2,5,25,3.6,Critical,Closed,2024-11-19
+RSK00758,ENT079,Data Privacy risk - system access 0758,Conduct,Jamie Garcia,3,5,10,1.8,Medium,Closed,2025-07-05
+RSK00759,ENT030,Technology risk - control gap 0759,Data Privacy,Morgan Davis,4,3,15,1.7,High,Closed,2025-10-07
+RSK00760,ENT058,Cybersecurity risk - process weakness 0760,Conduct,Jamie Garcia,4,5,15,1.7,High,Open,2026-04-17
+RSK00761,ENT046,Data Privacy risk - regulatory exposure 0761,Operational,Sam Johnson,4,3,10,1.0,Medium,Closed,2025-08-26
+RSK00762,ENT107,Cybersecurity risk - control gap 0762,Third-Party,Cameron Wilson,1,3,15,1.8,High,Closed,2025-03-16
+RSK00763,ENT080,Operational risk - regulatory exposure 0763,Technology,Robin Clark,4,3,25,2.0,Critical,In Progress,2026-08-20
+RSK00764,ENT006,Third-Party risk - system access 0764,Cybersecurity,Alex Morgan,4,2,20,2.0,Critical,Open,2025-12-02
+RSK00765,ENT036,Regulatory risk - data handling 0765,Operational,Robin Clark,3,4,25,4.3,Critical,Open,2026-04-27
+RSK00766,ENT106,Operational risk - system access 0766,Regulatory,Avery Brown,2,5,10,1.0,Medium,Open,2025-06-17
+RSK00767,ENT072,Conduct risk - process weakness 0767,Conduct,Robin Clark,3,1,25,2.1,Critical,Closed,2025-10-04
+RSK00768,ENT110,Cybersecurity risk - regulatory exposure 0768,Cybersecurity,Morgan Davis,4,2,15,1.4,High,In Progress,2025-06-14
+RSK00769,ENT033,Cybersecurity risk - data handling 0769,Cybersecurity,Avery Brown,1,2,25,2.1,Critical,Closed,2024-05-03
+RSK00770,ENT117,Regulatory risk - system access 0770,Conduct,Morgan Davis,3,1,25,3.3,Critical,Closed,2026-10-04
+RSK00771,ENT037,Third-Party risk - process weakness 0771,Third-Party,Jordan Lee,3,1,25,3.8,Critical,In Progress,2026-11-17
+RSK00772,ENT109,Operational risk - process weakness 0772,Conduct,Sam Johnson,5,4,5,1.0,Low,In Progress,2025-07-21
+RSK00773,ENT060,Data Privacy risk - system access 0773,Technology,Avery Brown,2,3,20,1.6,Critical,In Progress,2026-06-04
+RSK00774,ENT114,Third-Party risk - data handling 0774,Regulatory,Alex Morgan,4,5,5,1.0,Low,Open,2026-05-24
+RSK00775,ENT020,Technology risk - system access 0775,Cybersecurity,Sam Johnson,2,5,15,2.2,High,Closed,2025-12-27
+RSK00776,ENT115,Operational risk - control gap 0776,Operational,Jordan Lee,2,2,25,3.9,Critical,Open,2024-03-21
+RSK00777,ENT100,Technology risk - control gap 0777,Operational,Sam Johnson,5,3,10,1.8,Medium,Open,2025-09-12
+RSK00778,ENT021,Operational risk - control gap 0778,Regulatory,Taylor Smith,3,2,20,3.5,Critical,Closed,2026-06-19
+RSK00779,ENT016,Conduct risk - regulatory exposure 0779,Cybersecurity,Alex Morgan,1,4,20,3.3,Critical,In Progress,2026-03-28
+RSK00780,ENT026,Regulatory risk - regulatory exposure 0780,Third-Party,Drew Martin,4,5,10,1.6,Medium,Closed,2024-09-06
+RSK00781,ENT021,Technology risk - control gap 0781,Cybersecurity,Casey Patel,1,4,10,1.5,Medium,Open,2024-07-04
+RSK00782,ENT103,Regulatory risk - data handling 0782,Regulatory,Alex Morgan,3,4,25,2.5,Critical,In Progress,2026-05-10
+RSK00783,ENT052,Conduct risk - process weakness 0783,Cybersecurity,Sam Johnson,3,3,5,1.0,Low,In Progress,2024-06-21
+RSK00784,ENT084,Technology risk - control gap 0784,Regulatory,Taylor Smith,4,1,20,3.5,Critical,Closed,2024-12-29
+RSK00785,ENT073,Data Privacy risk - data handling 0785,Conduct,Alex Morgan,2,5,5,1.0,Low,Open,2025-03-05
+RSK00786,ENT111,Operational risk - data handling 0786,Operational,Taylor Smith,3,5,15,1.7,High,Overdue,2024-11-06
+RSK00787,ENT095,Regulatory risk - data handling 0787,Operational,Riley Chen,3,1,10,1.6,Medium,In Progress,2026-02-03
+RSK00788,ENT117,Regulatory risk - control gap 0788,Regulatory,Avery Brown,5,3,15,1.1,High,Open,2024-10-22
+RSK00789,ENT117,Third-Party risk - system access 0789,Operational,Taylor Smith,1,5,20,2.2,Critical,Open,2025-12-15
+RSK00790,ENT115,Regulatory risk - data handling 0790,Cybersecurity,Jamie Garcia,1,4,10,1.8,Medium,Closed,2026-06-20
+RSK00791,ENT018,Technology risk - regulatory exposure 0791,Technology,Sam Johnson,1,3,25,3.1,Critical,In Progress,2024-07-16
+RSK00792,ENT062,Third-Party risk - regulatory exposure 0792,Conduct,Taylor Smith,5,2,20,1.7,Critical,Open,2024-06-17
+RSK00793,ENT096,Regulatory risk - regulatory exposure 0793,Operational,Riley Chen,4,3,5,1.0,Low,Open,2025-09-08
+RSK00794,ENT043,Technology risk - regulatory exposure 0794,Technology,Jamie Garcia,5,5,20,2.5,Critical,In Progress,2024-10-24
+RSK00795,ENT075,Operational risk - process weakness 0795,Operational,Sam Johnson,4,1,5,1.0,Low,Open,2025-05-02
+RSK00796,ENT021,Cybersecurity risk - control gap 0796,Operational,Sam Johnson,3,1,20,2.7,Critical,Closed,2026-04-10
+RSK00797,ENT058,Cybersecurity risk - process weakness 0797,Data Privacy,Riley Chen,4,5,10,1.0,Medium,Closed,2026-11-19
+RSK00798,ENT119,Conduct risk - data handling 0798,Conduct,Cameron Wilson,3,2,15,1.5,High,In Progress,2024-07-16
+RSK00799,ENT086,Technology risk - data handling 0799,Data Privacy,Alex Morgan,5,3,15,1.2,High,Overdue,2024-09-15
+RSK00800,ENT013,Data Privacy risk - control gap 0800,Operational,Morgan Davis,4,1,10,1.0,Medium,In Progress,2026-06-12
+RSK00801,ENT071,Third-Party risk - regulatory exposure 0801,Operational,Sam Johnson,5,2,5,1.0,Low,Open,2024-02-04
+RSK00802,ENT026,Third-Party risk - system access 0802,Third-Party,Alex Morgan,5,5,15,2.3,High,Closed,2026-01-12
+RSK00803,ENT070,Regulatory risk - regulatory exposure 0803,Data Privacy,Sam Johnson,5,2,10,1.1,Medium,Closed,2025-04-08
+RSK00804,ENT108,Operational risk - control gap 0804,Regulatory,Jamie Garcia,5,5,10,1.2,Medium,In Progress,2026-05-12
+RSK00805,ENT115,Technology risk - process weakness 0805,Regulatory,Riley Chen,4,3,20,1.7,Critical,Closed,2025-09-30
+RSK00806,ENT027,Cybersecurity risk - regulatory exposure 0806,Operational,Avery Brown,5,1,25,1.9,Critical,Closed,2025-05-11
+RSK00807,ENT051,Operational risk - control gap 0807,Regulatory,Casey Patel,4,4,10,1.4,Medium,Overdue,2025-07-19
+RSK00808,ENT018,Operational risk - regulatory exposure 0808,Cybersecurity,Taylor Smith,1,5,20,3.5,Critical,Closed,2025-11-01
+RSK00809,ENT002,Conduct risk - system access 0809,Cybersecurity,Casey Patel,5,3,5,1.0,Low,Closed,2025-09-03
+RSK00810,ENT106,Regulatory risk - control gap 0810,Technology,Alex Morgan,5,5,5,1.0,Low,In Progress,2025-06-07
+RSK00811,ENT015,Data Privacy risk - data handling 0811,Conduct,Riley Chen,4,5,20,1.8,Critical,Open,2024-07-30
+RSK00812,ENT012,Conduct risk - data handling 0812,Conduct,Robin Clark,5,3,25,2.4,Critical,Overdue,2026-05-13
+RSK00813,ENT008,Data Privacy risk - system access 0813,Technology,Jamie Garcia,3,3,5,1.0,Low,Closed,2025-05-29
+RSK00814,ENT046,Cybersecurity risk - regulatory exposure 0814,Third-Party,Avery Brown,1,1,5,1.0,Low,Open,2026-06-07
+RSK00815,ENT086,Conduct risk - system access 0815,Cybersecurity,Drew Martin,1,4,15,2.0,High,In Progress,2026-02-22
+RSK00816,ENT006,Data Privacy risk - process weakness 0816,Third-Party,Jordan Lee,1,5,25,4.1,Critical,Open,2025-05-03
+RSK00817,ENT047,Data Privacy risk - process weakness 0817,Technology,Sam Johnson,5,4,25,4.0,Critical,Closed,2026-08-01
+RSK00818,ENT074,Data Privacy risk - data handling 0818,Data Privacy,Alex Morgan,1,4,25,4.0,Critical,Open,2025-01-05
+RSK00819,ENT004,Conduct risk - process weakness 0819,Data Privacy,Avery Brown,1,3,15,2.6,High,Closed,2025-06-03
+RSK00820,ENT046,Conduct risk - process weakness 0820,Technology,Avery Brown,3,2,15,1.5,High,Closed,2025-06-22
+RSK00821,ENT099,Third-Party risk - control gap 0821,Data Privacy,Jamie Garcia,2,5,10,1.5,Medium,Closed,2024-12-18
+RSK00822,ENT109,Third-Party risk - regulatory exposure 0822,Technology,Riley Chen,1,3,20,2.2,Critical,Open,2024-07-04
+RSK00823,ENT082,Operational risk - data handling 0823,Operational,Riley Chen,3,5,20,2.5,Critical,Closed,2026-09-21
+RSK00824,ENT045,Operational risk - control gap 0824,Regulatory,Jordan Lee,4,3,15,2.3,High,Open,2025-09-27
+RSK00825,ENT117,Third-Party risk - regulatory exposure 0825,Cybersecurity,Drew Martin,5,3,25,3.8,Critical,Closed,2025-02-10
+RSK00826,ENT012,Operational risk - control gap 0826,Third-Party,Morgan Davis,5,4,5,1.0,Low,In Progress,2026-02-27
+RSK00827,ENT014,Technology risk - regulatory exposure 0827,Cybersecurity,Alex Morgan,5,5,15,2.7,High,Open,2024-11-13
+RSK00828,ENT086,Data Privacy risk - regulatory exposure 0828,Operational,Casey Patel,1,4,15,1.4,High,In Progress,2025-03-18
+RSK00829,ENT019,Conduct risk - system access 0829,Cybersecurity,Avery Brown,3,2,5,1.0,Low,In Progress,2025-01-28
+RSK00830,ENT053,Third-Party risk - data handling 0830,Data Privacy,Riley Chen,5,5,10,1.1,Medium,Closed,2026-01-15
+RSK00831,ENT103,Operational risk - control gap 0831,Third-Party,Morgan Davis,4,3,15,1.7,High,Open,2024-10-02
+RSK00832,ENT042,Conduct risk - system access 0832,Data Privacy,Avery Brown,5,5,10,1.0,Medium,In Progress,2024-08-02
+RSK00833,ENT104,Data Privacy risk - system access 0833,Conduct,Casey Patel,2,3,25,3.7,Critical,In Progress,2024-04-18
+RSK00834,ENT059,Regulatory risk - regulatory exposure 0834,Regulatory,Cameron Wilson,4,4,25,3.4,Critical,In Progress,2024-04-27
+RSK00835,ENT115,Technology risk - process weakness 0835,Data Privacy,Riley Chen,4,2,15,1.2,High,In Progress,2024-02-26
+RSK00836,ENT092,Operational risk - data handling 0836,Operational,Sam Johnson,4,4,25,3.7,Critical,In Progress,2025-09-15
+RSK00837,ENT043,Operational risk - system access 0837,Data Privacy,Drew Martin,5,5,10,1.7,Medium,In Progress,2024-01-14
+RSK00838,ENT079,Regulatory risk - system access 0838,Regulatory,Cameron Wilson,3,5,5,1.0,Low,In Progress,2024-11-26
+RSK00839,ENT094,Operational risk - regulatory exposure 0839,Regulatory,Sam Johnson,2,5,10,1.6,Medium,Overdue,2024-09-01
+RSK00840,ENT043,Data Privacy risk - data handling 0840,Conduct,Jamie Garcia,1,4,5,1.0,Low,In Progress,2026-08-29
+RSK00841,ENT018,Operational risk - data handling 0841,Technology,Avery Brown,2,1,15,1.6,High,Open,2025-06-17
+RSK00842,ENT052,Data Privacy risk - process weakness 0842,Technology,Avery Brown,2,3,10,1.8,Medium,Closed,2025-06-11
+RSK00843,ENT003,Technology risk - process weakness 0843,Operational,Alex Morgan,1,5,25,1.9,Critical,Overdue,2024-01-26
+RSK00844,ENT001,Third-Party risk - system access 0844,Technology,Jordan Lee,4,3,15,1.1,High,Overdue,2025-01-21
+RSK00845,ENT082,Technology risk - process weakness 0845,Conduct,Sam Johnson,4,2,25,3.2,Critical,Overdue,2026-02-05
+RSK00846,ENT074,Conduct risk - data handling 0846,Regulatory,Drew Martin,4,2,10,1.3,Medium,Open,2024-09-03
+RSK00847,ENT104,Operational risk - system access 0847,Third-Party,Taylor Smith,3,1,15,1.6,High,Overdue,2026-10-16
+RSK00848,ENT025,Cybersecurity risk - system access 0848,Conduct,Jamie Garcia,2,5,25,4.3,Critical,Closed,2024-08-26
+RSK00849,ENT086,Operational risk - regulatory exposure 0849,Conduct,Avery Brown,1,3,25,2.4,Critical,Open,2026-04-07
+RSK00850,ENT006,Data Privacy risk - system access 0850,Regulatory,Cameron Wilson,1,4,15,2.4,High,Open,2025-10-18
+RSK00851,ENT117,Third-Party risk - data handling 0851,Conduct,Cameron Wilson,5,5,25,3.7,Critical,Closed,2025-08-01
+RSK00852,ENT042,Data Privacy risk - data handling 0852,Cybersecurity,Jamie Garcia,4,2,10,1.0,Medium,In Progress,2026-10-01
+RSK00853,ENT004,Third-Party risk - data handling 0853,Technology,Avery Brown,1,3,20,2.6,Critical,Overdue,2025-08-11
+RSK00854,ENT099,Regulatory risk - control gap 0854,Third-Party,Robin Clark,5,1,5,1.0,Low,Overdue,2024-12-21
+RSK00855,ENT083,Technology risk - data handling 0855,Operational,Morgan Davis,1,5,15,1.1,High,Overdue,2024-04-17
+RSK00856,ENT106,Third-Party risk - control gap 0856,Data Privacy,Robin Clark,5,5,20,3.3,Critical,Open,2025-03-15
+RSK00857,ENT013,Regulatory risk - regulatory exposure 0857,Cybersecurity,Casey Patel,2,2,20,3.0,Critical,In Progress,2024-02-01
+RSK00858,ENT006,Regulatory risk - regulatory exposure 0858,Data Privacy,Morgan Davis,2,1,20,3.4,Critical,Overdue,2026-03-09
+RSK00859,ENT106,Operational risk - system access 0859,Operational,Drew Martin,3,4,10,1.0,Medium,Closed,2026-05-15
+RSK00860,ENT088,Data Privacy risk - control gap 0860,Cybersecurity,Robin Clark,3,2,25,4.3,Critical,Open,2026-04-27
+RSK00861,ENT049,Regulatory risk - data handling 0861,Regulatory,Robin Clark,2,4,15,1.5,High,Closed,2024-09-20
+RSK00862,ENT085,Conduct risk - data handling 0862,Regulatory,Taylor Smith,1,1,10,1.0,Medium,In Progress,2024-12-08
+RSK00863,ENT095,Technology risk - system access 0863,Technology,Jordan Lee,4,3,15,1.9,High,Closed,2026-03-19
+RSK00864,ENT106,Operational risk - regulatory exposure 0864,Third-Party,Alex Morgan,1,5,10,1.6,Medium,In Progress,2024-08-11
+RSK00865,ENT015,Conduct risk - process weakness 0865,Operational,Jamie Garcia,1,4,10,1.0,Medium,Closed,2026-06-16
+RSK00866,ENT095,Data Privacy risk - system access 0866,Conduct,Casey Patel,4,5,10,1.5,Medium,Closed,2025-10-13
+RSK00867,ENT006,Technology risk - regulatory exposure 0867,Technology,Avery Brown,1,2,25,2.7,Critical,Open,2024-04-25
+RSK00868,ENT051,Operational risk - regulatory exposure 0868,Data Privacy,Casey Patel,2,3,20,2.5,Critical,In Progress,2026-06-17
+RSK00869,ENT004,Technology risk - system access 0869,Operational,Taylor Smith,1,2,20,2.7,Critical,In Progress,2025-10-12
+RSK00870,ENT008,Regulatory risk - system access 0870,Data Privacy,Taylor Smith,1,4,5,1.0,Low,Closed,2025-10-20
+RSK00871,ENT048,Regulatory risk - data handling 0871,Regulatory,Drew Martin,2,1,5,1.0,Low,Open,2026-03-04
+RSK00872,ENT099,Regulatory risk - system access 0872,Third-Party,Jordan Lee,1,2,25,3.8,Critical,Open,2026-09-02
+RSK00873,ENT120,Cybersecurity risk - data handling 0873,Data Privacy,Casey Patel,4,3,25,3.6,Critical,Closed,2025-05-27
+RSK00874,ENT045,Technology risk - regulatory exposure 0874,Operational,Riley Chen,4,2,20,2.4,Critical,Closed,2024-12-23
+RSK00875,ENT050,Cybersecurity risk - control gap 0875,Operational,Alex Morgan,2,3,15,2.3,High,In Progress,2025-04-09
+RSK00876,ENT052,Cybersecurity risk - data handling 0876,Cybersecurity,Robin Clark,3,2,10,1.7,Medium,In Progress,2026-03-06
+RSK00877,ENT060,Operational risk - system access 0877,Operational,Casey Patel,3,3,15,2.1,High,Open,2025-01-26
+RSK00878,ENT073,Third-Party risk - data handling 0878,Technology,Sam Johnson,5,3,10,1.7,Medium,In Progress,2026-03-15
+RSK00879,ENT019,Technology risk - system access 0879,Cybersecurity,Alex Morgan,1,5,20,2.8,Critical,Open,2025-11-22
+RSK00880,ENT071,Cybersecurity risk - process weakness 0880,Data Privacy,Casey Patel,4,5,10,1.2,Medium,In Progress,2024-12-18
+RSK00881,ENT035,Conduct risk - regulatory exposure 0881,Operational,Jamie Garcia,2,4,25,3.3,Critical,In Progress,2025-05-18
+RSK00882,ENT112,Conduct risk - system access 0882,Third-Party,Robin Clark,4,3,10,1.4,Medium,Closed,2024-03-13
+RSK00883,ENT087,Conduct risk - process weakness 0883,Technology,Jordan Lee,1,1,5,1.0,Low,In Progress,2025-12-31
+RSK00884,ENT026,Technology risk - system access 0884,Technology,Drew Martin,2,3,10,1.6,Medium,Overdue,2026-07-03
+RSK00885,ENT061,Conduct risk - system access 0885,Operational,Taylor Smith,2,3,15,1.6,High,Open,2024-08-30
+RSK00886,ENT069,Data Privacy risk - data handling 0886,Data Privacy,Riley Chen,4,2,25,3.3,Critical,Closed,2025-05-25
+RSK00887,ENT015,Operational risk - data handling 0887,Cybersecurity,Jamie Garcia,4,1,10,1.5,Medium,In Progress,2024-02-10
+RSK00888,ENT076,Cybersecurity risk - process weakness 0888,Cybersecurity,Sam Johnson,4,5,15,2.0,High,In Progress,2025-11-26
+RSK00889,ENT011,Technology risk - data handling 0889,Operational,Jordan Lee,1,2,15,1.3,High,Overdue,2025-02-07
+RSK00890,ENT082,Conduct risk - data handling 0890,Regulatory,Drew Martin,3,1,15,1.6,High,Closed,2026-05-05
+RSK00891,ENT022,Third-Party risk - process weakness 0891,Cybersecurity,Morgan Davis,3,2,15,1.9,High,Overdue,2024-04-16
+RSK00892,ENT084,Cybersecurity risk - control gap 0892,Regulatory,Riley Chen,3,3,10,1.2,Medium,Closed,2026-07-27
+RSK00893,ENT085,Conduct risk - system access 0893,Regulatory,Robin Clark,3,5,5,1.0,Low,In Progress,2025-09-11
+RSK00894,ENT049,Data Privacy risk - control gap 0894,Data Privacy,Jamie Garcia,4,4,10,1.1,Medium,In Progress,2026-11-15
+RSK00895,ENT110,Technology risk - control gap 0895,Third-Party,Casey Patel,4,3,20,1.7,Critical,In Progress,2025-06-30
+RSK00896,ENT011,Regulatory risk - process weakness 0896,Conduct,Taylor Smith,1,3,20,3.3,Critical,Closed,2024-08-07
+RSK00897,ENT032,Third-Party risk - regulatory exposure 0897,Conduct,Jordan Lee,2,3,5,1.0,Low,Closed,2024-01-20
+RSK00898,ENT093,Third-Party risk - data handling 0898,Data Privacy,Morgan Davis,3,5,5,1.0,Low,Closed,2024-08-04
+RSK00899,ENT079,Data Privacy risk - process weakness 0899,Operational,Jordan Lee,1,2,5,1.0,Low,Closed,2024-07-06
+RSK00900,ENT001,Regulatory risk - data handling 0900,Technology,Sam Johnson,2,2,20,1.5,Critical,In Progress,2026-09-01
+RSK00901,ENT105,Cybersecurity risk - control gap 0901,Data Privacy,Sam Johnson,4,5,10,1.5,Medium,In Progress,2024-05-05
+RSK00902,ENT057,Operational risk - control gap 0902,Operational,Cameron Wilson,5,1,10,1.0,Medium,In Progress,2025-01-22
+RSK00903,ENT090,Technology risk - regulatory exposure 0903,Operational,Jamie Garcia,1,2,5,1.0,Low,Closed,2025-08-30
+RSK00904,ENT077,Technology risk - control gap 0904,Data Privacy,Casey Patel,5,3,20,1.9,Critical,In Progress,2025-05-30
+RSK00905,ENT037,Technology risk - process weakness 0905,Third-Party,Jamie Garcia,1,1,10,1.0,Medium,Open,2026-07-02
+RSK00906,ENT002,Technology risk - system access 0906,Data Privacy,Jordan Lee,3,5,5,1.0,Low,In Progress,2025-10-15
+RSK00907,ENT058,Conduct risk - data handling 0907,Technology,Cameron Wilson,4,3,15,1.9,High,Overdue,2025-01-24
+RSK00908,ENT030,Cybersecurity risk - data handling 0908,Cybersecurity,Morgan Davis,2,1,25,3.6,Critical,Overdue,2026-04-05
+RSK00909,ENT060,Conduct risk - data handling 0909,Cybersecurity,Alex Morgan,4,2,20,1.7,Critical,Closed,2025-10-10
+RSK00910,ENT049,Conduct risk - regulatory exposure 0910,Operational,Drew Martin,4,3,10,1.0,Medium,Overdue,2025-03-20
+RSK00911,ENT013,Technology risk - regulatory exposure 0911,Regulatory,Avery Brown,4,4,5,1.0,Low,In Progress,2025-09-13
+RSK00912,ENT107,Third-Party risk - data handling 0912,Cybersecurity,Jamie Garcia,3,2,25,2.3,Critical,Overdue,2024-11-23
+RSK00913,ENT063,Technology risk - data handling 0913,Third-Party,Riley Chen,3,1,5,1.0,Low,Open,2026-10-09
+RSK00914,ENT103,Technology risk - regulatory exposure 0914,Technology,Sam Johnson,4,4,10,1.0,Medium,In Progress,2026-05-28
+RSK00915,ENT079,Technology risk - control gap 0915,Conduct,Robin Clark,5,2,5,1.0,Low,Closed,2026-01-26
+RSK00916,ENT073,Cybersecurity risk - regulatory exposure 0916,Operational,Morgan Davis,1,1,20,2.4,Critical,Closed,2025-10-02
+RSK00917,ENT082,Conduct risk - control gap 0917,Data Privacy,Casey Patel,3,5,20,2.1,Critical,Overdue,2025-10-21
+RSK00918,ENT101,Conduct risk - regulatory exposure 0918,Cybersecurity,Drew Martin,2,5,25,3.4,Critical,In Progress,2024-02-09
+RSK00919,ENT041,Third-Party risk - control gap 0919,Regulatory,Cameron Wilson,1,4,25,3.8,Critical,In Progress,2025-06-28
+RSK00920,ENT009,Technology risk - regulatory exposure 0920,Technology,Alex Morgan,4,2,20,3.1,Critical,In Progress,2025-04-02
+RSK00921,ENT082,Cybersecurity risk - system access 0921,Operational,Riley Chen,3,3,5,1.0,Low,Overdue,2026-09-19
+RSK00922,ENT041,Data Privacy risk - regulatory exposure 0922,Third-Party,Drew Martin,5,2,25,4.0,Critical,Open,2024-05-04
+RSK00923,ENT095,Conduct risk - data handling 0923,Cybersecurity,Robin Clark,5,5,10,1.0,Medium,Closed,2024-01-23
+RSK00924,ENT039,Regulatory risk - data handling 0924,Regulatory,Morgan Davis,2,2,15,1.5,High,In Progress,2024-10-29
+RSK00925,ENT058,Conduct risk - control gap 0925,Regulatory,Riley Chen,5,2,20,2.7,Critical,In Progress,2025-02-09
+RSK00926,ENT091,Operational risk - control gap 0926,Regulatory,Jordan Lee,4,3,25,2.2,Critical,Open,2025-10-30
+RSK00927,ENT071,Data Privacy risk - data handling 0927,Third-Party,Alex Morgan,3,2,20,2.1,Critical,Closed,2025-10-25
+RSK00928,ENT051,Regulatory risk - control gap 0928,Technology,Drew Martin,3,5,10,1.6,Medium,Closed,2024-03-21
+RSK00929,ENT114,Regulatory risk - regulatory exposure 0929,Operational,Jordan Lee,1,2,25,3.1,Critical,In Progress,2025-04-26
+RSK00930,ENT012,Technology risk - process weakness 0930,Cybersecurity,Jamie Garcia,3,3,15,1.2,High,In Progress,2026-05-02
+RSK00931,ENT083,Conduct risk - regulatory exposure 0931,Cybersecurity,Taylor Smith,2,5,20,3.2,Critical,Open,2025-06-18
+RSK00932,ENT030,Data Privacy risk - regulatory exposure 0932,Cybersecurity,Alex Morgan,1,5,10,1.0,Medium,Open,2025-04-21
+RSK00933,ENT020,Conduct risk - data handling 0933,Regulatory,Cameron Wilson,5,3,10,1.1,Medium,Closed,2026-10-05
+RSK00934,ENT004,Third-Party risk - process weakness 0934,Operational,Casey Patel,5,1,20,1.5,Critical,In Progress,2024-01-15
+RSK00935,ENT045,Conduct risk - regulatory exposure 0935,Cybersecurity,Casey Patel,5,3,5,1.0,Low,Open,2024-01-16
+RSK00936,ENT118,Third-Party risk - data handling 0936,Operational,Casey Patel,3,3,25,3.3,Critical,Closed,2025-06-08
+RSK00937,ENT043,Data Privacy risk - control gap 0937,Cybersecurity,Alex Morgan,3,3,10,1.1,Medium,In Progress,2026-11-14
+RSK00938,ENT099,Cybersecurity risk - process weakness 0938,Data Privacy,Casey Patel,2,2,20,1.6,Critical,Open,2025-09-03
+RSK00939,ENT107,Regulatory risk - regulatory exposure 0939,Third-Party,Riley Chen,5,3,10,1.1,Medium,Open,2024-02-18
+RSK00940,ENT040,Operational risk - data handling 0940,Data Privacy,Jamie Garcia,2,2,5,1.0,Low,Closed,2026-07-26
+RSK00941,ENT051,Third-Party risk - control gap 0941,Conduct,Sam Johnson,2,4,25,3.1,Critical,Closed,2025-05-23
+RSK00942,ENT010,Third-Party risk - process weakness 0942,Conduct,Alex Morgan,1,1,25,4.1,Critical,Overdue,2024-01-01
+RSK00943,ENT039,Regulatory risk - process weakness 0943,Technology,Casey Patel,4,5,20,3.5,Critical,Closed,2026-05-16
+RSK00944,ENT095,Regulatory risk - control gap 0944,Conduct,Alex Morgan,1,3,15,1.7,High,Closed,2025-09-10
+RSK00945,ENT019,Data Privacy risk - process weakness 0945,Cybersecurity,Taylor Smith,4,2,15,1.2,High,Open,2024-06-25
+RSK00946,ENT093,Technology risk - control gap 0946,Regulatory,Robin Clark,4,5,10,1.5,Medium,In Progress,2024-05-09
+RSK00947,ENT094,Cybersecurity risk - process weakness 0947,Regulatory,Avery Brown,2,1,10,1.1,Medium,In Progress,2026-08-11
+RSK00948,ENT053,Data Privacy risk - process weakness 0948,Conduct,Riley Chen,1,5,10,1.7,Medium,Closed,2026-09-08
+RSK00949,ENT026,Operational risk - regulatory exposure 0949,Data Privacy,Avery Brown,1,3,15,2.6,High,Closed,2024-03-31
+RSK00950,ENT112,Cybersecurity risk - regulatory exposure 0950,Data Privacy,Robin Clark,4,5,25,4.4,Critical,Open,2026-01-15
+RSK00951,ENT012,Third-Party risk - regulatory exposure 0951,Technology,Sam Johnson,3,4,25,4.0,Critical,Overdue,2024-10-25
+RSK00952,ENT042,Technology risk - data handling 0952,Technology,Riley Chen,4,2,15,2.0,High,Open,2026-10-09
+RSK00953,ENT087,Regulatory risk - system access 0953,Technology,Taylor Smith,4,3,25,4.4,Critical,In Progress,2026-01-04
+RSK00954,ENT083,Operational risk - process weakness 0954,Technology,Cameron Wilson,4,5,20,3.3,Critical,Overdue,2024-10-24
+RSK00955,ENT077,Third-Party risk - regulatory exposure 0955,Conduct,Casey Patel,5,2,15,2.5,High,Closed,2026-03-22
+RSK00956,ENT011,Third-Party risk - process weakness 0956,Third-Party,Alex Morgan,1,5,20,2.6,Critical,In Progress,2024-12-03
+RSK00957,ENT095,Data Privacy risk - control gap 0957,Third-Party,Jamie Garcia,3,4,10,1.0,Medium,In Progress,2026-03-15
+RSK00958,ENT029,Regulatory risk - regulatory exposure 0958,Data Privacy,Sam Johnson,3,4,25,3.6,Critical,In Progress,2025-01-20
+RSK00959,ENT092,Regulatory risk - control gap 0959,Operational,Jamie Garcia,5,1,5,1.0,Low,In Progress,2025-03-04
+RSK00960,ENT070,Technology risk - process weakness 0960,Operational,Taylor Smith,2,1,5,1.0,Low,Closed,2024-05-26
+RSK00961,ENT009,Technology risk - data handling 0961,Regulatory,Robin Clark,4,1,15,1.7,High,In Progress,2025-12-03
+RSK00962,ENT050,Third-Party risk - data handling 0962,Data Privacy,Drew Martin,2,3,15,1.8,High,In Progress,2026-10-03
+RSK00963,ENT005,Data Privacy risk - data handling 0963,Conduct,Jamie Garcia,3,3,20,1.5,Critical,Closed,2024-07-19
+RSK00964,ENT055,Data Privacy risk - data handling 0964,Regulatory,Jamie Garcia,5,3,25,4.4,Critical,Open,2026-09-25
+RSK00965,ENT098,Regulatory risk - regulatory exposure 0965,Data Privacy,Robin Clark,4,3,5,1.0,Low,Closed,2024-07-11
+RSK00966,ENT059,Cybersecurity risk - process weakness 0966,Technology,Riley Chen,3,2,20,2.7,Critical,In Progress,2026-07-13
+RSK00967,ENT028,Operational risk - system access 0967,Conduct,Sam Johnson,4,1,25,1.8,Critical,Closed,2026-11-02
+RSK00968,ENT057,Data Privacy risk - system access 0968,Cybersecurity,Cameron Wilson,5,2,5,1.0,Low,Closed,2024-04-09
+RSK00969,ENT033,Cybersecurity risk - control gap 0969,Conduct,Taylor Smith,1,5,25,3.1,Critical,Open,2025-11-09
+RSK00970,ENT055,Cybersecurity risk - regulatory exposure 0970,Regulatory,Jamie Garcia,2,1,5,1.0,Low,Closed,2024-12-27
+RSK00971,ENT099,Technology risk - system access 0971,Conduct,Avery Brown,1,3,20,1.8,Critical,Open,2026-06-29
+RSK00972,ENT104,Data Privacy risk - system access 0972,Third-Party,Alex Morgan,1,2,5,1.0,Low,In Progress,2026-01-20
+RSK00973,ENT102,Technology risk - system access 0973,Regulatory,Jamie Garcia,1,5,20,3.4,Critical,In Progress,2025-07-25
+RSK00974,ENT056,Technology risk - control gap 0974,Cybersecurity,Jamie Garcia,4,1,25,1.9,Critical,In Progress,2025-05-13
+RSK00975,ENT117,Third-Party risk - regulatory exposure 0975,Data Privacy,Casey Patel,1,1,10,1.0,Medium,In Progress,2026-02-03
+RSK00976,ENT072,Data Privacy risk - regulatory exposure 0976,Third-Party,Jamie Garcia,4,1,15,2.7,High,Open,2024-03-22
+RSK00977,ENT030,Data Privacy risk - data handling 0977,Regulatory,Morgan Davis,2,3,10,1.0,Medium,Open,2024-01-25
+RSK00978,ENT015,Technology risk - regulatory exposure 0978,Technology,Casey Patel,3,5,25,3.2,Critical,Closed,2025-03-13
+RSK00979,ENT025,Operational risk - data handling 0979,Third-Party,Sam Johnson,4,4,20,1.9,Critical,Closed,2024-05-25
+RSK00980,ENT019,Regulatory risk - data handling 0980,Third-Party,Jordan Lee,5,2,10,1.6,Medium,In Progress,2025-05-20
+RSK00981,ENT081,Cybersecurity risk - process weakness 0981,Conduct,Jamie Garcia,3,2,20,3.2,Critical,Open,2025-10-18
+RSK00982,ENT100,Technology risk - data handling 0982,Cybersecurity,Drew Martin,1,2,20,2.9,Critical,Closed,2025-04-05
+RSK00983,ENT096,Third-Party risk - data handling 0983,Data Privacy,Sam Johnson,4,5,10,1.7,Medium,Open,2025-08-12
+RSK00984,ENT064,Regulatory risk - system access 0984,Regulatory,Robin Clark,4,5,5,1.0,Low,Closed,2024-10-25
+RSK00985,ENT099,Cybersecurity risk - control gap 0985,Technology,Cameron Wilson,3,3,5,1.0,Low,Closed,2025-09-23
+RSK00986,ENT110,Conduct risk - system access 0986,Data Privacy,Cameron Wilson,5,4,20,2.2,Critical,Overdue,2024-10-08
+RSK00987,ENT061,Third-Party risk - system access 0987,Third-Party,Sam Johnson,1,4,15,2.7,High,Open,2025-07-03
+RSK00988,ENT120,Technology risk - control gap 0988,Operational,Drew Martin,3,5,15,1.9,High,Open,2025-09-19
+RSK00989,ENT025,Third-Party risk - data handling 0989,Data Privacy,Sam Johnson,5,4,15,1.5,High,Open,2024-10-12
+RSK00990,ENT103,Third-Party risk - control gap 0990,Operational,Avery Brown,2,3,15,2.2,High,In Progress,2024-12-21
+RSK00991,ENT016,Data Privacy risk - control gap 0991,Operational,Sam Johnson,2,2,15,2.0,High,Closed,2026-02-06
+RSK00992,ENT032,Cybersecurity risk - system access 0992,Technology,Taylor Smith,4,3,20,3.5,Critical,In Progress,2024-05-27
+RSK00993,ENT033,Regulatory risk - process weakness 0993,Operational,Riley Chen,4,5,5,1.0,Low,Overdue,2026-07-20
+RSK00994,ENT120,Cybersecurity risk - regulatory exposure 0994,Technology,Alex Morgan,5,3,25,3.2,Critical,Overdue,2026-09-29
+RSK00995,ENT077,Regulatory risk - regulatory exposure 0995,Operational,Jordan Lee,4,4,5,1.0,Low,In Progress,2024-04-21
+RSK00996,ENT006,Technology risk - regulatory exposure 0996,Conduct,Jordan Lee,3,1,5,1.0,Low,Overdue,2026-05-16
+RSK00997,ENT027,Technology risk - system access 0997,Data Privacy,Riley Chen,5,1,5,1.0,Low,In Progress,2025-05-07
+RSK00998,ENT030,Technology risk - system access 0998,Technology,Casey Patel,5,5,10,1.3,Medium,Open,2025-10-10
+RSK00999,ENT098,Third-Party risk - process weakness 0999,Operational,Jordan Lee,2,4,10,1.0,Medium,In Progress,2025-07-06
+RSK01000,ENT104,Cybersecurity risk - regulatory exposure 1000,Operational,Avery Brown,1,1,20,1.9,Critical,Closed,2024-12-21
+RSK01001,ENT118,Data Privacy risk - control gap 1001,Cybersecurity,Drew Martin,3,1,10,1.0,Medium,Closed,2026-03-02
+RSK01002,ENT058,Cybersecurity risk - data handling 1002,Cybersecurity,Taylor Smith,2,1,10,1.6,Medium,Closed,2026-02-26
+RSK01003,ENT109,Technology risk - regulatory exposure 1003,Data Privacy,Avery Brown,4,1,25,3.2,Critical,In Progress,2025-12-02
+RSK01004,ENT042,Conduct risk - data handling 1004,Third-Party,Casey Patel,4,5,5,1.0,Low,In Progress,2024-06-07
+RSK01005,ENT077,Technology risk - control gap 1005,Cybersecurity,Riley Chen,2,4,20,1.9,Critical,Open,2025-08-18
+RSK01006,ENT116,Regulatory risk - system access 1006,Operational,Sam Johnson,4,5,10,1.7,Medium,Closed,2026-07-15
+RSK01007,ENT092,Cybersecurity risk - process weakness 1007,Cybersecurity,Jamie Garcia,4,5,5,1.0,Low,Closed,2026-05-18
+RSK01008,ENT012,Technology risk - control gap 1008,Cybersecurity,Taylor Smith,3,3,20,1.9,Critical,Open,2025-02-04
+RSK01009,ENT109,Operational risk - process weakness 1009,Data Privacy,Taylor Smith,4,3,5,1.0,Low,Open,2024-04-12
+RSK01010,ENT033,Technology risk - regulatory exposure 1010,Conduct,Jamie Garcia,5,3,5,1.0,Low,In Progress,2025-01-15
+RSK01011,ENT030,Operational risk - process weakness 1011,Third-Party,Alex Morgan,3,2,20,2.5,Critical,In Progress,2024-12-26
+RSK01012,ENT037,Operational risk - process weakness 1012,Conduct,Casey Patel,4,4,25,4.2,Critical,Closed,2024-06-06
+RSK01013,ENT009,Conduct risk - data handling 1013,Third-Party,Morgan Davis,3,2,5,1.0,Low,Closed,2024-11-08
+RSK01014,ENT069,Operational risk - control gap 1014,Third-Party,Alex Morgan,2,1,10,1.1,Medium,In Progress,2024-04-26
+RSK01015,ENT051,Conduct risk - regulatory exposure 1015,Operational,Drew Martin,2,1,10,1.2,Medium,Closed,2025-07-25
+RSK01016,ENT060,Data Privacy risk - regulatory exposure 1016,Operational,Sam Johnson,4,2,10,1.5,Medium,Closed,2024-03-27
+RSK01017,ENT009,Third-Party risk - data handling 1017,Data Privacy,Jamie Garcia,2,1,20,2.0,Critical,In Progress,2026-04-07
+RSK01018,ENT114,Third-Party risk - system access 1018,Data Privacy,Robin Clark,4,5,25,2.7,Critical,In Progress,2025-05-29
+RSK01019,ENT068,Operational risk - process weakness 1019,Operational,Jordan Lee,2,5,20,3.3,Critical,In Progress,2026-01-22
+RSK01020,ENT108,Cybersecurity risk - data handling 1020,Technology,Morgan Davis,1,5,15,2.5,High,Open,2026-09-24
+RSK01021,ENT026,Conduct risk - regulatory exposure 1021,Cybersecurity,Drew Martin,2,4,5,1.0,Low,Closed,2024-10-13
+RSK01022,ENT084,Operational risk - data handling 1022,Technology,Avery Brown,4,2,15,1.3,High,In Progress,2026-08-10
+RSK01023,ENT048,Regulatory risk - regulatory exposure 1023,Operational,Sam Johnson,4,2,10,1.2,Medium,Overdue,2025-08-28
+RSK01024,ENT048,Data Privacy risk - data handling 1024,Regulatory,Drew Martin,3,4,5,1.0,Low,In Progress,2026-11-15
+RSK01025,ENT071,Technology risk - regulatory exposure 1025,Technology,Cameron Wilson,1,4,20,1.5,Critical,Open,2024-07-26
+RSK01026,ENT019,Operational risk - system access 1026,Technology,Alex Morgan,3,1,25,1.8,Critical,In Progress,2025-11-15
+RSK01027,ENT103,Technology risk - control gap 1027,Regulatory,Cameron Wilson,4,3,25,3.5,Critical,In Progress,2026-06-16
+RSK01028,ENT098,Conduct risk - system access 1028,Data Privacy,Robin Clark,4,5,20,1.5,Critical,In Progress,2024-05-17
+RSK01029,ENT020,Data Privacy risk - control gap 1029,Operational,Taylor Smith,3,4,20,3.0,Critical,Closed,2025-02-06
+RSK01030,ENT012,Regulatory risk - process weakness 1030,Technology,Alex Morgan,4,3,25,2.8,Critical,Overdue,2025-02-02
+RSK01031,ENT054,Operational risk - data handling 1031,Third-Party,Drew Martin,2,4,25,3.9,Critical,In Progress,2025-03-07
+RSK01032,ENT001,Cybersecurity risk - process weakness 1032,Operational,Avery Brown,2,1,5,1.0,Low,Overdue,2024-12-05
+RSK01033,ENT119,Conduct risk - control gap 1033,Third-Party,Robin Clark,1,1,20,2.9,Critical,Overdue,2026-08-18
+RSK01034,ENT034,Conduct risk - control gap 1034,Data Privacy,Sam Johnson,5,5,25,4.2,Critical,In Progress,2024-11-14
+RSK01035,ENT086,Conduct risk - regulatory exposure 1035,Operational,Alex Morgan,5,3,25,4.0,Critical,In Progress,2025-07-11
+RSK01036,ENT043,Cybersecurity risk - process weakness 1036,Third-Party,Riley Chen,3,4,25,4.4,Critical,Closed,2025-06-11
+RSK01037,ENT014,Operational risk - regulatory exposure 1037,Cybersecurity,Taylor Smith,5,2,10,1.6,Medium,Overdue,2026-11-01
+RSK01038,ENT047,Technology risk - process weakness 1038,Operational,Taylor Smith,4,4,20,2.6,Critical,Closed,2024-05-15
+RSK01039,ENT100,Cybersecurity risk - regulatory exposure 1039,Cybersecurity,Avery Brown,1,4,15,1.7,High,Overdue,2025-11-14
+RSK01040,ENT048,Cybersecurity risk - data handling 1040,Third-Party,Casey Patel,3,2,5,1.0,Low,In Progress,2025-04-26
+RSK01041,ENT037,Third-Party risk - control gap 1041,Third-Party,Jamie Garcia,5,2,10,1.1,Medium,Closed,2024-07-25
+RSK01042,ENT011,Cybersecurity risk - process weakness 1042,Conduct,Robin Clark,1,2,5,1.0,Low,Closed,2024-04-15
+RSK01043,ENT001,Conduct risk - control gap 1043,Data Privacy,Sam Johnson,2,1,20,1.7,Critical,Overdue,2026-01-01
+RSK01044,ENT086,Technology risk - control gap 1044,Regulatory,Alex Morgan,1,1,25,2.2,Critical,Overdue,2024-06-17
+RSK01045,ENT006,Cybersecurity risk - data handling 1045,Regulatory,Riley Chen,1,2,25,3.9,Critical,In Progress,2024-05-26
+RSK01046,ENT107,Third-Party risk - control gap 1046,Operational,Sam Johnson,3,2,25,1.9,Critical,Closed,2026-11-20
+RSK01047,ENT013,Regulatory risk - data handling 1047,Conduct,Morgan Davis,5,2,20,2.9,Critical,Closed,2026-08-26
+RSK01048,ENT104,Data Privacy risk - data handling 1048,Cybersecurity,Casey Patel,3,5,20,2.1,Critical,Closed,2025-09-25
+RSK01049,ENT086,Data Privacy risk - regulatory exposure 1049,Regulatory,Jordan Lee,2,2,15,1.8,High,Open,2024-08-29
+RSK01050,ENT019,Regulatory risk - control gap 1050,Conduct,Morgan Davis,4,2,5,1.0,Low,Closed,2025-05-04
+RSK01051,ENT092,Data Privacy risk - system access 1051,Data Privacy,Drew Martin,4,4,20,1.7,Critical,In Progress,2025-03-05
+RSK01052,ENT115,Operational risk - control gap 1052,Regulatory,Alex Morgan,1,3,20,1.7,Critical,Open,2025-05-31
+RSK01053,ENT050,Cybersecurity risk - control gap 1053,Cybersecurity,Taylor Smith,4,4,10,1.4,Medium,Closed,2026-05-14
+RSK01054,ENT085,Conduct risk - regulatory exposure 1054,Technology,Jamie Garcia,5,2,15,1.1,High,Open,2025-11-16
+RSK01055,ENT019,Cybersecurity risk - control gap 1055,Operational,Robin Clark,2,2,5,1.0,Low,Open,2024-03-19
+RSK01056,ENT099,Technology risk - control gap 1056,Regulatory,Jordan Lee,3,3,5,1.0,Low,In Progress,2026-10-23
+RSK01057,ENT026,Conduct risk - system access 1057,Technology,Cameron Wilson,2,3,10,1.4,Medium,In Progress,2025-02-06
+RSK01058,ENT056,Third-Party risk - data handling 1058,Regulatory,Riley Chen,4,5,5,1.0,Low,In Progress,2026-04-14
+RSK01059,ENT076,Third-Party risk - system access 1059,Operational,Morgan Davis,4,4,5,1.0,Low,Closed,2025-04-01
+RSK01060,ENT058,Data Privacy risk - system access 1060,Technology,Jamie Garcia,3,1,15,2.4,High,In Progress,2025-04-14
+RSK01061,ENT006,Cybersecurity risk - process weakness 1061,Regulatory,Riley Chen,4,2,10,1.1,Medium,In Progress,2026-05-03
+RSK01062,ENT003,Cybersecurity risk - system access 1062,Operational,Cameron Wilson,3,5,25,3.6,Critical,Closed,2025-08-11
+RSK01063,ENT100,Technology risk - regulatory exposure 1063,Third-Party,Sam Johnson,2,4,5,1.0,Low,Open,2026-05-29
+RSK01064,ENT011,Operational risk - control gap 1064,Operational,Sam Johnson,2,4,15,1.1,High,In Progress,2025-06-10
+RSK01065,ENT054,Technology risk - process weakness 1065,Conduct,Riley Chen,4,2,10,1.5,Medium,In Progress,2024-05-20
+RSK01066,ENT010,Regulatory risk - control gap 1066,Operational,Jordan Lee,1,1,10,1.7,Medium,Closed,2025-11-22
+RSK01067,ENT016,Cybersecurity risk - system access 1067,Technology,Jordan Lee,5,4,25,3.2,Critical,In Progress,2024-07-07
+RSK01068,ENT046,Technology risk - process weakness 1068,Third-Party,Jordan Lee,4,2,10,1.3,Medium,Overdue,2024-11-28
+RSK01069,ENT019,Third-Party risk - regulatory exposure 1069,Cybersecurity,Sam Johnson,2,5,15,2.4,High,In Progress,2025-11-27
+RSK01070,ENT110,Conduct risk - data handling 1070,Operational,Taylor Smith,4,1,20,3.2,Critical,Open,2026-09-17
+RSK01071,ENT100,Conduct risk - data handling 1071,Third-Party,Avery Brown,1,2,25,4.0,Critical,In Progress,2026-01-25
+RSK01072,ENT026,Third-Party risk - control gap 1072,Regulatory,Sam Johnson,1,4,5,1.0,Low,Overdue,2025-11-24
+RSK01073,ENT054,Conduct risk - process weakness 1073,Third-Party,Cameron Wilson,3,4,5,1.0,Low,In Progress,2024-08-26
+RSK01074,ENT076,Third-Party risk - control gap 1074,Regulatory,Drew Martin,4,4,10,1.3,Medium,Closed,2025-10-11
+RSK01075,ENT032,Conduct risk - process weakness 1075,Regulatory,Riley Chen,5,4,15,1.5,High,Closed,2024-10-07
+RSK01076,ENT090,Conduct risk - data handling 1076,Regulatory,Cameron Wilson,4,2,15,1.5,High,In Progress,2026-10-17
+RSK01077,ENT040,Technology risk - control gap 1077,Operational,Robin Clark,4,1,15,1.1,High,Open,2024-10-08
+RSK01078,ENT120,Technology risk - process weakness 1078,Regulatory,Riley Chen,5,5,25,4.1,Critical,Closed,2025-10-13
+RSK01079,ENT114,Conduct risk - process weakness 1079,Operational,Alex Morgan,2,5,5,1.0,Low,In Progress,2024-06-12
+RSK01080,ENT104,Third-Party risk - control gap 1080,Regulatory,Jamie Garcia,5,5,25,2.6,Critical,Closed,2024-03-24
+RSK01081,ENT040,Regulatory risk - regulatory exposure 1081,Regulatory,Jordan Lee,1,3,20,2.0,Critical,Overdue,2024-01-09
+RSK01082,ENT014,Cybersecurity risk - system access 1082,Regulatory,Riley Chen,1,4,20,3.2,Critical,Open,2025-05-22
+RSK01083,ENT011,Third-Party risk - process weakness 1083,Data Privacy,Alex Morgan,2,2,15,2.1,High,In Progress,2024-09-16
+RSK01084,ENT022,Third-Party risk - control gap 1084,Third-Party,Robin Clark,2,4,25,1.8,Critical,Closed,2025-01-19
+RSK01085,ENT064,Third-Party risk - data handling 1085,Operational,Cameron Wilson,2,1,25,2.9,Critical,In Progress,2024-10-05
+RSK01086,ENT052,Operational risk - system access 1086,Conduct,Jordan Lee,4,5,25,2.5,Critical,Closed,2025-06-06
+RSK01087,ENT083,Cybersecurity risk - system access 1087,Operational,Robin Clark,4,1,25,4.4,Critical,In Progress,2024-09-19
+RSK01088,ENT074,Operational risk - regulatory exposure 1088,Data Privacy,Alex Morgan,5,1,10,1.8,Medium,Open,2025-05-26
+RSK01089,ENT096,Operational risk - control gap 1089,Regulatory,Drew Martin,1,4,5,1.0,Low,Open,2025-03-06
+RSK01090,ENT092,Operational risk - data handling 1090,Operational,Taylor Smith,1,4,5,1.0,Low,Closed,2024-09-09
+RSK01091,ENT112,Third-Party risk - control gap 1091,Cybersecurity,Sam Johnson,3,4,15,1.7,High,Open,2024-10-25
+RSK01092,ENT027,Conduct risk - regulatory exposure 1092,Cybersecurity,Avery Brown,3,2,20,3.3,Critical,Overdue,2026-06-14
+RSK01093,ENT007,Regulatory risk - process weakness 1093,Data Privacy,Avery Brown,1,4,15,1.8,High,In Progress,2025-02-21
+RSK01094,ENT053,Operational risk - data handling 1094,Conduct,Alex Morgan,3,2,5,1.0,Low,In Progress,2024-05-13
+RSK01095,ENT076,Cybersecurity risk - regulatory exposure 1095,Data Privacy,Riley Chen,3,3,20,2.8,Critical,Closed,2026-03-10
+RSK01096,ENT035,Operational risk - process weakness 1096,Conduct,Casey Patel,4,2,10,1.2,Medium,Closed,2026-02-26
+RSK01097,ENT029,Data Privacy risk - control gap 1097,Third-Party,Riley Chen,5,2,25,2.1,Critical,Closed,2025-07-10
+RSK01098,ENT111,Third-Party risk - process weakness 1098,Operational,Riley Chen,3,4,25,1.8,Critical,In Progress,2025-05-15
+RSK01099,ENT097,Third-Party risk - regulatory exposure 1099,Data Privacy,Avery Brown,5,5,25,3.9,Critical,Overdue,2024-01-07
+RSK01100,ENT020,Technology risk - process weakness 1100,Cybersecurity,Casey Patel,3,5,5,1.0,Low,Open,2025-09-19
+RSK01101,ENT093,Data Privacy risk - data handling 1101,Data Privacy,Drew Martin,3,3,20,2.7,Critical,In Progress,2025-12-31
+RSK01102,ENT013,Operational risk - control gap 1102,Regulatory,Morgan Davis,4,5,20,1.8,Critical,In Progress,2025-05-08
+RSK01103,ENT069,Third-Party risk - process weakness 1103,Data Privacy,Jordan Lee,4,2,15,1.8,High,Open,2024-10-07
+RSK01104,ENT030,Third-Party risk - process weakness 1104,Regulatory,Sam Johnson,1,2,20,2.4,Critical,Overdue,2026-06-22
+RSK01105,ENT092,Regulatory risk - process weakness 1105,Technology,Alex Morgan,2,2,10,1.0,Medium,Overdue,2026-04-17
+RSK01106,ENT016,Regulatory risk - control gap 1106,Operational,Drew Martin,5,4,15,2.5,High,Open,2025-05-27
+RSK01107,ENT102,Data Privacy risk - control gap 1107,Third-Party,Taylor Smith,5,2,25,1.9,Critical,Closed,2024-01-14
+RSK01108,ENT119,Regulatory risk - process weakness 1108,Third-Party,Drew Martin,2,4,20,3.4,Critical,Open,2025-07-22
+RSK01109,ENT001,Third-Party risk - regulatory exposure 1109,Regulatory,Robin Clark,3,3,20,3.1,Critical,Open,2024-02-13
+RSK01110,ENT086,Operational risk - process weakness 1110,Data Privacy,Taylor Smith,2,2,15,2.4,High,Open,2025-03-04
+RSK01111,ENT026,Cybersecurity risk - regulatory exposure 1111,Third-Party,Taylor Smith,3,4,10,1.0,Medium,Open,2025-02-22
+RSK01112,ENT047,Conduct risk - regulatory exposure 1112,Cybersecurity,Jamie Garcia,4,2,15,2.2,High,Open,2026-02-06
+RSK01113,ENT005,Conduct risk - regulatory exposure 1113,Operational,Jordan Lee,2,4,25,2.0,Critical,Open,2024-08-10
+RSK01114,ENT056,Data Privacy risk - system access 1114,Data Privacy,Cameron Wilson,2,3,10,1.5,Medium,Overdue,2025-11-06
+RSK01115,ENT114,Third-Party risk - regulatory exposure 1115,Cybersecurity,Jamie Garcia,2,5,20,2.6,Critical,Open,2026-06-30
+RSK01116,ENT036,Data Privacy risk - process weakness 1116,Operational,Jamie Garcia,3,5,15,1.4,High,In Progress,2026-08-10
+RSK01117,ENT119,Operational risk - process weakness 1117,Operational,Robin Clark,5,1,5,1.0,Low,Closed,2024-08-19
+RSK01118,ENT072,Conduct risk - regulatory exposure 1118,Regulatory,Cameron Wilson,4,5,20,3.0,Critical,Open,2025-04-19
+RSK01119,ENT103,Third-Party risk - system access 1119,Regulatory,Casey Patel,2,1,10,1.3,Medium,In Progress,2024-06-20
+RSK01120,ENT044,Technology risk - system access 1120,Operational,Taylor Smith,5,1,25,2.5,Critical,Open,2026-10-01
+RSK01121,ENT109,Regulatory risk - system access 1121,Operational,Drew Martin,2,2,10,1.5,Medium,In Progress,2026-05-14
+RSK01122,ENT093,Data Privacy risk - control gap 1122,Conduct,Morgan Davis,1,3,25,3.0,Critical,Open,2024-01-24
+RSK01123,ENT100,Operational risk - system access 1123,Regulatory,Jordan Lee,1,1,5,1.0,Low,Closed,2026-09-11
+RSK01124,ENT104,Regulatory risk - system access 1124,Regulatory,Robin Clark,4,5,5,1.0,Low,Open,2025-12-24
+RSK01125,ENT041,Conduct risk - control gap 1125,Technology,Taylor Smith,1,5,20,2.8,Critical,Open,2024-10-29
+RSK01126,ENT077,Third-Party risk - process weakness 1126,Operational,Taylor Smith,5,4,25,2.5,Critical,Closed,2025-08-14
+RSK01127,ENT065,Regulatory risk - system access 1127,Cybersecurity,Avery Brown,1,3,25,2.8,Critical,Open,2024-04-10
+RSK01128,ENT001,Technology risk - process weakness 1128,Technology,Robin Clark,2,4,15,1.6,High,In Progress,2024-11-03
+RSK01129,ENT052,Operational risk - control gap 1129,Third-Party,Casey Patel,5,1,20,1.9,Critical,Overdue,2026-01-26
+RSK01130,ENT085,Conduct risk - system access 1130,Cybersecurity,Robin Clark,3,3,5,1.0,Low,Open,2024-03-21
+RSK01131,ENT081,Cybersecurity risk - system access 1131,Conduct,Drew Martin,1,4,20,1.9,Critical,In Progress,2025-12-28
+RSK01132,ENT101,Regulatory risk - process weakness 1132,Technology,Alex Morgan,5,5,5,1.0,Low,Overdue,2026-03-13
+RSK01133,ENT033,Data Privacy risk - process weakness 1133,Technology,Sam Johnson,1,5,25,4.3,Critical,Closed,2024-12-29
+RSK01134,ENT071,Cybersecurity risk - regulatory exposure 1134,Third-Party,Sam Johnson,4,2,20,2.5,Critical,Open,2025-07-02
+RSK01135,ENT032,Third-Party risk - control gap 1135,Data Privacy,Taylor Smith,1,2,10,1.5,Medium,In Progress,2025-09-21
+RSK01136,ENT053,Cybersecurity risk - regulatory exposure 1136,Technology,Robin Clark,2,1,15,1.5,High,Closed,2026-06-01
+RSK01137,ENT028,Conduct risk - process weakness 1137,Conduct,Jamie Garcia,3,3,5,1.0,Low,In Progress,2026-03-09
+RSK01138,ENT021,Regulatory risk - regulatory exposure 1138,Cybersecurity,Casey Patel,3,3,15,2.5,High,Closed,2026-01-25
+RSK01139,ENT044,Conduct risk - process weakness 1139,Data Privacy,Jordan Lee,2,3,25,2.3,Critical,In Progress,2025-09-22
+RSK01140,ENT053,Conduct risk - system access 1140,Third-Party,Alex Morgan,3,5,15,2.0,High,Closed,2024-08-11
+RSK01141,ENT048,Conduct risk - control gap 1141,Technology,Robin Clark,5,5,10,1.3,Medium,Overdue,2026-08-11
+RSK01142,ENT079,Data Privacy risk - process weakness 1142,Conduct,Riley Chen,3,1,5,1.0,Low,Open,2025-03-18
+RSK01143,ENT027,Technology risk - process weakness 1143,Cybersecurity,Robin Clark,2,5,15,1.5,High,Open,2024-10-16
+RSK01144,ENT104,Cybersecurity risk - system access 1144,Cybersecurity,Robin Clark,1,1,5,1.0,Low,Closed,2024-09-10
+RSK01145,ENT070,Regulatory risk - regulatory exposure 1145,Cybersecurity,Casey Patel,5,2,5,1.0,Low,Open,2025-10-23
+RSK01146,ENT029,Regulatory risk - system access 1146,Conduct,Cameron Wilson,4,1,5,1.0,Low,In Progress,2025-11-01
+RSK01147,ENT050,Conduct risk - system access 1147,Data Privacy,Cameron Wilson,4,5,5,1.0,Low,Closed,2024-01-22
+RSK01148,ENT117,Regulatory risk - system access 1148,Regulatory,Morgan Davis,2,1,10,1.8,Medium,Closed,2024-08-17
+RSK01149,ENT071,Operational risk - data handling 1149,Technology,Avery Brown,5,5,10,1.7,Medium,Closed,2026-10-15
+RSK01150,ENT034,Cybersecurity risk - process weakness 1150,Third-Party,Sam Johnson,5,1,15,2.6,High,Open,2026-01-23
+RSK01151,ENT079,Third-Party risk - process weakness 1151,Conduct,Jordan Lee,2,1,15,1.2,High,Closed,2025-08-10
+RSK01152,ENT014,Third-Party risk - data handling 1152,Technology,Alex Morgan,3,2,25,2.4,Critical,In Progress,2026-04-14
+RSK01153,ENT025,Third-Party risk - regulatory exposure 1153,Regulatory,Casey Patel,2,2,10,1.4,Medium,In Progress,2025-11-17
+RSK01154,ENT044,Regulatory risk - control gap 1154,Operational,Cameron Wilson,1,1,20,2.0,Critical,In Progress,2024-03-28
+RSK01155,ENT107,Cybersecurity risk - data handling 1155,Cybersecurity,Robin Clark,1,3,15,1.4,High,Open,2024-07-15
+RSK01156,ENT015,Operational risk - process weakness 1156,Third-Party,Casey Patel,4,1,10,1.7,Medium,In Progress,2026-03-25
+RSK01157,ENT114,Data Privacy risk - data handling 1157,Regulatory,Morgan Davis,1,1,25,2.8,Critical,Overdue,2025-03-11
+RSK01158,ENT013,Technology risk - process weakness 1158,Conduct,Jamie Garcia,2,3,10,1.7,Medium,In Progress,2025-01-10
+RSK01159,ENT056,Cybersecurity risk - data handling 1159,Conduct,Cameron Wilson,1,4,25,3.5,Critical,Closed,2024-10-19
+RSK01160,ENT080,Regulatory risk - process weakness 1160,Operational,Riley Chen,5,3,10,1.0,Medium,Closed,2024-01-11
+RSK01161,ENT102,Operational risk - data handling 1161,Conduct,Sam Johnson,4,2,25,2.7,Critical,Overdue,2024-10-06
+RSK01162,ENT053,Third-Party risk - process weakness 1162,Regulatory,Jordan Lee,2,2,5,1.0,Low,Closed,2026-07-13
+RSK01163,ENT089,Third-Party risk - system access 1163,Data Privacy,Jordan Lee,5,1,5,1.0,Low,Closed,2025-08-08
+RSK01164,ENT074,Third-Party risk - regulatory exposure 1164,Cybersecurity,Drew Martin,1,4,10,1.8,Medium,Closed,2026-05-11
+RSK01165,ENT099,Data Privacy risk - control gap 1165,Conduct,Cameron Wilson,5,4,25,4.1,Critical,Closed,2026-07-23
+RSK01166,ENT012,Technology risk - system access 1166,Cybersecurity,Sam Johnson,3,2,25,3.2,Critical,Overdue,2025-05-23
+RSK01167,ENT019,Conduct risk - system access 1167,Technology,Drew Martin,5,1,15,1.5,High,Closed,2025-02-02
+RSK01168,ENT023,Conduct risk - regulatory exposure 1168,Technology,Taylor Smith,1,2,10,1.6,Medium,Closed,2026-05-30
+RSK01169,ENT052,Data Privacy risk - process weakness 1169,Third-Party,Avery Brown,5,1,25,2.9,Critical,Open,2024-08-29
+RSK01170,ENT059,Operational risk - control gap 1170,Third-Party,Robin Clark,1,4,20,1.8,Critical,Open,2025-03-27
+RSK01171,ENT042,Third-Party risk - regulatory exposure 1171,Data Privacy,Cameron Wilson,3,2,25,4.2,Critical,Closed,2025-08-06
+RSK01172,ENT106,Regulatory risk - regulatory exposure 1172,Data Privacy,Drew Martin,3,4,5,1.0,Low,Closed,2025-11-30
+RSK01173,ENT004,Technology risk - system access 1173,Data Privacy,Taylor Smith,2,4,25,3.4,Critical,In Progress,2025-06-28
+RSK01174,ENT012,Cybersecurity risk - process weakness 1174,Conduct,Casey Patel,4,5,25,2.8,Critical,Open,2026-09-13
+RSK01175,ENT104,Conduct risk - system access 1175,Technology,Drew Martin,1,2,20,3.1,Critical,In Progress,2024-09-03
+RSK01176,ENT033,Operational risk - system access 1176,Conduct,Riley Chen,3,4,10,1.3,Medium,Closed,2025-07-10
+RSK01177,ENT081,Operational risk - process weakness 1177,Regulatory,Sam Johnson,1,2,5,1.0,Low,Closed,2026-06-08
+RSK01178,ENT077,Regulatory risk - data handling 1178,Third-Party,Casey Patel,4,1,20,3.6,Critical,Open,2025-01-30
+RSK01179,ENT105,Regulatory risk - data handling 1179,Third-Party,Alex Morgan,3,1,25,1.9,Critical,Closed,2025-07-25
+RSK01180,ENT011,Technology risk - process weakness 1180,Cybersecurity,Jamie Garcia,5,1,15,2.5,High,Closed,2025-02-05
+RSK01181,ENT112,Regulatory risk - control gap 1181,Operational,Sam Johnson,4,4,25,3.5,Critical,In Progress,2024-02-04
+RSK01182,ENT115,Cybersecurity risk - regulatory exposure 1182,Regulatory,Robin Clark,4,4,20,2.7,Critical,Overdue,2024-10-13
+RSK01183,ENT093,Technology risk - process weakness 1183,Third-Party,Jordan Lee,4,2,20,2.7,Critical,Closed,2026-10-04
+RSK01184,ENT093,Third-Party risk - system access 1184,Regulatory,Riley Chen,4,1,20,3.6,Critical,Open,2025-06-22
+RSK01185,ENT009,Regulatory risk - regulatory exposure 1185,Technology,Morgan Davis,2,2,10,1.2,Medium,Closed,2024-12-16
+RSK01186,ENT026,Regulatory risk - data handling 1186,Regulatory,Casey Patel,4,1,15,1.8,High,Closed,2024-12-02
+RSK01187,ENT087,Cybersecurity risk - process weakness 1187,Operational,Jamie Garcia,1,5,5,1.0,Low,Open,2026-11-17
+RSK01188,ENT086,Third-Party risk - control gap 1188,Cybersecurity,Jordan Lee,2,4,15,1.9,High,Open,2026-07-05
+RSK01189,ENT010,Regulatory risk - regulatory exposure 1189,Conduct,Drew Martin,3,3,25,2.5,Critical,In Progress,2024-10-15
+RSK01190,ENT111,Conduct risk - process weakness 1190,Cybersecurity,Riley Chen,3,5,20,1.5,Critical,In Progress,2024-04-18
+RSK01191,ENT031,Cybersecurity risk - data handling 1191,Third-Party,Jordan Lee,2,3,20,3.2,Critical,Overdue,2026-08-06
+RSK01192,ENT095,Regulatory risk - process weakness 1192,Conduct,Taylor Smith,5,2,20,3.4,Critical,Closed,2026-10-03
+RSK01193,ENT115,Operational risk - control gap 1193,Third-Party,Jamie Garcia,5,2,25,2.0,Critical,Open,2025-11-27
+RSK01194,ENT095,Cybersecurity risk - regulatory exposure 1194,Conduct,Cameron Wilson,5,4,20,1.9,Critical,Open,2024-08-23
+RSK01195,ENT109,Technology risk - data handling 1195,Regulatory,Morgan Davis,2,5,25,3.6,Critical,Open,2026-07-09
+RSK01196,ENT095,Data Privacy risk - data handling 1196,Cybersecurity,Sam Johnson,4,5,5,1.0,Low,Overdue,2024-08-31
+RSK01197,ENT059,Cybersecurity risk - regulatory exposure 1197,Cybersecurity,Cameron Wilson,1,4,20,3.3,Critical,Closed,2024-10-27
+RSK01198,ENT111,Operational risk - process weakness 1198,Data Privacy,Taylor Smith,3,1,5,1.0,Low,Open,2025-12-16
+RSK01199,ENT042,Data Privacy risk - control gap 1199,Regulatory,Morgan Davis,1,4,10,1.4,Medium,In Progress,2026-07-05
+RSK01200,ENT120,Data Privacy risk - process weakness 1200,Third-Party,Sam Johnson,3,4,5,1.0,Low,Closed,2024-12-22
+RSK01201,ENT010,Cybersecurity risk - system access 1201,Regulatory,Cameron Wilson,2,3,25,3.3,Critical,In Progress,2025-07-03
+RSK01202,ENT031,Conduct risk - system access 1202,Conduct,Alex Morgan,5,5,20,2.6,Critical,Overdue,2024-09-16
+RSK01203,ENT115,Data Privacy risk - regulatory exposure 1203,Data Privacy,Cameron Wilson,3,1,5,1.0,Low,In Progress,2025-05-28
+RSK01204,ENT065,Technology risk - system access 1204,Third-Party,Cameron Wilson,2,3,15,2.5,High,Closed,2024-06-21
+RSK01205,ENT037,Conduct risk - process weakness 1205,Data Privacy,Sam Johnson,4,5,15,1.9,High,In Progress,2026-01-01
+RSK01206,ENT119,Cybersecurity risk - data handling 1206,Operational,Cameron Wilson,2,5,10,1.1,Medium,Closed,2025-01-17
+RSK01207,ENT004,Regulatory risk - system access 1207,Regulatory,Robin Clark,4,3,25,2.8,Critical,Closed,2026-08-02
+RSK01208,ENT064,Operational risk - system access 1208,Third-Party,Jamie Garcia,5,4,25,2.8,Critical,In Progress,2024-11-11
+RSK01209,ENT108,Cybersecurity risk - process weakness 1209,Conduct,Sam Johnson,3,5,10,1.3,Medium,In Progress,2024-01-02
+RSK01210,ENT052,Technology risk - process weakness 1210,Data Privacy,Morgan Davis,2,3,10,1.0,Medium,Closed,2026-03-10
+RSK01211,ENT049,Regulatory risk - process weakness 1211,Operational,Riley Chen,3,4,25,3.3,Critical,Closed,2024-12-26
+RSK01212,ENT100,Third-Party risk - data handling 1212,Cybersecurity,Drew Martin,3,3,15,1.5,High,In Progress,2024-10-14
+RSK01213,ENT046,Data Privacy risk - regulatory exposure 1213,Data Privacy,Cameron Wilson,3,2,25,3.5,Critical,Closed,2025-07-05
+RSK01214,ENT102,Third-Party risk - process weakness 1214,Technology,Jamie Garcia,2,2,20,2.6,Critical,Open,2024-06-12
+RSK01215,ENT088,Data Privacy risk - data handling 1215,Operational,Morgan Davis,2,5,15,2.3,High,In Progress,2024-12-17
+RSK01216,ENT052,Third-Party risk - control gap 1216,Regulatory,Casey Patel,2,2,25,2.7,Critical,Closed,2026-10-30
+RSK01217,ENT014,Data Privacy risk - data handling 1217,Third-Party,Riley Chen,4,3,25,2.8,Critical,Overdue,2025-10-26
+RSK01218,ENT003,Technology risk - control gap 1218,Operational,Alex Morgan,3,4,25,3.9,Critical,Open,2024-09-02
+RSK01219,ENT113,Regulatory risk - data handling 1219,Third-Party,Avery Brown,5,1,25,4.3,Critical,Open,2025-02-11
+RSK01220,ENT067,Regulatory risk - process weakness 1220,Conduct,Morgan Davis,5,2,15,1.5,High,Open,2025-09-21
+RSK01221,ENT012,Conduct risk - control gap 1221,Operational,Jordan Lee,3,4,15,1.2,High,Open,2024-12-21
+RSK01222,ENT047,Conduct risk - system access 1222,Regulatory,Casey Patel,2,4,25,3.1,Critical,Closed,2026-07-05
+RSK01223,ENT109,Technology risk - regulatory exposure 1223,Data Privacy,Sam Johnson,1,1,15,2.6,High,Closed,2025-08-03
+RSK01224,ENT099,Cybersecurity risk - system access 1224,Third-Party,Jordan Lee,1,3,5,1.0,Low,Closed,2026-08-26
+RSK01225,ENT072,Regulatory risk - control gap 1225,Technology,Taylor Smith,5,2,5,1.0,Low,Open,2026-11-19
+RSK01226,ENT068,Operational risk - control gap 1226,Third-Party,Jamie Garcia,3,4,25,2.2,Critical,In Progress,2025-10-26
+RSK01227,ENT111,Cybersecurity risk - system access 1227,Cybersecurity,Riley Chen,5,4,25,3.9,Critical,In Progress,2024-12-09
+RSK01228,ENT018,Data Privacy risk - control gap 1228,Third-Party,Sam Johnson,3,5,20,2.1,Critical,In Progress,2026-05-14
+RSK01229,ENT047,Operational risk - control gap 1229,Third-Party,Jordan Lee,5,3,15,1.3,High,Overdue,2026-05-26
+RSK01230,ENT043,Regulatory risk - regulatory exposure 1230,Conduct,Riley Chen,2,1,5,1.0,Low,In Progress,2025-04-15
+RSK01231,ENT076,Conduct risk - process weakness 1231,Conduct,Morgan Davis,1,2,10,1.0,Medium,Closed,2024-05-21
+RSK01232,ENT027,Third-Party risk - regulatory exposure 1232,Data Privacy,Sam Johnson,3,3,5,1.0,Low,In Progress,2025-01-08
+RSK01233,ENT088,Third-Party risk - system access 1233,Third-Party,Jamie Garcia,3,3,5,1.0,Low,In Progress,2026-10-01
+RSK01234,ENT019,Data Privacy risk - data handling 1234,Data Privacy,Riley Chen,2,4,20,2.4,Critical,Closed,2024-11-02
+RSK01235,ENT096,Data Privacy risk - regulatory exposure 1235,Technology,Riley Chen,2,3,5,1.0,Low,Open,2024-05-22
+RSK01236,ENT068,Regulatory risk - regulatory exposure 1236,Operational,Jordan Lee,2,5,10,1.6,Medium,Open,2024-10-20
+RSK01237,ENT113,Cybersecurity risk - process weakness 1237,Regulatory,Cameron Wilson,3,5,5,1.0,Low,Open,2025-06-21
+RSK01238,ENT063,Regulatory risk - system access 1238,Operational,Avery Brown,2,5,10,1.2,Medium,In Progress,2024-06-27
+RSK01239,ENT086,Cybersecurity risk - data handling 1239,Technology,Riley Chen,2,2,20,3.4,Critical,Closed,2026-01-13
+RSK01240,ENT072,Conduct risk - system access 1240,Regulatory,Morgan Davis,4,2,15,1.7,High,Open,2024-07-03
+RSK01241,ENT066,Regulatory risk - data handling 1241,Regulatory,Cameron Wilson,4,5,20,1.9,Critical,Closed,2026-06-19
+RSK01242,ENT016,Operational risk - regulatory exposure 1242,Cybersecurity,Robin Clark,2,1,20,2.4,Critical,Closed,2025-01-16
+RSK01243,ENT108,Third-Party risk - system access 1243,Third-Party,Casey Patel,3,2,5,1.0,Low,Closed,2024-12-16
+RSK01244,ENT013,Technology risk - regulatory exposure 1244,Third-Party,Cameron Wilson,3,5,20,1.6,Critical,Open,2024-12-07
+RSK01245,ENT042,Third-Party risk - regulatory exposure 1245,Technology,Cameron Wilson,2,5,15,2.5,High,Overdue,2025-06-30
+RSK01246,ENT054,Cybersecurity risk - regulatory exposure 1246,Operational,Jamie Garcia,4,4,5,1.0,Low,In Progress,2024-02-10
+RSK01247,ENT074,Conduct risk - data handling 1247,Third-Party,Robin Clark,3,3,15,2.0,High,Closed,2025-01-04
+RSK01248,ENT115,Operational risk - system access 1248,Operational,Avery Brown,5,5,20,2.4,Critical,Open,2024-04-23
+RSK01249,ENT043,Cybersecurity risk - process weakness 1249,Operational,Avery Brown,5,4,10,1.5,Medium,Closed,2025-10-31
+RSK01250,ENT018,Operational risk - process weakness 1250,Conduct,Sam Johnson,5,5,25,2.4,Critical,Closed,2024-07-20
+RSK01251,ENT018,Operational risk - process weakness 1251,Regulatory,Riley Chen,4,1,15,2.0,High,Closed,2026-09-28
+RSK01252,ENT078,Third-Party risk - data handling 1252,Technology,Sam Johnson,5,5,20,2.5,Critical,Open,2026-02-01
+RSK01253,ENT086,Third-Party risk - data handling 1253,Regulatory,Alex Morgan,3,2,25,2.4,Critical,Open,2025-07-23
+RSK01254,ENT039,Conduct risk - system access 1254,Technology,Jordan Lee,4,1,10,1.6,Medium,In Progress,2025-12-11
+RSK01255,ENT107,Conduct risk - process weakness 1255,Regulatory,Taylor Smith,2,5,10,1.7,Medium,Closed,2024-12-08
+RSK01256,ENT100,Operational risk - data handling 1256,Technology,Sam Johnson,3,1,25,2.0,Critical,Closed,2026-11-13
+RSK01257,ENT025,Third-Party risk - data handling 1257,Cybersecurity,Jordan Lee,5,2,5,1.0,Low,Open,2026-10-20
+RSK01258,ENT012,Data Privacy risk - regulatory exposure 1258,Data Privacy,Taylor Smith,1,2,25,2.8,Critical,Open,2024-11-18
+RSK01259,ENT016,Operational risk - process weakness 1259,Regulatory,Drew Martin,4,4,20,3.1,Critical,Closed,2024-07-01
+RSK01260,ENT015,Operational risk - process weakness 1260,Regulatory,Drew Martin,4,4,5,1.0,Low,Closed,2026-07-03
+RSK01261,ENT018,Operational risk - system access 1261,Data Privacy,Robin Clark,5,4,15,2.6,High,Open,2025-08-24
+RSK01262,ENT074,Third-Party risk - process weakness 1262,Data Privacy,Taylor Smith,4,4,10,1.1,Medium,In Progress,2025-09-09
+RSK01263,ENT100,Technology risk - regulatory exposure 1263,Regulatory,Jordan Lee,1,2,25,3.9,Critical,In Progress,2026-03-19
+RSK01264,ENT081,Third-Party risk - control gap 1264,Operational,Taylor Smith,2,3,25,4.1,Critical,In Progress,2026-02-08
+RSK01265,ENT017,Technology risk - control gap 1265,Data Privacy,Jamie Garcia,5,2,5,1.0,Low,Closed,2024-05-15
+RSK01266,ENT104,Operational risk - system access 1266,Cybersecurity,Alex Morgan,2,5,5,1.0,Low,Closed,2025-04-13
+RSK01267,ENT059,Technology risk - system access 1267,Technology,Cameron Wilson,2,3,5,1.0,Low,In Progress,2025-09-20
+RSK01268,ENT098,Regulatory risk - regulatory exposure 1268,Regulatory,Taylor Smith,2,1,10,1.0,Medium,Overdue,2024-04-20
+RSK01269,ENT055,Operational risk - system access 1269,Cybersecurity,Riley Chen,3,5,5,1.0,Low,Open,2024-05-05
+RSK01270,ENT057,Regulatory risk - data handling 1270,Operational,Taylor Smith,4,4,5,1.0,Low,Open,2025-07-30
+RSK01271,ENT068,Conduct risk - regulatory exposure 1271,Conduct,Sam Johnson,3,3,5,1.0,Low,Closed,2024-01-16
+RSK01272,ENT029,Regulatory risk - system access 1272,Technology,Jamie Garcia,1,2,15,1.1,High,Overdue,2026-07-13
+RSK01273,ENT048,Cybersecurity risk - system access 1273,Data Privacy,Morgan Davis,3,5,20,1.5,Critical,In Progress,2026-05-20
+RSK01274,ENT108,Regulatory risk - regulatory exposure 1274,Conduct,Riley Chen,2,3,10,1.2,Medium,In Progress,2024-01-06
+RSK01275,ENT015,Conduct risk - system access 1275,Regulatory,Alex Morgan,5,1,5,1.0,Low,Open,2026-04-24
+RSK01276,ENT071,Conduct risk - process weakness 1276,Cybersecurity,Taylor Smith,1,4,10,1.1,Medium,In Progress,2024-03-28
+RSK01277,ENT070,Data Privacy risk - control gap 1277,Cybersecurity,Jordan Lee,5,1,5,1.0,Low,Open,2024-03-03
+RSK01278,ENT112,Operational risk - system access 1278,Regulatory,Jamie Garcia,3,1,5,1.0,Low,In Progress,2025-05-19
+RSK01279,ENT007,Regulatory risk - control gap 1279,Technology,Cameron Wilson,2,3,20,1.6,Critical,Overdue,2026-10-04
+RSK01280,ENT039,Operational risk - process weakness 1280,Regulatory,Drew Martin,4,2,10,1.0,Medium,In Progress,2025-12-15
+RSK01281,ENT069,Cybersecurity risk - system access 1281,Technology,Avery Brown,3,4,25,2.9,Critical,Open,2024-09-03
+RSK01282,ENT072,Conduct risk - regulatory exposure 1282,Third-Party,Jamie Garcia,3,2,5,1.0,Low,Open,2026-06-19
+RSK01283,ENT119,Operational risk - process weakness 1283,Technology,Drew Martin,4,4,15,1.8,High,Open,2025-05-07
+RSK01284,ENT107,Technology risk - data handling 1284,Cybersecurity,Jamie Garcia,4,1,10,1.0,Medium,Open,2025-11-07
+RSK01285,ENT081,Regulatory risk - data handling 1285,Third-Party,Avery Brown,1,1,25,3.9,Critical,Closed,2024-09-11
+RSK01286,ENT117,Technology risk - system access 1286,Operational,Cameron Wilson,1,1,15,2.3,High,Closed,2024-05-19
+RSK01287,ENT106,Operational risk - process weakness 1287,Technology,Taylor Smith,3,5,25,1.8,Critical,Open,2026-10-24
+RSK01288,ENT005,Cybersecurity risk - system access 1288,Third-Party,Avery Brown,3,5,25,4.0,Critical,Closed,2024-05-13
+RSK01289,ENT026,Conduct risk - data handling 1289,Cybersecurity,Drew Martin,5,4,20,2.9,Critical,In Progress,2025-08-22
+RSK01290,ENT014,Cybersecurity risk - control gap 1290,Regulatory,Avery Brown,4,1,20,1.7,Critical,In Progress,2025-06-29
+RSK01291,ENT032,Operational risk - system access 1291,Data Privacy,Drew Martin,2,3,10,1.2,Medium,In Progress,2024-08-21
+RSK01292,ENT079,Technology risk - regulatory exposure 1292,Cybersecurity,Sam Johnson,1,1,20,3.0,Critical,Open,2025-03-14
+RSK01293,ENT060,Third-Party risk - regulatory exposure 1293,Regulatory,Jordan Lee,5,4,5,1.0,Low,In Progress,2024-11-20
+RSK01294,ENT085,Third-Party risk - process weakness 1294,Operational,Morgan Davis,3,1,5,1.0,Low,Closed,2026-11-16
+RSK01295,ENT077,Regulatory risk - process weakness 1295,Cybersecurity,Alex Morgan,5,4,25,4.2,Critical,Closed,2026-10-28
+RSK01296,ENT081,Conduct risk - process weakness 1296,Third-Party,Jamie Garcia,3,5,25,1.8,Critical,Closed,2025-09-14
+RSK01297,ENT069,Technology risk - system access 1297,Third-Party,Robin Clark,2,1,10,1.2,Medium,Overdue,2026-06-20
+RSK01298,ENT065,Regulatory risk - process weakness 1298,Technology,Cameron Wilson,4,1,15,1.9,High,Open,2026-08-29
+RSK01299,ENT041,Cybersecurity risk - system access 1299,Regulatory,Riley Chen,1,2,20,3.3,Critical,In Progress,2024-07-06
+RSK01300,ENT098,Data Privacy risk - system access 1300,Technology,Taylor Smith,2,5,5,1.0,Low,In Progress,2026-05-17
+RSK01301,ENT072,Cybersecurity risk - system access 1301,Data Privacy,Avery Brown,2,4,25,3.7,Critical,Closed,2024-04-12
+RSK01302,ENT035,Regulatory risk - control gap 1302,Conduct,Jordan Lee,5,3,5,1.0,Low,Closed,2026-05-17
+RSK01303,ENT015,Third-Party risk - regulatory exposure 1303,Operational,Avery Brown,4,1,15,1.9,High,In Progress,2025-04-04
+RSK01304,ENT043,Cybersecurity risk - system access 1304,Conduct,Sam Johnson,3,1,20,3.1,Critical,Closed,2026-03-26
+RSK01305,ENT024,Data Privacy risk - control gap 1305,Conduct,Drew Martin,1,5,15,2.6,High,In Progress,2025-05-24
+RSK01306,ENT093,Cybersecurity risk - system access 1306,Technology,Taylor Smith,5,4,15,1.1,High,Open,2024-01-24
+RSK01307,ENT020,Operational risk - control gap 1307,Third-Party,Casey Patel,3,1,25,2.8,Critical,Closed,2026-04-12
+RSK01308,ENT036,Third-Party risk - regulatory exposure 1308,Technology,Cameron Wilson,5,2,25,1.8,Critical,In Progress,2026-10-24
+RSK01309,ENT030,Technology risk - data handling 1309,Cybersecurity,Taylor Smith,1,4,25,2.1,Critical,Overdue,2026-06-30
+RSK01310,ENT078,Conduct risk - process weakness 1310,Regulatory,Riley Chen,1,4,25,1.8,Critical,Open,2024-08-19
+RSK01311,ENT076,Operational risk - regulatory exposure 1311,Data Privacy,Jamie Garcia,3,5,10,1.4,Medium,Open,2025-03-12
+RSK01312,ENT061,Operational risk - process weakness 1312,Technology,Morgan Davis,1,3,20,1.8,Critical,In Progress,2024-07-12
+RSK01313,ENT052,Technology risk - control gap 1313,Cybersecurity,Taylor Smith,1,2,15,1.6,High,In Progress,2024-07-18
+RSK01314,ENT055,Technology risk - process weakness 1314,Conduct,Drew Martin,1,2,15,2.2,High,In Progress,2024-05-09
+RSK01315,ENT061,Technology risk - system access 1315,Third-Party,Drew Martin,1,5,20,1.7,Critical,Closed,2024-03-26
+RSK01316,ENT070,Third-Party risk - regulatory exposure 1316,Regulatory,Riley Chen,1,4,25,3.0,Critical,Open,2025-07-08
+RSK01317,ENT053,Third-Party risk - regulatory exposure 1317,Cybersecurity,Sam Johnson,1,2,25,4.1,Critical,In Progress,2025-06-26
+RSK01318,ENT070,Operational risk - system access 1318,Cybersecurity,Robin Clark,5,5,20,2.8,Critical,Closed,2026-06-20
+RSK01319,ENT040,Conduct risk - process weakness 1319,Technology,Morgan Davis,4,5,25,2.6,Critical,In Progress,2025-10-04
+RSK01320,ENT103,Data Privacy risk - system access 1320,Data Privacy,Taylor Smith,1,1,5,1.0,Low,Open,2026-09-05
+RSK01321,ENT047,Regulatory risk - data handling 1321,Regulatory,Jamie Garcia,4,1,10,1.1,Medium,Closed,2024-05-06
+RSK01322,ENT030,Operational risk - data handling 1322,Technology,Casey Patel,5,5,25,4.0,Critical,In Progress,2024-09-14
+RSK01323,ENT013,Third-Party risk - process weakness 1323,Cybersecurity,Avery Brown,5,3,25,2.7,Critical,Open,2024-02-20
+RSK01324,ENT077,Third-Party risk - control gap 1324,Operational,Alex Morgan,3,2,25,2.6,Critical,In Progress,2026-02-09
+RSK01325,ENT049,Cybersecurity risk - data handling 1325,Regulatory,Morgan Davis,5,5,15,1.8,High,Closed,2025-06-20
+RSK01326,ENT021,Technology risk - data handling 1326,Conduct,Avery Brown,3,3,5,1.0,Low,In Progress,2024-02-29
+RSK01327,ENT074,Operational risk - system access 1327,Conduct,Drew Martin,3,3,20,3.5,Critical,Open,2024-09-24
+RSK01328,ENT032,Conduct risk - regulatory exposure 1328,Conduct,Sam Johnson,3,4,15,2.5,High,Open,2026-05-07
+RSK01329,ENT044,Technology risk - system access 1329,Third-Party,Morgan Davis,1,1,15,1.7,High,Open,2024-04-19
+RSK01330,ENT002,Operational risk - control gap 1330,Operational,Avery Brown,2,2,20,1.7,Critical,In Progress,2026-09-06
+RSK01331,ENT089,Technology risk - system access 1331,Regulatory,Jamie Garcia,3,4,20,1.7,Critical,Open,2024-06-10
+RSK01332,ENT023,Conduct risk - system access 1332,Conduct,Riley Chen,1,1,15,1.7,High,In Progress,2026-11-24
+RSK01333,ENT082,Third-Party risk - process weakness 1333,Regulatory,Avery Brown,1,1,20,3.1,Critical,In Progress,2026-03-22
+RSK01334,ENT062,Regulatory risk - regulatory exposure 1334,Third-Party,Drew Martin,5,2,20,1.8,Critical,Closed,2026-01-03
+RSK01335,ENT057,Data Privacy risk - data handling 1335,Conduct,Riley Chen,3,4,5,1.0,Low,Closed,2026-05-20
+RSK01336,ENT010,Third-Party risk - control gap 1336,Operational,Robin Clark,1,2,10,1.0,Medium,Closed,2026-09-07
+RSK01337,ENT044,Data Privacy risk - data handling 1337,Conduct,Cameron Wilson,4,3,10,1.5,Medium,Open,2025-12-18
+RSK01338,ENT105,Operational risk - control gap 1338,Operational,Jordan Lee,3,3,10,1.7,Medium,Closed,2025-04-21
+RSK01339,ENT065,Technology risk - process weakness 1339,Regulatory,Sam Johnson,3,3,15,2.4,High,Overdue,2025-06-05
+RSK01340,ENT040,Operational risk - regulatory exposure 1340,Conduct,Jordan Lee,3,4,15,1.6,High,Open,2025-01-31
+RSK01341,ENT020,Data Privacy risk - data handling 1341,Data Privacy,Drew Martin,3,5,20,2.8,Critical,Closed,2024-06-22
+RSK01342,ENT058,Technology risk - regulatory exposure 1342,Cybersecurity,Taylor Smith,4,2,20,1.9,Critical,Open,2026-02-16
+RSK01343,ENT088,Regulatory risk - system access 1343,Regulatory,Jordan Lee,1,4,10,1.1,Medium,Closed,2026-03-03
+RSK01344,ENT032,Operational risk - process weakness 1344,Cybersecurity,Drew Martin,3,3,5,1.0,Low,Overdue,2025-04-15
+RSK01345,ENT042,Operational risk - control gap 1345,Conduct,Casey Patel,5,2,25,2.5,Critical,Closed,2024-01-25
+RSK01346,ENT005,Cybersecurity risk - data handling 1346,Cybersecurity,Cameron Wilson,5,1,5,1.0,Low,In Progress,2024-05-17
+RSK01347,ENT108,Technology risk - control gap 1347,Technology,Riley Chen,3,2,20,2.0,Critical,In Progress,2025-03-06
+RSK01348,ENT105,Third-Party risk - regulatory exposure 1348,Cybersecurity,Robin Clark,3,1,25,3.1,Critical,Closed,2024-08-07
+RSK01349,ENT002,Third-Party risk - data handling 1349,Third-Party,Cameron Wilson,2,5,15,1.3,High,Closed,2026-03-01
+RSK01350,ENT103,Third-Party risk - system access 1350,Third-Party,Taylor Smith,5,5,25,2.9,Critical,Closed,2024-05-04
+RSK01351,ENT040,Conduct risk - data handling 1351,Regulatory,Riley Chen,4,5,15,2.2,High,Closed,2024-10-08
+RSK01352,ENT033,Conduct risk - system access 1352,Third-Party,Robin Clark,2,1,20,3.2,Critical,Overdue,2025-06-01
+RSK01353,ENT023,Data Privacy risk - regulatory exposure 1353,Third-Party,Avery Brown,2,2,15,2.4,High,Open,2025-04-27
+RSK01354,ENT031,Data Privacy risk - system access 1354,Cybersecurity,Alex Morgan,1,2,25,4.4,Critical,In Progress,2024-11-17
+RSK01355,ENT113,Third-Party risk - process weakness 1355,Data Privacy,Drew Martin,2,2,25,3.2,Critical,In Progress,2025-03-10
+RSK01356,ENT022,Regulatory risk - regulatory exposure 1356,Operational,Taylor Smith,1,1,10,1.6,Medium,Closed,2024-02-03
+RSK01357,ENT009,Regulatory risk - process weakness 1357,Regulatory,Cameron Wilson,4,4,25,2.9,Critical,Closed,2026-09-11
+RSK01358,ENT092,Conduct risk - control gap 1358,Operational,Morgan Davis,1,1,20,2.6,Critical,In Progress,2024-07-09
+RSK01359,ENT037,Technology risk - regulatory exposure 1359,Data Privacy,Jordan Lee,2,5,5,1.0,Low,In Progress,2024-04-07
+RSK01360,ENT101,Conduct risk - system access 1360,Data Privacy,Taylor Smith,3,4,20,3.1,Critical,Open,2025-09-25
+RSK01361,ENT053,Operational risk - process weakness 1361,Cybersecurity,Jamie Garcia,3,1,25,1.8,Critical,Overdue,2024-01-08
+RSK01362,ENT048,Conduct risk - process weakness 1362,Technology,Alex Morgan,3,5,15,1.7,High,Overdue,2024-04-04
+RSK01363,ENT056,Regulatory risk - process weakness 1363,Data Privacy,Jamie Garcia,4,4,20,2.0,Critical,Overdue,2025-09-04
+RSK01364,ENT112,Regulatory risk - data handling 1364,Third-Party,Morgan Davis,1,2,5,1.0,Low,Open,2025-07-04
+RSK01365,ENT099,Regulatory risk - control gap 1365,Conduct,Cameron Wilson,4,1,25,3.2,Critical,Closed,2026-05-30
+RSK01366,ENT054,Cybersecurity risk - system access 1366,Data Privacy,Drew Martin,2,3,25,3.3,Critical,In Progress,2026-04-09
+RSK01367,ENT021,Third-Party risk - regulatory exposure 1367,Third-Party,Jamie Garcia,5,4,20,3.1,Critical,In Progress,2024-08-30
+RSK01368,ENT061,Regulatory risk - control gap 1368,Conduct,Drew Martin,4,5,25,1.9,Critical,In Progress,2026-01-13
+RSK01369,ENT059,Regulatory risk - system access 1369,Operational,Taylor Smith,5,4,5,1.0,Low,Open,2024-06-27
+RSK01370,ENT017,Data Privacy risk - system access 1370,Third-Party,Cameron Wilson,3,4,20,3.3,Critical,Closed,2025-01-17
+RSK01371,ENT049,Regulatory risk - system access 1371,Technology,Taylor Smith,3,1,5,1.0,Low,Overdue,2026-08-02
+RSK01372,ENT047,Regulatory risk - data handling 1372,Cybersecurity,Avery Brown,5,3,15,2.7,High,In Progress,2024-07-03
+RSK01373,ENT086,Operational risk - process weakness 1373,Regulatory,Cameron Wilson,4,3,10,1.1,Medium,Closed,2024-10-23
+RSK01374,ENT036,Operational risk - data handling 1374,Technology,Taylor Smith,5,5,5,1.0,Low,Open,2026-09-04
+RSK01375,ENT043,Conduct risk - control gap 1375,Data Privacy,Robin Clark,5,1,25,3.0,Critical,In Progress,2024-09-27
+RSK01376,ENT014,Conduct risk - process weakness 1376,Technology,Jamie Garcia,3,3,25,2.8,Critical,Closed,2024-09-15
+RSK01377,ENT001,Technology risk - data handling 1377,Conduct,Alex Morgan,2,2,25,4.1,Critical,Closed,2024-02-06
+RSK01378,ENT094,Data Privacy risk - control gap 1378,Cybersecurity,Riley Chen,1,4,5,1.0,Low,Overdue,2026-07-29
+RSK01379,ENT022,Cybersecurity risk - regulatory exposure 1379,Third-Party,Taylor Smith,2,3,10,1.6,Medium,Overdue,2025-11-02
+RSK01380,ENT114,Third-Party risk - system access 1380,Operational,Taylor Smith,1,1,15,1.2,High,Closed,2026-07-15
+RSK01381,ENT031,Third-Party risk - control gap 1381,Regulatory,Avery Brown,2,4,5,1.0,Low,Open,2025-12-20
+RSK01382,ENT072,Regulatory risk - system access 1382,Operational,Avery Brown,1,1,5,1.0,Low,Closed,2024-08-11
+RSK01383,ENT105,Data Privacy risk - process weakness 1383,Data Privacy,Morgan Davis,3,2,5,1.0,Low,Open,2026-06-21
+RSK01384,ENT007,Cybersecurity risk - process weakness 1384,Conduct,Jamie Garcia,2,2,25,1.9,Critical,In Progress,2024-01-31
+RSK01385,ENT001,Third-Party risk - control gap 1385,Third-Party,Robin Clark,3,1,20,3.3,Critical,In Progress,2025-08-23
+RSK01386,ENT030,Third-Party risk - system access 1386,Third-Party,Casey Patel,5,5,10,1.2,Medium,Closed,2026-04-24
+RSK01387,ENT045,Cybersecurity risk - process weakness 1387,Cybersecurity,Robin Clark,5,3,10,1.0,Medium,Open,2026-11-20
+RSK01388,ENT119,Conduct risk - system access 1388,Regulatory,Casey Patel,4,2,10,1.6,Medium,Overdue,2024-05-24
+RSK01389,ENT005,Conduct risk - system access 1389,Data Privacy,Drew Martin,3,1,15,1.3,High,In Progress,2025-01-10
+RSK01390,ENT009,Conduct risk - control gap 1390,Cybersecurity,Riley Chen,3,2,20,3.5,Critical,In Progress,2025-05-10
+RSK01391,ENT044,Conduct risk - control gap 1391,Third-Party,Jamie Garcia,4,5,10,1.0,Medium,Open,2026-05-29
+RSK01392,ENT058,Data Privacy risk - control gap 1392,Technology,Cameron Wilson,5,5,10,1.0,Medium,In Progress,2025-09-13
+RSK01393,ENT023,Conduct risk - control gap 1393,Cybersecurity,Taylor Smith,2,4,15,2.6,High,In Progress,2025-11-08
+RSK01394,ENT043,Data Privacy risk - process weakness 1394,Cybersecurity,Morgan Davis,4,4,5,1.0,Low,In Progress,2025-11-18
+RSK01395,ENT046,Third-Party risk - regulatory exposure 1395,Data Privacy,Alex Morgan,3,4,5,1.0,Low,In Progress,2025-11-13
+RSK01396,ENT116,Data Privacy risk - control gap 1396,Data Privacy,Alex Morgan,1,1,15,1.9,High,Closed,2024-07-27
+RSK01397,ENT114,Cybersecurity risk - system access 1397,Cybersecurity,Jordan Lee,1,1,10,1.8,Medium,Closed,2024-02-09
+RSK01398,ENT019,Regulatory risk - regulatory exposure 1398,Operational,Sam Johnson,3,4,15,2.2,High,Open,2026-01-29
+RSK01399,ENT118,Regulatory risk - regulatory exposure 1399,Regulatory,Jordan Lee,3,3,10,1.5,Medium,Closed,2025-01-08
+RSK01400,ENT057,Regulatory risk - process weakness 1400,Operational,Jamie Garcia,5,3,15,2.5,High,Closed,2024-04-13
+RSK01401,ENT011,Data Privacy risk - regulatory exposure 1401,Technology,Sam Johnson,1,3,15,1.4,High,Closed,2025-06-15
+RSK01402,ENT057,Regulatory risk - data handling 1402,Regulatory,Avery Brown,3,1,25,3.0,Critical,Closed,2024-09-21
+RSK01403,ENT060,Data Privacy risk - system access 1403,Data Privacy,Morgan Davis,5,1,25,4.3,Critical,Closed,2025-04-17
+RSK01404,ENT086,Technology risk - system access 1404,Operational,Riley Chen,1,1,5,1.0,Low,Closed,2024-01-25
+RSK01405,ENT027,Operational risk - process weakness 1405,Operational,Jamie Garcia,1,1,25,2.5,Critical,Open,2025-08-05
+RSK01406,ENT009,Regulatory risk - regulatory exposure 1406,Data Privacy,Morgan Davis,5,3,5,1.0,Low,Closed,2024-12-22
+RSK01407,ENT070,Data Privacy risk - system access 1407,Technology,Taylor Smith,3,2,15,2.6,High,Open,2026-03-05
+RSK01408,ENT010,Third-Party risk - system access 1408,Regulatory,Sam Johnson,1,4,5,1.0,Low,Open,2026-05-27
+RSK01409,ENT117,Data Privacy risk - data handling 1409,Cybersecurity,Riley Chen,1,1,25,3.3,Critical,Open,2025-05-09
+RSK01410,ENT062,Operational risk - regulatory exposure 1410,Third-Party,Riley Chen,3,2,25,3.7,Critical,In Progress,2026-02-06
+RSK01411,ENT111,Cybersecurity risk - data handling 1411,Conduct,Taylor Smith,1,1,10,1.1,Medium,In Progress,2024-01-17
+RSK01412,ENT028,Operational risk - data handling 1412,Technology,Riley Chen,3,1,10,1.0,Medium,Open,2026-03-12
+RSK01413,ENT024,Operational risk - system access 1413,Regulatory,Sam Johnson,1,4,15,1.9,High,Open,2024-11-02
+RSK01414,ENT029,Regulatory risk - process weakness 1414,Data Privacy,Alex Morgan,3,3,10,1.6,Medium,In Progress,2026-05-13
+RSK01415,ENT108,Conduct risk - system access 1415,Third-Party,Jamie Garcia,3,2,5,1.0,Low,In Progress,2025-05-12
+RSK01416,ENT002,Cybersecurity risk - regulatory exposure 1416,Conduct,Taylor Smith,1,1,10,1.1,Medium,Closed,2024-01-14
+RSK01417,ENT037,Third-Party risk - system access 1417,Conduct,Cameron Wilson,4,3,15,2.3,High,In Progress,2025-01-16
+RSK01418,ENT012,Technology risk - regulatory exposure 1418,Cybersecurity,Alex Morgan,5,5,10,1.5,Medium,Open,2025-05-07
+RSK01419,ENT054,Technology risk - system access 1419,Operational,Jordan Lee,1,2,10,1.2,Medium,In Progress,2026-08-06
+RSK01420,ENT114,Cybersecurity risk - process weakness 1420,Regulatory,Morgan Davis,5,2,5,1.0,Low,Closed,2025-04-07
+RSK01421,ENT092,Data Privacy risk - regulatory exposure 1421,Regulatory,Sam Johnson,1,2,25,2.3,Critical,Closed,2024-12-16
+RSK01422,ENT009,Cybersecurity risk - process weakness 1422,Data Privacy,Morgan Davis,5,1,15,1.9,High,In Progress,2026-06-07
+RSK01423,ENT014,Technology risk - control gap 1423,Third-Party,Cameron Wilson,5,4,5,1.0,Low,Open,2025-10-02
+RSK01424,ENT073,Regulatory risk - data handling 1424,Third-Party,Cameron Wilson,4,2,20,2.9,Critical,Open,2024-04-13
+RSK01425,ENT097,Conduct risk - system access 1425,Conduct,Casey Patel,2,4,15,1.9,High,Open,2026-02-07
+RSK01426,ENT078,Operational risk - system access 1426,Technology,Morgan Davis,5,5,10,1.2,Medium,Overdue,2025-09-28
+RSK01427,ENT111,Data Privacy risk - data handling 1427,Operational,Alex Morgan,1,5,5,1.0,Low,Open,2025-03-13
+RSK01428,ENT079,Conduct risk - regulatory exposure 1428,Operational,Sam Johnson,5,2,15,2.1,High,Overdue,2024-05-01
+RSK01429,ENT033,Technology risk - regulatory exposure 1429,Data Privacy,Taylor Smith,3,3,5,1.0,Low,Overdue,2024-08-12
+RSK01430,ENT009,Operational risk - process weakness 1430,Data Privacy,Taylor Smith,3,5,20,2.7,Critical,Closed,2024-01-27
+RSK01431,ENT017,Data Privacy risk - regulatory exposure 1431,Operational,Taylor Smith,2,1,5,1.0,Low,Open,2026-06-17
+RSK01432,ENT064,Data Privacy risk - regulatory exposure 1432,Regulatory,Taylor Smith,2,1,15,1.5,High,In Progress,2026-05-05
+RSK01433,ENT043,Regulatory risk - process weakness 1433,Technology,Robin Clark,4,3,5,1.0,Low,Closed,2025-04-17
+RSK01434,ENT120,Third-Party risk - process weakness 1434,Third-Party,Cameron Wilson,4,4,20,2.2,Critical,Open,2024-05-25
+RSK01435,ENT088,Data Privacy risk - process weakness 1435,Cybersecurity,Riley Chen,2,5,5,1.0,Low,In Progress,2024-03-24
+RSK01436,ENT111,Conduct risk - process weakness 1436,Technology,Casey Patel,5,5,10,1.0,Medium,Closed,2025-07-19
+RSK01437,ENT009,Third-Party risk - process weakness 1437,Conduct,Casey Patel,4,4,25,2.2,Critical,Overdue,2026-05-09
+RSK01438,ENT063,Third-Party risk - control gap 1438,Conduct,Jamie Garcia,5,1,5,1.0,Low,Closed,2026-03-16
+RSK01439,ENT059,Operational risk - process weakness 1439,Third-Party,Cameron Wilson,4,2,5,1.0,Low,Closed,2026-01-11
+RSK01440,ENT047,Conduct risk - control gap 1440,Technology,Sam Johnson,3,5,5,1.0,Low,Open,2026-06-02
+RSK01441,ENT051,Data Privacy risk - regulatory exposure 1441,Third-Party,Jamie Garcia,3,5,10,1.5,Medium,In Progress,2025-09-11
+RSK01442,ENT083,Operational risk - regulatory exposure 1442,Cybersecurity,Taylor Smith,4,2,25,3.0,Critical,In Progress,2024-08-28
+RSK01443,ENT012,Cybersecurity risk - regulatory exposure 1443,Conduct,Robin Clark,2,3,15,1.4,High,In Progress,2025-10-18
+RSK01444,ENT035,Data Privacy risk - process weakness 1444,Third-Party,Robin Clark,1,5,10,1.6,Medium,In Progress,2024-07-19
+RSK01445,ENT095,Data Privacy risk - control gap 1445,Conduct,Robin Clark,4,2,25,3.5,Critical,Open,2026-02-17
+RSK01446,ENT034,Operational risk - regulatory exposure 1446,Data Privacy,Riley Chen,2,5,10,1.1,Medium,Overdue,2025-01-17
+RSK01447,ENT114,Operational risk - regulatory exposure 1447,Technology,Casey Patel,1,3,15,1.9,High,Overdue,2024-03-12
+RSK01448,ENT104,Technology risk - system access 1448,Cybersecurity,Jamie Garcia,1,1,10,1.5,Medium,Open,2025-06-30
+RSK01449,ENT048,Cybersecurity risk - control gap 1449,Conduct,Avery Brown,4,5,20,2.9,Critical,In Progress,2025-07-03
+RSK01450,ENT093,Cybersecurity risk - control gap 1450,Third-Party,Avery Brown,2,3,15,2.6,High,Overdue,2025-07-08
+RSK01451,ENT051,Conduct risk - process weakness 1451,Cybersecurity,Casey Patel,5,5,20,2.2,Critical,Overdue,2024-09-16
+RSK01452,ENT011,Third-Party risk - process weakness 1452,Third-Party,Morgan Davis,3,3,10,1.1,Medium,Overdue,2025-09-19
+RSK01453,ENT066,Third-Party risk - regulatory exposure 1453,Technology,Morgan Davis,3,2,5,1.0,Low,In Progress,2026-03-24
+RSK01454,ENT039,Operational risk - process weakness 1454,Cybersecurity,Riley Chen,2,1,20,3.3,Critical,Open,2026-01-23
+RSK01455,ENT100,Regulatory risk - control gap 1455,Regulatory,Sam Johnson,1,3,25,2.2,Critical,Overdue,2025-02-04
+RSK01456,ENT032,Technology risk - control gap 1456,Operational,Robin Clark,4,1,10,1.0,Medium,Closed,2026-07-16
+RSK01457,ENT073,Data Privacy risk - process weakness 1457,Regulatory,Cameron Wilson,2,4,20,1.9,Critical,Closed,2024-09-06
+RSK01458,ENT064,Regulatory risk - process weakness 1458,Technology,Robin Clark,3,2,25,2.1,Critical,In Progress,2024-07-08
+RSK01459,ENT118,Technology risk - control gap 1459,Data Privacy,Taylor Smith,3,3,25,2.2,Critical,In Progress,2026-11-01
+RSK01460,ENT103,Data Privacy risk - data handling 1460,Regulatory,Jordan Lee,3,3,20,3.3,Critical,In Progress,2024-12-01
+RSK01461,ENT112,Data Privacy risk - regulatory exposure 1461,Operational,Avery Brown,5,4,5,1.0,Low,In Progress,2024-09-27
+RSK01462,ENT074,Operational risk - data handling 1462,Regulatory,Jordan Lee,4,3,20,2.3,Critical,In Progress,2024-05-06
+RSK01463,ENT083,Third-Party risk - process weakness 1463,Regulatory,Morgan Davis,3,2,5,1.0,Low,In Progress,2024-04-03
+RSK01464,ENT005,Operational risk - regulatory exposure 1464,Regulatory,Riley Chen,2,4,5,1.0,Low,Open,2026-08-06
+RSK01465,ENT085,Technology risk - regulatory exposure 1465,Third-Party,Robin Clark,1,4,10,1.0,Medium,Closed,2025-03-21
+RSK01466,ENT098,Operational risk - process weakness 1466,Operational,Jordan Lee,5,1,20,2.5,Critical,Open,2025-12-09
+RSK01467,ENT045,Data Privacy risk - process weakness 1467,Third-Party,Sam Johnson,5,4,10,1.0,Medium,Open,2026-09-19
+RSK01468,ENT101,Third-Party risk - control gap 1468,Conduct,Sam Johnson,3,2,10,1.5,Medium,Closed,2025-04-25
+RSK01469,ENT019,Third-Party risk - regulatory exposure 1469,Third-Party,Drew Martin,2,4,10,1.0,Medium,Closed,2024-01-03
+RSK01470,ENT037,Operational risk - regulatory exposure 1470,Operational,Jamie Garcia,4,2,15,2.3,High,In Progress,2026-11-04
+RSK01471,ENT045,Regulatory risk - system access 1471,Cybersecurity,Alex Morgan,4,4,5,1.0,Low,In Progress,2026-03-07
+RSK01472,ENT078,Conduct risk - regulatory exposure 1472,Cybersecurity,Alex Morgan,1,5,20,3.2,Critical,Open,2026-10-03
+RSK01473,ENT016,Conduct risk - system access 1473,Operational,Cameron Wilson,4,1,10,1.1,Medium,Closed,2025-01-09
+RSK01474,ENT091,Conduct risk - control gap 1474,Third-Party,Riley Chen,4,4,5,1.0,Low,Closed,2026-09-06
+RSK01475,ENT026,Operational risk - regulatory exposure 1475,Data Privacy,Taylor Smith,4,3,15,1.3,High,Open,2024-11-26
+RSK01476,ENT118,Technology risk - control gap 1476,Operational,Morgan Davis,1,1,25,3.8,Critical,In Progress,2024-11-11
+RSK01477,ENT092,Cybersecurity risk - regulatory exposure 1477,Conduct,Drew Martin,2,3,10,1.1,Medium,Overdue,2025-11-22
+RSK01478,ENT028,Data Privacy risk - data handling 1478,Conduct,Casey Patel,1,4,15,1.4,High,Open,2024-08-22
+RSK01479,ENT069,Cybersecurity risk - control gap 1479,Regulatory,Casey Patel,3,4,5,1.0,Low,Open,2025-10-07
+RSK01480,ENT030,Technology risk - regulatory exposure 1480,Regulatory,Sam Johnson,3,1,25,3.5,Critical,Open,2026-02-28
+RSK01481,ENT023,Data Privacy risk - data handling 1481,Operational,Drew Martin,1,5,20,3.1,Critical,Closed,2026-08-27
+RSK01482,ENT085,Technology risk - data handling 1482,Regulatory,Morgan Davis,4,1,15,1.6,High,In Progress,2024-05-28
+RSK01483,ENT103,Data Privacy risk - control gap 1483,Regulatory,Jordan Lee,1,3,10,1.0,Medium,In Progress,2025-12-01
+RSK01484,ENT043,Data Privacy risk - process weakness 1484,Third-Party,Robin Clark,3,1,20,2.7,Critical,In Progress,2025-03-09
+RSK01485,ENT076,Conduct risk - regulatory exposure 1485,Regulatory,Avery Brown,4,5,15,1.9,High,Closed,2024-10-07
+RSK01486,ENT003,Data Privacy risk - process weakness 1486,Regulatory,Drew Martin,2,4,15,2.7,High,Closed,2026-10-13
+RSK01487,ENT013,Operational risk - system access 1487,Operational,Robin Clark,1,2,10,1.0,Medium,In Progress,2026-04-06
+RSK01488,ENT060,Third-Party risk - system access 1488,Cybersecurity,Casey Patel,5,4,25,2.9,Critical,Open,2026-05-23
+RSK01489,ENT063,Conduct risk - regulatory exposure 1489,Operational,Avery Brown,2,1,20,3.2,Critical,Closed,2024-02-27
+RSK01490,ENT059,Cybersecurity risk - system access 1490,Cybersecurity,Morgan Davis,5,5,15,1.9,High,Open,2025-03-01
+RSK01491,ENT081,Regulatory risk - data handling 1491,Technology,Riley Chen,3,2,25,2.1,Critical,Open,2026-11-15
+RSK01492,ENT087,Operational risk - process weakness 1492,Operational,Jordan Lee,3,2,25,2.4,Critical,In Progress,2025-12-21
+RSK01493,ENT108,Technology risk - control gap 1493,Third-Party,Sam Johnson,3,4,5,1.0,Low,In Progress,2025-08-04
+RSK01494,ENT062,Third-Party risk - data handling 1494,Cybersecurity,Riley Chen,1,1,5,1.0,Low,In Progress,2026-06-10
+RSK01495,ENT064,Cybersecurity risk - control gap 1495,Regulatory,Jamie Garcia,3,5,20,2.4,Critical,Closed,2026-02-28
+RSK01496,ENT114,Technology risk - process weakness 1496,Regulatory,Jamie Garcia,4,1,15,1.5,High,Open,2025-10-06
+RSK01497,ENT090,Data Privacy risk - data handling 1497,Technology,Drew Martin,4,2,10,1.0,Medium,In Progress,2025-01-16
+RSK01498,ENT060,Third-Party risk - control gap 1498,Operational,Drew Martin,1,1,20,3.3,Critical,Closed,2025-04-01
+RSK01499,ENT042,Data Privacy risk - process weakness 1499,Operational,Morgan Davis,1,3,10,1.4,Medium,In Progress,2024-11-26
+RSK01500,ENT068,Cybersecurity risk - control gap 1500,Operational,Jordan Lee,4,4,10,1.4,Medium,Closed,2025-08-16
