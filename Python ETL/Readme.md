@@ -13,7 +13,7 @@ The folder serves as the operational processing layer of the GlobalCompliance pl
 # Folder Structure
 
 ```text
-etl/
+Python ETL/
 
 ├── accessreview_etl.py
 ├── regulatorychanges_etl.py
