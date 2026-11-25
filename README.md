@@ -6,8 +6,6 @@ The Global Risk & Compliance Intelligence Platform is an end-to-end analytics so
 
 The solution demonstrates how modern compliance organizations can leverage cloud storage, ETL automation, relational databases, and business intelligence tools to provide executive-level risk and compliance reporting.
 
-This project was built as a portfolio demonstration of enterprise Governance, Risk, and Compliance (GRC) capabilities commonly used in financial services, consulting, and regulated industries.
-
 ---
 
 ## Business Objectives
@@ -30,3 +28,40 @@ The primary objective is to transform operational compliance data into actionabl
 
 ## Solution Architecture
 
+---
+
+##Technology Stack
+|Component	            | Technology  |
+|-----------------------|-------------|
+| Cloud Storage	        | AWS S3      |
+| ETL	                  | Python      | 
+| Data Processing	      | Pandas      |
+| Database	            | SQL Server  |
+| Data Modeling	        | Star Schema |
+| Reporting	            | Power BI    |
+| Source Control	      | GitHub      |
+
+---
+
+## Core Functional Areas
+
+#Regulatory Change Management
+Track and assess regulatory developments across jurisdictions and business entities.
+
+### Risk Management
+Maintain enterprise risk registers and monitor inherent and residual risk exposure.
+
+### Control Governance
+Manage compliance controls, ownership, frequency, and effectiveness.
+
+### Control Testing
+Capture test results, exceptions, and testing outcomes.
+
+### Audit & Issue Management
+Track findings, root causes, ownership, remediation plans, and aging.
+
+### Compliance Incident Management
+Monitor compliance breaches and associated business impacts.
+
+### Access Governance
+Track user access reviews, certification completion, and exception management.
