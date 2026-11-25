@@ -1,36 +1,32 @@
-# ComplianceDashboard
-> Transforming Data into Decisions
+# Global Risk & Compliance Intelligence Platform
 
-Risk Compliance Dashboard is a Compliance Analytics and Business Intelligence solution designed to provide leaders with a view of compliance metrics.
+## Overview
 
-Built using Python, SQL Server and Power BI, it demonstrates data modeling, ETL component KRI  design, DAX calculations, and executive reporting capabilities.
+The Global Risk & Compliance Intelligence Platform is an end-to-end analytics solution designed to support compliance monitoring, governance reporting, risk management, control testing, issue remediation, and regulatory change management.
+
+The solution demonstrates how modern compliance organizations can leverage cloud storage, ETL automation, relational databases, and business intelligence tools to provide executive-level risk and compliance reporting.
+
+This project was built as a portfolio demonstration of enterprise Governance, Risk, and Compliance (GRC) capabilities commonly used in financial services, consulting, and regulated industries.
 
 ---
 
-# 🛠 Technology Stack
+## Business Objectives
 
-## Data Platform
+The platform provides centralized visibility into:
 
-- Microsoft SQL Server
-- Data Warehouse Concepts
-- Star Schema Modeling
+- Regulatory Changes
+- Impact Assessments
+- Risk Register Management
+- Control Inventory
+- Control Testing Results
+- Audit Findings
+- Remediation Tracking
+- Compliance Incidents
+- User Access Reviews
 
-## Analytics
+The primary objective is to transform operational compliance data into actionable executive intelligence.
 
-- SQL
-- Data Analysis
-- KRI Engineering
+---
 
-## Business Intelligence
-
-- Power BI
-- DAX
-- Power Query
-
-## Documentation
-
-- GitHub
-- Markdown
-- Business Requirements
-- Technical Documentation
+## Solution Architecture
 
