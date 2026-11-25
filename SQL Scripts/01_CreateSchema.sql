@@ -1,6 +1,6 @@
 /* Global Risk & Compliance sample database - synthetic demonstration data */
 
-GO
+
 CREATE TABLE
     dbo.BusinessEntities (
         EntityID varchar(10) NOT NULL PRIMARY KEY,
